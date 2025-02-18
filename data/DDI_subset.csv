@@ -1,0 +1,101 @@
+drug_1_name,drug_1_SMILES,relationship,drug_2_name,drug_2_SMILES
+Amethopterin,CN(CC1=CN=C2C(=N1)C(=NC(=N2)N)N)C3=CC=C(C=C3)C(=O)NC(CCC(=O)O)C(=O)O,epistaxis,venlafaxine,CN(C)CC(C1=CC=C(C=C1)OC)C2(CCCCC2)O
+metoclopramide,CCN(CC)CCNC(=O)C1=CC(=C(C=C1OC)N)Cl,Pleural Effusion,Gatifloxacin,CC1CN(CCN1)C2=C(C=C3C(=C2OC)N(C=C(C3=O)C(=O)O)C4CC4)F
+ALENDRONIC ACID,C(CC(O)(P(=O)(O)O)P(=O)(O)O)CN,abdominal pain upper,lansoprazole,CC1=C(C=CN=C1CS(=O)C2=NC3=CC=CC=C3N2)OCC(F)(F)F
+buspirone,C1CCC2(C1)CC(=O)N(C(=O)C2)CCCCN3CCN(CC3)C4=NC=CC=N4,dental pain,risperidone,CC1=C(C(=O)N2CCCCC2=N1)CCN3CCC(CC3)C4=NOC5=C4C=CC(=C5)F
+metoprolol,CC(C)NCC(COC1=CC=C(C=C1)CCOC)O,rectal prolapse,raloxifene,C1CCN(CC1)CCOC2=CC=C(C=C2)C(=O)C3=C(SC4=C3C=CC(=C4)O)C5=CC=C(C=C5)O
+potassium chloride,[Cl-].[K+],angiitis,ropinirole,CCCN(CCC)CCC1=C2CC(=O)NC2=CC=C1
+fentanyl,CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3,insomnia,methadone,CCC(=O)C(CC(C)N(C)C)(C1=CC=CC=C1)C2=CC=CC=C2
+carvedilol,COC1=CC=CC=C1OCCNCC(COC2=CC=CC3=C2C4=CC=CC=C4N3)O,Feeling unwell,duloxetine,CNCCC(C1=CC=CS1)OC2=CC=CC3=CC=CC=C32
+fentanyl,CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3,abdominal pain,Zoledronic acid,C1=CN(C=N1)CC(O)(P(=O)(O)O)P(=O)(O)O
+Ranitidina,CNC(=C[N+](=O)[O-])NCCSCC1=CC=C(O1)CN(C)C,hypertrichosis,Erlotinib,COCCOC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC=CC(=C3)C#C)OCCOC
+Erythrogran,CCC1C(C(C(C(=O)C(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)O)(C)O,anosmia,fluoxetine,CNCCC(C1=CC=CC=C1)OC2=CC=C(C=C2)C(F)(F)F
+Oxicone,CN1CCC23C4C(=O)CCC2(C1CC5=C3C(=C(C=C5)OC)O4)O,hematoma subdural,SCHEMBL1176571,CC1C=CC=CCCC=CC=CC=CC=CC(CC(C(C(CC(=O)CC(C(CCC(CC(CC(CC(=O)OC(C(C1O)C)C)O)O)O)O)O)O)C(=O)O)O)OC2C(C(C(C(O2)C)O)N)O
+Phenelzine,C1=CC=C(C=C1)CCNN,bruxism,quetiapine,C1CN(CCN1CCOCCO)C2=NC3=CC=CC=C3SC4=CC=CC=C42
+calcium ion,[Ca+2],diarrhea,isradipine,CC1=C(C(C(=C(N1)C)C(=O)OC(C)C)C2=CC=CC3=NON=C32)C(=O)OC
+propranolol,CC(C)NCC(COC1=CC=CC2=CC=CC=C21)O,fatty liver,MLS000678252,CC(=O)SC1CC2=CC(=O)CCC2(C3C1C4CCC5(C4(CC3)C)CCC(=O)O5)C
+clonazepam,C1C(=O)NC2=C(C=C(C=C2)[N+](=O)[O-])C(=N1)C3=CC=CC=C3Cl,atrial ectopic beats,Fernisone,CC12CC(=O)C3C(C1CCC2(C(=O)CO)O)CCC4=CC(=O)C=CC34C
+buspirone,C1CCC2(C1)CC(=O)N(C(=O)C2)CCCCN3CCN(CC3)C4=NC=CC=N4,anaemia,SCHEMBL1133011,CC(C)(C1=CC=CC=C1CCC(C2=CC=CC(=C2)C=CC3=NC4=C(C=CC(=C4)Cl)C=C3)S)O
+hydrochlorothiazide,C1NC2=CC(=C(C=C2S(=O)(=O)N1)S(=O)(=O)N)Cl,leucocytosis,Pioglitazone,CCC1=CN=C(C=C1)CCOC2=CC=C(C=C2)CC3C(=O)NC(=O)S3
+fluvastatin,CC(C)N1C2=CC=CC=C2C(=C1C=CC(CC(CC(=O)O)O)O)C3=CC=C(C=C3)F,cataract,furosemide,C1=COC(=C1)CNC2=CC(=C(C=C2C(=O)O)S(=O)(=O)N)Cl
+methocarbamol,COC1=CC=CC=C1OCC(COC(=O)N)O,allergic dermatitis,trazodone,C1CN(CCN1CCCN2C(=O)N3C=CC=CC3=N2)C4=CC(=CC=C4)Cl
+fenofibrate,CC(C)OC(=O)C(C)(C)OC1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)Cl,drowsiness,mirtazapine,CN1CCN2C(C1)C3=CC=CC=C3CC4=C2N=CC=C4
+mefloquine,C1CCNC(C1)C(C2=CC(=NC3=C2C=CC=C3C(F)(F)F)C(F)(F)F)O,Infection Upper Respiratory,CHEMBL143,CCC1C(C(C(C(=O)C(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)OC)C)C)O)(C)O
+PAMIDRONIC ACID,C(CN)C(O)(P(=O)(O)O)P(=O)(O)O,anaemia,CHEMBL143,CCC1C(C(C(C(=O)C(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)OC)C)C)O)(C)O
+hydrochlorothiazide,C1NC2=CC(=C(C=C2S(=O)(=O)N1)S(=O)(=O)N)Cl,bleb,CAPECITABINE,CCCCCOC(=O)NC1=NC(=O)N(C=C1F)C2C(C(C(O2)C)O)O
+fentanyl,CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3,Sinus headache,Oxicone,CN1CCC23C4C(=O)CCC2(C1CC5=C3C(=C(C=C5)OC)O4)O
+Ultram,CN(C)CC1CCCCC1(C2=CC(=CC=C2)OC)O,streptococcal infection,zolpidem,CC1=CC=C(C=C1)C2=C(N3C=C(C=CC3=N2)C)CC(=O)N(C)C
+VERAPAMIL,CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C=C2)OC)OC,angina,Telmisartan,CCCC1=NC2=C(N1CC3=CC=C(C=C3)C4=CC=CC=C4C(=O)O)C=C(C=C2C)C5=NC6=CC=CC=C6N5C
+alprazolam,CC1=NN=C2N1C3=C(C=C(C=C3)Cl)C(=NC2)C4=CC=CC=C4,sick sinus syndrome,clonidine,C1CN=C(N1)NC2=C(C=CC=C2Cl)Cl
+calcium ion,[Ca+2],Diabetic Retinopathy,Oxicone,CN1CCC23C4C(=O)CCC2(C1CC5=C3C(=C(C=C5)OC)O4)O
+Celestone,CC1CC2C3CCC4=CC(=O)C=CC4(C3(C(CC2(C1(C(=O)CO)O)C)O)F)C,Electrolyte disorder,SCHEMBL11440306,C(N)(N)(Cl)Cl
+amifostine,C(CN)CNCCSP(=O)(O)O,malnourished,lorazepam,C1=CC=C(C(=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Cl)O)Cl
+citalopram,CN(C)CCCC1(C2=C(CO1)C=C(C=C2)C#N)C3=CC=C(C=C3)F,syncope vasovagal,lorazepam,C1=CC=C(C(=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Cl)O)Cl
+ALENDRONIC ACID,C(CC(O)(P(=O)(O)O)P(=O)(O)O)CN,arteriosclerotic heart disease,omeprazole,CC1=CN=C(C(=C1OC)C)CS(=O)C2=NC3=C(N2)C=C(C=C3)OC
+ketorolac,C1CN2C(=CC=C2C(=O)C3=CC=CC=C3)C1C(=O)O,aspiration pneumonia,losartan,CCCCC1=NC(=C(N1CC2=CC=C(C=C2)C3=CC=CC=C3C4=NNN=N4)CO)Cl
+amlodipine,CCOC(=O)C1=C(NC(=C(C1C2=CC=CC=C2Cl)C(=O)OC)C)COCCN,Cardiac decompensation,furosemide,C1=COC(=C1)CNC2=CC(=C(C=C2C(=O)O)S(=O)(=O)N)Cl
+losartan,CCCCC1=NC(=C(N1CC2=CC=C(C=C2)C3=CC=CC=C3C4=NNN=N4)CO)Cl,Incontinence,oxybutynin,CCN(CC)CC#CCOC(=O)C(C1CCCCC1)(C2=CC=CC=C2)O
+CHEMBL365442,CC1=C(C=CC=C1O)C(=O)NC(CSC2=CC=CC=C2)C(CN3CC4CCCCC4CC3C(=O)NC(C)(C)C)O,acute kidney failure,Ezetimibe,C1=CC(=CC=C1C2C(C(=O)N2C3=CC=C(C=C3)F)CCC(C4=CC=C(C=C4)F)O)O
+glipizide,CC1=CN=C(C=N1)C(=O)NCCC2=CC=C(C=C2)S(=O)(=O)NC(=O)NC3CCCCC3,Anorexia,glyburide,COC1=C(C=C(C=C1)Cl)C(=O)NCCC2=CC=C(C=C2)S(=O)(=O)NC(=O)NC3CCCCC3
+enoxaparin,CC(=O)NC1C(C(C(OC1O)COS(=O)(=O)O)OC2C(C(C(C(O2)C(=O)O)OC3C(C(C(C(O3)CO)OC4C(C(C(C(O4)C(=O)O)O)O)OS(=O)(=O)O)OS(=O)(=O)O)NS(=O)(=O)O)O)OS(=O)(=O)O)O,rib fracture,flutamide,CC(C)C(=O)NC1=CC(=C(C=C1)[N+](=O)[O-])C(F)(F)F
+ALENDRONIC ACID,C(CC(O)(P(=O)(O)O)P(=O)(O)O)CN,joint effusion,Etiracetam,CCC(C(=O)N)N1CCCC1=O
+aspirin,CC(=O)OC1=CC=CC=C1C(=O)O,hyperhidrosis,Oracefal,CC1=C(N2C(C(C2=O)NC(=O)C(C3=CC=C(C=C3)O)N)SC1)C(=O)O
+amlodipine,CCOC(=O)C1=C(NC(=C(C1C2=CC=CC=C2Cl)C(=O)OC)C)COCCN,Pleural Effusion,carvedilol,COC1=CC=CC=C1OCCNCC(COC2=CC=CC3=C2C4=CC=CC=C4N3)O
+ipratropium,CC(C)[N+]1(C2CCC1CC(C2)OC(=O)C(CO)C3=CC=CC=C3)C,arthritis,pantoprazole,COC1=C(C(=NC=C1)CS(=O)C2=NC3=C(N2)C=C(C=C3)OC(F)F)OC
+aspirin,CC(=O)OC1=CC=CC=C1C(=O)O,muscle paresis,celecoxib,CC1=CC=C(C=C1)C2=CC(=NN2C3=CC=C(C=C3)S(=O)(=O)N)C(F)(F)F
+rosiglitazone,CN(CCOC1=CC=C(C=C1)CC2C(=O)NC(=O)S2)C3=CC=CC=N3,kidney pain,SCHEMBL1133011,CC(C)(C1=CC=CC=C1CCC(C2=CC=CC(=C2)C=CC3=NC4=C(C=CC(=C4)Cl)C=C3)S)O
+alprazolam,CC1=NN=C2N1C3=C(C=C(C=C3)Cl)C(=NC2)C4=CC=CC=C4,Osteoarthritis,Telmisartan,CCCC1=NC2=C(N1CC3=CC=C(C=C3)C4=CC=CC=C4C(=O)O)C=C(C=C2C)C5=NC6=CC=CC=C6N5C
+clonidine,C1CN=C(N1)NC2=C(C=CC=C2Cl)Cl,Diabetic Nephropathy,gemfibrozil,CC1=CC(=C(C=C1)C)OCCCC(C)(C)C(=O)O
+metronidazole,CC1=NC=C(N1CCO)[N+](=O)[O-],Intervertebral Disc Herniation,Ultram,CN(C)CC1CCCCC1(C2=CC(=CC=C2)OC)O
+dicyclomine,CCN(CC)CCOC(=O)C1(CCCCC1)C2CCCCC2,coated tongue,Ranitidina,CNC(=C[N+](=O)[O-])NCCSCC1=CC=C(O1)CN(C)C
+clonazepam,C1C(=O)NC2=C(C=C(C=C2)[N+](=O)[O-])C(=N1)C3=CC=CC=C3Cl,enlarged liver,Fernisone,CC12CC(=O)C3C(C1CCC2(C(=O)CO)O)CCC4=CC(=O)C=CC34C
+doxazosin,COC1=C(C=C2C(=C1)C(=NC(=N2)N3CCN(CC3)C(=O)C4COC5=CC=CC=C5O4)N)OC,conversion disorder,gemfibrozil,CC1=CC(=C(C=C1)C)OCCCC(C)(C)C(=O)O
+acetaminophen,CC(=O)NC1=CC=C(C=C1)O,Nodule Skin,guaifenesin,COC1=CC=CC=C1OCC(CO)O
+cyclophosphamide,C1CNP(=O)(OC1)N(CCCl)CCCl,thrombocytopenia,fluvastatin,CC(C)N1C2=CC=CC=C2C(=C1C=CC(CC(CC(=O)O)O)O)C3=CC=C(C=C3)F
+Lanicor,CC1C(C(CC(O1)OC2C(OC(CC2O)OC3C(OC(CC3O)OC4CCC5(C(C4)CCC6C5CC(C7(C6(CCC7C8=CC(=O)OC8)O)C)O)C)C)C)O)O,gastroenteritis viral,ropinirole,CCCN(CCC)CCC1=C2CC(=O)NC2=CC=C1
+buspirone,C1CCC2(C1)CC(=O)N(C(=O)C2)CCCCN3CCN(CC3)C4=NC=CC=N4,haematochezia,glimepiride,CCC1=C(CN(C1=O)C(=O)NCCC2=CC=C(C=C2)S(=O)(=O)NC(=O)NC3CCC(CC3)C)C
+hydrochlorothiazide,C1NC2=CC(=C(C=C2S(=O)(=O)N1)S(=O)(=O)N)Cl,arterial pressure NOS decreased,rofecoxib,CS(=O)(=O)C1=CC=C(C=C1)C2=C(C(=O)OC2)C3=CC=CC=C3
+ondansetron,CC1=NC=CN1CC2CCC3=C(C2=O)C4=CC=CC=C4N3C,Neutropenia,NS00006983,CC1=C(N=C(N=C1N)C(CC(=O)N)NCC(C(=O)N)N)C(=O)NC(C(C2=CN=CN2)OC3C(C(C(C(O3)CO)O)O)OC4C(C(C(C(O4)CO)O)OC(=O)N)O)C(=O)NC(C)C(C(C)C(=O)NC(C(C)O)C(=O)NCCC5=NC(=CS5)C6=NC(=CS6)C(=O)NCCC[S+](C)C)O
+BISOPROLOL,CC(C)NCC(COC1=CC=C(C=C1)COCCOC(C)C)O,ild,famotidine,C1=C(N=C(S1)N=C(N)N)CSCCC(=NS(=O)(=O)N)N
+glimepiride,CCC1=C(CN(C1=O)C(=O)NCCC2=CC=C(C=C2)S(=O)(=O)NC(=O)NC3CCC(CC3)C)C,herpes zoster,zolpidem,CC1=CC=C(C=C1)C2=C(N3C=C(C=CC3=N2)C)CC(=O)N(C)C
+ciprofloxacin,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,Abdominal hernia,ketorolac,C1CN2C(=CC=C2C(=O)C3=CC=CC=C3)C1C(=O)O
+cyclophosphamide,C1CNP(=O)(OC1)N(CCCl)CCCl,angiopathy,SCHEMBL1176571,CC1C=CC=CCCC=CC=CC=CC=CC(CC(C(C(CC(=O)CC(C(CCC(CC(CC(CC(=O)OC(C(C1O)C)C)O)O)O)O)O)O)C(=O)O)O)OC2C(C(C(C(O2)C)O)N)O
+ALENDRONIC ACID,C(CC(O)(P(=O)(O)O)P(=O)(O)O)CN,cheilosis,lamotrigine,C1=CC(=C(C(=C1)Cl)Cl)C2=C(N=C(N=N2)N)N
+glipizide,CC1=CN=C(C=N1)C(=O)NCCC2=CC=C(C=C2)S(=O)(=O)NC(=O)NC3CCCCC3,cellulitis,glyburide,COC1=C(C=C(C=C1)Cl)C(=O)NCCC2=CC=C(C=C2)S(=O)(=O)NC(=O)NC3CCCCC3
+fluvastatin,CC(C)N1C2=CC=CC=C2C(=C1C=CC(CC(CC(=O)O)O)O)C3=CC=C(C=C3)F,Anisocoria,zolpidem,CC1=CC=C(C=C1)C2=C(N3C=C(C=CC3=N2)C)CC(=O)N(C)C
+indomethacin,CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O,pericardial effusion,Pravastatin Impurity A,CCC(C)C(=O)OC1CC(C=C2C1C(C(C=C2)C)CCC(CC(CC(=O)O)O)O)O
+guaifenesin,COC1=CC=CC=C1OCC(CO)O,cardiac murmur,losartan,CCCCC1=NC(=C(N1CC2=CC=C(C=C2)C3=CC=CC=C3C4=NNN=N4)CO)Cl
+Lanicor,CC1C(C(CC(O1)OC2C(OC(CC2O)OC3C(OC(CC3O)OC4CCC5(C(C4)CCC6C5CC(C7(C6(CCC7C8=CC(=O)OC8)O)C)O)C)C)C)O)O,cancer,terazosin,COC1=C(C=C2C(=C1)C(=NC(=N2)N3CCN(CC3)C(=O)C4CCCO4)N)OC
+Amethopterin,CN(CC1=CN=C2C(=N1)C(=NC(=N2)N)N)C3=CC=C(C=C3)C(=O)NC(CCC(=O)O)C(=O)O,retinal vein thrombosis,omeprazole,CC1=CN=C(C(=C1OC)C)CS(=O)C2=NC3=C(N2)C=C(C=C3)OC
+fentanyl,CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3,Blood calcium decreased,ondansetron,CC1=NC=CN1CC2CCC3=C(C2=O)C4=CC=CC=C4N3C
+Pioglitazone,CCC1=CN=C(C=C1)CCOC2=CC=C(C=C2)CC3C(=O)NC(=O)S3,anaemia,Torasemide,CC1=CC(=CC=C1)NC2=C(C=NC=C2)S(=O)(=O)NC(=O)NC(C)C
+ciprofloxacin,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,increased white blood cell count,Olmesartan medoxomil,CCCC1=NC(=C(N1CC2=CC=C(C=C2)C3=CC=CC=C3C4=NNN=N4)C(=O)OCC5=C(OC(=O)O5)C)C(C)(C)O
+doxepin,CN(C)CCC=C1C2=CC=CC=C2COC3=CC=CC=C31,pancreatitis,Salmeterol,C1=CC=C(C=C1)CCCCOCCCCCCNCC(C2=CC(=C(C=C2)O)CO)O
+Salbutamol,CC(C)(C)NCC(C1=CC(=C(C=C1)O)CO)O,tremor,quetiapine,C1CN(CCN1CCOCCO)C2=NC3=CC=CC=C3SC4=CC=CC=C42
+mirtazapine,CN1CCN2C(C1)C3=CC=CC=C3CC4=C2N=CC=C4,chill,megestrol,CC1=CC2C(CCC3(C2CCC3(C(=O)C)O)C)C4(C1=CC(=O)CC4)C
+glipizide,CC1=CN=C(C=N1)C(=O)NCCC2=CC=C(C=C2)S(=O)(=O)NC(=O)NC3CCCCC3,bruxism,modafinil,C1=CC=C(C=C1)C(C2=CC=CC=C2)S(=O)CC(=O)N
+omeprazole,CC1=CN=C(C(=C1OC)C)CS(=O)C2=NC3=C(N2)C=C(C=C3)OC,tendon injury,ropinirole,CCCN(CCC)CCC1=C2CC(=O)NC2=CC=C1
+acetaminophen,CC(=O)NC1=CC=C(C=C1)O,lipoma,furosemide,C1=COC(=C1)CNC2=CC(=C(C=C2C(=O)O)S(=O)(=O)N)Cl
+ketoprofen,CC(C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O,tinnitus,temazepam,CN1C2=C(C=C(C=C2)Cl)C(=NC(C1=O)O)C3=CC=CC=C3
+fentanyl,CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3,hot flash,metformin,CN(C)C(=N)N=C(N)N
+glyburide,COC1=C(C=C(C=C1)Cl)C(=O)NCCC2=CC=C(C=C2)S(=O)(=O)NC(=O)NC3CCCCC3,erosive gastritis,lorazepam,C1=CC=C(C(=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Cl)O)Cl
+Ranitidina,CNC(=C[N+](=O)[O-])NCCSCC1=CC=C(O1)CN(C)C,Atrioventricular block first degree,rosiglitazone,CN(CCOC1=CC=C(C=C1)CC2C(=O)NC(=O)S2)C3=CC=CC=N3
+famotidine,C1=C(N=C(S1)N=C(N)N)CSCCC(=NS(=O)(=O)N)N,cardiac failure,Risedronic acid,C1=CC(=CN=C1)CC(O)(P(=O)(O)O)P(=O)(O)O
+glyburide,COC1=C(C=C(C=C1)Cl)C(=O)NCCC2=CC=C(C=C2)S(=O)(=O)NC(=O)NC3CCCCC3,bipolar disorder,Ziprasidone,C1CN(CCN1CCC2=C(C=C3C(=C2)CC(=O)N3)Cl)C4=NSC5=CC=CC=C54
+nicotinate,C1=CC(=CN=C1)C(=O)[O-],eruption,zolpidem,CC1=CC=C(C=C1)C2=C(N3C=C(C=CC3=N2)C)CC(=O)N(C)C
+lorazepam,C1=CC=C(C(=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Cl)O)Cl,urosepsis,Oxicone,CN1CCC23C4C(=O)CCC2(C1CC5=C3C(=C(C=C5)OC)O4)O
+isoflurane,C(C(F)(F)F)(OC(F)F)Cl,stridor,propofol,CC(C)C1=C(C(=CC=C1)C(C)C)O
+metformin,CN(C)C(=N)N=C(N)N,fibromyalgia,potassium chloride,[Cl-].[K+]
+Salbutamol,CC(C)(C)NCC(C1=CC(=C(C=C1)O)CO)O,Scar,glyburide,COC1=C(C=C(C=C1)Cl)C(=O)NCCC2=CC=C(C=C2)S(=O)(=O)NC(=O)NC3CCCCC3
+lorazepam,C1=CC=C(C(=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Cl)O)Cl,Cardiac ischemia,Gatifloxacin,CC1CN(CCN1)C2=C(C=C3C(=C2OC)N(C=C(C3=O)C(=O)O)C4CC4)F
+Lanicor,CC1C(C(CC(O1)OC2C(OC(CC2O)OC3C(OC(CC3O)OC4CCC5(C(C4)CCC6C5CC(C7(C6(CCC7C8=CC(=O)OC8)O)C)O)C)C)C)O)O,Cough,nitroglycerin,C(C(CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-]
+Salmeterol,C1=CC=C(C=C1)CCCCOCCCCCCNCC(C2=CC(=C(C=C2)O)CO)O,Pain,CHEMBL4088679,C1=CC2=C(C(=C1)OCC(COC3=CC4=C(C=C3)OC(=CC4=O)C(=O)O)O)C(=O)C=C(O2)C(=O)O
+theophylline,CN1C2=C(C(=O)N(C1=O)C)NC=N2,thrombocytopenia,amitriptyline,CN(C)CCC=C1C2=CC=CC=C2CCC3=CC=CC=C31
+fenofibrate,CC(C)OC(=O)C(C)(C)OC1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)Cl,anaemia,gentamicin,CC(C1CCC(C(O1)OC2C(CC(C(C2O)OC3C(C(C(CO3)(C)O)NC)O)N)N)N)NC
+pantoprazole,COC1=C(C(=NC=C1)CS(=O)C2=NC3=C(N2)C=C(C=C3)OC(F)F)OC,hot flash,Risedronic acid,C1=CC(=CN=C1)CC(O)(P(=O)(O)O)P(=O)(O)O
+doxazosin,COC1=C(C=C2C(=C1)C(=NC(=N2)N3CCN(CC3)C(=O)C4COC5=CC=CC=C5O4)N)OC,palpitation,primidone,CCC1(C(=O)NCNC1=O)C2=CC=CC=C2
+Salbutamol,CC(C)(C)NCC(C1=CC(=C(C=C1)O)CO)O,loss of consciousness,rofecoxib,CS(=O)(=O)C1=CC=C(C=C1)C2=C(C(=O)OC2)C3=CC=CC=C3
+disopyramide,CC(C)N(CCC(C1=CC=CC=C1)(C2=CC=CC=N2)C(=O)N)C(C)C,dehydration,lansoprazole,CC1=C(C=CN=C1CS(=O)C2=NC3=CC=CC=C3N2)OCC(F)(F)F
+diazepam,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=CC=C3,encephalitis viral,fluoxetine,CNCCC(C1=CC=CC=C1)OC2=CC=C(C=C2)C(F)(F)F
+cetirizine,C1CN(CCN1CCOCC(=O)O)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl,acid reflux,trazodone,C1CN(CCN1CCCN2C(=O)N3C=CC=CC3=N2)C4=CC(=CC=C4)Cl
+omeprazole,CC1=CN=C(C(=C1OC)C)CS(=O)C2=NC3=C(N2)C=C(C=C3)OC,palpitation,Paricalcitol,CC(C=CC(C)C(C)(C)O)C1CCC2C1(CCCC2=CC=C3CC(CC(C3)O)O)C
