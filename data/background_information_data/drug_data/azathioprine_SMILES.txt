@@ -1,0 +1,1 @@
+CN1C=NC(=C1SC2=NC=NC3=C2NC=N3)[N+](=O)[O-]
