@@ -1,1 +1,0 @@
-C1=C(N=C(S1)N=C(N)N)CSCCC(=NS(=O)(=O)N)N
