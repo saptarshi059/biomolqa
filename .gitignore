@@ -1,6 +1,2 @@
-data/9606.actions.v5.0.tsv
-data/9606.actions.v5.0.tsv.gz
-data/bio-decagon-combo.csv
-data/bio-decagon-ppi.csv
-data/bio-decagon-targets-all.csv
-data/biomolqa
+data/base_data
+biomolqa_venv
