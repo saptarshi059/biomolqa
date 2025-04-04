@@ -1,0 +1,5 @@
+Adenylyl cyclase type 6 is an enzyme that in humans is encoded by the ADCY6 gene.
+
+
+== Function ==
+This gene encodes adenylyl cyclase 6, which is a membrane-associated enzyme and catalyzes the formation of the secondary messenger cyclic adenosine monophosphate (cAMP). The expression of this gene is found in normal thyroid and brain tissues, as well as some tumors; and its expression is significantly higher in one hyperfunctioning thyroid tumor than in normal thyroid tissue. Alternative splicing generates 2 transcript variants.

@@ -1,0 +1,51 @@
+Aliskiren (brand names Tekturna and Rasilez) is the first in a class of drugs called direct renin inhibitors. It is used for essential (primary) hypertension. While used for high blood pressure, other better studied medications are typically recommended due to concerns of higher side effects and less evidence of benefit.
+In December 2011, Novartis halted a trial of the drug after discovering increased nonfatal stroke, kidney complications, high blood potassium, and low blood pressure in people with diabetes and kidney problems.
+As a result, in 2012:
+
+A new contraindication was added to the product label concerning the use of aliskiren with angiotensin receptor blockers (ARBs) or angiotensin-converting enzyme inhibitors (ACEIs) in patients with diabetes because of the risk of kidney impairment, low blood pressure, and high levels of potassium in the blood.
+A warning to avoid use of aliskiren with ARBs or ACEIs was also added for patients with moderate to severe kidney impairment (i.e., where glomerular filtration rate is less than 60 ml/min).
+Novartis decided to stop marketing Valturna (aliskiren/valsartan).
+Aliskiren was co-developed by the Swiss pharmaceutical companies Novartis and Speedel.
+
+
+== Medical uses ==
+While used for high blood pressure, other better-studied medications are typically recommended. Prescrire has stated that aliskiren is potentially more harmful than beneficial and thus list it as a drug to avoid (as of 2014).
+
+
+== Adverse effects ==
+Angioedema - The ADE of angioedema found in patients using Aliskiren is due to the inhibition of bradykinin degradation which occurs within the Renin-Angiotensin System (RAAS)
+High blood potassium level (particularly when used with ACE inhibitors in diabetic patients)
+Low blood pressure (particularly in volume-depleted patients)
+Diarrhea and other GI symptoms
+Headache
+Dizziness
+Cough
+
+
+== Contraindications ==
+Pregnancy: Other drugs such as ACE inhibitors, also acting on the renin–angiotensin system, have been associated with fetal malformations and neonatal death. Angiotensin cannot be used in patients who are pregnant because it will result in disruption of normal fetal kidney development.
+Breastfeeding: During animal studies, the drug has been found present in milk.
+Aliskiren has been shown to increase the likelihood of adverse cardiovascular outcomes in patients with diabetes and kidney or heart disease.
+
+
+== Drug interactions ==
+Aliskiren is a minor inhibitor of substrate CYP3A4 and, more importantly, P-glycoprotein:
+
+It reduces furosemide blood concentration.
+Atorvastatin may increase aliskiren's blood concentration, but no dose adjustment is needed.
+Due to possible interaction with ciclosporin, the use of ciclosporin and aliskiren at the same time is contraindicated.
+Caution should be exercised when aliskiren is administered with ketoconazole and other moderate P-glycoprotein inhibitors such as itraconazole, clarithromycin, telithromycin, erythromycin, or amiodarone.
+Recommendations have been made to stop prescribing aliskiren-containing medicines to patients with diabetes (type 1 or type 2) or with moderate to severe kidney impairment who are also taking an ACE inhibitor or ARB. Such patients should consider alternative antihypertensive treatment as necessary.
+
+
+== Mechanism of action ==
+Aliskiren is an inhibitor of renin. Renin, the first enzyme in the renin–angiotensin–aldosterone system, plays a role in blood pressure control. It cleaves angiotensinogen to angiotensin I, which is in turn converted by angiotensin-converting enzyme (ACE) to angiotensin II. Angiotensin II has both direct and indirect effects on blood pressure. It directly causes arterial smooth muscle to contract, leading to vasoconstriction and increased blood pressure. Angiotensin II also stimulates the production of aldosterone from the adrenal cortex, which causes the tubules of the kidneys to increase reabsorption of sodium, with water following, thereby increasing plasma volume, and thus blood pressure. Aliskiren binds to the S3bp binding site of renin, essential for its activity.  Binding to this pocket prevents the conversion of angiotensinogen to angiotensin I.
+Aliskiren is also available as combination therapy with hydrochlorothiazide.
+
+
+== Chemistry ==
+The chemical name for aliskiren is (2 S,4S,5S,7S)-5-amino-N-(2-carbamoyl-2-methylpropyl)-4-hydroxy-2-isopropyl-7-[ 4-methoxy-3-(3-methoxypropoxy)benzyl]-8-methylnonanamide.
+
+
+== Rationale for design ==
+Many drugs control blood pressure by interfering with angiotensin or aldosterone. However, when these drugs are used chronically, the body increases renin production, which drives blood pressure up again. Therefore, pharmacologists have been looking for a drug to inhibit renin directly. Aliskiren is the first drug to do so.

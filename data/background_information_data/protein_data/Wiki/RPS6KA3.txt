@@ -1,0 +1,13 @@
+protein S6 kinase, 90kDa, polypeptide 3, also s RPS6KA3, is an enzyme that in humans is encoded by the RPS6KA3  gene.
+
+
+== Function ==
+This gene encodes a member of the RSK (ribosomal S6 kinase) family of serine/threonine kinases. This kinase contains 2 non-identical kinase catalytic domains and phosphorylates various substrates, including members of the mitogen-activated kinase (MAPK) signalling pathway. The activity of this protein has been implicated in controlling cell growth and differentiation.
+
+
+== Clinical significance ==
+Mutations in this gene have been associated with Coffin–Lowry syndrome (CLS).
+
+
+== Interactions ==
+RPS6KA3 has been shown to interact with CREB-binding protein, MAPK1 and PEA15.

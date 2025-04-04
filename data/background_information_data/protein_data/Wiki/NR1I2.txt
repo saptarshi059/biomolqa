@@ -1,0 +1,21 @@
+In the field of molecular biology, the pregnane X receptor (PXR), also known as the steroid and xenobiotic sensing nuclear receptor (SXR) or nuclear receptor subfamily 1, group I, member 2 (NR1I2) is a protein that in humans is encoded by the NR1I2 (nuclear Receptor subfamily 1, group I, member 2) gene.
+
+
+== Function ==
+PXR is a nuclear receptor whose primary function is to sense the presence of foreign toxic substances and in response up regulate the expression of proteins involved in the detoxification and clearance of these substances from the body.  PXR belongs to the nuclear receptor superfamily, members of which are transcription factors characterized by a ligand-binding domain and a DNA-binding domain. PXR is a transcriptional regulator of the cytochrome P450 gene CYP3A4, binding to the response element of the CYP3A4 promoter as a heterodimer with the 9-cis retinoic acid receptor RXR. It is activated by a range of compounds that induce CYP3A4, including dexamethasone and rifampicin.
+
+
+== Ligands ==
+
+
+=== Agonists ===
+PXR is activated by a large number of endogenous and exogenous chemicals including steroids (e.g., progesterone, 17α-hydroxyprogesterone, 17α-hydroxypregnenolone, 5α-dihydroprogesterone, 5β-dihydroprogesterone, allopregnanolone, corticosterone, cyproterone acetate, spironolactone, dexamethasone, mifepristone), antibiotics (e.g., rifampicin, rifaximin), antimycotics, bile acids, hyperforin (a constituent of St. John's Wort), and other compounds such as meclizine, paclitaxel, cafestol, and forskolin.
+
+
+=== Antagonists ===
+Ketoconazole is an example of one of the relatively few-known antagonists of the PXR.  SPA70 (also known as LC-1) was recently identified and characterized as a potent and selective PXR antagonist.
+
+
+== Mechanism ==
+Like other type II nuclear receptors, when activated, it forms a heterodimer with the retinoid X receptor, and binds to hormone response elements on DNA which elicits expression of gene products.
+One of the primary targets of PXR activation is the induction of CYP3A4, an important phase I oxidative enzyme that is responsible for the metabolism of many drugs. In addition, PXR up regulates the expression of phase II conjugating enzymes such as glutathione S-transferase and phase III transport uptake and efflux proteins such as OATP2 and MDR1.

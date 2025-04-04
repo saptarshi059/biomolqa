@@ -1,0 +1,6 @@
+Solute carrier family 22 member 1 is a protein that in humans is encoded by the gene SLC22A1.
+
+
+== Function ==
+Polyspecific organic cation transporters in the liver, kidney, intestine, and other organs are critical for elimination of many endogenous small organic cations as well as a wide array of drugs and environmental toxins. This gene is one of three similar cation transporter genes located in a cluster on chromosome 6. The encoded protein contains twelve putative transmembrane domains and is a plasma integral membrane protein. Two transcript variants encoding two different isoforms have been found for this gene, but only the longer variant encodes a functional transporter.
+It is also required for the uptake of metformin by cells.

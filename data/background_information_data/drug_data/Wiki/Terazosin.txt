@@ -1,0 +1,12 @@
+Terazosin, sold under the brand name Hytrin among others, is a medication used to treat symptoms of an enlarged prostate and high blood pressure. For high blood pressure, it is a less preferred option. It is taken by mouth.
+Common side effects include dizziness, headache, feeling tired, swelling, nausea, and low blood pressure with standing. Severe side effects may include priapism and low blood pressure. Prostate cancer should be ruled out before starting treatment. It is an alpha-1 blocker and works by relaxing blood vessels and the opening of the bladder.
+Terazosin was patented in 1975 and came into medical use in 1985. It is available as a generic medication. In 2021, it was the 234th most commonly prescribed medication in the United States, with more than 1 million prescriptions.
+
+
+== Synthesis ==
+
+Reaction of piperazine with 2-furoyl chloride followed by catalytic hydrogenation of the furan ring leads to 2. This, when heated in the presence of 2-chloro-6,7-dimethoxyquinazolin-4-amine (1) undergoes direct alkylation to terazosin (3).
+
+
+== Research on neuroprotective effects ==
+A 2022 study suggests that terazosin may have the potential to confer neuroprotection upon motor neurons in motor neuron disease, as a result of its ability to activate PGK1.

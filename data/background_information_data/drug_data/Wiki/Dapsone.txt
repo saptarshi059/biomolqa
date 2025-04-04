@@ -1,0 +1,85 @@
+Dapsone, also known as 4,4'-sulfonyldianiline (SDA) or diaminodiphenyl sulfone (DDS), is an antibiotic commonly used in combination with rifampicin and clofazimine for the treatment of leprosy. It is a second-line medication for the treatment and prevention of pneumocystis pneumonia and for the prevention of toxoplasmosis in those who have poor immune function. Additionally, it has been used for acne, dermatitis herpetiformis, and various other skin conditions. Dapsone is available both topically and by mouth.
+Severe side effects may include a decrease in blood cells, red blood cell breakdown especially in those with glucose-6-phosphate dehydrogenase deficiency (G-6-PD), or hypersensitivity. Common side effects include nausea and loss of appetite. Other side effects include liver inflammation, methemoglobinemia, and a number of types of skin rashes. While the safety of use during pregnancy is not entirely clear some physicians recommend that it be continued in those with leprosy. It is of the sulfone class.
+Dapsone was first studied as an antibiotic in 1937. Its use for leprosy began in 1945. It is on the World Health Organization's List of Essential Medicines. The form, which is taken by mouth, is available as a generic drug and not very expensive.
+
+
+== Medical uses ==
+
+
+=== Infections ===
+Dapsone is commonly used in combination with rifampicin and clofazimine for the treatment of leprosy. It is also used to both treat and prevent pneumocystis pneumonia (PCP). It is also used for toxoplasmosis in people unable to tolerate trimethoprim with sulfamethoxazole.
+Dapsone by mouth was one of the first medications used to treat moderate to severe acne vulgaris, and is still occasionally prescribed for the treatment of severe cases. A topical form of dapsone is also effective with potentially less side effects.
+It is unclear if the combination with pyrimethamine is useful in the prevention of malaria.
+
+
+=== Autoimmune disease ===
+Cutaneous lupus erythematosus. Dapsone is effective and safe in persons with moderate, severe, or refractory cutaneous lupus erythematosus.
+Idiopathic thrombocytopenic purpura. Dapsone is effective and safe for adjunctive glucocorticoid-sparing treatment of persons with idiopathic thrombocytopenic purpura and is preferred over danazol or interferon alpha in those people with antinuclear antibodies.
+Chronic spontaneous urticaria. Dapsone is effective and safe for treatment of second-line therapy for people with chronic spontaneous urticaria in those for whom antihistamines and other first-line agents have failed.
+Relapsing polychondritis. There are no clinical trials but there are many case reports that dapsone is effective at doses of 25 mg/day to 200 mg/day for treatment of relapsing polychondritis.
+
+
+=== Other ===
+Dermatitis herpetiformis in combination with a gluten-free diet.
+Dapsone may be used to treat brown recluse spider bites that become necrotic.
+Dapsone is the recommended treatment for erythema elevatum diutinum, as a review found that using oral dapsone alone was effective in 80% of early cases of the disease. However, dapsone can potentially cause severe side effects, meaning that sometimes steroids or other antibiotics should be used instead, although these alternative treatments are much less effective.
+An August 2015 review notes that dapsone is reported to be effective against generalized granuloma annulare.
+Dapsone has been used as a monomer in the design of dye adsorbent polymers.
+
+
+== Contraindications and precautions ==
+People with porphyria, anemia, cardiac disease, lung disease, HIV infection, G6PD deficiency, and liver impairment are at higher risks of adverse effects when using dapsone.
+
+
+== Adverse effects ==
+Hypersensitivity reactions occur in 1.4% of persons treated with dapsone, and can be fatal in medical settings with low resources. It is a form of severe cutaneous adverse reactions (SCARs) in which a SCARs disorder, primarily the DRESS syndrome or a DRESS syndrome-like reaction occurs.
+
+
+=== Blood ===
+Hemolysis is the most prominent side-effect, occurring in about 20 % of patients treated with dapsone, although it is dose-related. It may lead to hemolytic anemia and methemoglobinemia. The side-effect is more common and severe in those with glucose-6-phosphate dehydrogenase deficiency, leading to the dapsone-containing antimalarial combination Lapdap being withdrawn from clinical use. A case of hemolysis in a neonate from dapsone in breast milk has been reported. Agranulocytosis occurs rarely when dapsone is used alone but more frequently in combination regimens for malaria prophylaxis. Abnormalities in white blood cell formation, including aplastic anemia, are rare, yet are the cause of the majority of deaths attributable to dapsone therapy.
+Methemoglobinemia occurs in about 15 % of patients treated with long-term dapsone at standard doses (100 mg/day). Only special multi-wavelength oximeters (CO-oximeters) can detect methemoglobinemia directly. When there is a "saturation gap" between a low ordinary pulse oximeter reading and a high arterial blood gas analysis result, methemoglobinemia may be suspected.
+
+
+=== Liver ===
+Toxic hepatitis and cholestatic jaundice have been reported by the manufacturer. These toxic reactions may also occur as part of the dapsone hypersensitivity syndrome (a form of SCARs-see above) or dapsone syndrome (see below). Dapsone is metabolized by the Cytochrome P450 system, specifically isozymes CYP2D6, CYP2B6, CYP3A4, and CYP2C19. Dapsone metabolites produced by the cytochrome P450 2C19 isozyme are associated with the methemoglobinemia side effect of the drug.
+
+
+=== Skin ===
+When used topically, dapsone can cause mild skin irritation, redness, dry skin, burning, and itching. When used together with benzoyl peroxide products, temporary yellow or orange skin discolorations can occur.
+
+
+=== Dapsone hypersensitivity syndrome ===
+Hypersensitivity reactions occur in some patients. This reaction may be more frequent in patients receiving multiple-drug therapy.
+The reaction always involves a rash, may also include fever, jaundice, and eosinophilia, and is likely to be one manifestation of the SCARs reaction viz., the DRESS syndrome (see above). In general, these symptoms will occur within the first six weeks of therapy or not at all, and may be ameliorated by corticosteroid therapy.
+
+
+=== Other adverse effects ===
+Other adverse effects include nausea, headache, and rash (which are common), and insomnia, psychosis, and peripheral neuropathy. Effects on the lung occur rarely and may be serious, though are generally reversible.
+
+
+== Mechanism of action ==
+As an antibacterial, dapsone inhibits bacterial synthesis of dihydrofolic acid, via competition with para-aminobenzoate for the active site of dihydropteroate synthase, thereby inhibiting nucleic acid synthesis. Though structurally distinct from dapsone, the sulfonamide group of antibacterial drugs also work in this way.
+As an anti-inflammatory, dapsone inhibits the myeloperoxidase-H2O2-halide-mediated cytotoxic system in polymorphonucleocytes. As part of the respiratory burst that neutrophils use to kill bacteria, myeloperoxidase converts hydrogen peroxide (H2O2) into hypochlorous acid (HOCl). HOCl is the most potent oxidant generated by neutrophils, and can cause significant tissue damage during inflammation. Dapsone arrests myeloperoxidase in an inactive intermediate form, reversibly inhibiting the enzyme. This prevents accumulation of hypochlorous acid, and reduces tissue damage during inflammation. Myeloperoxidase inhibition has also been suggested as a neuron-sparing mechanism for reducing inflammation in neurodegenerative diseases such as Alzheimer's disease and stroke.
+Dapsone's anti-inflammatory and immunomodulatory effects are thought to be its mechanism of action in treating dermatitis herpetiformis.
+Dapsone is an odorless white to creamy-white crystalline powder with a slightly bitter taste.
+
+
+== History ==
+
+
+=== Discovery ===
+
+In the early 20th century, the German chemist Paul Ehrlich was developing theories of selective toxicity based largely on the ability of certain dyes to kill microbes. Gerhard Domagk, who would later win a Nobel Prize for his efforts, made a major breakthrough in 1932 with the discovery of the antibacterial prontosil red (sulfonamidochrysoidine). Further investigation into the involved chemicals opened the way to sulfa drug and sulfone therapy, first with the discovery of sulfanilamide, the active agent of prontosil, by Daniel Bovet and his team at Pasteur Institute (1935), then with that of dapsone independently by Ernest Fourneau in France and Gladwin Buttle in the United Kingdom.
+
+
+=== Proposed use in antimalarial drugs ===
+The spread of drug-resistant malaria in Africa has encouraged the development of new, low-cost antimalarial drugs. Plasmodium falciparum, one of the Plasmodium species that causes malaria, has developed resistance both to chloroquine and sulfadoxine/pyrimethamine, two of the most common treatments for malaria. Artemisinin, another antimalarial drug, had been developed in the 1980s but was too expensive for large-scale use. This led GlaxoSmithKline to develop Lapdap, a combination drug consisting of chlorproguanil and dapsone. Lapdap was licensed in the United Kingdom starting in October 2003.
+One advantage of Lapdap was that chlorproguanil and dapsone are both low-cost drugs. Another was that by virtue of being a combination drug, it was less likely to cause drug resistance. However, because dapsone causes hemolytic anemia in patients with G6PD deficiency, and because G6PD deficiency affects 10-25% of the population of sub-Saharan Africa, it was discovered that Lapdap is not safe for use in Africa. It was available in many African countries for four years before GlaxoSmithKline took it off the market in February 2008.
+
+
+=== Dapsone gel ===
+Dapsone had been reported in a few cases to effectively treat acne, but the risk of hemolytic anemia kept it from being widely used for this purpose. For many years scientists attempted to develop a topical formulation of dapsone that would be as effective against acne as oral dapsone, but without the hemolysis side effect. This was difficult to accomplish because dapsone is highly insoluble in aqueous solvents. In the early 2000s QLT USA developed Aczone, a 5% dapsone gel that was shown to be effective against acne without causing clinically significant declines in hemoglobin levels, even in subjects with G6PD deficiency. In February 2016, the FDA approved a 7.5% dapsone gel. This higher strength has the advantage of a once-daily application, versus twice-daily application of the 5% formulation.
+
+
+== Other uses ==
+4,4-Diaminodiphenyl sulfone also finds uses as a curing agent for materials like epoxy resins and imine-based vitrimers, applications include in printed circuit boards, adhesives and coatings. Its use in epoxy systems typically give a resin with a high glass-transition temperature.

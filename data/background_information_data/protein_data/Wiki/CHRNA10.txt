@@ -1,0 +1,3 @@
+Neuronal acetylcholine receptor subunit alpha-10, also known as  nAChRα10 and cholinergic receptor nicotinic alpha 10, is a protein that in humans is encoded by the CHRNA10  gene. The protein encoded by this gene is a subunit of certain nicotinic acetylcholine receptors (nAchR).
+This nAchR subunit is required for the normal function of the olivocochlear system which is part of the auditory system. Furthermore, selective block of α9α10 nicotinic acetylcholine receptors by the conotoxin RgIA has been shown to be analgesic in an animal model of nerve injury pain.
+α10 subunit-containing receptors are notably blocked by nicotine.  The role of this antagonism in the effects of tobacco are unknown.

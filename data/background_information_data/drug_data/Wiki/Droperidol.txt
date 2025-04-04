@@ -1,0 +1,20 @@
+Droperidol  (Inapsine, Droleptan, Dridol, Xomolix, Innovar [combination with fentanyl]) is an antidopaminergic drug used as an antiemetic (that is, to prevent or treat nausea) and as an antipsychotic. Droperidol is also often used as a rapid sedative in intensive-care treatment, and where "agitation aggression or violent behavior" are present.
+
+
+== History ==
+Discovered at Janssen Pharmaceutica in 1961, droperidol is a butyrophenone which acts as a potent D2 (dopamine receptor) antagonist with some histamine and serotonin antagonist activity.
+
+
+== Medical use ==
+It has a central antiemetic action and effectively prevents postoperative nausea and vomiting in adults using doses as low as 0.625 mg.
+For treatment of nausea and vomiting, droperidol and ondansetron are equally effective; droperidol is more effective than metoclopramide. It has also been used as an antipsychotic in doses ranging from 5 to 10 mg given as an intramuscular injection, generally in cases of severe agitation in a psychotic patient who is refusing oral medication. Its use in intramuscular sedation has been replaced by intramuscular preparations of haloperidol and olanzapine. Some practitioners recommend the use of 0.5 mg to 1 mg intravenously for the treatment of vertigo in an otherwise healthy elderly patients who have not responded to Epley maneuvers.
+
+
+== Black box warning ==
+In 2001, the FDA changed the labeling requirements for droperidol injection to include a Black Box Warning, citing concerns of QT prolongation and torsades de pointes. The evidence for this is disputed, with 9 reported cases of torsades in 30 years and all of those having received doses in excess of 5 mg. QT prolongation is a dose-related effect, and it appears that droperidol is not a significant risk in low doses.
+A study in 2015 showed that droperidol is relatively safe and effective for the management of violent and aggressive
+adult patients in hospital emergency departments in doses of 10mg and above and that there was no increased risk of QT prolongation and torsades de pointes.
+
+
+== Side effects ==
+Dysphoria, sedation, hypotension resulting from peripheral alpha adrenoceptor blockade, prolongation of QT interval which can lead to torsades de pointes, and extrapyramidal side effects such as dystonic reactions/neuroleptic malignant syndrome.

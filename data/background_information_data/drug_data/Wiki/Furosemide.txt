@@ -1,0 +1,103 @@
+Furosemide, sold under the brand name Lasix among others, is a loop diuretic medication used to treat edema due to heart failure, liver scarring, or kidney disease. Furosemide may also be used for the treatment of high blood pressure. It can be taken intravenously or orally. When given intravenously, furosemide typically takes effect within five minutes; when taken orally, it typically metabolizes within an hour.
+Common side effects include orthostatic hypotension (decrease in blood pressure while standing, and associated lightheadedness), tinnitus (ringing in the ears), and photosensitivity (sensitivity to light). Potentially serious side effects include electrolyte abnormalities, low blood pressure, and hearing loss. It is recommended that serum electrolytes (especially potassium), serum CO2, creatinine, BUN levels, and liver and kidney functioning be monitored in patients taking furosemide. It is also recommended to be alert for the occurrence of any potential blood dyscrasias. 
+Furosemide works by decreasing the reabsorption of sodium by the kidneys. Common side effects of furosemide injection include hypokalemia (low potassium level), hypotension (low blood pressure), and dizziness.
+Furosemide was patented in 1959 and approved for medical use in 1964. It is on the World Health Organization's List of Essential Medicines. In the United States, it is available as a generic medication. In 2022, it was the 24th most commonly prescribed medication in the United States, with more than 23 million prescriptions. In 2020/21 it was the twentieth most prescribed medication in England. It is on the World Anti-Doping Agency's banned drug list due to concerns that it may mask other drugs. It has also been used in race horses for the treatment and prevention of exercise-induced pulmonary hemorrhage.
+
+
+== Medical uses ==
+
+Furosemide is primarily used for the treatment of edema, but also in some cases of hypertension (where there is also kidney or heart impairment). It is often viewed as a first-line agent in most people with edema caused by congestive heart failure because of its anti-vasoconstrictor and diuretic effects. Compared with furosemide, however, torasemide (aka "torsemide") has been demonstrated to show improvements to heart failure symptoms, possibly lowering the rates of rehospitalization associated with heart failure, with no difference in risk of death. Torsemide may also be safer than furosemide. Providing self-administered subcutaneous furosemide has been found to reduce hospital admissions in people with heart failure, resulting in significant savings in healthcare costs.
+Furosemide is also used for liver cirrhosis, kidney impairment, nephrotic syndrome, in adjunct therapy for swelling of the brain or lungs where rapid diuresis is required (IV injection), and in the management of severe hypercalcemia in combination with adequate rehydration.
+
+
+=== Kidney disease ===
+In chronic kidney diseases with hypoalbuminemia, furosemide is used along with albumin to increase diuresis. It is also used along with albumin in nephrotic syndrome to reduce edema.
+
+
+=== Other information ===
+Furosemide is mainly excreted by tubular secretion in the kidney. In kidney impairment, clearance is reduced, increasing the risk of adverse effects. Lower initial doses are recommended in older patients (to minimize side effects) and high doses may be needed in kidney failure. It can also cause kidney damage; this is mainly by loss of excessive fluid (i.e., dehydration), and is usually reversible.
+Furosemide acts within 1 hour of oral administration (after IV injection, the peak effect is within 30 minutes). Diuresis is usually complete within 6–8 hours of oral administration, but there is significant variation between individuals.
+
+
+== Adverse effects ==
+Furosemide also can lead to gout caused by hyperuricemia. Hyperglycemia is also a common side effect.
+The tendency, as for all loop diuretics, to cause low serum potassium concentration (hypokalemia) has given rise to combination products, either with potassium or with the potassium-sparing diuretic amiloride (Co-amilofruse). Other electrolyte abnormalities that can result from furosemide use include hyponatremia, hypochloremia, hypomagnesemia, and hypocalcemia.
+In the treatment of heart failure, many studies have shown that the long-term use of furosemide can cause varying degrees of thiamine deficiency, so thiamine supplementation is also suggested.
+Furosemide is a known ototoxic agent generally causing transient hearing loss but can be permanent. Reported cases of furosemide-induced hearing loss appeared to be associated with rapid intravenous administration, high dosages, concomitant renal disease, and coadministration with other ototoxic medication. However, a recently reported longitudinal study showed that participants treated with loop diuretics over 10 years were 40% more likely to develop hearing loss and 33% more likely of progressive hearing loss compared to participants who did not use loop diuretics. This suggests the long-term consequences of loop diuretics on hearing could be a more significant than previously thought and further research is required in this area.  
+Other precautions include nephrotoxicity, sulfonamide (sulfa) allergy, and increased free thyroid hormone effects with large doses.
+
+
+== Interactions ==
+Furosemide has potential interactions with these medications:
+
+Aspirin and other salicylates
+Other diuretics (e.g. ethacrynic acid, hydrochlorothiazide)
+Synergistic effects with other antihypertensives (e.g. doxazosin)
+Sucralfate
+Potentially hazardous interactions with other drugs:
+
+Analgesics: increased risk of kidney damage (nephrotoxicity) with nonsteroidal anti-inflammatory drugs; antagonism of diuretic effect with NSAIDs
+Antiarrhythmics: a risk of cardiac toxicity exists with antiarrhythmics if hypokalemia occurs; the effects of lidocaine and mexiletine are antagonized.
+Antibacterials: increased risk of ototoxicity with aminoglycosides, polymyxins and vancomycin; avoid concomitant use with lymecycline
+Antidepressants: increased risk of hypokalemia with reboxetine; enhanced hypotensive effect with MAOIs; increased risk of postural hypotension with tricyclic antidepressants
+Antiepileptics: increased risk of hyponatremia with carbamazepine
+Antifungals: increased risk of hypokalemia with amphotericin
+Antihypertensives: enhanced hypotensive effect; increased risk of first dose hypotensive effect with alpha-blockers; increased risk of ventricular arrhythmias with sotalol if hypokalemia occurs
+Antipsychotics: increased risk of ventricular arrhythmias with amisulpride, sertindole, or pimozide (avoid with pimozide) if hypokalemia occurs; enhanced hypotensive effect with phenothiazines
+Atomoxetine: hypokalemia increases risk of ventricular arrhythmias
+Cardiac glycosides: increased toxicity if hypokalemia occurs
+Cyclosporine: variable reports of increased nephrotoxicity, ototoxicity and hepatotoxicity
+Lithium: risk of toxicity.
+
+
+== Mechanism of action ==
+
+Furosemide, like other loop diuretics, acts by inhibiting the luminal Na–K–Cl cotransporter in the thick ascending limb of the loop of Henle, by binding to the Na-K-2Cl transporter, thus causing more sodium, chloride, and potassium to be excreted in the urine.
+The action on the distal tubules is independent of any inhibitory effect on carbonic anhydrase or aldosterone; it also abolishes the corticomedullary osmotic gradient and blocks negative, as well as positive, free water clearance. Because of the large NaCl absorptive capacity of the loop of Henle, diuresis is not limited by the development of acidosis, as it is with the carbonic anhydrase inhibitors.
+Additionally, furosemide is a noncompetitive subtype-specific blocker of GABA-A receptors. Furosemide has been reported to reversibly antagonize GABA-evoked currents of α6β2γ2 receptors at μM concentrations, but not α1β2γ2 receptors. During development, the α6β2γ2 receptor increases in expression in cerebellar granule neurons, corresponding to increased sensitivity to furosemide.
+
+
+== Pharmacokinetics ==
+Molecular weight (daltons)             330.7
+% Bioavailability    47 – 70%
+Bioavailability with end-stage renal disease   43 – 46%
+% Protein binding                      91 – 99
+Volume of distribution (L/kg)          0.07 – 0.2
+Volume of distribution may be higher in patients with cirrhosis or nephrotic syndrome
+Excretion
+% Excreted in urine (% of total dose)  60 – 90
+% Excreted unchanged in urine (% of total dose)  53.1 – 58.8 
+% Excreted in feces (% of total dose) 7 – 9
+% Excreted in bile (% of total dose) 6 – 9
+Approximately 10% is metabolized by the liver in healthy individuals, but this percentage may be greater in individuals with severe kidney failure 
+Renal clearance (mL/min/kg)  2.0
+Elimination half-life (hrs)   2
+Prolonged in congestive heart failure (mean 3.4 hrs)
+Prolonged in severe kidney failure (4 – 6 hrs) and anephric patients (1.5 – 9 hrs)
+Time to peak concentration (hrs)
+Intravenous administration    0.3
+Oral solution    0.83
+Oral tablet     1.45
+The pharmacokinetics of furosemide are not significantly altered by food.
+No direct relationship has been found between furosemide concentration in the plasma and furosemide efficacy. Efficacy depends upon the concentration of furosemide in urine.
+
+
+== Names ==
+Furosemide is the INN and BAN. The previous BAN was frusemide.
+Brand names under which furosemide is marketed include Aisemide, Apo-Furosemide, Beronald, Desdemin, Discoid, Diural, Diurapid, Dryptal, Durafurid, Edemid, Errolon, Eutensin, Farsiretic, Flusapex, Frudix, Frusemide, Frusetic, Frusid, Fulsix, Fuluvamide, Furantril, Furesis, Furix, Furo-Puren, Furon, Furosedon, Fusid.frusone, Hydro-rapid, Impugan, Katlex, Lasilix, Lasix, Lodix, Lowpston, Macasirool, Mirfat, Nicorol, Odemase, Oedemex, Profemin, Rosemide, Rusyde, Salix, Seguril, Teva-Furosemide, Trofurit, Uremide, and Urex.
+
+
+== Veterinary uses ==
+
+The diuretic effects are put to use most commonly in horses to prevent bleeding during a race.  In the United States of America, under the racing rules of most states, horses that bleed from the nostrils (exercise-induced pulmonary hemorrhage) three times are permanently barred from racing.  Sometime in the early 1970s, furosemide's ability to prevent, or at least greatly reduce, the incidence of bleeding by horses during races was discovered accidentally. Clinical trials followed, and by the decade's end, racing commissions in some states in the USA began legalizing its use on race horses.  In 1995, New York became the last state in the United States to approve such use, after years of refusing to consider doing so. Some states allow its use for all racehorses; some allow it only for confirmed "bleeders".  Its use for this purpose is still prohibited in many other countries.
+Furosemide is also used in horses for pulmonary edema, congestive heart failure (in combination with other drugs), and allergic reactions.  Although it increases circulation to the kidneys, it does not help kidney function and is not recommended for kidney disease.
+It is also used to treat congestive heart failure (pulmonary edema, pleural effusion, and/or ascites) in cats and dogs.
+
+
+=== Horses ===
+Furosemide is injected either intramuscularly or intravenously, usually 0.5-1.0 mg/kg twice/day, although less before a horse is raced. As with many diuretics, it can cause dehydration and electrolyte imbalance, including loss of potassium, calcium, sodium, and magnesium. Excessive use of furosemide will most likely lead to a metabolic alkalosis due to hypochloremia and hypokalemia. The drug should, therefore, not be used in horses that are dehydrated or experiencing kidney failure. It should be used with caution in horses with liver problems or electrolyte abnormalities. Overdose may lead to dehydration, change in drinking patterns and urination, seizures, gastrointestinal problems, kidney damage, lethargy, collapse, and coma.
+Furosemide should be used with caution when combined with corticosteroids (as this increases the risk of electrolyte imbalance), aminoglycoside antibiotics (increases the risk of kidney or ear damage), and trimethoprim sulfa (causes decreased platelet count). It may also cause interactions with anesthetics, so its use should be related to the veterinarian if the animal is going into surgery, it decreases the kidneys' ability to excrete aspirin, so dosages will need to be adjusted if combined with that drug.
+Furosemide may increase the risk of digoxin toxicity due to hypokalemia.
+It is recommended that furosemide not be used during pregnancy or in a lactating mare, as it is passed through the placenta and milk in studies with other species. It should not be used in horses with pituitary pars intermedia dysfunction (Equine Cushing's Disease).
+Furosemide is detectable in urine 36–72 hours following injection. Its use is restricted by most equestrian organizations.
+US major racetracks ban the use of furosemide on race days.

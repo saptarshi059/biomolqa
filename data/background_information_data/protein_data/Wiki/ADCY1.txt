@@ -1,0 +1,7 @@
+Adenylyl cyclase type 1 is an enzyme that in humans is encoded by the ADCY1 gene.
+This gene encodes a form of adenylyl cyclase expressed in the brain. A similar protein in mice is involved in pattern formation of the brain.
+
+
+== Function ==
+ADCY1 is a calmodulin-sensitive adenylyl cyclase. In terms of function, It may be involved in regulatory processes in the central
+nervous system; specifically, it may play a role in memory acquisition and learning. It is inhibited by the G protein beta and gamma subunit complex.

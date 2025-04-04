@@ -1,0 +1,17 @@
+Cytochrome P4502C8 (CYP2C8) is a member of the cytochrome P450 mixed-function oxidase system involved in the metabolism of xenobiotics in the body. Cytochrome P4502C8 also possesses epoxygenase activity, i.e. it metabolizes long-chain polyunsaturated fatty acids, e.g. arachidonic acid, eicosapentaenoic acid, docosahexaenoic acid, and linoleic acid to their biologically active epoxides.
+
+
+== Ligands ==
+Following is a table of selected substrates, inducers and inhibitors of 2C8.
+Inhibitors of CYP2C8 can be classified by their potency, such as:
+
+Strong inhibitor being one that causes at least a five-fold increase in the plasma AUC values, or more than 80% decrease in clearance.
+Moderate inhibitor being one that causes at least a two-fold increase in the plasma AUC values, or 50-80% decrease in clearance.
+Weak inhibitor being one that causes at least a 1.25-fold but less than two-fold increase in the plasma AUC values, or 20-50% decrease in clearance.
+
+Where classes of agents are listed, there may be exceptions within the class.
+
+
+== Epoxygenase activity ==
+CYP2C8 also possesses epoxygenase activity: it is one of the principal enzymes responsible for attacking various long-chain polyunsaturated fatty acids at their double (i.e. alkene) bonds to form epoxide products that act as signaling agents. It metabolizes: 1) arachidonic acid to various epoxyeicosatrienoic acids (also termed EETs); 2) linoleic acid to 9,10-epoxy octadecenoic acids (also termed vernolic acid, linoleic acid 9:10-oxide, or leukotoxin) and 12,13-epoxy-octadecenoic (also termed coronaric acid, linoleic acid 12,13-oxide, or isoleukotoxin); 3) docosahexaenoic acid to various epoxydocosapentaenoic acids (also termed EDPs); and 4) eicosapentaenoic acid to various epoxyeicosatetraenoic acids (also termed EEQs).
+Along with CYP2C8, CYP2C9, CYP2C19, CYP2J2, and possibly CYP2S1 are the main producers of EETs and, very likely, EEQs, EDPs, and the epoxides of linoleic acid.

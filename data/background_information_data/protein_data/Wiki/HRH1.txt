@@ -1,0 +1,16 @@
+The H1 receptor is a histamine receptor belonging to the family of rhodopsin-like G-protein-coupled receptors. This receptor is activated by the biogenic amine histamine. It is expressed in smooth muscles, on vascular endothelial cells, in the heart, and in the central nervous system. The H1 receptor is linked to an intracellular G-protein (Gq) that activates phospholipase C and the inositol triphosphate (IP3) signalling pathway. Antihistamines, which act on this receptor, are used as anti-allergy drugs. The crystal structure of the receptor has been determined (shown on the right/below) and used to discover new histamine H1 receptor ligands in structure-based virtual screening studies.
+
+
+== Function ==
+The expression of NF-κB, the transcription factor that regulates inflammatory processes, is promoted by the constitutive activity of the H1 receptor as well as by agonists that bind at the receptor. H1-antihistamines have been shown to attenuate NF-κB expression and mitigate certain inflammatory processes in associated cells.
+Histamine may play a role in penile erection.
+
+
+== Neurophysiology ==
+Histamine H1 receptors are activated by endogenous histamine, which is released by neurons that have their cell bodies in the tuberomammillary nucleus of the hypothalamus. The histaminergic neurons of the tuberomammillary nucleus become active during the 'wake' cycle, firing at approximately 2 Hz; during slow wave sleep, this firing rate drops to approximately 0.5 Hz. Finally, during REM sleep, histaminergic neurons stop firing altogether. It has been reported that histaminergic neurons have the most wake-selective firing pattern of all known neuronal types.
+The tuberomammillary nucleus is a histaminergic nucleus that strongly regulates the sleep-wake cycle.  H1-antihistamines that cross the blood–brain barrier inhibit H1 receptor activity on neurons that project from the tuberomammillary nucleus. This action is responsible for the drowsiness effect associated with these drugs.
+
+
+== SARS-CoV-2 ==
+A recent study published in August 2024 suggested that H1 receptor can act as an alternative entry point for the SARS-CoV-2 (COVID-19) virus to infect cells, in addition to the main receptor ACE2. HRH1 also synergistically enhanced hACE2-dependent viral entry by interacting with hACE2. 
+Antihistamine drugs effectively prevent viral infection by competitively binding to HRH1, thereby disrupting the interaction between the spike protein and its receptor.

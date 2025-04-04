@@ -1,0 +1,52 @@
+Cinacalcet, sold under the brand name Sensipar among others, is a medication used to treat primary hyperparathyroidism, tertiary hyperparathyroidism and parathyroid carcinoma. Cinacalcet acts as a calcimimetic (i.e., it mimics the action of calcium on tissues) by allosteric activation of the calcium-sensing receptor that is expressed in various human organ tissues.
+The most common side effects include nausea and vomiting.
+Cinacalcet was approved in the United States in March 2004, and in the European Union in October 2004. It was the first allosteric G protein-coupled receptor modulator to enter the pharmaceutical market. In 2013, cinacalcet was the 76th most prescribed medicine in the United States.
+
+
+== Medical uses ==
+In the United States, cinacalcet is indicated for the treatment of secondary hyperparathyroidism in people with chronic kidney disease on dialysis and hypercalcemia in people with parathyroid carcinoma. Cinacalcet can also be used to treat severe hypercalcemia in patients with primary hyperparathyroidism who are unable to undergo parathyroidectomy.
+In the European Union cinacalcet is indicated for:
+
+the treatment of secondary hyperparathyroidism (HPT) in adults with end stage renal disease (ESRD) on maintenance dialysis therapy.
+the treatment of secondary hyperparathyroidism (HPT) in children aged three years and older with end stage renal disease (ESRD) on maintenance dialysis therapy in whom secondary HPT is not adequately controlled with standard of care therapy.
+part of a therapeutic regimen including phosphate binders and/or vitamin D sterols, as appropriate.
+the treatment of parathyroid carcinoma and primary hyperparathyroidism in adults.
+the reduction of hypercalcaemia in adults with:
+parathyroid carcinoma;
+primary HPT for whom parathyroidectomy would be indicated on the basis of serum calcium levels (as defined by relevant treatment guidelines), but in whom parathyroidectomy is not clinically appropriate or is contraindicated.
+
+
+=== Pregnancy and lactation ===
+Cinacalcet has pregnancy category C in the US, meaning that adequate and well-controlled studies involving cinacalcet in pregnant women have not been done.
+Studies have not been done in lactating women; therefore, it is not known whether cinacalcet is excreted into human milk.
+
+
+== Contraindications ==
+Hypocalcemia (decreased calcium levels) is a contraindication to the use of cinacalcet. Those who have serum calcium levels less than 7.5 mg/dL should not be started on cinacalcet. Hypocalcemia symptoms include paresthesias, myalgias, muscle cramping, tetany, and convulsions. Cinacalcet should not be administered until serum calcium levels are above 8.0 mg/dL and/or hypocalcemia symptoms are resolved. Cinacalcet is not approved for pediatric use in the United States.
+
+
+== Adverse effects ==
+Common side effects of cinacalcet include upset stomach, vomiting, diarrhea, dizziness, nausea, weakness, and chest pain.
+Clinical trials conducted in the United States by Amgen to determine whether the drug is safe in children were halted by the U.S. Food and Drug Administration (FDA) in February 2013, following the death of a 14-year-old participant.
+
+
+== Overdose ==
+Serious side effects, including overdose symptoms, of cinacalcet include:
+
+burning
+tingling
+unusual feelings of the lips, tongue, fingers, or feet
+muscle aches or cramps
+sudden tightening of muscles in hands, feet, face, or throat
+seizures
+
+
+== Interactions ==
+Cinacalcet is a strong inhibitor of the liver enzyme CYP2D6 and is partially metabolized by CYP3A4 and CYP1A2. Dose adjustments may be necessary if people are treated with CYP3A4 and CYP1A2 inhibitors and medications that are metabolized by CYP2D6.
+
+
+== Pharmacology ==
+
+
+=== Mechanism of action ===
+Cinacalcet is a drug that acts as a calcimimetic (i.e. it mimics the action of calcium on tissues) by allosteric activation of the calcium-sensing receptor that is expressed in various human organ tissues. The calcium-sensing receptors on the surface of the chief cell of the parathyroid gland is the principal negative regulator of parathyroid hormone secretion. Cinacalcet increases the sensitivity of calcium receptors on parathyroid cells to reduce parathyroid hormone (PTH) levels and thus decrease serum calcium levels.

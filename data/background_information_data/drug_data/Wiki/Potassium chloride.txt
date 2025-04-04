@@ -1,0 +1,94 @@
+Potassium chloride (KCl, or potassium salt) is a metal halide salt composed of potassium and chlorine. It is odorless and has a white or colorless vitreous crystal appearance. The solid dissolves readily in water, and its solutions have a salt-like taste. Potassium chloride can be obtained from ancient dried lake deposits. KCl is used as a salt substitute for table salt (NaCl), a fertilizer, as a medication, in scientific applications, in domestic water softeners (as a substitute for sodium chloride salt), as a feedstock, and in food processing, where it may be known as E number additive E508.
+It occurs naturally as the mineral sylvite, which is named after salt's historical designations sal degistivum Sylvii and sal febrifugum Sylvii, and in combination with sodium chloride as sylvinite.
+
+
+== Uses ==
+
+
+=== Fertilizer ===
+The majority of the potassium chloride produced is used for making fertilizer, called potash, since the growth of many plants is limited by potassium availability. The term "potash" refers to various mined and manufactured salts that contain potassium in water-soluble form. Potassium chloride sold as fertilizer is known as "muriate of potash"—it is the common name for potassium chloride (KCl) used in agriculture. The vast majority of potash fertilizer worldwide is sold as muriate of potash. The dominance of muriate of potash in the fertilizer market is due to its high potassium content (approximately 60% K2O equivalent) and relative affordability compared to other potassium sources like sulfate of potash (potassium sulfate). Potassium is one of the three primary macronutrients essential for plant growth, alongside nitrogen and phosphorus. Potassium plays a vital role in various plant physiological processes, including enzyme activation, photosynthesis, protein synthesis, and water regulation. For watering plants, a moderate concentration of potassium chloride (KCl) is used to avoid potential toxicity: 6 mM (millimolar) is generally effective and safe for most plants, that is approximately 0.4 grams (0.014 oz) per liter of water.
+
+
+=== Medical use ===
+
+Potassium is vital in the human body, and potassium chloride by mouth is the standard means to treat low blood potassium, although it can also be given intravenously. It is on the World Health Organization's List of Essential Medicines. It is also an ingredient in Oral Rehydration Therapy (ORT)/solution (ORS) to reduce hypokalemia caused by diarrhoea. This is another medicine on the WHO's List of Essential Medicines.
+Potassium chloride contains 52% of elemental potassium by mass.
+Overdose causes hyperkalemia which can disrupt cell signaling to the extent that the heart will stop, reversibly in the case of some open heart surgeries.
+
+
+=== Culinary use ===
+Potassium chloride can be used as a salt substitute for food, but because not everyone likes its flavor, it is often mixed with ordinary table salt (sodium chloride) to improve the taste, to form low sodium salt. The addition of 1 ppm of thaumatin considerably reduces this bitterness.  Complaints of bitterness or a chemical or metallic taste are also reported with potassium chloride used in food.
+The World Health Organization guideline Use of lower-sodium salt substitutes strongly recommends reducing sodium intake to less than 2 g/day and conditionally recommends replacing regular table salt with lower-sodium salt substitutes that contain potassium.  This recommendation is intended for adults (not pregnant women or children) in general populations, excluding individuals with kidney impairments or with other circumstances or conditions that might compromise potassium excretion.
+
+
+=== Execution ===
+In the United States, potassium chloride is used as the final drug in the three-injection sequence of lethal injection as a form of capital punishment. It induces cardiac arrest, ultimately killing the person.
+
+
+=== Industrial ===
+
+As a chemical feedstock, the salt is used for the manufacture of potassium hydroxide and potassium metal. It is also used in medicine, lethal injections, scientific applications, food processing, soaps, and as a sodium-free substitute for table salt for people concerned about the health effects of sodium.
+It is used as a supplement in animal feed to boost the potassium level in the feed. As an added benefit, it is known to increase milk production.
+It is sometimes used in solution as a completion fluid in petroleum and natural gas operations, as well as being an alternative to sodium chloride in household water softener units.
+Glass manufacturers use granular potash as a flux, lowering the temperature at which a mixture melts. Because potash imparts excellent clarity to glass, it is commonly used in eyeglasses, glassware, televisions, and computer monitors.
+Because natural potassium contains a tiny amount of the isotope potassium-40, potassium chloride is used as a beta radiation source to calibrate radiation monitoring equipment. It also emits a relatively low level of 511 keV gamma rays from positron annihilation, which can be used to calibrate medical scanners.
+Potassium chloride is used in some de-icing products designed to be safer for pets and plants, though these are inferior in melting quality to calcium chloride. It is also used in various brands of bottled water.
+Potassium chloride was once used as a fire extinguishing agent, and in portable and wheeled fire extinguishers. Known as Super-K dry chemical, it was more effective than sodium bicarbonate-based dry chemicals and was compatible with protein foam. This agent fell out of favor with the introduction of potassium bicarbonate (Purple-K) dry chemical in the late 1960s, which was much less corrosive, as well as more effective. It is rated for B and C fires.
+Along with sodium chloride and lithium chloride, potassium chloride is used as a flux for the gas welding of aluminium.
+Potassium chloride is also an optical crystal with a wide transmission range from 210 nm to 20 μm. While cheap, KCl crystals are hygroscopic. This limits its application to protected environments or short-term uses such as prototyping. Exposed to free air, KCl optics will "rot". Whereas KCl components were formerly used for infrared optics, they have been entirely replaced by much tougher crystals such as zinc selenide.
+Potassium chloride is used as a scotophor with designation P10 in dark-trace CRTs, e.g. in the Skiatron.
+
+
+== Toxicity ==
+The typical amounts of potassium chloride found in the diet appear to be generally safe. In larger quantities, however, potassium chloride is toxic. The LD50 of orally ingested potassium chloride is approximately 2.5 g/kg, or 190 grams (6.7 oz) for a body mass of 75 kilograms (165 lb). In comparison, the LD50 of sodium chloride (table salt) is 3.75 g/kg.
+Intravenously, the LD50 of potassium chloride is far smaller, at about 57.2 mg/kg to 66.7 mg/kg; this is found by dividing the lethal concentration of positive potassium ions (about 30 to 35 mg/kg) by the proportion by mass of potassium ions in potassium chloride (about 0.52445 mg K+/mg KCl).
+
+
+== Chemical properties ==
+
+
+=== Solubility ===
+KCl is soluble in a variety of polar solvents.
+
+Solutions of KCl are common standards, for example for calibration of the electrical conductivity of (ionic) solutions, since KCl solutions are stable, allowing for reproducible measurements.  In aqueous solution, it is essentially fully ionized into solvated K+ and Cl− ions.
+
+
+=== Redox and the conversion to potassium metal ===
+Although potassium is more electropositive than sodium, KCl can be reduced to the metal by reaction with metallic sodium at 850 °C because the more volatile potassium can be removed by distillation (see Le Chatelier's principle):
+
+KCl(l) + Na(l)  ⇌  NaCl(l) + K(g)
+This method is the main method for producing metallic potassium. Electrolysis (used for sodium) fails because of the high solubility of potassium in molten KCl.
+
+
+=== Other potassium chloride stoichiometries ===
+Potassium chlorides with formulas other than KCl have been predicted to become stable under pressures of 20 GPa or more. Among these, two phases of KCl3 were synthesized and characterized. At 20-40 GPa, a trigonal structure containing K+ and Cl3− is obtained; above 40 GPa this gives way to a phase isostructural with the intermetallic compound Cr3Si.
+
+
+== Physical properties ==
+Under ambient conditions, the crystal structure of potassium chloride is like that of NaCl. It adopts a face-centered cubic structure known as the B1 phase with a lattice constant of roughly 6.3 Å. Crystals cleave easily in three directions. Other polymorphic and hydrated phases are adopted at high pressures.
+Some other properties are
+
+Transmission range: 210 nm to 20 μm
+Transmittivity = 92% at 450 nm and rises linearly to 94% at 16 μm
+Refractive index = 1.456 at 10 μm
+Reflection loss = 6.8% at 10 μm (two surfaces)
+dN/dT (expansion coefficient)= −33.2×10−6/°C
+dL/dT (refractive index gradient)= 40×10−6/°C
+Thermal conductivity = 0.036 W/(cm·K)
+Damage threshold (Newman and Novak): 4 GW/cm2 or 2 J/cm2 (0.5 or 1 ns pulse rate); 4.2 J/cm2 (1.7 ns pulse rate Kovalev and Faizullov)
+As with other compounds containing potassium, KCl in powdered form gives a lilac flame.
+
+
+== Production ==
+
+Potassium chloride is extracted from minerals sylvite, carnallite, and potash. It is also extracted from salt water and can be manufactured by crystallization from solution, flotation or electrostatic separation from suitable minerals. It is a by-product of the production of nitric acid from potassium nitrate and hydrochloric acid.
+Most potassium chloride is produced as agricultural and industrial-grade potash in Saskatchewan, Canada, Russia, and Belarus. Saskatchewan alone accounted for over 25% of the world's potash production in 2017.
+
+
+=== Laboratory methods ===
+Potassium chloride is inexpensively available and is rarely prepared intentionally in the laboratory.  It can be generated by treating potassium hydroxide (or other potassium bases) with hydrochloric acid:
+
+KOH + HCl  →  KCl + H2O
+This conversion is an acid-base neutralization reaction. The resulting salt can then be purified by recrystallization. Another method would be to allow potassium to burn in the presence of chlorine gas, also a very exothermic reaction:
+
+2 K + Cl2  →  2 KCl

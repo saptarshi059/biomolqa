@@ -1,0 +1,77 @@
+Prostaglandin E2 receptor 2, also known as EP2, is a prostaglandin receptor for prostaglandin E2 (PGE2) encoded by the human gene PTGER2: it is one of four identified EP receptors, the others being EP1, EP3, and EP4, which bind with and mediate cellular responses to PGE2 and also, but with lesser affinity and responsiveness, certain other prostanoids (see Prostaglandin receptors). EP has been implicated in various physiological and pathological responses.
+
+
+== Gene ==
+The PTGER2 gene is located on human chromosome 14 at position p22.1 (i.e. 14q22.1), contains 2 introns and 3 exons, and codes for a G protein coupled receptor (GPCR) of the rhodopsin-like receptor family, Subfamily A14 (see rhodopsin-like receptors#Subfamily A14).
+
+
+== Expression ==
+EP2 is widely distributed in humans. Its protein is expressed in human small intestine, lung, media of arteries and arterioles of the kidney, thymus, uterus, brain cerebral cortex, brain striatum, brain hippocampus, corneal epithelium, corneal choriocapillaries, Myometriuml cells, eosinophiles, sclera of the eye, articular cartilage, the corpus cavernosum of the penis, and airway smooth muscle cells; its mRNA is expressed in gingival fibroblasts, monocyte-derived dendritic cells, aorta, corpus cavernosum of the penis, articular cartilage, airway smooth muscle, and airway epithelial cells. In rats, the receptor protein and/or mRNA has been found in lung, spleen, intestine, skin, kidney, liver, long bones, and rather extensively throughout the brain and other parts of the central nervous system.
+EP2 expression in fibroblasts from the lungs of mice with bleomycin-induced pulmonary fibrosis and humans with Idiopathic pulmonary fibrosis is greatly reduced. In both instances, this reduced expression was associated with hypermethylation of CpG dinucleotide sites located in the first 420 base pairs upstream of the PTGER2 gene transcription start site of these fibroblasts. This suggests that EP2 expression is regulated by this methylation.
+
+
+== Ligands ==
+
+
+=== Activating ligands ===
+The following standard prostaglandins have the following relative efficacies in binding to and activating EP2: PGE2>PGF2alpha>=PGI2>PGD2. The receptor binding affinity Dissociation constant Kd (i.e. ligand concentration needed to bind with 50% of available EP1 receptors) is ~13 nM for PGE2 and ~10 nM for PGE1 with the human receptor and ~12 nM for PGE2 with the mouse receptor. Because PGE2 activates multiple prostanoid receptors and has a short half-life in vivo due to its rapidly metabolism in cells by omega oxidation and beta oxidation, metabolically resistant EP2-selective activators are useful for the study of this receptor's function and could be clinically useful for the treatment of certain diseases. There are several such agonists including butaprost free acid and ONO-AE1-259-01 which have Ki inhibitory binding values (see Biochemistry#Receptor/ligand binding affinity) of 32 and 1.8 NM, respectively, and therefore are respectively ~2.5-fold less and 7-fold more potent than PGE2.
+
+
+=== Inhibiting ligands ===
+PF-04418948 (Ki=16 nM), TG4-155 (Ki=9.9 nM), TG8-4, and TG6-129 are selective competitive antagonists for EP2 that have been used for studies in animal models of human diseases. Many of the earlier EP2 receptor antagonists used for such studies exhibited poor receptor selectivity, inhibiting, for example, other EP receptors.
+
+
+== Mechanism of cell activation ==
+EP2 is classified as a relaxant type of prostanoid receptor based on its ability, upon activation, to relax certain types of smooth muscle (see Prostaglandin receptors). When initially bound to PGE2 or any other of its agonists, it mobilizes G proteins containing the Gs alpha subunit (i.e. Gαs)-G beta-gamma complexes (i.e. Gβγ). The Gαs- Gβγ complexes dissociate into their Gαs and Gβγ subunits which in turn regulate cell signaling pathways. In particular, Gαs stimulates adenylyl cyclase to raise cellular levels of cAMP thereby activating PKA; PKA activates various types of signaling molecules such as the transcription factor CREB which lead to different types of functional responses depending on cell type. EP2 also activates the a) GSK-3 pathway which regulates cell migratory responses and innate immune responses including pro-inflammatory cytokine and interleukin production and b) Beta-catenin pathway which regulates not only cell–cell adhesion but also activates the Wnt signaling pathway which, in turn, stimulates the transcription of genes responsible for regulating cell migration and proliferation. In many of these respects, EP2 actions resemble those of another type of relaxant prostanoid receptor, EP4 but differs from the contractile prostanoid receptors, EP1 and EP3 receptors which mobilize G proteins containing the Gαq-Gβγ complex. EP2 also differs from all the other prostaglandin receptors in that it fails to undergo homologous desensitization. That is, following agonist-induced activation, the other prostaglandin (as well as most types of G protein coupled receptors) quickly become desensitized, often internalized, and whether or not internalized, incapable of activating their G protein targets. This effect limits the duration and extent to which agonists can stimulate cells. EP2, by failing to become desensitized, is able to function over prolong periods and later time points than other prostaglandin receptors and therefore potentially able to contribute to more delayed and chronic phases of cellular and tissue responses.
+
+
+== Functions ==
+Studies using animals genetically engineered to lack EP2 and supplemented by studies examining the actions of EP2 receptor antagonists and agonists in animals as well as animal and human tissues indicate that this receptor serves various functions.
+
+
+=== Eye ===
+When applied topically into the eyes of rodents, cats, rhesus monkeys, and humans PGE2 acts, apparently acting at least in part through EP2, decreases intraocular pressure by stimulating increases in the drainage of aqueous humor through the uveoskceral pathway, the principal aqueous humor outflow pathway in the eye.
+
+
+=== Reproduction ===
+Female mice engineered to lack a functional Pgter2 gene show a modest reduction in ovulation and more severely impaired capacity for Fertilisation. Studies suggest that this impaired fertilization reflects the loss of EP2 functions in stimulating cumulus cells clusters which surround oocytes to: a) form the CCL7 chemokine which serves as a chemoattractant that guides sperm cells to oocytes and b) disassemble the extracellular matrix which in turn allows sperm cells to penetrate to the oocyte. These data allow that an EP2 receptor antagonist may be a suitable candidate as a contraceptive for women.
+
+
+=== Inflammation and allergy ===
+Activation of EP2 contributes to regulating B cell immunoglobulin class switching, maturation of T lymphocyte CD4−CD8− cells to CD4+CD8+ cells, and the function of Antigen-presenting cells, particularly Dendritic cells. EP thereby contributes to the development of inflammation in rodent models of certain types of experimentally-induced joint and paw inflammation and the neurotoxic effects of endotoxin. However, EP2 activation also has anti-inflammatory actions on pro-inflammatory cells (e.g. neutrophils, monocytes, macrophages, dendritic cells, NK cells, TH1 cells, TH2 cells, and fibroblasts in various tissues and on microglia cells in the central nervous system). These actions suppress certain forms of inflammation such NMDA receptor-related neurotoxicity and the rodent model of Bleomycin-induced pulmonary fibrosis. EP2 activation also inhibits the phagocytosis and killing of pathogens by alveolar macrophages; these effects may serve an anti-inflammatory role but reduce host defense against these pathogens.
+Activation of EP2 also influences allergic inflammatory reactions. It dilates airways (bronchodilation) contracted by the allergic mediator, histamine; inhibits Immunoglobulin E-activated mast cells from releasing histamine and leukotrienes (viz., LTC4, LTD4, and LTE4), all of which have bronchoconstricting and otherwise pro-allergic actions; inhibits pro-allergic eosinophil apoptosis, chemotaxis, and release of pro-allergic granule contents; and reduces release of the pro-allergic cytokines Interleukin 5, Interleukin 4, and interleukin 13 from human blood mononuclear cells.
+
+
+=== Cardiovascular ===
+EP2 receptor-deficient mice develop mild systolic and/or systemic hypertension which is worsened by high dietary intake of salt. These effects are thought to be due to the loss of EP2's vasodilation effects and/or ability to increase the urinary excretion of salt.
+
+
+=== Bone ===
+EP2-deficient mice exhibit impaired generation of osteoclasts (cells that break down bone tissue) due to a loss in the capacity of osteoblastic cells to stimulate osteoclast formation. These mice have weakened bones compared with the wild type animals. When administered locally or systemically to animals, EP2-selective agonists stimulate the local or systemic formation of bone, augment bone mass, and accelerate the healing of fractures and other bone defects in animal models.
+
+
+=== Nervous system ===
+EP2 deficient mice exhibit reduced Oxidative stress and beta amyloid formation. Activation of this receptor also has neuroprotective effects in models of Alzheimer's disease, Amyotrophic lateral sclerosis, multiple sclerosis, and stroke while its inhibition reduces Epileptic seizure. EP2 signaling can also increase stroke injury via neurons in a mice model according to a PNAS paper. EP2 receptors on either nerve or Neuroglia cells of the peripheral and central nervous system act to promote pain perception, which are caused by inflammation, muscle stretch, temperature, and physical stimuli (see allodynia) in mice. A 2021 study found that inhibition of myeloid cell EP2 signalling can reverse or prevent an inflammation element of brain-ageing in mice.
+
+
+=== Malignancy ===
+The EP2 receptor can act as a tumor promoter. EP2 gene knockout mice have less lung, breast, skin, and colon cancers following exposure to carcinogens. Knockout of this gene in mice with the adenomatous polyposis coli mutation also causes a decrease in the size and number of pre-cancerous intestinal polyps that the animals develop. These effects are commonly ascribed to the loss of EP2-mediated: Vascular endothelial growth factor production and thereby of tumor vascularization; regulation of endothelial cell motility and survival; interference with transforming growth factor-β's anti-cell proliferation activity; and, more recently, regulation of host anti-tumor immune responses.
+
+
+== Clinical significance ==
+
+
+=== Therapeutics ===
+Preclinical studies, as outlined above, indicate that EP2 may be a target for treating and/or preventing particular human disorders involving: allergic diseases such as asthma and rhinitis, particularly aspirin-exacerbated respiratory disease (AERD); glaucoma; various diseases of the nervous system; fractures, osteoporosis, and other bone abnormalities; pulmonary fibrosis; certain forms of malignant disease such as colon cancer including those that arise from Adenomatous polyposis coli mutations; and salt-sensitive forms of hypertension; This receptor has also been suggested to be a target for contraception. To date, however, there has been little translational research to determine the possible beneficial effects of EP2 antagonists or agonists in humans. The following drugs that act on EP2 but also other prostaglandin receptors are in clinical use:
+
+Iloprost activates EP2, EP3, and EP4 receptors to treat diseases involving pathological constriction of blood vessels such as pulmonary hypertension, Raynauds disease, and scleroderma. Presumably, it works by stimulating EP2, and EP4 receptors which have vasodilation actions.
+Misoprostol, an EP3 and EP4 receptor agonist, to prevent ulcers; to induce labor in pregnancy, medical abortion, and late miscarriage; and to prevent and treat postpartum bleeding.
+The following drugs are in development or proposed to be candidates for development as highly selective EP2 agonists for the indicated conditions:
+
+Butaprost for the treatment of pulmonary fibrosis and certain neurological diseases
+CP533,536 for the stimulation of bone formation
+Taprenepag isopropyl (PF-04217329) for the treatment of glaucoma and various neurological diseases (see above section on Nervous system)
+
+
+=== Genomic studies ===
+The single-nucleotide polymorphism (SNP) variant rs17197 in the 3' untranslated region of PTGER2 has been associated with an increased incidence of essential hypertension in a population of Japanese men. SNP variant rs1254598 in a Spanish population; SNP variant uS5 located in a STAT-binding consensus sequence of the regulatory region of PTGER2 with reduced transcription activity in a Japanese population; and two PTGER2 SNP variants (-616C>G and -166G>A) in a Korean population have been associated with an increased incidence of Aspirin-induced asthma.

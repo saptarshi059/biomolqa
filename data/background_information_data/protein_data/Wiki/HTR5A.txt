@@ -1,0 +1,38 @@
+5-Hydroxytryptamine (serotonin) receptor 5A, also known as HTR5A, is a protein that in humans is encoded by the HTR5A gene. Agonists and antagonists for 5-HT receptors, as well as serotonin uptake inhibitors, present promnesic (memory-promoting) and/or anti-amnesic effects under different conditions, and 5-HT receptors are also associated with neural changes.
+
+
+== Function ==
+The gene described in this record is a member of 5-hydroxytryptamine receptor family and encodes a multi-pass membrane protein that functions as a receptor for 5-hydroxytryptamine and couples to G proteins, negatively influencing cAMP levels via Gi and Go. This protein has been shown to function in part through the regulation of intracellular Ca2+ mobilization. The 5-HT5A receptor has been shown to be functional in a native expression system.
+Rodents have been shown to possess two functional 5-HT5 receptor subtypes, 5-HT5A and 5-HT5B, however while humans possess a gene coding for the 5-HT5B subtype, its coding sequence is interrupted by stop codons, making the gene non-functional, and so only the 5-HT5A subtype is expressed in human brain.
+It also appears to serve as a presynaptic serotonin autoreceptor.
+
+
+== Clinical significance ==
+The neurotransmitter serotonin (5-hydroxytryptamine, 5-HT) has been implicated in a wide range of psychiatric conditions and also has vasoconstrictive and vasodilatory effects.
+
+
+== Selective ligands ==
+Few highly selective ligands are commercially available for the 5-HT5A receptor. When selective activation of this receptor is desired in scientific research, the non-selective serotonin receptor agonist 5-Carboxamidotryptamine can be used in conjunction with selective antagonists for its other targets (principally 5-HT1A, 5-HT1B, 5-HT1D, and 5-HT7). Research in this area is ongoing.
+
+
+=== Agonists ===
+LSD:(+)-lysergic acid.
+Lisuride –  partial agonist.
+5-CT –  full agonist.
+Methylergometrine –  full agonist.
+Valerenic acid –  a component of valerian, has been shown to act as a 5HT5A partial agonist.
+Olanzapine –  an atypical antipsychotic.
+Psilocin
+Aripiprazole - an atypical antipsychotic
+Mirtazapine - an atypical antidepressant
+Another ligand that has been recently disclosed is shown below, claimed be a selective 5-HT5A agonist with Ki = 124 nM.
+
+
+=== Antagonists ===
+ASP-5736
+AS-2030680
+AS-2674723
+MS112 –  selective potent antangonist.
+Latrepirdine (non-selective).
+Risperidone –  (non-selective), moderate 206 nM affinity.
+SB-699,551

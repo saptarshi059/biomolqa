@@ -1,0 +1,48 @@
+Nimodipine, sold under the brand name Nimotop among others, is a calcium channel blocker used in preventing vasospasm secondary to subarachnoid hemorrhage (a form of cerebral hemorrhage). It was originally developed within the calcium channel blocker class as it was used for the treatment of high blood pressure, but is not used for this indication. 
+It was patented in 1971 and approved for medical use in the United States in 1988. It was approved for medical use in Germany in 1985.
+
+
+== Medical use ==
+Because it has some selectivity for cerebral vasculature, nimodipine's main use is in the prevention of cerebral vasospasm and resultant ischemia, a complication of subarachnoid hemorrhage (a form of cerebral bleed), specifically from ruptured intracranial berry aneurysms irrespective of the patient's post-ictus neurological condition. Its administration begins within 4 days of a subarachnoid hemorrhage and is continued for three weeks. If blood pressure drops by over 5%, dosage is adjusted. There is still controversy regarding the use of intravenous nimodipine on a routine basis.
+A 2003 trial found nimodipine was inferior to magnesium sulfate in preventing seizures in women with severe preeclampsia.
+Nimodipine is not regularly used to treat head injury. Several investigations have been performed evaluating its use for traumatic subarachnoid hemorrhage; a systematic review of 4 trials did not suggest any significant benefit to the patients that receive nimodipine therapy. There was one report case of nimodipine being successfully used for treatment of ultradian bipolar cycling after brain injury and, later, amygdalohippocampectomy.
+
+
+=== Dosage ===
+The regular dosage is 60 mg tablets every four hours. If the patient is unable to take tablets orally, it was previously given via intravenous infusion at a rate of 1–2 mg/hour (lower dosage if the body weight is <70 kg or blood pressure is too low), but since the withdrawal of the IV preparation, administration by nasogastric tube is an alternative.
+
+
+== Contraindications ==
+
+
+== Side effects ==
+The US Food and Drug Administration (FDA) has classified the side effects into groups based on dosages levels at q4h. For the high dosage group (90 mg) less than 1% of the group experienced adverse conditions including itching, gastrointestinal hemorrhage, thrombocytopenia, neurological deterioration, vomiting, diaphoresis, congestive heart failure, hyponatremia, decreasing platelet count, disseminated intravascular coagulation, and deep vein thrombosis.
+
+
+== Pharmacokinetics ==
+
+
+=== Absorption ===
+After oral administration, it reaches peak plasma concentrations within one and a half hours. Patients taking enzyme-inducing anticonvulsants have lower plasma concentrations, while patients taking sodium valproate were markedly higher.
+
+
+=== Metabolism ===
+Nimodipine is metabolized in the first pass metabolism. The dihydropyridine ring of the nimodipine is dehydrogenated in the hepatic cells of the liver, a process governed by cytochrome P450 isoform 3A (CYP3A). This can be completely inhibited however, by troleandomycin (an antibiotic) or ketoconazole (an antifungal drug).
+
+
+=== Excretion ===
+Studies in non-human mammals using radioactive labeling have found that 40–50% of the dose is excreted via urine. The residue level in the body was never more than 1.5% in monkeys.
+
+
+== Mechanism of action ==
+Nimodipine binds specifically to L-type voltage-gated calcium channels. There are numerous theories about its mechanism in preventing vasospasm, but none are conclusive.
+Nimodipine has additionally been found to act as an antagonist of the mineralocorticoid receptor, or as an antimineralocorticoid.
+
+
+== Synthesis ==
+
+The key acetoacetate (2) for the synthesis of nimodipine (5) is obtained by alkylation of sodium acetoacetate  with 2-methoxyethyl chloride, Aldol condensation of meta-nitrobenzene (1) and the subsequent reaction of the intermediate with enamine (4) gives nimodipine.
+
+
+== Stereochemistry ==
+Nimodipine contains a stereocenter and can exist as either of two enantiomers. The pharmaceutical drug is a racemate, an equal mixture of the (R)- and (S)- forms.

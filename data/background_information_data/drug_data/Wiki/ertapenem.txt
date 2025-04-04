@@ -1,0 +1,83 @@
+Ertapenem, sold under the brand name Invanz, is a carbapenem antibiotic medication used for the treatment of infections of the abdomen, the lungs, the upper part of the female reproductive system, and the diabetic foot.
+The most common side effects include diarrhoea, nausea (feeling sick), headache, and problems around the area where the medicine is infused. It can significantly reduce the concentrations of valproic acid, an anti-seizure medication, in the blood to the point where it loses its effectiveness.
+Ertapenem was approved for medical use in the United States in November 2001, and in the European Union in April 2002. It is marketed by Merck.
+
+
+== Medical uses ==
+Ertapenem is indicated for the treatment of intra-abdominal infections, community-acquired pneumonia, pelvic infections, and diabetic foot infections, with bacteria that are susceptible to this drug, or expected to be so. It can also be used to prevent infections after colorectal surgery. In the United States it is also indicated for the treatment of complicated urinary tract infections including pyelonephritis. It is a potential effective alternative treatment for ceftriaxone-resistant gonorrhoea.
+It is given as an intravenous infusion or intramuscular injection. The drug is not approved for children under three months of age.
+
+
+== Contraindications ==
+The drug is contraindicated in people with known hypersensitivity to ertapenem or other carbapenem type antibiotics, or with severe hypersensitivity reactions (such as anaphylaxis or severe skin reactions) to other beta-lactam antibiotics in the past.
+
+
+== Side effects ==
+Common side effects are diarrhoea (in 5% of people receiving ertapenem), nausea (in 3%) and vomiting, reactions at the injection site (5%, including pain and inflammation of the vein), and headache. Uncommon but possibly serious side effects include candida infections, seizures, skin reactions such as rashes (including nappy rash in children), and anaphylaxis. Hypersensitivity cross-reactions with penicillins are rare.
+Ertapenem also can have an effect on some blood tests such as liver enzymes and platelet count.
+
+
+== Overdose ==
+Overdosing is unlikely. In adults receiving the threefold therapeutic dose over eight days, no significant toxicity was observed.
+
+
+== Interactions ==
+Ertapenem can reduce the concentrations of valproic acid, an epilepsy medication, by 70% and perhaps up to 95% within 24 hours; this can result in inadequate control of seizures.  The effect is described for other carbapenem antibiotics as well, but seems to be most pronounced for ertapenem and meropenem. This is likely caused by several mechanisms: carbapenems inhibit transport of valproic acid from the gut into the body; they may increase metabolization of valproic acid to its glucuronide; they may reduce enterohepatic circulation and recycling of valproic acid glucuronide by acting against gut bacteria; and they may block transporter proteins that pump valproic acid out of red blood cells into the blood plasma. The effect is also seen in reverse: in cases where ertapenem has been withdrawn blood concentrations of valproate have been reported to rise.
+Drug interactions via the cytochrome P450 enzyme system or the P-glycoprotein transporter are considered unlikely, as these proteins are not involved in the metabolism of ertapenem.
+
+
+== Pharmacology ==
+
+
+=== Mechanism of action ===
+
+Like all beta-lactam antibiotics, ertapenem is bactericidal. It inhibits cross-linking of the peptidoglycan layer of bacterial cell walls by blocking a type of enzymes called penicillin-binding proteins (PBPs). When a bacterial cell tries to synthesize new cell wall in order to grow and divide, the attempt fails, rendering the cell vulnerable to osmotic disruption. Additionally, the surplus of peptidoglycan precursors triggers autolytic enzymes of the bacterium, which disintegrate the existing wall.
+
+
+=== Susceptible bacteria ===
+Bacteria that are normally susceptible to ertapenem treatment (at least in Europe) include:
+
+Gram-positive aerobes
+Methicillin-susceptible Staphylococcus species (including Staphylococcus aureus)
+Streptococcus agalactiae
+Streptococcus pneumoniae (not established for penicillin-resistant strains)
+Gram-negative aerobes
+Escherichia coli
+Haemophilus influenzae
+Klebsiella pneumoniae
+Moraxella catarrhalis
+Proteus mirabilis
+Anaerobes:
+Clostridium species (excluding Clostridioides difficile)
+Eubacterium species
+Fusobacterium species
+Peptostreptococcus species
+Porphyromonas asaccharolytica
+Prevotella species
+The US Food and Drug Administration (FDA) label specifies activity against additional anaerobes:
+Bacteroides distasonis
+Bacteroides fragilis
+Bacteroides ovatus
+Bacteroides thetaiotaomicron
+Bacteroides uniformis
+
+
+=== Resistance ===
+Bacteria that show no clinically relevant response to ertapenem include methicillin-resistant Staphylococcus species (including MRSA) as well as Acinetobacter, Aeromonas, Enterococcus, and Pseudomonas.
+Microorganisms can become resistant to ertapenem by producing carbapenemases, enzymes that inactivate the drug by opening the beta-lactam ring. Other mechanisms of resistance against carbapenems are development of efflux pumps that transport the antibiotics out of the bacterial cells, mutations of PBPs, and mutations of Gram-negative bacteria's porins which are necessary for carbapenems to enter the bacteria.
+
+
+=== Pharmacokinetics ===
+
+The route of administration has only a slight effect on the drug's concentrations in the bloodstream: when given as an intramuscular injection, its bioavailability is 90% (as compared to the 100% availability when given directly into a vein), and its highest concentrations in the blood plasma are reached after about 2.3 hours. In the blood, 85–95% of ertapenem are bound to plasma proteins, mostly albumin. Plasma protein binding is higher for lower concentrations, and vice versa. The drug is only partially metabolized, with 94% circulating in form of the parent substance and 6% as metabolites. The main metabolite is the inactive hydrolysis product with the ring opened.
+Ertapenem is mainly eliminated via the kidneys and urine (80%) and to a minor extent via the faeces (10%). Of the 80% found in the urine, 38% is excreted as the parent drug and 37% as the ring-opened metabolite. The biological half-life is about 3.5 hours in women, 4.2 hours in men and 2.5 hours in children up to 12 years of age.
+
+
+=== Comparison with other antibiotics ===
+Like all carbapenem antibiotics, ertapenem has a broader spectrum of activity than other beta-lactams like penicillins and cephalosporins. Similar to doripenem, meropenem and biapenem, ertapenem has slightly better activity against many Gram-negative bacteria than other carbapenems such as imipenem. In contrast to imipenem, doripenem and meropenem, it is not active against Enterococcus, Pseudomonas and Acinetobacter species.
+For diabetic foot infections, ertapenem as a single treatment or in combination with vancomycin has been found to be more effective and have fewer side effects than tigecycline, but in severe cases it is less effective than piperacillin/tazobactam.
+Regarding pharmacokinetics, imipenem, doripenem and meropenem have lower plasma protein bindings (up to 25%) and shorter half-lives (about one hour) than ertapenem.
+
+
+== History ==
+Ertapenem is marketed by Merck. It was approved for use by the US Food and Drug Administration in November 2001, and by the European Medicines Agency in April 2002.

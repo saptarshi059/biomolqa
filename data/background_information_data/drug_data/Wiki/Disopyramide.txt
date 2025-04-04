@@ -1,0 +1,50 @@
+Disopyramide (INN, trade names Norpace and Rythmodan) is an antiarrhythmic medication used in the treatment of ventricular tachycardia. It is a sodium channel blocker and is classified as a Class 1a anti-arrhythmic agent. Disopyramide has a negative inotropic effect on the ventricular myocardium, significantly decreasing the contractility. Disopyramide also has general anticholinergic effects which contribute to unwanted adverse effects. Disopyramide is available in both oral and intravenous forms. In 1972, when it was one of the only alternatives to quinidine, it was praised for being more potent and somewhat less toxic. However, a 2012 review of antiarrhythmic drugs noted that disopyramide is among the most toxic agents, with a high burden of side effects and increased mortality (compared to placebo) when used to treat atrial fibrillation.
+
+
+== Mechanism of action ==
+Disopyramide's Class 1a activity is similar to that of quinidine in that it targets sodium channels to inhibit conduction. Disopyramide depresses the increase in sodium permeability of the cardiac myocyte during Phase 0 of the cardiac action potential, in turn decreasing the inward sodium current. This results in an increased threshold for excitation and a decreased upstroke velocity. Disopyramide prolongs the PR interval by lengthening both the QRS and P wave duration. This effect is particularly well suited in the treatment of ventricular tachycardia as it slows the action potential propagation through the atria to the ventricles. Disopyramide does not act as a blocking agent for beta or alpha adrenergic receptors, but does have a significant negative inotropic effect on the ventricular myocardium. Anesthetized dogs treated with disopyramide (1 mg/kg) had reduced contractile force of 42%, and the decrease in contractile force from 1 mg/kg of disopyramide was roughly double the decrease seen with quinidine in much higher doses of 5, 10, or 15 mg/kg.
+Levites proposed a possible secondary mode of action for disopyramide, against reentrant arrhythmias after an ischemic insult. Disopyramide decreases the inhomogeneity between infarcted and normal myocardium refractory periods; in addition to lengthening the refractory period. This decreases the chance of re-entry depolarization, because signals are more likely to encounter tissue in a refractory state which cannot be excited. This provides a possible treatment for atrial and ventricular fibrillation, as it restores pacemaker control of the tissue to the SA and AV nodes.
+
+
+== Obstructive hypertrophic cardiomyopathy ==
+Hypertrophic cardiomyopathy (HCM) is the most common inherited cardiac disease, occurring in 1:500 individuals in the general population. It is estimated that there are 600,000 individuals in the United States with hypertrophic cardiomyopathy. The most common variant of HCM presents with left ventricular (LV) intracavitary obstruction due to systolic anterior motion of the mitral valve, and mitral-septal contact, diagnosed readily with echocardiography. Pharmacologic treatment with negative inotropic drugs is first-line therapy. Beta-blockers are used first, and while they improve symptoms of shortness of breath, chest pain and exercise intolerance, they do not reduce resting LV intraventricular pressure gradients and often are inadequate to control symptoms. Many investigators and clinicians believe that disopyramide controlled release is the most potent agent available for reducing resting pressure gradients and improving symptoms. Disopyramide has been actively used for more than 30 years. Disopyramide administration for obstructive HCM has a IB recommendation in the 2020 American Heart Association/American College of Cardiology Foundation guidelines for treatment of obstructive HCM. A IB treatment recommendation indicates that a treatment is recommended, and may be useful, and beneficial.
+Negative inotropes improve left ventricular (LV) obstruction by decreasing LV ejection acceleration and hydrodynamic forces on the mitral valve. Disopyramide's particular efficacy is due to its potent negative inotropic effects; in head-to-head comparison, it is more effective for gradient reduction than either beta-blocker or verapamil. Disopyramide is most often administered with beta-blockade. When used in patients resistant to beta-blockade, disopyramide is effective in 60% of cases, reducing symptoms and gradient to the extent that invasive procedures such as surgical septal myectomy are not required.
+Disopyramide, despite its efficacy, has one main side effect that has limited its use in the US, though it has seen wider application in Canada, UK and Japan. Vagal blockade predictably causes dry mouth, and in men with prostatism, may cause urinary retention. Teichman et al. showed that pyridostigmine used in combination with disopyramide substantially alleviates vagolytic side effects without compromising antiarrhythmic efficacy. This combination has also been shown to be effective and safe in obstructive HCM in a large cohort of patients. Some clinicians prescribe pyridostigmine sustained release (marketed in the US as Mestinon Timespan) to every patient begun on disopyramide. This combination increases acceptance of higher disopyramide dosing, important since there is a dose-response correlation in obstructive HCM, higher doses yielding lower gradients.
+Another concern about disopyramide has been the hypothetical potential for inducing sudden death from its type 1 anti-arrhythmic effects. However, a multicenter registry and two recent cohort registries have largely reduced this concern, by showing sudden death rates lower than that observed from the disease itself.
+These concerns about the drug must be viewed from the clinical perspective that disopyramide is generally the last agent that is tried for patients before they are referred for invasive septal reduction with surgical septal myectomy (an open-heart operation) or alcohol septal ablation (a controlled heart attack). Both of these invasive procedures have risk of morbidity and mortality.
+For selected patients, a trial of oral disopyramide is a reasonable approach before proceeding to invasive septal reduction. Patients who respond to disopyramide are continued on the drug. Those who continue to have disabling symptoms or who experience side effects are promptly referred for septal reduction. Using such a stepped strategy, investigators have reported that survival does not differ from that observed in the age-matched normal United States population.
+
+
+== Side effects ==
+Disopyramide has the following side effects:
+
+Mild side effects
+Dry mouth
+Polyuria (frequent urination)
+Constipation
+Blurred vision
+Rash
+Bloating
+Dizziness
+Fatigue
+Serious side effects
+Breathlessness
+Chest pain
+Weight gain
+
+
+== Adverse effects ==
+
+
+=== Cardiac adverse effects ===
+Acute decompensated heart failure: Disopyramide should not be given to patients with impaired left ventricular (LV) systolic function and low ejection fraction. Heart failure is not seen when disopyramide is used in patients with normal or supernormal LV systolic function.
+Severe hypotension – Disopyramide should not be given to patients with impaired LV systolic function and low ejection fraction. Hypotension is not seen in patients with normal or supernormal LV systolic function.
+
+
+=== Extracardiac adverse effects ===
+Disopyramide has atropine-like anticholinergic effects.
+
+Urinary retention – Disopyramide should not be given to patients with symptomatic prostatism.
+Glaucoma
+Agranulocytosis
+Additionally, disopyramide may enhance the hypoglycemic effect of gliclazide, insulin, and metformin.

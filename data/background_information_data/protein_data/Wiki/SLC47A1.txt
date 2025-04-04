@@ -1,0 +1,13 @@
+Multidrug and toxin extrusion protein 1 (MATE1), also known as solute carrier family 47 member 1, is a protein that in humans is encoded by the SLC47A1 gene. SLC47A1 belongs to the MATE (multidrug and toxic compound extrusion) family of transporters that  are found in bacteria, archaea and eukaryotes.
+
+
+== Gene ==
+The SLC47A1 gene is located within the Smith–Magenis syndrome region on chromosome 17.
+
+
+== Function ==
+SLC47A1 is a member of the MATE family of transporters that excrete endogenous and exogenous toxic electrolytes through urine and bile.
+
+
+== Discovery ==
+The multidrug efflux transporter NorM from V. parahaemolyticus which mediates resistance to multiple antimicrobial agents (norfloxacin, kanamycin, ethidium bromide etc.) and its homologue from E. coli were identified in 1998, which is the first of Solute carrier family 47 member. NorM seems to function as drug/sodium antiporter which is the first example of Na+-coupled multidrug efflux transporter. NorM is a prototype of a new transporter family and Brown et al. named it the multidrug and toxic compound extrusion family. The X-ray structure of the transporter NorM was determined to 3.65 Å, revealing an outward-facing conformation with two portals open to the outer leaflet of the membrane and a unique topology of the predicted 12 transmembrane helices distinct from any other known multidrug resistance transporter.

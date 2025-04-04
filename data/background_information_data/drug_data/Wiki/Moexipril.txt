@@ -1,0 +1,23 @@
+Moexipril was an angiotensin converting enzyme inhibitor (ACE inhibitor) used for the treatment of hypertension and congestive heart failure. Moexipril can be administered alone or with other antihypertensives or diuretics. 
+It works by inhibiting the conversion of angiotensin I to angiotensin II. 
+It was patented in 1980 and approved for medical use in 1995. Moexipril is available from Schwarz Pharma under the trade name Univasc.
+
+
+== Side effects ==
+Moexipril is generally well tolerated in elderly patients with hypertension.
+Hypotension, dizziness, increased cough, diarrhea, flu syndrome, fatigue, and flushing have been found to affect less than 6% of patients who were prescribed moexipril.
+
+
+== Mechanism of action ==
+As an ACE inhibitor, moexipril causes a decrease in ACE. This blocks the conversion of angiotensin I to angiotensin II. Blockage of angiotensin II limits hypertension within the vasculature. Additionally, moexipril has been found to possess cardioprotective properties. Rats given moexipril one week prior to induction of myocardial infarction, displayed decreased infarct size. The cardioprotective effects of ACE inhibitors are mediated through a combination of angiotensin II inhibition and bradykinin proliferation. Increased levels of bradykinin stimulate in the production of prostaglandin E2 and nitric oxide, which cause vasodilation and continue to exert antiproliferative effects. Inhibition of angiotensin II by moexipril decreases remodeling effects on the cardiovascular system. Indirectly, angiotensin II stimulates of the production of endothelin 1 and 3 (ET1, ET3) and the transforming growth factor beta-1 (TGF-β1), all of which have tissue proliferative effects that are blocked by the actions of moexipril.  The antiproliferative effects of moexipril have also been demonstrated by in vitro studies where moexipril inhibits the estrogen-stimulated growth of neonatal cardiac fibroblasts in rats. Other ACE inhibitors have also been found to produce these actions, as well.
+
+
+== Pharmacology ==
+Moexipril is available as a prodrug moexipril hydrochloride, and is metabolized in the liver to form the pharmacologically active compound moexiprilat. Formation of moexiprilat is caused by hydrolysis of an ethyl ester group. Moexipril is incompletely absorbed after oral administration, and its bioavailability is low. The long pharmacokinetic half-life and persistent ACE inhibition of moexipril allows once-daily administration.
+Moexipril is highly lipophilic, and is in the same hydrophobic range as quinapril, benazepril, and ramipril. Lipophilic ACE inhibitors are able to penetrate membranes more readily, thus tissue ACE may be a target in addition to plasma ACE. A significant reduction in tissue ACE (lung, myocardium, aorta, and kidney) activity has been shown after moexipril use.
+It has additional PDE4-inhibiting effects.
+
+
+== Synthesis ==
+
+The synthesis of the all-important dipeptide-like side chain involves alkylation of the tert-butyl ester of L-alanine (2) with ethyl 2-bromo-4-phenylbutanoate (1); the presominane of the desired isomer is attributable to asymmetric induction from the adjacent chiral center. Reaction of the product with hydrogen chloride then cleaves the tert-butyl group to give the half acid (3). Coupling of that acid to the secondary amine on tetrahydroisoquinoline (4) gives the corresponding amine. The tert-butyl ester in this product is again cleaved with hydrogen chloride to afford moexipril (5).

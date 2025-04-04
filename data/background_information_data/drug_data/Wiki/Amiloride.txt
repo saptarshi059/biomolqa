@@ -1,0 +1,116 @@
+Amiloride, sold under the trade name Midamor among others, is a medication typically used with other medications to treat high blood pressure or swelling due to heart failure or cirrhosis of the liver. Amiloride is classified as a potassium-sparing diuretic. Amiloride is often used together with another diuretic, such as a thiazide or loop diuretic. It is taken by mouth. Onset of action is about two hours and it lasts for about a day.
+Common side effects include high blood potassium, vomiting, loss of appetite, rash, and headache. The risk of high blood potassium is greater in those with kidney problems, diabetes, and those who are older. Amiloride blocks the epithelial sodium channel (ENaC) in the late distal tubule, connecting tubule, and collecting duct of the nephron, which both reduces absorption of sodium ion from the lumen of the nephron and reduces excretion of potassium ion into the lumen.
+Amiloride was developed in 1967. It is on the World Health Organization's List of Essential Medicines.
+
+
+== Medical uses ==
+Amiloride may be used in combination with a thiazide diuretic for treatment of high blood pressure or (less commonly) in combination with a loop diuretic for treatment of heart failure. The potassium-sparing effects of amiloride offset the low blood potassium (hypokalemia) that is often induced by thiazides or loop diuretics, which is of particular importance in people for whom maintaining a normal level of potassium is critically important. For example, people that are taking Digitalis (i.e. digoxin) are at higher risk for changes in heart rhythm if their potassium levels get too high. The 2017 clinical practice guidelines of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines list amiloride as a "secondary" oral antihypertensive, with minimal efficacy. For people with resistant hypertension, already taking a thiazide diuretic, an angiotensin converting enzyme inhibitor (ACE-i) or an angiotensin II receptor blocker (ARB), and a calcium channel blocker, the addition of amiloride (or spironolactone) was better at reducing blood pressure than adding a beta-blocker (bisoprolol) or an alpha-1 blocker (doxazosin). When combined with hydrochlorothiazide, the addition of amiloride had positive effects on blood pressure and blood sugar tolerance. Amiloride may therefore be useful for preventing the metabolic side effects of thiazide diuretics, allowing for the use of higher thiazide doses (in line with how they were originally studied).
+Amiloride is the treatment of choice for Liddle phenotype, which is characterized by high blood pressure, low blood potassium, and metabolic alkalosis in conjunction with a low plasma renin activity and a low aldosterone. Some people with the Liddle phenotype have Liddle syndrome, which involves a genetic mutation resulting in upregulation of the epithelial sodium channel (ENaC), located in the apical membrane of polarized epithelial cells in the late distal tubule and collecting duct of the kidney. Because Liddle phenotype usually involves an upregulation of ENaC channels, leading to retention of sodium and water and to hypokalemia, amiloride is useful as an ENaC channel inhibitor due to its promotion of sodium excretion and its potassium-sparing effects, restoring potassium to normal levels.
+Amiloride can be used as a monotherapy (single-drug therapy) or an adjunctive therapy alongside other diuretics (e.g. hydrochlorothiazide, furosemide) for the treatment of ascites and edema (swelling) due to cirrhosis of the liver. The 2012 clinical practice guidelines by the American Association for the Study of Liver Diseases (AASLD) states that amiloride can be used to treat ascites in place of spironolactone if it isn't tolerated (e.g. due to the side effect of gynecomastia), though amiloride isn't a preferred drug due to cost and lack of efficacy.
+
+
+=== Specific populations ===
+
+
+==== Diabetics ====
+People with diabetes are at higher risk for kidney problems, which increases their risk for hyperkalemia (high blood potassium). The use of amiloride in people with diabetes requires careful potassium and kidney function monitoring to prevent toxicity. Amiloride must be discontinued for at least 3 days prior to glucose tolerance testing, due to the risk for fatal hyperkalemia.
+
+
+==== Poor kidney function ====
+People with poor kidney function (e.g. blood urea nitrogen >30 mg/dL, or serum creatinine >1.5 mg/dL) are at high risk for hyperkalemia.
+
+
+==== Lactation ====
+There is no data on the use of amiloride in women that are breastfeeding. While diuretics can make lactation difficult, it is unlikely that amiloride would induce this effect in the absence of other diuretics.
+
+
+==== Pregnancy ====
+Data from the use of amiloride in animals suggests that it does not pose a risk to the developing fetus. However, when used in combination with the drug acetazolamide during the process of organ formation, amiloride increases the risk for kidney and ureter abnormalities. Limited human data from use during pregnancy suggests an association with a specific congenital penis abnormality if taken during the first trimester, as well as a risk for mild intrauterine growth restriction if taken throughout pregnancy.
+
+
+== Contraindications ==
+Amiloride is contraindicated in people with kidney problems (e.g. anuria, acute or chronic kidney disease, or diabetic nephropathy), elevated blood potassium (≥5.5 mEq/L), or people that are hypersensitive to amiloride or any ingredients within the specific formulation. Use is also contraindicated in people that are already taking potassium-sparing drugs (e.g. spironolactone and triamterene) or who are taking potassium supplements (e.g. potassium chloride) in most circumstances.
+
+
+== Adverse effects ==
+Amiloride is generally well tolerated. Common adverse effects of the use of amiloride include elevated blood potassium, mild skin rashes, headaches, and gastrointestinal side effects (nausea, vomiting, diarrhea, decreased appetite, flatulence, and abdominal pain). Mild symptoms of high blood potassium concentrations include unusual skin sensations, muscle weakness, or fatigue, but more severe symptoms such as flaccid paralysis of the limbs, slow heart rate, and even shock can occur.
+
+
+== Overdose ==
+There exists no overdose data on amiloride in humans, though it is expected than an overdose would produce effects consistent with its therapeutic effects; e.g. dehydration due to over-diuresis, and electrolyte disturbances related to hyperkalemia. It is unknown if amiloride can be dialyzed off, and no specific antidote against it exists. Treatment is generally supportive, though hyperkalemia can be treated.
+
+
+== Interactions ==
+Amiloride may have important drug-drug interactions when combined with other medications that also increase potassium levels in the blood, leading to hyperkalemia. For example, the combination of amiloride with angiotensin-converting enzyme (ACE) inhibitors like lisinopril, or angiotensin II receptor type 1 (AT1) antagonists like losartan, may lead to high levels of potassium in the blood, requiring frequent monitoring.
+
+
+== Pharmacology ==
+
+
+=== Mechanism of action ===
+
+
+==== Diuresis ====
+Amiloride works by directly blocking the epithelial sodium channel (ENaC) with an IC50 around 0.1 μM, indicating potent blockade. Antagonism of ENaC thereby inhibits sodium reabsorption in the late distal convoluted tubules, connecting tubules, and collecting ducts in the nephron. This promotes the loss of sodium and water from the body, and reduces potassium excretion. The drug is often used in conjunction with a thiazide diuretic to counteract with a potassium-losing effect. Due to its potassium-sparing capacities, hyperkalemia (elevated potassium concentration in the blood) can occur. The risk of developing hyperkalemia is increased in patients who are also taking ACE inhibitors, angiotensin II receptor antagonists, other potassium-sparing diuretics, or any potassium-containing supplements.
+
+
+==== Miscellaneous ====
+A fraction of the effects of amiloride is inhibition of cyclic GMP-gated cation channels in the inner medullary collecting duct.
+Amiloride has a second action on the heart, blocking Na+/H+ exchangers such as sodium–hydrogen antiporter 1 (NHE-1).
+Amiloride also blocks the Na+/H+ antiporter on the apical surface of the proximal tubule cells in the nephron, abolishing more than 80% of the action of angiotensin II on the secretion of hydrogen ions in proximal tubule cells. Amiloride is not an angiotensin II receptor blocker (like losartan, for example). The Na-H transporter is also found in the Jejunum of the small intestine, as a result, amiloride also blocks the reabsorption of Na, and thereby water in the intestines.
+Amiloride is considered to be a reversible, pan-acid-sensing ion channel (ASIC) inhibitor that prevents the transient flow of ions but not the sustained flow of ions. ASICs are members of the ENaC family of protein channels, and are found in the nervous system, the cardiovascular system, the gastrointestinal system, and  the skin. Broadly, ASICs are involved in harm detection, chemosensation (pH changes specifically), and touch.
+
+
+=== Pharmacokinetics ===
+
+
+==== Absorption ====
+Amiloride has an oral bioavailability of 50%, meaning that about 50% of an oral dose is absorbed into the blood stream. Coadministration with food reduces the amount of amiloride that is absorbed by the body by about 30%, though it does not affect the rate of absorption. However, taking amiloride with food helps to reduce the incidence of its gastrointestinal side effects. After being taken, amiloride's diuretic effect occurs within 2 hours, with peak diuresis within 6–10 hours. The diuretic effects of amiloride persist for about 24 hours after administration.
+
+
+==== Distribution ====
+Amiloride cross the placenta and distributes into breast milk in vivo.
+
+
+==== Metabolism ====
+Amiloride is not metabolized by the liver. In comparison, the ENaC inhibitor triamterene is metabolized by the liver.
+
+
+==== Excretion ====
+About 50% of amiloride is excreted unchanged by the kidneys, while around 40% is excreted in the feces (likely drug that wasn't absorbed). The half-life of amiloride in humans is between 6 and 9 hours, which may be prolonged in people with poor kidney function.
+
+
+=== Pharmacogenomics ===
+A single nucleotide polymorphism (SNP) in the protein NEDD4L may impact how amiloride affects a person's blood pressure in cases of hypertension (high blood pressure).
+
+
+== Chemistry ==
+
+Amiloride is a pyrazinoylguanidine, composed of a substituted pyrazine ring structure with a carbonylguanidinium substituent. Amiloride's pKa is 8.67, which is due to the guanidinium group. In high pH (alkaline, low hydrogen concentration) environments, the guanidinium group is deprotonated and the compound is rendered neutral, depleting its activity on sodium channels. Amiloride, as a pure substance, is highly fluorescent, with excitation wavelengths at 215, 288, and 360 nm, emitting light at 420 nm.
+
+
+== History ==
+Amiloride was first synthesized and discovered by the Merck Sharp and Dohme Research Laboratories in the late 1960s. The drug was discovered as part of a screening process of chemicals that reversed the effects of mineralocorticoids in vivo. Amiloride was the only drug in the screen that was capable of causing the excretion of sodium (natriuresis) without a concomitant urinary excretion of potassium (kaliuresis). Thousands of amiloride analogues have been studied since its initial discovery, which have been used to study the effects of sodium transporters.
+Amiloride was approved by the U.S. Food and Drug Administration (FDA) on October 5, 1981.
+
+
+== Society and culture ==
+It is on the World Health Organization's List of Essential Medicines.
+Amiloride is on the World Anti-Doping Agency's list of banned substances, as it is considered a masking agent. Diuretics like amiloride act as masking agents by reducing the concentration of other doping agents due to promoting diuresis, increasing the total volume of the urine. The list includes other potassium-sparing diuretics, such as triamterene and spironolactone. In 2008, amiloride and the potassium-sparing diuretic triamterene were found in 3% of positive diuretic doping samples.
+
+
+=== Formulations and trade names ===
+Amiloride hydrochloride
+Midamor (U.S.)
+Co-amilozide (amiloride hydrochloride with hydrochlorothiazide)
+Co-amilofruse (amiloride hydrochloride with furosemide)
+Amiloride hydrochloride with cyclopenthiazide
+Amiloride hydrochloride with bumetanide
+
+
+== Research ==
+Amiloride is an inhibitor of NHE-1, which helps to maintain normal pH within cells. Cancer cells in leukemia, a type of blood cancer, have higher pH compared to normal cells. Amiloride affects the splicing and regulation of multiple genes involved in cancer, though they do not appear to be directly related to its effects on pH. Amiloride has been tested in vitro as an adjunct to the anticancer drug imatinib, which appeared to show a synergistic effect. Modified versions of amiloride, known as 5'-(N,N-dimethyl)-amiloride (DMA), 5-N-ethyl-N-isopropyl amiloride (EIPA), and 5-(N,N-hexamethylene)-amiloride (HMA), are being studied for the treatment of leukemia.
+
+Cystic fibrosis is a genetic disorder due to a mutation in the CFTR gene, which encodes for the CFTR chloride channel. There is evidence that suggests that the molecular target of amiloride, ENaC, is also implicated in cystic fibrosis due to its effects on mucus in the lungs. Aerosolized formulations of amiloride have been tested in clinical trials, though long-term clinical trials have failed to show much utility. Due to its short duration of action, it was thought that longer-acting ENaC inhibitors may prove more effective. However, longer-acting ENaC inhibitors (i.e. benzamil) have also failed clinical trials, despite an improvement in both the solubility and potency of the drugs. A third generation amiloride analogue (N-(3,5-diamino-6-chloropyrazine-2-carbonyl)-N'-4-[4-(2,3-dihydroxypropoxy)phenyl]butyl-guanidine methanesulfonate, research name "552-02"), with better pharmacokinetic properties, is being studied.
+
+Pain induced by exposure to acid is attenuated by amiloride in human trials, which may indicate a role for amiloride in the treatment of pain in the future.

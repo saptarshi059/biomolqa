@@ -1,0 +1,18 @@
+The alpha-2A adrenergic receptor (α2A adrenoceptor), also known as ADRA2A, is an α2-adrenergic receptor, and also denotes the human gene encoding it.
+
+
+== Receptor ==
+α2-adrenergic receptors include 3 highly homologous subtypes: α2A, α2B, and α2C. These receptors have a critical role in regulating neurotransmitter release from sympathetic nerves and from adrenergic neurons in the central nervous system. Studies in mice revealed that both the α2A and α2C subtypes were required for normal presynaptic control of transmitter release from sympathetic nerves in the heart and from central noradrenergic neurons; the α2A subtype inhibited transmitter release at high stimulation frequencies, whereas the α2C subtype modulated neurotransmission at lower levels of nerve activity.
+
+
+== Gene ==
+This gene encodes α2A subtype and it contains no introns in either its coding or untranslated sequences.
+
+
+== Ligands ==
+
+
+=== Agonists ===
+
+
+=== Antagonists ===

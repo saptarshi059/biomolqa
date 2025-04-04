@@ -1,0 +1,94 @@
+Dihydrofolate reductase, or DHFR, is an enzyme that reduces dihydrofolic acid to tetrahydrofolic acid, using NADPH as an electron donor, which can be converted to the kinds of tetrahydrofolate cofactors used in one-carbon transfer chemistry. In humans, the DHFR enzyme is encoded by the DHFR gene. It is found in the q14.1 region of chromosome 5.
+There are two structural classes of DHFR, evolutionarily unrelated to each other. The former is usually just called DHFR and is found in bacterial chromosomes and animals. In bacteria, however, antibiotic pressure has caused this class to evolve different patterns of binding diaminoheterocyclic molecules, leading to many "types" named under this class, while mammalian ones remain highly similar. The latter (type II), represented by the plastid-encoded R67, is a tiny enzyme that works by forming a homotetramer.
+
+
+== Function ==
+
+Dihydrofolate reductase converts dihydrofolate into tetrahydrofolate, a proton shuttle required for the de novo synthesis of purines, thymidylic acid, and certain amino acids. While the functional dihydrofolate reductase gene has been mapped to chromosome 5, multiple intronless processed pseudogenes or dihydrofolate reductase-like genes have been identified on separate chromosomes.
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+Found in all organisms, DHFR has a critical role in regulating the amount of tetrahydrofolate in the cell. Tetrahydrofolate and its derivatives are essential for purine and thymidylate synthesis, which are important for cell proliferation and cell growth. DHFR plays a central role in the synthesis of nucleic acid precursors, and it has been shown that mutant cells that completely lack DHFR require glycine, a purine, and thymidine to grow. DHFR has also been demonstrated as an enzyme involved in the salvage of tetrahydrobiopterin from dihydrobiopterin.
+
+
+== Structure ==
+
+A central eight-stranded beta-pleated sheet makes up the main feature of the polypeptide backbone folding of DHFR. Seven of these strands are parallel and the eighth runs antiparallel. Four alpha helices connect successive beta strands. Residues 9–24 are termed "Met20" or "loop 1" and, along with other loops, are part of the major subdomain that surround the active site. The active site is situated in the N-terminal half of the sequence, which includes a conserved Pro-Trp dipeptide; the tryptophan has been shown to be involved in the binding of substrate by the enzyme.
+
+
+== Mechanism ==
+
+
+=== General mechanism ===
+
+DHFR catalyzes the transfer of a hydride from NADPH to dihydrofolate with an accompanying protonation to produce tetrahydrofolate. In the end, dihydrofolate is reduced to tetrahydrofolate and NADPH is oxidized to NADP+. The high flexibility of Met20 and other loops near the active site play a role in promoting the release of the product, tetrahydrofolate. In particular the Met20 loop helps stabilize the nicotinamide ring of the NADPH to promote the transfer of the hydride from NADPH to dihydrofolate.
+The mechanism of this enzyme is stepwise and steady-state random. Specifically, the catalytic reaction begins with the NADPH and the substrate attaching to the binding site of the enzyme, followed by the protonation and the hydride transfer from the cofactor NADPH to the substrate. However, two latter steps do not take place simultaneously in a same transition state. In a study using computational and experimental approaches, Liu et al conclude that the protonation step precedes the hydride transfer.
+
+DHFR's enzymatic mechanism is shown to be pH dependent, particularly the hydride transfer step, since pH changes are shown to have remarkable influence on the electrostatics of the active site and the ionization state of its residues. The acidity of the targeted nitrogen on the substrate is important in the binding of the substrate to the enzyme's binding site which is proved to be hydrophobic even though it has direct contact to water. Asp27 is the only charged hydrophilic residue in the binding site, and neutralization of the charge on Asp27 may alter the pKa of the enzyme. Asp27 plays a critical role in the catalytic mechanism by helping with protonation of the substrate and restraining the substrate in the conformation favorable for the hydride transfer. The protonation step is shown to be associated with enol tautomerization even though this conversion is not considered favorable for the proton donation. A water molecule is proved to be involved in the protonation step. Entry of the water molecule to the active site of the enzyme is facilitated by the Met20 loop.
+
+
+=== Conformational changes of DHFR ===
+
+The catalytic cycle of the reaction catalyzed by DHFR incorporates five important intermediate: holoenzyme (E:NADPH), Michaelis complex (E:NADPH:DHF), ternary product complex (E:NADP+:THF), tetrahydrofolate binary complex (E:THF), and THF‚NADPH complex (E:NADPH:THF). The product (THF) dissociation step from E:NADPH:THF to E:NADPH is the rate determining step during steady-state turnover.
+Conformational changes are critical in DHFR's catalytic mechanism. The Met20 loop of DHFR is able to open, close or occlude the active site. Correspondingly, three different conformations classified as the opened, closed and occluded states are assigned to Met20. In addition, an extra distorted conformation of Met20 was defined due to its indistinct characterization results. The Met20 loop is observed in its occluded conformation in the three product ligating intermediates, where the nicotinamide ring is occluded from the active site. This conformational feature accounts for the fact that the substitution of NADP+ by NADPH is prior to product dissociation. Thus, the next round of reaction can occur upon the binding of substrate.
+
+
+=== R67 DHFR ===
+
+Due to its unique structure and catalytic features, R67 DHFR is widely studied. R67 DHFR is a type II R-plasmid-encoded DHFR without geneticay or structural relation to the E. coli chromosomal DHFR. It is a homotetramer that possesses the 222 symmetry with a single active site pore that is exposed to solvent. This symmetry of active site results in the different binding mode of the enzyme: It can bind with two dihydrofolate (DHF) molecules with positive cooperativity or two NADPH molecules with negative cooperativity, or one substrate plus one, but only the latter one has the catalytical activity. Compare with E. coli chromosomal DHFR, it has higher Km in binding dihydrofolate (DHF) and NADPH. The much lower catalytical kinetics show that hydride transfer is the rate determine step rather than product (THF) release.
+In the R67 DHFR structure, the homotetramer forms an active site pore. In the catalytical process, DHF and NADPH enters into the pore from opposite position. The π-π stacking interaction between NADPH's nicotinamide ring and DHF's pteridine ring tightly connect two reactants in the active site. However, the flexibility of p-aminobenzoylglutamate tail of DHF was observed upon binding which can promote the formation of the transition state.
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Clinical significance ==
+DHFR mutations cause dihydrofolate reductase deficiency, a rare autosomal recessive inborn error of folate metabolism that results in megaloblastic anemia, pancytopenia and severe cerebral folate deficiency. These issues can be overcome by supplementation with a reduced form of folate, usually folinic acid.
+
+
+== Therapeutic applications ==
+
+DHFR is an attractive pharmaceutical target for inhibition due to its pivotal role in DNA precursor (thymine) synthesis. Trimethoprim, an antibiotic, inhibits bacterial DHFR while methotrexate, a chemotherapy agent, inhibits mammalian DHFR. However, resistance has developed against some drugs, as a result of mutational changes in DHFR itself.
+
+
+=== Cancer ===
+DHFR is responsible for the levels of tetrahydrofolate in a cell, and the inhibition of DHFR can limit the growth and proliferation of cells that are characteristic of cancer and bacterial infections. Methotrexate, a competitive inhibitor of DHFR, is one such anticancer drug that inhibits DHFR.
+Folate is necessary for growth, and the pathway of the metabolism of folate is a target in developing treatments for cancer. DHFR is one such target. A regimen of fluorouracil, doxorubicin, and methotrexate was shown to prolong survival in patients with advanced gastric cancer. Further studies into inhibitors of DHFR can lead to more ways to treat cancer.
+
+
+=== Infection ===
+Bacteria also need DHFR to grow and multiply and hence inhibitors selective for bacterial DHFR have found application as antibacterial agents. Trimethoprim has shown to have activity against a variety of Gram-positive bacterial pathogens. However, resistance to trimethoprim and other drugs aimed at DHFR can arise due to a variety of mechanisms, limiting the success of their therapeutical uses. Resistance can arise from DHFR gene amplification, mutations in DHFR, decrease in the uptake of the drugs, among others. Regardless, trimethoprim and sulfamethoxazole in combination has been used as an antibacterial agent for decades.
+Pyrimethamine is a widely used antiprotozoal agent.
+Other classes of compounds that target DHFR in general, and bacterial DHFRs in particular, belong to the classes such as diaminopteridines, diaminotriazines, diaminopyrroloquinazolines, stilbenes, chalcones, deoxybenzoins, diaminoquinazolines, diaminopyrroloquinazolines, to name but a few.
+
+
+==== Potential anthrax treatment ====
+
+Dihydrofolate reductase from Bacillus anthracis (BaDHFR) is a validated drug target in the treatment of the infectious disease, anthrax. BaDHFR is less sensitive to trimethoprim analogs than is dihydrofolate reductase from other species such as Escherichia coli, Staphylococcus aureus, and Streptococcus pneumoniae. A structural alignment of dihydrofolate reductase from all four species shows that only BaDHFR has the combination phenylalanine and tyrosine in positions 96 and 102, respectively.
+BaDHFR's resistance to trimethoprim analogs is due to these two residues (F96 and Y102), which also confer improved kinetics and catalytic efficiency. Current research uses active site mutants in BaDHFR to guide lead optimization for new antifolate inhibitors.
+
+
+== As a research tool ==
+DHFR has been used as a tool to detect protein–protein interactions in a protein-fragment complementation assay (PCA), using a split-protein approach.
+DHFR-lacking CHO cells are the most commonly used cell line for the production of recombinant proteins. These cells are transfected with a plasmid carrying the dhfr gene and the gene for the recombinant protein in a single expression system, and then subjected to selective conditions in thymidine-lacking medium. Only the cells with the exogenous DHFR gene along with the gene of interest survive. Supplementation of this medium with methotrexate, a competitive inhibitor of DHFR, can further select for those cells expressing the highest levels of DHFR, and thus, select for the top recombinant protein producers.
+
+
+== Interactions ==
+Dihydrofolate reductase has been shown to interact with GroEL and Mdm2.
+
+
+== Interactive pathway map ==
+Click on genes, proteins and metabolites below to link to respective articles.

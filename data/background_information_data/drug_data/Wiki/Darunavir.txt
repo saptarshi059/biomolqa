@@ -1,0 +1,39 @@
+Darunavir (DRV), sold under the brand name Prezista among others, is an antiretroviral medication used to treat and prevent HIV/AIDS. It is generally recommended for use with other antiretrovirals. It is often used with low doses of ritonavir or cobicistat to increase darunavir levels. It may be used for prevention after a needlestick injury or other potential exposure. It is taken by mouth once to twice a day.
+Common side effects include diarrhea, nausea, abdominal pain, headache, rash and vomiting. Severe side effects include allergic reactions, liver problems, and skin rashes such as toxic epidermal necrolysis. While poorly studied in pregnancy it appears to be safe for the baby. It is of the protease inhibitor (PI) class and works by blocking HIV protease.
+Darunavir was approved by the US Food and Drug Administration (FDA) in June 2006. It is on the World Health Organization's List of Essential Medicines. It is available as a generic medication.
+It is available in the fixed-dose combination medication darunavir/cobicistat (Prezcobix, Rezolsta), and in the fixed-dose combination medication darunavir/cobicistat/emtricitabine/tenofovir alafenamide (Symtuza).
+
+
+== Medical uses ==
+Darunavir is indicated for the treatment of human immunodeficiency virus (HIV-1) infection in adults and children three years of age and older when co-administered with ritonavir, in combination with other antiretroviral agents.
+Darunavir is an Office of AIDS Research Advisory Council (DHHS) recommended treatment option for adults and adolescents, regardless of whether they have received HIV treatment in the past. In a study of people that had never received HIV treatment, darunavir was as effective as lopinavir/ritonavir at 96 weeks with a once-daily dosing. It was approved by the FDA in October 2008, for people not previously treated for HIV. Darunavir does not cure HIV/AIDS.
+
+
+== Adverse effects ==
+Darunavir is generally well tolerated by people. Rash is the most common side effect (7% of patients). Other common side effects are diarrhea (2.3%), headache (3.8%), abdominal pain (2.3%), constipation (2.3%), and vomiting (1.5%). Darunavir can also cause allergic reactions, and people allergic to ritonavir can also have a reaction to darunavir.
+High blood sugar, diabetes or worsening of diabetes, muscle pain, tenderness or weakness, and increased bleeding in people with hemophilia have been reported in patients taking protease inhibitor medicines like darunavir. Changes in body fat have been seen in some patients taking medicines for HIV, including loss of fat from legs, arms and face, increased fat in the abdomen and other internal organs, breast enlargement, and fatty lumps on the back of the neck. The cause and long-term health effects of these conditions are not known.
+
+
+=== Drug interactions ===
+Darunavir may interact with medications commonly taken by people with HIV/AIDS such as other antiretrovirals, and antacids such as proton pump inhibitors and H2 receptor antagonists. St. John's wort may reduce the effectiveness of darunavir by increasing the breakdown of darunavir by the metabolic enzyme CYP3A.
+
+
+== Mechanism of action ==
+Darunavir is a nonpeptidic inhibitor of protease (PR) that lodges itself in the active site of PR through a number of hydrogen bonds. It was developed to increase interactions with HIV-1 protease and to be more resistant against HIV-1 protease mutations. With a Kd (dissociation constant) of 4.5 x 10−12 M, darunavir has a much stronger interaction with PR and its dissociation constant is 1/100 to 1/1000 of other protease inhibitors. This strong interaction comes from increased hydrogen bonds between darunavir and the backbone of the PR active site (Figure 2). Darunavir's structure allows it to create more hydrogen bonds with the PR active site than most PIs that have been developed and approved by the FDA. Furthermore, the backbone of HIV-1 protease maintains its spatial conformation in the presence of mutations. Because darunavir interacts with this stable portion of the protease, the PR-PI interaction is less likely to be disrupted by a mutation.
+
+
+=== Catalytic site ===
+The chemical activity of the HIV-1 protease depends on two residues in the active site, Asp25 and Asp25', one from each copy of the homodimer. Darunavir interacts with these catalytic aspartates and the backbone of the active site through hydrogen bonds, specifically binding to residues Asp25, Asp25', Asp 29, Asp 30, Asp 30', and Gly 27 (Figure 3). This interaction prevents viral replication, as it competitively inhibits the viral polypeptides from gaining access to the active site and strongly binds to the enzymatic portions of this protein.
+
+
+== History ==
+
+Darunavir was approved for use in the United States in June 2006 and for use in the European Union in February 2007.
+The development of first-generation clinical inhibitors was founded on creating more protease-ligand interactions through hydrogen bonding and hydrophobic interactions. The first HIV protease inhibitor approved by the FDA was saquinavir, which was designed to target wild-type HIV-1 protease. However, this inhibitor is no longer effective due to resistance-causing mutations on the HIV-1 protease structure. The HIV genome has high plasticity, so has been able to become resistant to multiple HIV-1 protease inhibitors. Since saquinavir, the FDA has approved several PIs, including darunavir.
+
+
+== Society and culture ==
+
+
+=== Economics ===
+In the US and UK, healthcare costs were estimated to be lower with boosted darunavir than with investigator-selected control protease inhibitors in treatment-experienced patients.

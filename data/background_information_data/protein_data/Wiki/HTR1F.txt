@@ -1,0 +1,15 @@
+5-hydroxytryptamine (serotonin) receptor 1F, also known as HTR1F  is a   5-HT1 receptor protein and also denotes the human gene encoding it.
+
+
+== Agonists ==
+5-n-Butyryloxy-DMT: >60-fold selectivity versus 5-HT1E receptor
+BRL-54443 - mixed 5-HT1E/1F agonist
+Eletriptan - mixed 5-HT1B/1D/1E/1F/2B/7 agonist
+LY-334,370 - as well as related benzamides
+LY-344,864 (N-[(3R)-3-(Dimethylamino)-2,3,4,9-tetrahydro-1H-carbazol-6-yl]-4-fluorobenzamide)
+Naratriptan - mixed 5-HT1B/1D/1F agonist
+Lasmiditan - selective 5-HT1F agonist, a first-in-class ditan molecule
+
+
+== Antagonists ==
+MLS000756415

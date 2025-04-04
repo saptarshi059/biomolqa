@@ -1,0 +1,90 @@
+Norfloxacin, sold under the brand name Noroxin among others, is an antibiotic that belongs to the class of fluoroquinolone antibiotics. It is used to treat urinary tract infections, gynecological infections, inflammation of the prostate gland, gonorrhea and bladder infection. Eye drops were approved for use in children older than one year of age.
+Norfloxacin is associated with a number of rare serious adverse reactions as well as spontaneous tendon ruptures and irreversible peripheral neuropathy. Tendon problems may manifest long after therapy had been completed and in severe cases may result in lifelong disabilities.
+It was patented in 1977 and approved for medical use in 1983.
+
+
+== Medical uses ==
+The initial approval by the U.S. Food and Drug Administration (FDA) in 1986 encompassed the following indications:
+
+Uncomplicated urinary tract infections (including cystitis)
+Complicated urinary tract infections (restricted use) 
+Uncomplicated urethral and cervical gonorrhea (however this indication is no longer considered to be effective by some experts due to bacterial resistance) 
+Prostatitis due to Escherichia coli.
+Syphilis treatment: Norfloxacin has not been shown to be effective in the treatment of syphilis.  Antimicrobial agents used in high doses for short periods of time to treat gonorrhea may mask or delay the symptoms of incubating syphilis.
+Although fluoroquinolones are sometimes used to treat typhoid and paratyphoid fever, norfloxacin had more clinical failures than the other fluoroquinolones (417 participants, 5 trials).
+In ophthalmology, Norfloxacin licensed use is limited to the treatment of conjunctival infections caused by susceptible bacteria.
+Norfloxacin has been restricted in the Republic of Ireland due to the risks of C. difficile super infections and permanent nerve as well as tendon injuries. Its licensed use in acute and chronic complicated kidney infections has been withdrawn as a result.
+The European Medicines Agency, also in 2008, had recommended restricting the use of oral norfloxacin to treat urinary infections. CHMP had concluded that the marketing authorizations for norfloxacin, when used in the treatment of acute or chronic complicated pyelonephritis, should be withdrawn because the benefits do not outweigh their risks in this indication. CHMP stated that doctors should not prescribe oral norfloxacin for complicated pyelonephritis and should consider switching patients already taking oral norfloxacin for this type of infection to an alternative antibiotic.
+Norfloxacin is used for prevention of spontaneous bacterial peritonitis in cirrhotic patients who have a low ascites fluid protein level, impaired renal function, severe liver disease, have had a prior episode of spontaneous bacterial peritonitis, or esophageal variceal bleeding.
+Note: Norfloxacin may be licensed for other uses, or restricted, by the various regulatory agencies worldwide.
+
+
+== Contraindications ==
+As noted above, under licensed use, norfloxacin is also now considered to be contraindicated for the treatment of certain sexually transmitted diseases by some experts due to bacterial resistance.
+Norfloxacin is contraindicated in those with a history of tendonitis, tendon rupture and those with a hypersensitivity to fluoroquinolones.
+There are three contraindications found within the 2008 package insert:
+
+"Noroxin (norfloxacin) is contraindicated in persons with a history of hypersensitivity, tendinitis, or tendon rupture associated with the use of norfloxacin or any member of the quinolone group of antimicrobial agents."
+"Quinolones, including norfloxacin, have been shown in vitro to inhibit CYP1A2. Concomitant use with drugs metabolized by CYP1A2 (e.g., caffeine, clozapine, ropinirole, tacrine, theophylline, tizanidine) may result in increased substrate drug concentrations when given in usual doses. Patients taking any of these drugs concomitantly with norfloxacin should be carefully monitored."
+"Concomitant administration with tizanidine is contraindicated"
+Norfloxacin is also considered to be contraindicated within the pediatric population.
+
+Pregnancy
+Norfloxacin has been reported to rapidly cross the blood-placenta and blood-milk barrier, and is extensively distributed into the fetal tissues. For this reason norfloxacin and other fluoroquinolones are contraindicated during pregnancy due to the risk of spontaneous abortions and birth defects. The fluoroquinolones have also been reported as being present in the mother's milk and are passed on to the nursing child, which may increases the risk of the child having an adverse reaction even though the child had never been prescribed or taken any of the drugs found within this class. As safer alternatives are generally available norfloxacin is contraindicated during pregnancy, especially during the first trimester. The manufacturer only recommends use of norfloxacin during pregnancy when benefit outweighs risk.
+
+Children
+A 1998 retrospective survey found that numerous side effects have been recorded in reference to the unapproved use of norfloxacin in the pediatric population.
+Fluoroquinolones are not licensed by the FDA for use in children due to the risk of fatalities as well as permanent injury to the musculoskeletal system, with two exceptions. Ciprofloxacin is being licensed for the treatment of Complicated Urinary Tract Infections and Pyelonephritis due to Escherichia coli and Inhalational Anthrax (post-exposure) and levofloxacin was recently licensed for the treatment of Inhalational Anthrax (post-exposure). However, the Fluoroquinolones are licensed to treat lower respiratory infections in children with cystic fibrosis in the UK.
+
+
+== Adverse effects ==
+In general, fluoroquinolones are well tolerated, with most side-effects being mild to moderate.  On occasion, serious adverse effects occur. Common side-effects include gastrointestinal effects such as nausea, vomiting, and diarrhea, as well as headache and insomnia.
+The overall rate of adverse events in patients treated with fluoroquinolones is roughly similar to that seen in patients treated with other antibiotic classes. A U.S. Centers for Disease Control study found patients treated with fluoroquinolones experienced adverse events severe enough to lead to an emergency department visit more frequently than those treated with cephalosporins or macrolides, but less frequently than those treated with penicillins, clindamycin, sulfonamides, or vancomycin.
+Post-marketing surveillance has revealed a variety of relatively rare but serious adverse effects that are associated with all members of the fluoroquinolone antibacterial class. Among these, tendon problems and exacerbation of the symptoms of the neurological disorder myasthenia gravis are the subject of "black box" warnings in the United States. The most severe form of tendonopathy associated with fluoroquinolone administration is tendon rupture, which in the great majority of cases involves the Achilles tendon. Younger people typically experience good recovery, but permanent disability is possible, and is more likely in older patients.  The overall frequency of fluoroquinolone-associated Achilles tendon rupture in patients treated with ciprofloxacin or levofloxacin has been estimated at 17 per 100,000 treatments. Risk is substantially elevated in the elderly and in those with recent exposure to topical or systemic corticosteroid therapy. Simultaneous use of corticosteroids is present in almost one-third of quinolone-associated tendon rupture. Tendon damage may manifest during, as well as up to a year after fluoroquinolone therapy has been completed.
+FQs prolong the QT interval by blocking voltage-gated potassium channels. Prolongation of the QT interval can lead to torsades de pointes, a life-threatening arrhythmia, but in practice, this appears relatively uncommon in part because the most widely prescribed fluoroquinolones (ciprofloxacin and levofloxacin) only minimally prolong the QT interval.
+Clostridioides difficile-associated diarrhea may occur in connection with the use of any antibacterial drug, especially those with a broad spectrum of activity such as clindamycin, cephalosporins, and fluoroquinolones. Fluoroquinoline treatment is associated with risk that is similar to or less  than that associated with broad spectrum cephalosporins. Fluoroquinolone administration may be associated with the acquisition and outgrowth of a particularly virulent Clostridioides strain.
+The U.S. prescribing information contains a warning regarding uncommon cases of peripheral neuropathy, which can be permanent. Other nervous system effects include insomnia, restlessness, and rarely, seizure, convulsions, and psychosis Other rare and serious adverse events have been observed with varying degrees of evidence for causation.
+Events that may occur in acute overdose are rare, and include kidney failure and seizure. Susceptible groups of patients, such as children and the elderly, are at greater risk of adverse reactions during therapeutic use.
+
+
+== Interactions ==
+The toxicity of drugs that are metabolised by the cytochrome P450 system is enhanced by concomitant use of some quinolones. Quinolones, including norfloxacin, may enhance the effects of oral anticoagulants, including warfarin or its derivatives or similar agents. When these products are administered concomitantly, prothrombin time or other suitable coagulation tests should be closely monitored. Coadministration may dangerously increase coumadin warfarin activity; INR should be monitored closely.
+
+They may also interact with the GABA A receptor and cause neurological symptoms; this effect is augmented by certain non-steroidal anti-inflammatory drugs.
+The concomitant administration of a non-steroidal anti-inflammatory drug (NSAID) with a quinolone, including norfloxacin, may increase the risk of CNS stimulation and convulsive seizures. Therefore, norfloxacin should be used with caution in individuals receiving NSAIDS concomitantly.
+Elevated serum levels of cyclosporine have been reported with concomitant use of cyclosporine with norfloxacin. Therefore, cyclosporine serum levels should be monitored and appropriate cyclosporine dosage adjustments made when these drugs are used concomitantly.
+The concomitant administration of quinolones including norfloxacin with glyburide (a sulfonylurea agent) has, on rare occasions, resulted in severe hypoglycemia. Therefore, monitoring of blood glucose is recommended when these agents are co-administered.
+
+
+=== Medications ===
+Some quinolones exert an inhibitory effect on the cytochrome P-450 system, thereby reducing theophylline clearance and increasing theophylline blood levels. Coadministration of certain fluoroquinolones and other drugs primarily metabolized by CYP1A2 (e.g. theophylline, methylxanthines, tizanidine) results in increased plasma concentrations and could lead to clinically significant side effects of the coadministered drug. Additionally other fluoroquinolones, especially enoxacin, and to a lesser extent ciprofloxacin and pefloxacin, also inhibit the metabolic clearance of theophylline.
+Such drug interactions are associated with the molecular structural modifications of the quinolone ring, specifically interactions involving NSAIDS and theophylline.  As such, these drug interactions involving the fluoroquinolones appear to be drug specific rather than a class effect.  The fluoroquinolones have also been shown to interfere with the metabolism of caffeine and the absorption of levothyroxine. The interference with the metabolism of caffeine may lead to the reduced clearance of caffeine and a prolongation of its serum half-life, resulting in a caffeine overdose.  This may lead to reduced clearance of caffeine and a prolongation of the plasma's half-life that may lead to accumulation of caffeine in plasma when products containing caffeine are consumed while taking norfloxacin.
+
+The use of NSAIDs (Non Steroid Anti Inflammatory Drugs) while undergoing fluoroquinolone therapy is contra-indicated due to the risk of severe CNS adverse reactions, including but not limited to seizure disorders. Fluoroquinolones with an unsubstituted piperazinyl moiety at position 7 have the potential to interact with NSAIDs and/or their metabolites, resulting in antagonism of GABA neurotransmission.
+The use of norfloxacin concomitantly has also been associated with transient elevations in serum creatinine in patients receiving cyclosporine, on rare occasions, resulted in severe hypoglycemia with sulfonylurea. Renal tubular transport of methotrexate may be inhibited by concomitant administration of norfloxacin, potentially leading to increased plasma levels of methotrexate. This might increase the risk of methotrexate toxic reactions.
+Current or past treatment with oral corticosteroids is associated with an increased risk of Achilles tendon rupture, especially in elderly patients who are also taking the fluoroquinolones.
+
+
+== Overdose ==
+Treatment of overdose includes emptying of the stomach via induced vomiting or by gastric lavage. Careful monitoring and supportive treatment, monitoring of renal and liver function, and maintaining adequate hydration is recommended by the manufacturer. Administration of magnesium, aluminum, or calcium containing antacids can reduce the absorption of norfloxacin.
+
+
+== Mechanism of action ==
+Norfloxacin is a broad-spectrum antibiotic that is active against both Gram-positive and Gram-negative bacteria.  It functions by inhibiting DNA gyrase, a type II topoisomerase, and topoisomerase IV, enzymes necessary to separate bacterial DNA, thereby inhibiting cell division. Norfloxacin does not bind to DNA gyrase but does bind to the substrate DNA.  A review in 2001 suggests that cytotoxicity of fluoroquinolones is likely a 2-step process involving (1) conversion of the topoisomerase-quinolone-DNA complex to an irreversible form and (2) generation of a double-strand break by denaturation of the topoisomerase.
+
+
+== Pharmacokinetics ==
+"Absorption of norfloxacin is rapid following single doses of 200 mg, 400 mg and 800 mg. At the respective doses, mean peak serum and plasma concentrations of 0.8, 1.5 and 2.4 μg/mL are attained approximately one hour after dosing. The effective half-life of norfloxacin in serum and plasma is 3–4 hours. Steady-state concentrations of norfloxacin will be attained within two days of dosing.  Renal excretion occurs by both glomerular filtration and tubular secretion as evidenced by the high rate of renal clearance (approximately 275 mL/min). Within 24 hours of drug administration, 26 to 32% of the administered dose is recovered in the urine as norfloxacin with an additional 5-8% being recovered in the urine as six active metabolites of lesser antimicrobial potency. Only a small percentage (less than 1%) of the dose is recovered thereafter. Fecal recovery accounts for another 30% of the administered dose.  Two to three hours after a single 400-mg dose, urinary concentrations of 200 μg/mL or more are attained in the urine. In healthy volunteers, mean urinary concentrations of norfloxacin remain above 30 μg/mL for at least 12 hours following a 400-mg dose. The urinary pH may affect the solubility of norfloxacin. Norfloxacin is least soluble at urinary pH of 7.5 with greater solubility occurring at pHs above and below this value. The serum protein binding of norfloxacin is between 10 and 15%." Quoting from the 2009 package insert for Noroxin.
+Biotransformation is via the liver and kidneys, with a half-life of 3–4 hours.
+
+
+== History ==
+The first members of the quinolone antibacterial class were relatively low potency drugs such as nalidixic acid, used mainly in the treatment of urinary tract infections owing to their renal excretion and propensity to be concentrated in urine.  In 1979 the publication of a patent filed by the pharmaceutical arm of Kyorin Seiyaku Kabushiki Kaisha disclosed the discovery of norfloxacin, and the demonstration that certain structural modifications including the attachment of a fluorine atom to the quinolone ring leads to dramatically enhanced antibacterial potency.
+In spite of the substantial increase in antibacterial activity of norfloxacin relative to early fluoroquinolones, it did not become a widely used antibiotic. Other companies initiated fluoroquinolone discovery programs in the aftermath of the publication of the norfloxacin patent. Bayer Pharmaceuticals discovered that the addition of a single carbon atom to the norfloxacin structure provided another 4 to 10-fold improvement in activity.  Ciprofloxacin reached the market just one year after norfloxacin and achieved sales of 1.5 billion Euros at its peak.
+Kyorin granted Merck & Company, Inc., an exclusive license (in certain countries, including the United States), to import and distribute Norfloxacin under the brand name Noroxin. The U.S. Food and Drug Administration (FDA) approved Noroxin for distribution in the United States on October 31, 1986.
+
+
+== Availability ==
+In most countries, all formulations require a prescription. In Colombia (South America) it is marketed under Ambigram from Laboratorios Bussié.
+Noroxin was discontinued in the US as of April 2014
+See the latest package insert for norfloxacin (Noroxin) for additional details.

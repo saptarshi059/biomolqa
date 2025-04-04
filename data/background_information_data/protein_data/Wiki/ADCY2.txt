@@ -1,0 +1,21 @@
+Adenylyl cyclase type 2 is an enzyme typically expressed in the brain of humans, that is encoded by the ADCY2 gene. It belongs to the adenylyl cyclase class-3 or guanylyl cyclase family because it contains two guanylate cyclase domains. ADCY2 is one of ten different mammalian isoforms of adenylyl cyclases. ADCY2 can be found on chromosome 5 and the "MIR2113-POU3F2" region of chromosome 6, with a length of 1091 amino-acids. An essential cofactor for ADCY2 is magnesium; two ions bind per subunit.
+
+
+== Structure ==
+Structurally, ADCY2 are transmembrane proteins with twelve transmembrane segments. The protein is organized with six transmembrane segments followed by the C1 cytoplasmic domain. Then another six membrane segments, and then a second cytoplasmic domain which is called C2. The important parts for function are the N-terminus and the C1 and C2 regions. The C1a and C2a subdomains are homologous and form an intramolecular 'dimer' that forms the active site.
+This structure displays significant homology with human brain adenylyl cyclase 1(HBA C1 or ADCY1) in the highly conserved adenylyl cyclases domain found in the 3’ cytoplasmic domain of all mammalian adenylyl cyclases. Outside this domain homology is not similar suggesting that this corresponding mRNA originates from a different gene. In situ hybridization confirms a heterogeneous population of adenylyl cyclase mRNAs is expressed in the brain.
+
+
+== Function ==
+This gene encodes a member of the family of adenylyl cyclases, which are membrane-associated enzymes that catalyze the formation of the secondary messenger cyclic adenosine monophosphate (cAMP) from ATP. ADCY2 has also been found to accelerate phosphor-acidification, along with glycogen synthesis and breakdown. This enzyme is insensitive to Ca2+/calmodulin, and is stimulated by the G protein beta and gamma subunit complex. Therefore, ADCY2 is highly regulated by G-proteins, calcium, calmodulin, pyrophosphate, and post-translational modifications.
+Recently, it has been discovered that ADCY2 can activated by a Raf kinase-mediated serine phosphorylation. In aggregate, Raf kinase associates with adenylyl cyclases and is isoform-selective, which includes adenylyl cyclase type 2. 
+In human embryonic kidney cells, ADCY2 is stimulated by activation of Gq-coupled muscarinic receptors through protein kinase C (PKC) to generate localized cAMP. Once the agonist binding to the Gq-coupled muscarinic receptor, A-kinase-anchoring protein (AKAP) recruits PKC to activate ADCY2 to produce cAMP. The cAMP formed is degraded by phosphodiesterase 4 (PDE4) activated by an AKAP-anchored protein kinase A.
+
+
+== Clinical significance ==
+Polymorphisms of the ADCY2 gene have been associated with COPD and lung function.
+Perturbations in adenylyl cyclase activity have been implicated in alcohol and opioid addiction and is associated with human diseases, including thyroid adenoma, Anthrax, precocious puberty in males and chondrodysplasia punctata diseases. During these diseases, ADCY2 undergoes a super-related pathway where protein kinase A (PKA) activation occurs in glucagon signaling and IP3 signaling. This enzyme may play a role in bipolar disorder along with other brain-expressed genes including NCALD, WDR60, SCN7A, and SPAG16.
+
+
+== Interactive pathway map ==
+Click on genes, proteins and metabolites below to link to respective articles.

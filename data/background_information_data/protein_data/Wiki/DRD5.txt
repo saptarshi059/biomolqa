@@ -1,0 +1,101 @@
+Dopamine receptor D5, also known as D1BR, is a protein that in humans is encoded by the DRD5 gene. It belongs to the D1-like receptor family along with the D1 receptor subtype.
+
+
+== Function ==
+D5 receptor is a subtype of the dopamine receptor that has a 10-fold higher affinity for dopamine than the D1 subtype. The D5 subtype is a G-protein coupled receptor, which promotes synthesis of cAMP by adenylyl cyclase via activation of Gαs/olf family of G proteins. Both D5 and D1 subtypes activate adenylyl cyclase. D1 receptors were shown to stimulate monophasic dose-dependent accumulation of cAMP in response to dopamine, and the D5 receptors were able to stimulate biphasic accumulation of cAMP under the same conditions, suggesting that D5 receptors may use a different system of secondary messengers than D1 receptors.
+Activation of D5 receptors is shown to promote expression of brain-derived neurotrophic factor and increase phosphorylation of protein kinase B in rat and mice prefrontal cortex neurons.
+In vitro, D5 receptors show high constitutive activity that is independent of binding any agonists.
+
+
+== Primary structure ==
+D5 receptor is highly homologous to the D1 receptor. Their amino acid sequences are 49% to 80% identical. D5 receptor has a long C-terminus of 93 amino acids, accounting for 26% of the entire protein. In spite of the high degree of homology between D5 and D1 receptors, their c-terminus tails have little similarity.
+
+
+== Chromosomal location ==
+In humans, D5 receptor is encoded on the chromosome 4p15.1–p15.3. The gene lacks introns and encodes a product of 477 amino acids. Two pseudogenes for D5 receptor exist that share 98% sequence with each other and 95% sequence with the functional DRD5 gene. These genes contain several in-frame stop codons that prevent these genes from transcribing a functional protein.
+
+
+== Expression ==
+
+
+=== Central nervous system ===
+D5 receptor is expressed more widely in the CNS than its close structural homolog dopamine receptor D1. It is found in neurons in amygdala, frontal cortex, hippocampus, striatum, thalamus, hypothalamus, basal forebrain, cerebellum, and midbrain. Dopamine receptor D5 is exclusively expressed by large aspiny neurons in neostriatum of primates, which are typically cholinergic interneurons. Within a cell, D5 receptors are found on the membrane of soma and proximal dendrites. They are also sometimes located in the neuropil in the olfactory region, superior colliculus, and cerebellum. D5 receptor is also found in striatal astrocytes of the rat basal ganglia.
+The receptors of this subtype are also expressed on dendritic cells and T helper cells.
+
+
+=== Kidney ===
+D5 receptors are expressed in kidneys and are involved in regulation of sodium excretion. They are located on proximal convoluted tubules, and their activation suppresses the activity of sodium–hydrogen antiporter and Na+/K+-ATPase, preventing reabsorption of sodium. D5 receptors are thought to positively regulate expression of renalase. Their faulty functioning in nephrons can contribute to hypertension.
+
+
+== Clinical significance ==
+
+
+=== Learning and memory ===
+D5 receptor participates in the synaptic processes that underlie learning and memory. These receptors participate in the formation of LTD in rodent striatum, which is opposite to the D1 receptor involvement with the formation of LTP in the same brain region. D5 receptors are also associated with the consolidation of fear memories in amygdala. It has been shown that M1-Muscarinic receptors cooperate with D5 receptors and beta-2 adrenergic receptors to consolidate cued fear memory. It is suggested that these G protein-coupled receptors redundantly activate phospholipase C in basolateral amygdala. One effect of the activation of phospholipase C is deactivation of KCNQ channels. Since KCNQ channels conduct M current that raises the threshold for action potential, deactivation of these channels leads to increased neuronal excitability and enhanced memory consolidation.
+D5 receptors may be required for long-term potentiation at the synapse between medial perforant path and dentate gyrus in murine hippocampal formation.
+
+
+=== Addiction ===
+
+
+==== Smoking ====
+Polymorphisms in the DRD5 gene, which encodes dopamine receptor D5, have been suggested to play a role in the initiation of smoking. In a study on the association of four polymorphisms of this gene with smoking, a statistical analysis suggested that there may exist a haplotype of DRD5 that is protective against initiation of smoking.
+
+
+=== ADHD ===
+Dinucleotide repeats of DRD5 gene are associated with ADHD in humans. 136-bp allele of the gene was shown to be a protective factor against developing this disorder, and 148-bp allele of DRD5 was shown to be a risk factor for it. There exist two types of the 148-bp allele of DRD5, a long and a short one.  The short dinucleotide repeat allele is associated with ADHD, but not the long one. Another allele of DRD5 that is moderately associated with ADHD susceptibility is 150 bp.
+In a rat model of ADHD, low density of D5 was found in the hippocampal pyramidal cell somas. Deficiency in D5 receptors may contribute to learning problems that may be associated with ADHD.
+
+
+=== Parkinson's disease ===
+D5 receptors may be involved in burst firing of subthalamic nucleus neurons in 6-OHDA rat model of Parkinson's disease. In this animal model, blockage of D5 receptors with flupentixol reduces burst firing and improves motor deficits. Studies show that DRD5 T978C polymorphism is not associated with the susceptibility to PD, nor with the risk of developing motor fluctuations or hallucinations in PD.
+
+
+=== Schizophrenia ===
+Several polymorphisms in DRD5 genes have been associated with susceptibility to schizophrenia. The 148 bp allele of DRD5 was linked to increased risk of schizophrenia. Some single-nucleotide polymorphisms in this gene, including changes in rs77434921, rs1800762, rs77434921, and rs1800762, in northern Han Chinese population.
+
+
+=== Locomotion ===
+D5 receptor is believed to participate in modulation of psychostimulant-induced locomotion. Mice lacking D5 receptors show increased motor response to administration of methamphetamine than wild type mice, which suggests that these receptors have a role in controlling motor activity.
+
+
+=== Regulation of blood pressure ===
+D5 receptor may be involved in modulation of the neuronal pathways that regulate blood pressure. Mice lacking this receptor in their brains showed hypertension and elevated blood pressure, which may have been caused by increased sympathetic tone. D5 receptors that are expressed in kidneys are also involved in the regulation of blood pressure via modulating expression of renalase and excretion of sodium, and disturbance of these processes can contribute to hypertension as well.
+
+
+=== Immunity ===
+D5 receptors negatively regulate production of IFNγ by NK cells. The expression of D5 receptors was shown to be upregulated in NK cells in response to prolonged stimulation with recombinant interleukin 2. This upregulation inhibits proliferation of the NK cells and suppresses synthesis of IFNγ. Activation of D5 prevents p50, part of NF-κB protein complex, from repressing the transcription of miRNA 29a. Because miRNA29a targets mRNA of IFNγ, the expression of IFNγ protein is diminished.
+D5 receptors are involved in activation and differentiation of T helper 17 cells. Specifically, these receptors play a role in polarization of CD4+ T-cells into the T helper 17 cells by modulating secretion of interleukin 12 and interleukin 23 in response to stimulation with LPS.
+
+
+== Ligands ==
+The D1 and D5 receptors have a high degree of structural homology and few ligands are available that can distinguish between them as yet. However, there is a number of ligands that are selective for D1/5 over the other dopamine receptors. The recent development of a selective D5 antagonist has allowed the action of D1-mediated responses to be studied in the absence of a D5 component, but no selective D5 agonists are yet available.
+D5 receptors show higher affinity for agonists and lower affinity for antagonists than D1 receptors.
+
+
+=== Agonists ===
+Dihydrexidine
+Rotigotine
+SKF-83,959
+Stepholidine
+Fenoldopam
+
+
+=== Inverse agonists ===
+Flupentixol
+
+
+=== Antagonists ===
+4-Chloro-7-methyl-5,6,7,8,9,14-hexahydrodibenz[d,g]azecin-3-ol: antagonist, moderate binding selectivity over D1
+
+SCH 23390
+
+
+== Protein–protein interactions ==
+D5 receptor has been shown to form heteromers with D2 receptors. Co-activation of these receptors within the heteromer triggers increase in intracellular calcium. This calcium signaling is dependent on Gq-11 protein signaling and phospholipase C, as well as on the influx of extracellular calcium. Heteromers between D2 and D5 receptors are formed by adjacent arginines in ic3 (third cytoplasmic loop) of D2 receptor and three adjacent c-terminus glutamic acids in D5 receptor. Heteromerization of 2 and D5 receptors can be disrupted through changes of single amino acids in the c-terminus of the D5 receptor.
+Dopamine receptor D5 has been shown to interact with GABRG2.
+
+
+== Experimental methods ==
+The high degree of homology between D5 and D1 receptors and their affinity for drugs with similar pharmacological profile complicate distinguishing between them in research. Antibody staining these two receptors separately is suggested to be inefficient. However, expression of D5 receptors has been assessed using immunohistochemistry. In this technique, two peptides were obtained from third extracellular loop and third intracellular loop of the receptor, and antisera were developed for staining the receptor in frozen mouse brain tissue. A method involving mRNA probes for in situ hybridization has been developed, which allowed to separately examine the expression of D1 and D5 receptors in the mouse brain.
+DRD5 knockout mice can be obtained by crossing 129/SvJ1 and C57BL/6J mice. D5 receptor can also be inactivated in an animal model by flanking the DRD5 gene with loxP site, allowing to generate tissue or animal lacking functional D5 receptors. The expression of D5 receptor in vitro can also be silenced using antisense oligonucleotides.

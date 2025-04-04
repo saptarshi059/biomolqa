@@ -1,0 +1,64 @@
+Simvastatin, sold under the brand name Zocor among others, is a statin, a type of lipid-lowering medication. It is used along with exercise, diet, and weight loss to decrease elevated lipid levels. It is also used to decrease the risk of heart problems in those at high risk. It is taken by mouth.
+Common side effects include constipation, headaches, and nausea. Serious side effects may include muscle breakdown, liver problems, and increased blood sugar levels. A lower dose may be needed in people with kidney problems. There is evidence of harm to the developing baby when taken during pregnancy and it should not be used by those who are breastfeeding. It is in the statin class of medications and works by decreasing the manufacture of cholesterol by the liver.
+Simvastatin is made from the fungus Aspergillus terreus. It was patented by Merck in 1980, and came into medical use in 1992. Simvastatin is available as a generic medication, and is on the World Health Organization's List of Essential Medicines. In 2022, it was the nineteenth most commonly prescribed medication in the United States, with more than 26 million prescriptions.
+
+
+== Medical uses ==
+The primary uses of simvastatin are to treat dyslipidemia and to prevent atherosclerosis-related complications such as stroke and heart attacks in those who are at high risk. It is recommended to be used as an addition to a low-cholesterol diet.
+In heart protection studies, simvastatin showed the ability to lower LDL cholesterol by about 1·5 mmol/L, which resulted in substantial reductions in mortality rates. Simvastatin also reduced the numbers of other events like heart attacks, strokes, and revascularizations and MI significantly.
+The Heart Protection Study evaluated the effects of simvastatin in people with risk factors including existing cardiovascular disease, diabetes, or stroke, but having relatively low LDL cholesterol. In this trial, which lasted 5.4 years, overall mortality was reduced by 13% and cardiovascular mortality was reduced by 18%.  People receiving simvastatin experienced 38% fewer nonfatal heart attacks and 25% fewer strokes.
+Statins in general have been proposed as beneficial in reducing the progression of Age-related Macular Degeneration (AMD). Multiple observational studies have been conducted to analyse the benefits of statin use in delaying the progression of AMD but have resulted in conflicting outcomes. Given the current available information, simvastatin should not be recommended solely for the treatment of AMD.
+
+
+== Contraindications ==
+Simvastatin is contraindicated with pregnancy, breastfeeding, and liver disease. Pregnancy must be avoided while on simvastatin due to potentially severe birth defects. Patients cannot breastfeed while on simvastatin due to potentially disrupting the infant's lipid metabolism. High doses of simvastatin are also contraindicated with the widely used antihypertensive amlodipine. A lower dose is also recommended in people taking the calcium channel blockers, verapamil and diltiazem, as well as those taking amiodarone.
+
+
+== Adverse effects ==
+Common side effects (>1% incidence) may include indigestion and eczema. There is evidence to suggest that rare side effects such as joint pain, memory loss, and muscle cramps are more likely to occur in patients who take higher doses of simvastatin. Cholestatic hepatitis, hepatic cirrhosis, rhabdomyolysis (destruction of muscles and blockade of renal system), and myositis have been reported in patients receiving the drug chronically. Serious allergic reactions to simvastatin are rare.
+A type of DNA variant known as a single nucleotide polymorphism (SNP) may help predict individuals prone to developing myopathy when taking simvastatin; a study ultimately including 32,000 patients concluded the carriers of one or two risk alleles of a particular SNP, rs4149056, were at a five-fold or 16-fold increased risk, respectively. In 2012, the Clinical Pharmacogenetics Implementation Consortium has released guidelines regarding the use of rs4149056 genotype in guiding dosing of simvastatin and updated the guideline in 2014.
+In March 2012, the U.S. Food and Drug Administration (FDA) updated its guidance for statin users to address reports of memory loss, liver damage, increased blood sugar, development of type 2 diabetes, and muscle injury. The new guidance indicates:
+
+FDA has found that liver injury associated with statin use is rare but can occur.
+The reports about memory loss, forgetfulness, and confusion span all statin products and all age groups. The FDA says these experiences are rare, but that those affected often report feeling "fuzzy" or unfocused in their thinking.
+A small increased risk of raised blood sugar levels and the development of type 2 diabetes have been reported with the use of statins.  A 2010 published meta-analysis found for every 255 patients taking a statin for 4 years, one additional case of diabetes would occur whilst preventing 5.4 major coronary events.
+Some drugs interact with statins in a way that increases the risk of muscle injury called myopathy, characterized by unexplained muscle weakness or pain.
+On 19 March 2010, the FDA issued another statement regarding simvastatin, saying it increases the risk of muscle injury (myopathy) when taken at high doses or at lower doses in combination with other drugs. The highest dose rate causes muscle damage in 610 of every 10,000 people in contrast to a lower dose, which causes muscle damage in eight of 10,000 people. The FDA warning, released again on 8 June 2011, suggested that high-dose "simvastatin should be used only in patients who have been taking this dose for 12 months or more without evidence of muscle injury" and that it "should not be started in new patients, including patients already taking lower doses of the drug."
+
+
+== Interactions ==
+Simvastatin has important interactions with grapefruit juice and other drugs, including some that are commonly used for the treatment of cardiovascular disease.  These interactions are clinically important because increasing simvastatin serum levels above those normally provided by the maximum recommended dose increases the risk of muscle damage, including the otherwise rare and potentially fatal side effect of rhabdomyolysis.
+Consuming large amounts of grapefruit juice increases serum levels of simvastatin by up to three-fold, increasing the risk of side effects. The FDA recommends that people taking statins should avoid consuming more than a quart (946 ml) of grapefruit juice per day.
+Simvastatin also interacts with other drugs, including some used to treat cardiovascular problems.  It should not be taken by people who are also taking the antifungal drugs fluconazole, itraconazole, or posaconazole; the antibiotics erythromycin, clarithromycin, or telithromycin; HIV protease inhibitors; the antidepressant nefazodone; the cardiovascular drug gemfibrozil; the immunosuppressant ciclosporin, or the endometriosis drug danazol.  Reduced maximum doses of simvastatin apply for patients taking certain other drugs, including the cardiovascular drugs verapamil, diltiazem, amiodarone, amlodipine, and ranolazine.
+
+
+== Pharmacology ==
+
+
+=== Pharmacodynamics ===
+All statins act by inhibiting 3-hydroxy-3-methylglutaryl (HMG) coenzyme A reductase. HMG-CoA reductase, the rate-limiting enzyme of the HMG-CoA reductase pathway, the metabolic pathway responsible for the endogenous production of cholesterol. Statins are more effective than other lipid-regulating drugs at lowering LDL-cholesterol concentration, but they are less effective than the fibrates in reducing triglyceride concentration. However, statins reduce cardiovascular disease events and total mortality irrespective of the initial cholesterol concentration. This is a major piece of evidence that statins work in another way than the lowering of cholesterol (called pleiotropic effects).
+Simvastatin is an effective serum lipid-lowering drug that can decrease low density lipoprotein (LDL) levels by up to 50%. Simvastatin had been shown to interact with lipid-lowering transcription factor PPAR-alpha and that interaction might control the neurotrophic action of the drug.
+
+
+=== Pharmacokinetics ===
+The drug is in the form of an inactive lactone that is hydrolyzed after ingestion to produce the active β-hydroxyacid form. Simvastatin is primarily metabolized by CYP3A4 yielding products which are also active HMG-CoA reductase inhibitors.
+
+
+== History ==
+The development of simvastatin was closely linked with lovastatin. Biochemist Jesse Huff and his colleagues at Merck began researching the biosynthesis of cholesterol in the early 1950s. In 1956, mevalonic acid was isolated from a yeast extract by Karl Folkers, Carl Hoffman, and others at Merck, while Huff and his associates confirmed that mevalonic acid was an intermediate in cholesterol biosynthesis. In 1959, the HMG-CoA reductase enzyme (a major contributor of internal cholesterol production) was discovered by researchers at the Max Planck Institute. This discovery encouraged scientists worldwide to find an effective inhibitor of this enzyme.
+By 1976, Akira Endo had isolated the first inhibitor, mevastatin, from the fungus Penicillium citrinium while working at Daiichi Sankyo in Japan. In 1979, Hoffman and colleagues isolated lovastatin from a strain of the fungus Aspergillus terreus. While developing and researching lovastatin, Merck scientists synthetically derived a more potent HMG-CoA reductase inhibitor from a fermentation product of A. terreus, which was designated MK-733 (later to be named simvastatin).
+In 1994, publication of the results of the Scandinavian Simvastatin Survival Study (4S) provided the first unequivocal evidence that lowering LDL cholesterol via statin treatment reduces cardiovascular events and overall mortality.  A total of 4,444 people with coronary heart disease and blood cholesterol levels from 5.5 to 8.0 mmol/L were randomized to simvastatin treatment or placebo and followed for an average of 5 years. Compared to the placebo group, those treated with simvastatin experienced a 30% decrease in overall mortality, a 42% reduction in coronary death, a 34% reduction in major coronary events, and a 37% reduction in revascularization procedures.
+
+
+== Society and culture ==
+
+
+=== Economics ===
+Prior to losing US patent protection, simvastatin was Merck & Co.'s largest-selling drug.
+Under provisions of the Patient Protection and Affordable Care Act (PPACA) in the United States, health plans may cover the costs of simvastatin 10 mg, 20 mg, and 40 mg for adults aged 40–75 years based on United States Preventive Services Task Force (USPSTF) recommendations.
+Zocor had an original patent expiry date in December 2005, but was extended by the United States Patent and Trademark Office (USPTO) to expire in June 2006.
+
+
+=== Brand names ===
+Simvastatin was initially marketed by Merck & Co under the brand name Zocor but is available generically in most countries following the patent expiry. A combination of simvastatin along with ezetimibe is sold under the brand name Vytorin and is jointly marketed by Merck and Schering-Plough.
+Brand names include Zocor, Zocor Heart Pro, marketed by the pharmaceutical company Merck & Co., Simlup, Simvotin, Simcard (India), Denan (Germany), Liponorm, Sinvacor, Sivastin (Italy), Lipovas (Japan), Lodales (France), Zocord (Austria and Sweden), Zimstat, Simvahexal (Australia), Lipex (Australia and New Zealand), Simvastatin-Teva, Simvacor, Simvaxon, Simovil (Israel), available in Thailand under the brand Bestatin manufactured by Berlin Pharmaceutical Industry Co Ltd and others.

@@ -1,0 +1,43 @@
+Pyridostigmine is a medication used to treat myasthenia gravis and underactive bladder. It is also used together with atropine to end the effects of neuromuscular blocking medication of the non-depolarizing type. It is also used off-label to treat some forms of Postural orthostatic tachycardia syndrome. It is typically given by mouth but can also be used by injection. The effects generally begin within 45 minutes and last up to 4 hours.
+Common side effects include nausea, diarrhea, frequent urination, and abdominal pain. More severe side effects include low blood pressure, weakness, and allergic reactions. It is unclear if use in pregnancy is safe for the fetus. Pyridostigmine is an acetylcholinesterase inhibitor in the cholinergic family of medications. It works by blocking the action of acetylcholinesterase and therefore increases the levels of acetylcholine.
+Pyridostigmine was patented in 1945 and came into medical use in 1955. It is on the World Health Organization's List of Essential Medicines. Pyridostigmine is available as a generic medication.
+
+
+== Medical uses ==
+Pyridostigmine is used to treat muscle weakness in people with myasthenia gravis or forms of congenital myasthenic syndrome and to combat the effects of curariform drug toxicity. Pyridostigmine bromide has been FDA approved for military use during combat situations as an agent to be given prior to exposure to the nerve agent Soman in order to increase survival. Used in particular during the first Gulf War, pyridostigmine bromide has been implicated as a causal factor in Gulf War syndrome.
+With pyridostigmine classified as a type of parasympathomimetic, it can be used to treat underactive bladder.
+Pyridostigmine sometimes is used to treat orthostatic hypotension. It may also be of benefit in chronic axonal polyneuropathy.
+It is also being prescribed off-label for postural orthostatic tachycardia syndrome (POTS) as well as complications resulting from Ehlers–Danlos syndrome.
+
+
+== Contraindications ==
+Pyridostigmine bromide is contraindicated in cases of mechanical intestinal or urinary obstruction and should be used with caution in patients with bronchial asthma.
+
+
+== Side effects ==
+Common side effects include:
+
+Sweating
+Diarrhea
+Nausea
+Vomiting
+Abdominal cramps
+Increased salivation
+Tearing
+Increased bronchial secretions
+Constricted pupils
+Facial flushing due to vasodilation
+Erectile dysfunction
+Additional side effects include:
+
+Muscle twitching
+Muscle cramps and weakness
+
+
+== Mechanism of action ==
+Pyridostigmine is an acetylcholinesterase inhibitor. It inhibits acetylcholinesterase in the synaptic cleft, thus slowing down the hydrolysis of acetylcholine. Like its predecessor neostigmine, it is a quaternary carbamate inhibitor of cholinesterase that does not cross the blood–brain barrier. It carbamylates about 30% of peripheral cholinesterase enzyme, and the carbamylated enzyme eventually regenerates by natural hydrolysis and excess acetylcholine (ACh) levels revert to normal.
+The ACh diffuses across the synaptic cleft and binds to receptors on the post synaptic membrane, causing an influx of sodium (Na+,) resulting in depolarization. If large enough, this depolarization results in an action potential. To prevent constant stimulation once the ACh is released, an enzyme called acetylcholinesterase is present in the endplate membrane close to the receptors on the post synaptic membrane, and quickly hydrolyses ACh.
+
+
+== Names ==
+Pyridostigmine bromide is available under the trade name Mestinon (Valeant Pharmaceuticals), Regonol and Gravitor (SUN Pharma).

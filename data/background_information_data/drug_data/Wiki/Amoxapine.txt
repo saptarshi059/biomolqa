@@ -1,0 +1,93 @@
+Amoxapine, sold under the brand name Asendin among others, is a tricyclic antidepressant (TCA). It is the N-demethylated metabolite of loxapine. Amoxapine first received marketing approval in the United States in 1980, approximately 10 to 20 years after most of the other TCAs were introduced in the United States.
+
+
+== Medical uses ==
+Amoxapine is used in the treatment of major depressive disorder. Compared to other antidepressants it is believed to have a faster onset of action, with therapeutic effects seen within four to seven days. In excess of 80% of patients that do respond to amoxapine are reported to respond within two weeks of the beginning of treatment. It also has properties similar to those of the atypical antipsychotics, and may behave as one and thus may be used in the treatment of schizophrenia off-label. Despite its apparent lack of extrapyramidal side effects in patients with schizophrenia it has been found to worsen motor function in a study of three patients with Parkinson's disease and psychosis.
+
+
+== Contraindications ==
+As with all FDA-approved antidepressants it carries a black-box warning about the potential of an increase in suicidal thoughts or behaviour in children, adolescents and young adults under the age of 25. Its use is also advised against in individuals with known hypersensitivities to either amoxapine or other ingredients in its oral formulations. Its use is also recommended against in the following disease states:
+
+Severe cardiovascular disorders (potential of cardiotoxic adverse effects such as QT interval prolongation)
+Uncorrected narrow angle glaucoma
+Acute recovery post-myocardial infarction
+Its use is also advised against in individuals concurrently on monoamine oxidase inhibitors or if they have been on one in the past 14 days and in individuals on drugs that are known to prolong the QT interval (e.g. ondansetron, citalopram, pimozide, sertindole, ziprasidone, haloperidol, chlorpromazine, thioridazine, etc.).
+
+
+=== Lactation ===
+Its use in breastfeeding mothers not recommended as it is excreted in breast milk and the concentration found in breast milk is approximately a quarter that of the maternal serum level.
+
+
+== Side effects ==
+Adverse effects by incidence:
+Note: Serious (that is, those that can either result in permanent injury or are irreversible or are potentially life-threatening) are written in bold text.
+Very common (>10% incidence) adverse effects include:
+
+Constipation
+Dry mouth
+Sedation
+Common (1–10% incidence) adverse effects include:
+
+Oedema. An abnormal accumulation of fluids in the tissues of the body leading to swelling.
+Prolactin levels increased. Prolactin is a hormone that regulates the generation of breast milk. Prolactin elevation is not as significant as with risperidone or haloperidol.
+Uncommon/Rare (<1% incidence) adverse effects include:
+
+Vasculitis a disorder where blood vessels are destroyed by inflammation. Can be life-threatening if it affects the right blood vessels.
+Galactorrhoea (lactation that is not associated with pregnancy or breast feeding)
+Delayed micturition (that is, delays in urination from when a conscious effort to urinate is made)
+Hyperthermia (elevation of body temperature; its seriousness depends on the extent of the hyperthermia)
+Syndrome of inappropriate secretion of antidiuretic hormone (SIADH) this is basically when the body's level of the hormone, antidiuretic hormone, which regulates the conservation of water and the restriction of blood vessels, is elevated. This is potentially fatal as it can cause electrolyte abnormalities including hyponatraemia (low blood sodium), hypokalaemia (low blood potassium) and hypocalcaemia (low blood calcium) which can be life-threatening.
+Agranulocytosis a drop in white blood cell counts. The white blood cells are the cells of the immune system that fight off foreign invaders. Hence agranulocytosis leaves an individual open to life-threatening infections.
+Leukopaenia the same as agranulocytosis but less severe.
+Neuroleptic malignant syndrome (a potentially fatal reaction to antidopaminergic agents, most often antipsychotics. It is characterised by hyperthermia, diarrhoea, tachycardia, mental status changes [e.g. confusion], rigidity, extrapyramidal side effects)
+Tardive dyskinesia a most often irreversible neurologic reaction to antidopaminergic treatment, characterised by involuntary movements of facial muscles, tongue, lips, and other muscles. It develops most often only after prolonged (months, years or even decades) exposure to antidopaminergics.
+Extrapyramidal side effects. Motor symptoms such as tremor, parkinsonism, involuntary movements, reduced ability to move one's voluntary muscles, etc.
+Unknown incidence or relationship to drug treatment adverse effects include:
+
+Thrombocytopenia a significant drop in platelet count that leaves one open to life-threatening bleeds.
+Eosinophilia an elevated level of the eosinophils of the body. Eosinophils are the type of immune cell that's job is to fight off parasitic invaders.
+Jaundice yellowing of the skin, eyes and mucous membranes due to an impaired ability of the body to clear the by product of haem breakdown, bilirubin, most often the result of liver damage as it is the liver's responsibility to clear bilirubin.
+It tends to produce less anticholinergic effects, sedation and weight gain than some of the earlier TCAs (e.g. amitriptyline, clomipramine, doxepin, imipramine, trimipramine). It may also be less cardiotoxic than its predecessors.
+
+
+== Overdose ==
+
+It is considered particularly toxic in overdose, with a high rate of renal failure (which usually takes 2–5 days), rhabdomyolysis, coma, seizures and even status epilepticus. Some believe it to be less cardiotoxic than other TCAs in overdose, although reports of cardiotoxic overdoses have been made.
+
+
+== Pharmacology ==
+
+
+=== Pharmacodynamics ===
+
+Amoxapine possesses a wide array of pharmacological effects. It is a moderate and strong reuptake inhibitor of serotonin and norepinephrine, respectively, and binds to the 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7, D2, α1-adrenergic, D3, D4, and H1 receptors with varying but significant affinity, where it acts as an antagonist (or inverse agonist depending on the receptor in question) at all sites. It has weak but negligible affinity for the dopamine transporter and the 5-HT1A, 5-HT1B, D1, α2-adrenergic, H4, mACh, and GABAA receptors, and no affinity for the β-adrenergic receptors or the allosteric benzodiazepine site on the GABAA receptor. Amoxapine is also a weak GlyT2 blocker, as well as a weak (Ki = 2.5 μM, EC50 = 0.98 μM) δ-opioid receptor partial agonist.
+7-Hydroxyamoxapine, a major active metabolite of amoxapine, is a more potent dopamine receptor antagonist and contributes to its neuroleptic efficacy, whereas 8-Hydroxyamoxapine is a norepinephrine reuptake inhibitor but a stronger serotonin reuptake inhibitor and helps to balance amoxapine's ratio of serotonin to norepinephrine transporter blockade.
+
+
+=== Pharmacokinetics ===
+Amoxapine is metabolised into two main active metabolites: 7-hydroxyamoxapine and 8-hydroxyamoxapine.
+
+Where:
+
+t1/2 is the elimination half life of the compound.
+tmax is the time to peak plasma levels after oral administration of amoxapine.
+CSS is the steady state plasma concentration.
+protein binding is the extent of plasma protein binding.
+Vd is the volume of distribution of the compound.
+
+
+== Society and culture ==
+
+
+=== Brand names ===
+Brand names for amoxapine include (where † denotes discontinued brands):
+
+Adisen (KR)
+Amolife (IN)
+Amoxan (JP)
+Asendin† (previously marketed in CA, NZ, US)
+Asendis† (previously marketed in IE, UK)
+Défanyl (FR)
+Demolox (DK†, IN, ES†)
+Oxamine (IN)
+Oxcap (IN)

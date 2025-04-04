@@ -1,0 +1,80 @@
+Cimetidine, sold under the brand name Tagamet among others, is a histamine H2 receptor antagonist that inhibits stomach acid production. It is mainly used in the treatment of heartburn and peptic ulcers.
+With the development of proton pump inhibitors, such as omeprazole, approved for the same indications, cimetidine is available as an over-the-counter formulation to prevent heartburn or acid indigestion, along with the other H2-receptor antagonists.
+Cimetidine was developed in 1971 and came into commercial use in 1977. Cimetidine was approved in the United Kingdom in 1976, and was approved in the United States by the Food and Drug Administration in 1979.
+
+
+== Medical uses ==
+
+Cimetidine is indicated for the treatment of duodenal ulcers, gastric ulcers, gastroesophageal reflux disease, and pathological hypersecretory conditions. Cimetidine is also used to relieve or prevent heartburn.
+
+
+== Side effects ==
+Reported side effects of cimetidine include diarrhea, rashes, dizziness, fatigue, constipation, and muscle pain, all of which are usually mild and transient. It has been reported that mental confusion may occur in the elderly. Because of its hormonal effects, cimetidine rarely may cause sexual dysfunction including loss of libido and erectile dysfunction and gynecomastia (0.1–0.2%) in males during long-term treatment. Rarely, interstitial nephritis, urticaria, and angioedema have been reported with cimetidine treatment. Cimetidine is also commonly associated with transient raised aminotransferase activity; hepatotoxicity is rare.
+
+
+== Overdose ==
+Cimetidine appears to be very safe in overdose, producing no symptoms even with massive overdoses (e.g., 20 g).
+
+
+== Interactions ==
+Due to its non-selective inhibition of cytochrome P450 enzymes, cimetidine has numerous drug interactions. Examples of specific interactions include, but are not limited to, the following:
+
+Cimetidine affects the metabolism of methadone, sometimes resulting in higher blood levels and a higher incidence of side effects, and may interact with the antimalarial medication hydroxychloroquine.
+Cimetidine can also interact with a number of psychoactive medications, including tricyclic antidepressants and selective serotonin reuptake inhibitors, causing increased blood levels of these drugs and the potential of subsequent toxicity.
+Following administration of cimetidine, the elimination half-life and area-under-curve of zolmitriptan and its active metabolites were roughly doubled.
+Cimetidine is a potent inhibitor of tubular creatinine secretion. Creatinine is a metabolic byproduct of creatine breakdown. Accumulation of creatinine is associated with uremia, but the symptoms of creatinine accumulation are unknown, as they are hard to separate from other nitrogenous waste buildups.
+Like several other medications (e.g., erythromycin), cimetidine interferes with the body's metabolization of sildenafil, causing its strength and duration to increase and making its side effects more likely and prominent.
+Clinically significant drug interactions with the CYP1A2 substrate theophylline, the CYP2C9 substrate tolbutamide, the CYP2D6 substrate desipramine, and the CYP3A4 substrate triazolam have all been demonstrated with cimetidine, and interactions with other substrates of these enzymes are likely as well.
+Cimetidine has been shown clinically to reduce the clearance of mirtazapine, imipramine, timolol, nebivolol, sparteine, loratadine, nortriptyline, gabapentin, and desipramine in humans.
+Cimetidine inhibits the renal excretion of metformin and procainamide, resulting in increased circulating levels of these drugs.
+Interactions of potential clinical importance with cimetidine include warfarin, theophylline, phenytoin, carbamazepine, pethidine and other opioid analgesics, tricyclic antidepressants, lidocaine, terfenadine, amiodarone, flecainide, quinidine, fluorouracil, and benzodiazepines.
+Cimetidine may decrease the effects of CYP2D6 substrates that are prodrugs, such as codeine, tramadol, and tamoxifen.
+Cimetidine reduces the absorption of ketoconazole and itraconazole (which require a low pH).
+Cimetidine has a theoretical but unproven benefit in paracetamol toxicity. This is because N-acetyl-p-benzoquinone imine (NAPQI), a metabolite of paracetamol (acetaminophen) that is responsible for its hepatotoxicity, is formed from it by the cytochrome P450 system (specifically, CYP1A2, CYP2E1, and CYP3A4).
+Cimetidine is used in cancer metastasis research as a blocker of E-selectin.
+
+
+== Pharmacology ==
+
+
+=== Pharmacodynamics ===
+
+
+==== Histamine H2 receptor antagonism ====
+The mechanism of action of cimetidine as an antacid is as a histamine H2 receptor antagonist. It has been found to bind to the H2 receptor with a Kd of 42 nM.
+
+
+==== Cytochrome P450 inhibition ====
+Cimetidine is a potent inhibitor of certain cytochrome P450 (CYP) enzymes, including CYP1A2, CYP2C9, CYP2C19, CYP2D6, CYP2E1, and CYP3A4. The drug appears to primarily inhibit CYP1A2, CYP2D6, and CYP3A4, of which it is described as a moderate inhibitor. This is notable since these three CYP isoenzymes are involved in CYP-mediated drug biotransformations; however, CYP1A2, CYP2C9, CYP2C19, CYP2D6, CYP2E1, and CYP3A4 are also involved in the oxidative metabolism of many commonly used drugs. As a result, cimetidine has the potential for a large number of pharmacokinetic interactions.
+Cimetidine is reported to be a competitive and reversible inhibitor of several CYP enzymes, although mechanism-based (suicide) irreversible inhibition has also been identified for cimetidine's inhibition of CYP2D6. It reversibly inhibits CYP enzymes by binding directly with the complexed heme-iron of the active site via one of its imidazole ring nitrogen atoms, thereby blocking the oxidation of other drugs.
+
+
+==== Antiandrogenic and estrogenic effects ====
+Cimetidine has been found to possess weak antiandrogenic activity at high doses. It directly and competitively antagonizes the androgen receptor (AR), the biological target of androgens like testosterone and dihydrotestosterone (DHT). However, the affinity of cimetidine for the AR is very weak; in one study, it showed only 0.00084% of the affinity of the anabolic steroid metribolone (100%) for the human AR (Ki = 140 μM and 1.18 nM, respectively). In any case, at sufficiently high doses, cimetidine has demonstrated weak but significant antiandrogenic effects in animals, including antiandrogenic effects in the rat ventral prostate and mouse kidney, reductions in the weights of the male accessory glands like the prostate gland and seminal vesicles in rats, and elevated gonadotropin levels in male rats (due to reduced negative feedback on the HPG axis by androgens). In addition to AR antagonism, cimetidine has been found to inhibit the 2-hydroxylation of estradiol (via inhibition of CYP450 enzymes, which are involved in the metabolic inactivation of estradiol), resulting in increased estrogen levels. The medication has also been reported to reduce testosterone biosynthesis and increase prolactin levels in individual case reports, effects which might be secondary to increased estrogen levels.
+At typical therapeutic levels, cimetidine has either no effect on or causes small increases in circulating testosterone concentrations in men. Any increases in testosterone levels with cimetidine have been attributed to the loss of negative feedback on the HPG axis that results due to AR antagonism. At typical clinical dosages, such as those used to treat peptic ulcer disease, the incidence of gynecomastia (breast development) with cimetidine is very low at less than 1%. In one survey of over 9,000 patients taking cimetidine, gynecomastia was the most frequent endocrine-related complaint but was reported in only 0.2% of patients. At high doses however, such as those used to treat Zollinger–Ellison syndrome, there may be a higher incidence of gynecomastia with cimetidine. In one small study, a 20% incidence of gynecomastia was observed in 25 male patients with duodenal ulcers who were treated with 1,600 mg/day cimetidine. The symptoms appeared after 4 months of treatment and regressed within a month following discontinuation of cimetidine. In another small study, cimetidine was reported to have induced breast changes and erectile dysfunction in 60% of 22 men treated with it. These adverse effects completely resolved in all cases when the men were switched from cimetidine to ranitidine. A study of the United Kingdom General Practice Research Database, which contains over 80,000 men, found that the relative risk of gynecomastia in cimetidine users was 7.2 relative to non-users. People taking a dosage of cimetidine of greater than or equal to 1,000 mg showed more than 40 times the risk of gynecomastia than non-users. The risk was highest during the period of time of 7 to 12 months after starting cimetidine. The gynecomastia associated with cimetidine is thought to be due to blockade of ARs in the breasts, which results in estrogen action unopposed by androgens in this tissue, although increased levels of estrogens due to inhibition of estrogen metabolism is another possible mechanism. Cimetidine has also been associated with oligospermia (decreased sperm count) and sexual dysfunction (e.g., decreased libido, erectile dysfunction) in men in some research, which are hormonally related similarly.
+In accordance with the very weak nature of its AR antagonistic activity, cimetidine has shown minimal effectiveness in the treatment of androgen-dependent conditions such as acne, hirsutism (excessive hair growth), and hyperandrogenism (high androgen levels) in women. As such, its use for such indications is not recommended.
+
+
+=== Pharmacokinetics ===
+Cimetidine is rapidly absorbed regardless of route of administration. The oral bioavailability of cimetidine is 60 to 70%. The onset of action of cimetidine when taken orally is 30 minutes, and peak levels occur within 1 to 3 hours. Cimetidine is widely distributed throughout all tissues. It is able to cross the blood–brain barrier and can produce effects in the central nervous system (e.g., headaches, dizziness, somnolence). The volume of distribution of cimetidine is 0.8 L/kg in adults and 1.2 to 2.1 L/kg in children. Its plasma protein binding is 13 to 25% and is said to be without pharmacological significance. Cimetidine undergoes relatively little metabolism, with 56 to 85% excreted unchanged. It is metabolized in the liver into cimetidine sulfoxide, hydroxycimetidine, and guanyl urea cimetidine. The major metabolite of cimetidine is the sulfoxide, which accounts for about 30% of excreted material. Cimetidine is rapidly eliminated, with an elimination half-life of 123 minutes, or about 2 hours. It has been said to have a duration of action of 4 to 8 hours. The medication is mainly eliminated in urine.
+
+
+== History ==
+Cimetidine, approved by the FDA for inhibition of gastric acid secretion, has been advocated for a number of dermatological diseases. Cimetidine was the prototypical histamine H2 receptor antagonist from which the later members of the class were developed. Cimetidine was the culmination of a project at Smith, Kline and French (SK&F) Laboratories in Welwyn Garden City (now part of GlaxoSmithKline) by James W. Black, C. Robin Ganellin, and others to develop a histamine receptor antagonist to suppress stomach acid secretion. This was one of the first drugs discovered using a rational drug design approach. Sir James W. Black shared the 1988 Nobel Prize in Physiology or Medicine for the discovery of propranolol and also is credited for the discovery of cimetidine.
+At the time (1964), histamine was known to stimulate the secretion of stomach acid, but also that traditional antihistamines had no effect on acid production. In the process, the SK&F scientists also proved the existence of histamine H2 receptors.
+The SK&F team used a rational drug-design structure starting from the structure of histamine — the only design lead, since nothing was known of the then hypothetical H2 receptor. Hundreds of modified compounds were synthesized in an effort to develop a model of the receptor. The first breakthrough was Nα-guanylhistamine, a partial H2 receptor antagonist. From this lead, the receptor model was further refined and eventually led to the development of burimamide, the first H2 receptor antagonist. Burimamide, a specific competitive antagonist at the H2 receptor, 100 times more potent than Nα-guanylhistamine, proved the existence of the H2 receptor.
+Burimamide was still insufficiently potent for oral administration, and further modification of the structure, based on modifying the pKa of the compound, led to the development of metiamide. Metiamide was an effective agent; it was associated, however, with unacceptable nephrotoxicity and agranulocytosis. The toxicity was proposed to arise from the thiourea group, and similar guanidine analogues were investigated until the ultimate discovery of cimetidine. The compound was synthesized in 1972 and evaluated for toxicology by 1973. It passed all trials.
+Cimetidine was first marketed in the United Kingdom in 1976, and in the U.S. in August 1977; therefore, it took 12 years from initiation of the H2 receptor antagonist program to commercialization. By 1979, Tagamet was being sold in more than 100 countries and became the top-selling prescription product in the U.S., Canada, and several other countries. In November 1997, the American Chemical Society and the Royal Society of Chemistry in the U.K. jointly recognized the work as a milestone in drug discovery by designating it an International Historic Chemical Landmark during a ceremony at SmithKline Beecham's New Frontiers Science Park research facilities in Harlow, England.
+The commercial name "Tagamet" was decided upon by fusing the two words "antagonist" and "cimetidine". Subsequent to the introduction onto the U.S. drug market, two other H2 receptor antagonists were approved, ranitidine (Zantac, Glaxo Labs) and famotidine (Pepcid, Yamanouchi, Ltd.) Cimetidine became the first drug ever to reach more than $1 billion a year in sales, thus making it the first blockbuster drug.
+Tagamet has been largely replaced by proton pump inhibitors for treating peptic ulcers, but is available as an over-the-counter medicine for heartburn in many countries.
+
+
+== Research ==
+Some evidence suggests cimetidine could be effective in the treatment of common warts, but more rigorous double-blind clinical trials found it to be no more effective than a placebo.
+Tentative evidence supports a beneficial role as add-on therapy in colorectal cancer.
+Cimetidine inhibits ALA synthase activity and hence may have some therapeutic value in preventing and treating acute porphyria attacks.
+There is some evidence supporting the use of Cimetidine in the treatment of PFAPA.
+
+
+== Veterinary use ==
+In dogs, cimetidine is used as an antiemetic when treating chronic gastritis.

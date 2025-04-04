@@ -1,0 +1,28 @@
+Peroxisome proliferator-activated receptor gamma (PPAR-γ or PPARG), also known as the glitazone reverse insulin resistance receptor, or NR1C3 (nuclear receptor subfamily 1, group C, member 3) is a type II nuclear receptor functioning as a transcription factor that in humans is encoded by the PPARG gene.
+
+
+== Tissue distribution ==
+PPARG is mainly present in adipose tissue, colon and macrophages. Two isoforms of PPARG are detected in the human and in the mouse: PPAR-γ1 (found in nearly all tissues except muscle) and PPAR-γ2 (mostly found in adipose tissue and the intestine).
+
+
+== Gene expression ==
+This gene encodes a member of the peroxisome proliferator-activated receptor (PPAR) subfamily of nuclear receptors. PPARs form heterodimers with retinoid X receptors (RXRs) and these heterodimers regulate transcription of various genes. Three subtypes of PPARs are known: PPAR-alpha, PPAR-delta, and PPAR-gamma. The protein encoded by this gene is PPAR-gamma and is a regulator of adipocyte differentiation.  Alternatively spliced transcript variants that encode different isoforms have been described.
+The activity of PPARG can be regulated via phosphorylation through the MEK/ERK pathway. This modification decreases transcriptional activity of PPARG and leads to diabetic gene modifications, and results in insulin insensitivity. For example, the phosphorylation of serine 112 will inhibit PPARG function, and enhance adipogenic potential of fibroblasts.
+
+
+== Function ==
+PPARG regulates fatty acid storage and glucose metabolism. The genes activated by PPARG stimulate lipid uptake and adipogenesis by fat cells. PPARG knockout mice are devoid of adipose tissue, establishing PPARG as a master regulator of adipocyte differentiation.
+PPARG increases insulin sensitivity by enhancing storage of fatty acids in fat cells (reducing lipotoxicity), by enhancing adiponectin release from fat cells, by inducing FGF21, and by enhancing nicotinic acid adenine dinucleotide phosphate production through upregulation of the CD38 enzyme.
+PPARG promotes anti-inflammatory M2 macrophage activation in mice.
+Adiponectin induces ABCA1-mediated reverse cholesterol transport by activation of PPAR-γ and LXRα/β.
+Many naturally occurring agents directly bind with and activate PPAR gamma. These agents include various polyunsaturated fatty acids like arachidonic acid and arachidonic acid metabolites such as certain members of the 5-hydroxyicosatetraenoic acid and 5-oxo-eicosatetraenoic acid family, e.g., 5-oxo-15(S)-HETE and 5-oxo-ETE or 15-hydroxyicosatetraenoic acid family including 15(S)-HETE, 15(R)-HETE, and 15(S)-HpETE, the phytocannabinoid tetrahydrocannabinol (THC), its metabolite THC-COOH, and its synthetic analog ajulemic acid (AJA). The activation of PPAR gamma by these and other ligands may be responsible for inhibiting the growth of cultured human breast, gastric, lung, prostate and other cancer cell lines.
+During embryogenesis, PPARG first substantially expresses in interscapular brown fat pad. The depletion of PPARG will result in embryonic lethality at E10.5, due to the vascular anomalies in placenta, with no permeation of fetal blood vessels and dilation and rupture of maternal blood sinuses. The expression PPARG can be detected in placenta as early as E8.5 and through the remainder of gestation, mainly located in the primary trophoblast cell in the human placenta. PPARG is required for epithelial differentiation of trophoblast tissue, which is critical for proper placenta vascularization. PPARG agonists inhibit extravillous cytotrophoblast invasion. PPARG is also required for the accumulation of lipid droplets by the placenta.
+
+
+== Interactions ==
+Peroxisome proliferator-activated receptor gamma has been shown to interact with:
+
+
+== Research ==
+PPAR-gamma agonists have been used in the treatment of hyperlipidaemia and hyperglycemia.
+Many insulin sensitizing drugs (namely, the thiazolidinediones) used in the treatment of diabetes activate PPARG as a means to lower serum glucose without increasing pancreatic insulin secretion. Activation of PPARG is more effective for skeletal muscle insulin resistance than for insulin resistance of the liver.

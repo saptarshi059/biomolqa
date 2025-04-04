@@ -1,0 +1,114 @@
+Cyclin-dependent kinase 5 is a protein, and more specifically an enzyme, that is encoded by the Cdk5 gene. It was discovered 15 years ago, and it is saliently expressed in post-mitotic central nervous system neurons (CNS).
+The molecule belongs to the cyclin-dependent kinase family. Kinases are enzymes that catalyze reactions of phosphorylation. This process allows the substrate to gain a phosphate group donated by an organic compound known as ATP.  Phosphorylations are of vital importance during glycolysis, therefore, making kinases an essential part of the cell due to their role in the metabolism, cell signaling, and many other processes.
+
+
+== Structure ==
+Cdk5 is a proline-directed serine/threonine kinase, which was first identified as a CDK family member due to its similar structure to CDC2/CDK1 in humans, a protein that plays a crucial role in the regulation of the cell cycle.
+The gene Cdk5 contains 12 exons in a region that contains around 5000 nucleotides (5kb), as it was determined by Ohshima after cloning the Cdk5 gene that belonged to a mouse.
+Cdk5 has 292 amino acids and presents both α-helix and β strand structures.
+Even though Cdk5 has a similar structure to other cyclin-dependent kinases, its activators are highly specific (CDK5R1 and CDK5R2).
+Some investigations have reported that the active states of protein kinases structurally differ from each other in order to preserve the geometry of its machinery so that catalytic output works properly. The Cdk5 kinase has an original design as well.
+Cdk5 belongs to the eukaryotic protein kinases (ePKs). A crystal structure of the catalytic domain of cAMP-dependent protein kinase showed that it holds 2 lobes;  on the one hand, it has a small lobe, an N-terminal arranged as an antiparallel β-sheet structure. Furthermore, it contains nucleotide motifs as a way to orient the nucleotide for phospho-transfer. On the other hand, the large lobe, a C-terminal, is helical shaped, which helps to identify the substrate and includes crucial residues for the phospho-transfer.
+
+
+== Physiological role ==
+
+
+=== Pain ===
+Recently Cdk5 has emerged as an essential kinase in sensory pathways. Recent reports by Pareek et al. suggest its necessity in pain signaling. CDK5 is required for proper development of the brain, and to be activated, it must associate with  CDK5R1 or CDK5R2. Unlike other cyclin-dependent kinases, CDK5 does not also require phosphorylation on the T loop. Therefore, binding with the activator is sufficient to activate the kinase.
+
+
+=== Neurons ===
+Cdk5 is abundant and mainly expressed in neurons, where it phosphorylates protein polymers with a high molecular weight called neurofilaments, and microtubule-associated protein tau, which are abundant in the CNS (Central Nervous System). The enzyme is involved in many aspects of neuronal development and functions.
+The main role of Cdk5 when it comes to neurons is to assure proper neuronal migration. Neurons will send out both dendrites and axons to form connections with other neurons in order to transmit information, and Cdk5 regulates this process. In order to perform, Cdk5 needs to be activated by p35 (these 3 amino acids, Asp-259, Asn-266, and Ser-270, are involved in the formation of hydrogen bonds with Cdk5) or p39 (the isoform of p35), which are two of its neuron-specific regulatory subunits. This means that the level of expression of p35 and p39 is going to be related to the activity of the enzyme. If there is a high activity of Cdk5 during brain development, its activators will have a high expression. As a matter of fact, when studies were conducted on mice without p35 and p39, the results were the same as the ones observed on mice without Cdk5: there were clear disruptions of the laminar structures in the cerebral cortex, the olfactory bulb, the hippocampus, and the cerebellum. These areas' proper development and functionality depend on Cdk5, which relies on the correct expression of p35 and p39. Also, Cdk5 collaborates with Reelin signaling in order to assure the proper neuronal migration in the developing brain.
+Cdk5 is not only implicated in neuronal migration. The enzyme will also help manage neurite extension, synapse formation, and synaptic transmission. It is also worth noting that Cdk5 also regulates the process of apoptosis, which is necessary in order to assure that the neural connections that are formed are correct. Moreover, because Cdk5 also intervenes in the regulation of synaptic plasticity, it is implicated in the processes of learning and memory formation, as well as the creation of drug addiction.
+On top of that, Cdk5 modulates actin-cytoskeleton dynamics by phosphorylating Pak1 and filamin 1 and regulates the microtubules by also phosphorylating tau, MAP1B, doublecortin, Nudel, and CRMPs, which are all microtubule-associated proteins. A non-proper expression of Cdk5 will generate defects in these substrates that can lead to multiple illnesses. For example, a defect on filamin 1 in humans provokes periventricular heterotopia; and a defect on Lis1 and doublecortin will cause lissencephaly type 1. As a matter of fact, four members of a consanguineous Israeli Muslim family that suffered from lissencephaly-7 with cerebellar hypoplasia had a splice site mutation in the Cdk5 gene.
+
+
+==== Drug abuse ====
+Cdk5 has been proven to be directly linked with drug abuse. It is established that drugs act on the reward system by disturbing intracellular signal transduction pathways, with Cdk5 being involved. Upon repetitive administration, several components of dopamine signalling are modified, including changes in gene expression and the circuitry of dopaminoceptive neurons.
+In the example of cocaine, CREB (cAMP Response Element Binding) causes a transient burst in immediate-early gene expression in the striatum, as well as the expression of ΔFosB isoforms, which accumulate and persist in striatal neurons with an extremely long half-life. Many studies have revealed that the overexpression of ΔFosB due to drug abuse is the cause of an upregulation of Cdk5, it being downstream of ΔFosB expression in the striatum, including the nucleus accumbens.
+It has been established that with repeated exposure to drugs such as cocaine and overexpression of ΔFosB isoforms, Cdk5 is upregulated, mediated by the upregulation of p35.
+It has also been demonstrated that this enzyme has an important place in dopamine neurotransmission regulation. Indeed, Cdk5 can act on the dopamine system by phosphorylating DARPP-32. As a consequence of tof Cdk5 upregulation, there is also a rise in the number of dendritic branch points and spines, both in medium spiny neurons in the nucleus accumbens and pyramidal neurons in the medial prefrontal cortex. Hence, its involvement in the reward system, and by extension addiction.
+
+Further analysis of the relationship between Cdk5 proportion and drug effects has shown that there is a strong dependence on the dose and frequency of administration. For instance, if the frequency of the cocaine dose is low, or the dose is continuously administered over a period, the cocaine effects will be present even though the production of Cdk5 in the nucleus accumbens, in the ventral tegmental area, and prefrontal cortex activity will not increase. However, when it comes to significantly frequent doses, the effects of cocaine are not displayed despite the enhanced proportion of Cdk5. Those differences can be explained by the fact that Cdk5 is a transitional state to overexposure to drugs like cocaine.
+Cdk5 has been suggested as a therapeutic target in addiction management. For example, it has been proved that sustained administration of Cdk5 antagonists inhibits the growth of spiny dendrites in the nucleus accumbens, which could be an avenue for addiction management. Further, Cdk5 could be used as a diagnostic marker for addiction.
+
+
+=== Pancreas ===
+Even though the main role of Cdk5 is related to neuronal migration, its impact on the human body is not limited to the nervous system. Indeed, Cdk5 plays an important part in the control of insulin secretion in the pancreas.
+Actually, this enzyme has been found in pancreatic β cells and has been proven to reduce insulin exocytosis by phosphorylating L-VDCC (L-type voltage-dependent Ca2+ channel).
+
+
+=== Immune system ===
+During T-cell activation, Cdk5 phosphorylates coronin 1a, a protein that contributes to the process of phagocytosis and regulates actin polarization. Therefore, this kinase promotes T-cell survival and motility.
+Cdk5 also takes part in the production of interleukin 2 (IL-2), a cytokine involved in cell signaling, by T-cells. To do so, it disrupts the repression of interleukin 2 transcription by the Histone deacetylase 1 (HDAC1) through mSin3a protein phosphorylation. This reduces the ability of the HDAC1/mSin3a complex to bind to the IL-2 promoter, which leads to an increased interleukin 2 production.
+
+
+=== Regulation of exocytosis ===
+Synaptic vesicle exocytosis is also regulated by CdK5, with the phosphorylation of the munc-18-a protein, which is indispensable for secretion, as it has a great affinity with a derivative of SNAP receptor (SNARE protein). This phosphorylation was demonstrated with the simulation of secretion from neuroendocrine cells, since the Cdk5 activity increased. When Cdk5 was removed, the norepinephrine secretion decreased.
+
+
+=== Memory ===
+Thanks to an experiment with mice, a relation between memory and Cdk5 was demonstrated. On one hand, mice did not show fear integrated by a previous activity when Cdk5 was inactivated. On the other hand, when the enzyme activity was increased in the hippocampus -where memories are stored- the fear reappeared.
+
+
+==== Remodelling of the actin cytoskeleton in the brain ====
+During embryogenesis, Cdk5 is essential for brain development as it is crucial for the regulation of the cytoskeleton that in turn is important for remodelling in the brain. Several neuronal processes: pain signalling, drug addiction, behavioural changes, the formation of memories and learning, related to the development of the brain, derive from rapid modifications in cytoskeleton. A negative remodelling of neuronal cytoskeleton will be associated with a loss of synapses and neurodegeneration in brain diseases, where the Cdk5 activity is deregulated. Therefore, most part of Cdk5 substrates are related to the actin skeleton; both, the physiological and the pathological ones. Some of them have been identified in the recent decades: ephexin1, p27, Mst3, CaMKv, kalirin-7, RasGRF2, Pak1, WAVE1, neurabin-1, TrkB, 5-HT6R, talin, drebrin, synapsin I, synapsin III, CRMP1, GKAP, SPAR, PSD-95, and LRRK2.
+
+
+=== Circadian clock regulation ===
+The mammalian circadian clock is controlled by Cdk5 with the phosphorylation of PER2. In the laboratory, Cdk5 was blocked in the SCN (suprachiasmatic nuclei, a master oscillator of the circadian system), consequently the free-running period in mice was reduced. During the diurnal period, the PER2 (at serine residue 394) was phosphorylated by the Cdk5, thus, the Cryptochrome 1 (CRY1) could easily interact with it and the PER2-CRY1 complex went into the nucleus. The molecular circadian cycle and period are properly established thanks to the task of the Cdk5 as a nuclear driver of these proteins.
+
+
+=== Regulator of cell apoptosis and cell survival ===
+In addition to all the roles previously mentioned, the Cdk5 is involved in numerous cellular functions such as cell mobility survival, apoptosis, and gene regulation.
+The plasma membrane, cytosol and perinuclear region are the locations where Cdk5/p35 activators are found. Nevertheless, Cdk5 can also be activated by cyclin I, this regulator causes an increase in the expression of BCl-2 family proteins, which are associated with anti-apoptotic functions.
+
+
+== Role in disease ==
+The chemical explanation of a wide variety of neurological disorders lead to the Cdk5; the abnormal phosphorylation of tau is a pathological action carried out by this kinase and the neurofibrillary tangles are the consequences.
+
+
+=== Neurodegenerative diseases ===
+Cdk5 plays an essential role in the central nervous system. During the process of embryogenesis, this kinase is necessary for the development of the brain; and in adult brains, Cdk5 is needed for many neuronal processes; for instance, learning and the formation of memories. Nevertheless, if Cdk5 activity is deregulated, it can lead to really severe neurological diseases, including Alzheimer's, Parkinson, Multiple sclerosis and Huntington's disease.
+
+Alzheimer's disease (AD) is responsible for 50-70% of all dementia cases. There have been some studies which have shown that an excess in the activity of Cdk5, a proline-directed protein kinase, leads to tau hyperphosphorylation, a process that is observed in many AD patients. Cdk5 activators, p35 and p39 (both of them are myristoylated proteins that are anchored to cell membranes), can be cleaved by calcium-activated calpain to p25 and p29. This will result in a migration of the proteins from the cell membrane to both nuclear and perinuclear regions, and in a deregulation of Cdk5 activity. p25 and p29 have half-lives that are 5 to 10 times longer to the ones that p35 and p39 have. This is incredibly problematic because it can lead to the accumulation of Cdk5 activators and an excess of Cdk5 activity, which then causes tau hyperphosphorylation. On top of that, an increase in Aβ levels can also lead to tau hyperphosphorylation by stimulating the production of p25. Therefore, Cdk5 could be a potential drug target in order to treat patients with AD because its inhibition could reduce tau hyperphosphorylation, and consequently, reduce the formation of NFTs (neurofibrillary tangles) and slow down the process of neurodegeneration.
+Huntington's disease (HD) is another neurodegenerative disease that is somewhat linked to the activity of Cdk5. Dynamin-related protein 1 (Drp1) is an essential element in mitochondrial fission. Cdk5 can alter the subcellular distribution of Drp1 and its activity. As a matter of fact, it has been observed that the inhibition of the overly-active kinase allows the Drp1 to function properly in mitochondrial fragmentation in order to avoid neurotoxicity in the brain. On top of that, Cdk5 can have an influence on the alteration of the mitochondrial morphology or its transmembrane potential, which can lead to cell death and neurodegeneration. This means that Cdk5 is a possible therapeutic target to treat the mitochondrial dysfunction that leads to the development of HD.
+
+Parkinson disease (PD): Cdk5 is considered to be tightly involved in Parkinson's disease. This neurodegenerative disease is caused by progressive loss of nerve cells in the part of the brain called the substantia nigra, among others. Cdk5 is able to form a complex with p25 (cleavage peptide of p35): Cdk5/p25. P25 will lead to the hyperactivity of Cdk5. The result of the formation of this complex is the apoptosis of nerve cells and neuroinflammation. This discovery could be used to treat Parkinson's disease. In order to inhibit the Cdk5/p25 complex, we could use an antagonist of Cdk5: CIP. The results of this treatment have been surprisingly positive. Indeed, we can notice not only that the Parkinson symptoms were appeased, but also that the CIP turned out to protect the loss of dopaminergic neurons in substantia nigra.
+Multiple sclerosis (MS): is one of the diseases, in which a failure of remyelination can provoke lasting axonal damage and an irreversible loss of function. Cyclin-dependent kinase 5 is involved in the process as it regulates the oligodendrocyte (OL9 development and myelination in CNS). Cdk5 inhibitors impede the remyelination and disrupt the neural cells activity. The low expression of MBP and proteolipid protein and the decrease in the number of myelinated axons indicate the lack of myelin repair.
+
+
+=== Cancer ===
+Cdk5 is involved in invasive cancers, apparently by reducing the activity of the actin regulatory protein caldesmon.
+Although Cdk5 is not mutated in cancer tissues, its activity and expression are deregulated. The kinase phosphorylates tumor suppressors and transcription factors, which are involved in cell cycle progression. Cdk5 is involved in tumor proliferation, migration, angiogenesis and also chemotherapy resistance and anti-tumor immunity. It also participates in signalling pathways that lead to metastasis, and it regulates the cytoskeleton and focal adhesions.
+
+A possible cancer treatment could consist in targeting Cdk5 and avoiding its binding to its activators and substrates.
+In recent studies, about radiation therapy in patients with large cell lung cancer, it has been found that CDK5 depletion diminishes lung cancer development and radiation resistance in vitro and in vivo. It was demonstrated that a decrease in Cdk5 reduced the expression of TAZ, a component of the Hypothalamus pathway. As a result, this loss mitigates the signal activation from the Hypothalamus. Consequently, Cdk5 can be treated as a target to fight lung cancer.
+
+
+== History ==
+CDK5 was originally named NCLK (Neuronal CDC2-Like Kinase) due to its similar phosphorylation motif. CDK5 in combination with an activator was also referred to as Tau Protein Kinase II. Furthermore, Cdk5 has been reported to be involved in T cell activation and play an important role in development of autoimmune disorders, such as multiple sclerosis.
+
+
+== Interactive pathway map ==
+Click on genes, proteins and metabolites below to link to respective articles. 
+
+
+== Interactions ==
+Cyclin-dependent kinase 5 has been shown to interact with different molecules and substrates:
+
+It interacts with LMTK2, NDEL1, CDK5R1, Nestin and PAK1.
+The gene CABLES1 codes for a cyclin-dependent kinase binding protein, whose complete name is Cdk5 and Abl enzyme substrate 1. This binding protein links Cdk5 and c-Abl, a tyrosine kinase. Active c-Abl phosphorylates CDK5 on tyrosine 15, a process enhanced by CABLES1 protein. As a result, Cdk5/p35 activity in developing neurons increases. CABLES1 and the mentioned phosphorylation may play an important role in axon growth regulation.
+The gene called CABLES2 codes for another binding protein, Cdk5 and Abl enzyme substrate 2. Although its function is unknown, it may be involved in the G1-S cell cycle transition, a stage between cell growth and DNA replication.
+Moreover, Cdk5 phosphorylates Apoptosis-associated tyrosine kinase (AATK). This protein probably induces growth arrest and myeloid precursor cells apoptosis, and also activates CdkR1.
+Glutathione S-transferase P enzyme, encoded by the GSTP1 gene, causes a negative regulation, or reduction, of Cdk5 activity. This is achieved via p25/p35 translocation in order to prevent neurodegeneration.
+Cdk5 binds to the protein Histone deacetylase 1 (HDAC1). When Cdk5/p25 derregulates HDAC1, abnormal cell-cycle activity appears and double-strand DNA breaks, causing neurotoxicity.
+Cdk5 cytoplasmic distribution is determined by activators p35 and p39. Both activators have localization motifs, which lead to the presence of Cdk5 in the plasma membrane and in the perinuclear region. p35 and p39 myristoylation allows Cdk5 to associate with membranes.
+Cdk5 also interacts with APEX1 endonuclease. The kinase phosphorylates Thr-233, causing an accumulation of DNA damage and, eventually, neuronal death.
+Cdk5 phosphorylates and regulates the tumor suppressor protein p53. In apoptotic PC12 cells there is a simultaneous increase in Cdk5 and p53 levels, so it is thought that the mechanism by which Cdk5 induces apoptosis could be caused by phosphorylation and activation of p53.
+Once Cdk5 is phosphorylated by a protein called EPH receptor A4, it phosphorylates Guanine nucleotide exchange factors (NGEF) regulating RhoA and dendritic spine morphogenesis.
+Cdk5 also phosphorylates Focal adhesion kinase (FAK). This may stimulate nuclear translocation, which plays an important role in neuronal migration, by regulating a centrosome-associated microtubule structure.
+5-Hydroxytryptamine receptor 6 (HTR6), which is believed to control cholinergic neuronal transmission in the brain, manages pyramidal neuron migration during corticogenesis. In order to do so, HTR6 regulates Cdk5 activity.
+Cdk5 interacts with CTNNB1 and CTNND2 as well.

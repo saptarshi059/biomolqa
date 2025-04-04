@@ -1,0 +1,24 @@
+Dobutamine is a medication used in the treatment of cardiogenic shock (as  a result of inadequate tissue perfusion) and severe heart failure. It may also be used in certain types of cardiac stress tests. It is given by IV only, as an injection into a vein or intraosseous as a continuous infusion. The amount of medication needs to be adjusted to the desired effect. Onset of effects is generally seen within 2 minutes. It has a half-life of two minutes. This drug is generally only administered short term, although it may be used for longer periods to relieve symptoms of heart failure in patients awaiting heart transplantation.  
+Common side effects include a fast heart rate, an irregular heart beat, and inflammation at the site of injection. Use is not recommended in those with idiopathic hypertrophic subaortic stenosis. It primarily works by direct stimulation of β1 receptors, which increases the strength of the heart's contractions, leading to a positive inotropic effect. Generally it has little effect on a person's heart rate.
+Dobutamine was approved for medical use in the United States in 1978. It is available as a generic medication. It was initially made from isoproterenol.
+
+
+== Medical uses ==
+Dobutamine is used to treat acute but potentially reversible heart failure, such as which occurs during cardiac surgery or in cases of septic or cardiogenic shock, on the basis of its positive inotropic action.
+Dobutamine can be used in cases of congestive heart failure to increase cardiac output. It is indicated when parenteral therapy is necessary for inotropic support in the short-term treatment of patients with cardiac decompensation due to depressed contractility, which could be the result of either organic heart disease or cardiac surgical procedures. Higher doses are not useful with history of recent ischemic heart disease because it increases heart rate and thus increases myocardial oxygen demand.
+The drug is also commonly used in the hospital setting as a pharmacologic stress testing agent to identify coronary artery disease.
+
+
+== Adverse effects ==
+Primary side effects include those commonly seen for β1 active sympathomimetics, such as hypertension, angina, arrhythmia, and tachycardia. Used with caution in atrial fibrillation as it has the effect of increasing the atrioventricular (AV) conduction.
+The most dangerous side effect of dobutamine is increased risk of arrhythmia, including fatal arrhythmias.
+Overall, dobutamine tends to produce less tachycardia and peripheral vascular effects than agents such as epinephrine and isoproterenol.
+
+
+== Pharmacology ==
+Dobutamine is a direct-acting agent whose primary activity results from stimulation of the β1-adrenoceptors of the heart, increasing contractility and cardiac output. Since it does not act on dopamine receptors to inhibit the release of norepinephrine (another α1 agonist), dobutamine is less prone to induce hypertension than is dopamine.
+Dobutamine is predominantly a β1-adrenergic agonist, with weak β2 activity, and α1 selective activity, although it is used clinically in cases of cardiogenic shock for its β1 inotropic effect in increasing heart contractility and cardiac output. Dobutamine is administered as a racemic mixture consisting of both (+) and (−) isomers; the (+) isomer is a potent β1 agonist and α1 antagonist, while the (−) isomer is an α1 agonist. The administration of the racemate results in the overall β1 agonism responsible for its activity. (+)-Dobutamine also has mild β2 agonist activity, which makes it useful as a vasodilator.
+
+
+== History ==
+It was developed in the 1970s by Drs. Ronald Tuttle and Jack Mills at Eli Lilly and Company, as a structural analogue of isoprenaline.

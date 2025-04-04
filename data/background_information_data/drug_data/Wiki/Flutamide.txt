@@ -1,0 +1,154 @@
+Flutamide, sold under the brand name Eulexin among others, is a nonsteroidal antiandrogen (NSAA) which is used primarily to treat prostate cancer. It is also used in the treatment of androgen-dependent conditions like acne, excessive hair growth, and high androgen levels in women. It is taken by mouth, usually three times per day.
+Side effects in men include breast tenderness and enlargement, feminization, sexual dysfunction, and hot flashes. Conversely, the medication has fewer side effects and is better-tolerated in women with the most common side effect being dry skin. Diarrhea and elevated liver enzymes can occur in both sexes. Rarely, flutamide can cause liver damage, lung disease, sensitivity to light, elevated methemoglobin, elevated sulfhemoglobin, and deficient neutrophils. Numerous cases of liver failure and death have been reported, which has limited the use of flutamide.
+Flutamide acts as a selective antagonist of the androgen receptor (AR), competing with androgens like testosterone and dihydrotestosterone (DHT) for binding to ARs in tissues like the prostate gland. By doing so, it prevents their effects and stops them from stimulating prostate cancer cells to grow. Flutamide is a prodrug to a more active form. Flutamide and its active form stay in the body for a relatively short time, which makes it necessary to take flutamide multiple times per day.
+Flutamide was first described in 1967 and was first introduced for medical use in 1983. It became available in the United States in 1989. The medication has largely been replaced by newer and improved NSAAs, namely bicalutamide and enzalutamide, due to their better efficacy, tolerability, safety, and dosing frequency (once per day), and is now relatively little-used. It is on the World Health Organization's List of Essential Medicines.
+
+
+== Medical uses ==
+
+
+=== Prostate cancer ===
+GnRH is released by the hypothalamus in a pulsatile fashion; this causes the anterior pituitary gland to release luteinizing hormone (LH) and follicle-stimulating hormone (FSH). LH stimulates the testes to produce testosterone, which is metabolized to DHT by the enzyme 5α-reductase.
+DHT, and to a significantly smaller extent, testosterone, stimulate prostate cancer cells to grow. Therefore, blocking these androgens can provide powerful treatment for prostate cancer, especially metastatic disease. Normally administered are GnRH analogues, such as leuprorelin or cetrorelix. Although GnRH agonists stimulate the same receptors that GnRH does, since they are present continuously and not in a pulsatile manner, they serve to inhibit the pituitary gland and therefore block the whole chain. However, they initially cause a surge in activity; this is not solely a theoretical risk but may cause the cancer to flare. Flutamide was initially used at the beginning of GnRH agonist therapy to block this surge, and it and other NSAAs continue in this use. In contrast to GnRH agonists, GnRH antagonists don't cause an initial androgen surge, and are gradually replacing GnRH agonists in clinical use.
+There have been studies to investigate the benefit of adding an antiandrogen to surgical orchiectomy or its continued use with a GnRH analogue (combined androgen blockade (CAB)). Adding antiandrogens to orchiectomy showed no benefit, while a small benefit was shown with adding antiandrogens to GnRH analogues.
+Unfortunately, therapies which lower testosterone levels, such as orchiectomy or GnRH analogue administration, also have significant side effects. Compared to these therapies, treatment with antiandrogens exhibits "fewer hot flashes, less of an effect on libido, less muscle wasting, fewer personality changes, and less bone loss." However, antiandrogen therapy alone is less effective than surgery. Nevertheless, given the advanced age of many with prostate cancer, as well as other features, many men may choose antiandrogen therapy alone for a better quality of life.
+Flutamide has been found to be similarly effective in the treatment of prostate cancer to bicalutamide, although indications of inferior efficacy, including greater compensatory increases in testosterone levels and greater reductions in PSA levels with bicalutamide, were observed. The medication, at a dosage of 750 mg/day (250 mg three times daily), has also been found to be equivalent in effectiveness to 250 mg/day oral cyproterone acetate as a monotherapy in the treatment of prostate cancer in a large-scale clinical trial of 310 patients, though its side effect and toxicity profiles (including gynecomastia, diarrhea, nausea, loss of appetite, and liver disturbances) were regarded as considerably worse than those of cyproterone acetate.
+A dosage of 750 mg/day flutamide (250 mg/three times a day) is roughly equivalent in terms of effectiveness to 50 mg/day bicalutamide when used as the antiandrogen component in combined androgen blockade in the treatment of advanced prostate cancer.
+Flutamide has been used to prevent the effects of the testosterone flare at the start of GnRH agonist therapy in men with prostate cancer.
+The combination of flutamide with an estrogen such as ethinylestradiol sulfonate has been used as a form of combined androgen blockade and as an alternative to the combination of flutamide with surgical or medical castration.
+
+
+=== Skin and hair conditions ===
+Flutamide has been researched and used extensively in the treatment of androgen-dependent skin and hair conditions in women including acne, seborrhea, hirsutism, and scalp hair loss, as well as in hyperandrogenism (e.g., in polycystic ovary syndrome or congenital adrenal hyperplasia), and is effective in improving the symptoms of these conditions. The dosages used are lower than those used in the treatment of prostate cancer. Although flutamide continues to be used for these indications, its use in recent years has been limited due to the risk of potentially fatal hepatotoxicity, and it is no longer recommended as a first- or second-line therapy. The related NSAA bicalutamide has also been found to be effective in the treatment of hirsutism in women and appears to have comparable effectiveness to that of flutamide, but has a far lower and only small risk of hepatotoxicity in comparison.
+Aside from its risk of liver toxicity and besides other nonsteroidal antiandrogens, it has been said that flutamide is likely the best typically used antiandrogen medication for the treatment of androgen-dependent symptoms in women. This is related to its high effectiveness and minimal side effects.
+
+
+==== Acne and seborrhea ====
+Flutamide has been found to be effective in the treatment of acne and seborrhea in women in a number of studies. In a long-term study of 230 women with acne, 211 of whom also had seborrhea, very-low-dose flutamide alone or in combination with an oral contraceptive caused a marked decrease in acne and seborrhea after 6 months of treatment, with maximal effect by 1 year of treatment and benefits maintained in the years thereafter. In the study, 97% of the women reported satisfaction with the control of their acne with flutamide. In another study, flutamide decreased acne and seborrhea scores by 80% in only 3 months. In contrast, spironolactone decreased symptoms by only 40% in the same time period, suggesting superior effectiveness for flutamide for these indications. Flutamide has, in general, been found to reduce symptoms of acne by as much as 90% even at low doses, with several studies showing complete acne clearance.
+
+
+==== Excessive hair growth ====
+
+Flutamide has been found to be effective in the treatment of hirsutism (excessive body/facial hair growth) in numerous studies. It possesses moderate effectiveness for this indication, and the overall quality of the evidence is considered to be moderate. The medication shows equivalent or superior effectiveness to other antiandrogens including spironolactone, cyproterone acetate, and finasteride in the treatment of hirsutism, although its relatively high risk of hepatotoxicity makes it unfavorable compared to these other options. It has been used to treat hirsutism at dosages ranging from 62.5 mg/day to 750 mg/day. A study found that multiple dosages of flutamide significantly reduced hirsutism in women with polycystic ovary syndrome and that there were no significant differences in the effectiveness for dosages of 125 mg/day, 250 mg/day, and 375 mg/day. In addition, a study found that combination of 125 mg/day flutamide with finasteride was no more effective than 125 mg/day flutamide alone in the treatment of hirsutism. These findings support the use of flutamide at lower doses for hirsutism without loss of effectiveness, which may help to lower the risk of hepatotoxicity. However, the risk has been found to remain even at very low doses.
+
+
+==== Scalp hair loss ====
+Flutamide has been found to be effective in the treatment of female pattern hair loss in a number of studies. In one study of 101 pre- and postmenopausal women, flutamide alone or in combination with an oral contraceptive produced a marked decrease in hair loss scores after 1 year of treatment, with maximum effect after 2 years of treatment and benefits maintained for another 2 years. In a small study of flutamide with an oral contraceptive, the medication caused an increase in cosmetically acceptance hair density in 6 of 7 women with diffuse scalp hair loss. In a comparative study, flutamide significantly improved scalp hair growth (21% reduction in Ludwig scores) in hyperandrogenic women after 1 year of treatment, whereas cyproterone acetate and finasteride were ineffective.
+
+
+=== Other uses ===
+Flutamide has been used in case reports to decrease the frequency of spontaneous orgasms, for instance in men with post-orgasmic illness syndrome.
+
+
+=== Available forms ===
+Flutamide is available in the form of 125 mg oral capsules and 250 mg oral tablets.
+
+
+== Side effects ==
+The side effects of flutamide are sex-dependent. In men, a variety of side effects related to androgen deprivation may occur, the most common being gynecomastia and breast tenderness. Others include hot flashes, decreased muscle mass, decreased bone mass and an associated increased risk of fractures, depression, and sexual dysfunction including reduced libido and erectile dysfunction. In women, flutamide is, generally, relatively well tolerated, and does not interfere with ovulation. The only common side effect of flutamide in women is dry skin (75%), which can be attributed to a reduction of androgen-mediated sebum production. General side effects that may occur in either sex include dizziness, lack of appetite, gastrointestinal side effects such as nausea, vomiting, and diarrhea, a greenish-bluish discoloration of the urine, and hepatic changes. Because flutamide is a pure antiandrogen, unlike steroidal antiandrogens like cyproterone acetate and megestrol acetate (which additionally possess progestogenic activity), it does not appear to have a risk of cardiovascular side effects (e.g., thromboembolism) or fluid retention.
+
+
+=== Gynecomastia ===
+Flutamide, as a monotherapy, causes gynecomastia in 30 to 79% of men, and also produces breast tenderness. However, more than 90% of cases of gynecomastia with NSAAs including flutamide are mild to moderate. Tamoxifen, a selective estrogen receptor modulator (SERM) with predominantly antiestrogenic actions, can counteract flutamide-induced gynecomastia and breast pain in men.
+
+
+=== Diarrhea ===
+Diarrhea is more common and sometimes more severe with flutamide than with other NSAAs. In a comparative trial of combined androgen blockade for prostate cancer, the rate of diarrhea was 26% for flutamide and 12% for bicalutamide. Moreover, 6% of flutamide-treated patients discontinued the medication due to diarrhea, whereas only 0.5% of bicalutamide-treated patients did so. In the case of antiandrogen monotherapy for prostate cancer, the rates of diarrhea are 5 to 20% for flutamide, 2 to 5% for bicalutamide, and 2 to 4% for nilutamide. In contrast to diarrhea, the rates of nausea and vomiting are similar among the three medications.
+
+
+=== Rare reactions ===
+
+
+==== Liver toxicity ====
+Although rare, flutamide has been associated with severe hepatotoxicity and death. By 1996, 46 cases of severe cholestatic hepatitis had been reported, with 20 fatalities. There have been continued case reports since, including liver transplants and death. A 2021 review of the literature found 15 cases of serious hepatotoxicity in women treated with flutamide, including 7 liver transplantations and 2 deaths.
+Based on the number of prescriptions written and the number of cases reported in the MedWatch database, the rate of serious hepatotoxicity associated with flutamide treatment was estimated in 1996 as approximately 0.03% (3 per 10,000). However, other research has suggested that the true incidence of significant hepatotoxicity with flutamide may be much greater, as high as 0.18 to 10%.
+ Flutamide is also associated with liver enzyme elevations in up to 42 to 62% of patients, although marked elevations in liver enzymes (above 5 times upper normal limit) occur only in 3 to 5%. The risk of hepatotoxicity with flutamide is much higher than with nilutamide or bicalutamide. Lower doses of the medication appear to have a possibly reduced but still significant risk. Liver function should be monitored regularly with liver function tests during flutamide treatment. In addition, due to the high risk of serious hepatotoxicity, flutamide should not be used in the absence of a serious indication.
+The mechanism of action of flutamide-induced hepatotoxicity is thought to be due to mitochondrial toxicity. Specifically, flutamide and particularly its major metabolite hydroxyflutamide inhibit enzymes in the mitochondrial electron transport chain in hepatocytes, including respiratory complexes I (NADH ubiquinone oxidoreductase), II (succinate dehydrogenase), and V (ATP synthase), and thereby reduce cellular respiration via ATP depletion and hence decrease cell survival. Inhibition of taurocholate (a bile acid) efflux has also been implicated in flutamide-induced hepatotoxicity. In contrast to flutamide and hydroxyflutamide, which severely compromise hepatocyte cellular respiration in vitro, bicalutamide does not significantly do so at the same concentrations and is regarded as non-mitotoxic. It is thought that the nitroaromatic group of flutamide and hydroxyflutamide enhance their mitochondrial toxicity; bicalutamide, in contrast, possesses a cyano group in place of the nitro moiety, greatly reducing the potential for such toxicity.
+The hepatotoxicity of flutamide appears to depend on hydrolysis of flutamide catalyzed by an arylacetamide deacetalyse enzyme. This is analogous to the hepatotoxicity that occurs with the withdrawn paracetamol (acetominophen)-related medication phenacetin. In accordance, the combination of paracetamol (acetaminophen) and flutamide appears to result in additive to synergistic hepatotoxicity, indicating a potential drug interaction.
+Hepatotoxicity with flutamide may be cross-reactive with that of cyproterone acetate.
+
+
+==== Others ====
+Flutamide has also been associated with interstitial pneumonitis (which can progress to pulmonary fibrosis). The incidence of interstitial pneumonitis with flutamide was found to be 0.04% (4 per 10,000) in a large clinical cohort of 41,700 prostate cancer patients. A variety of case reports have associated flutamide with photosensitivity. Flutamide has been associated with several case reports of methemoglobinemia. Bicalutamide does not appear to share this risk with flutamide. Flutamide has also been associated with reports of sulfhemoglobinemia and neutropenia.
+
+
+=== Birth defects ===
+Out of the available endocrine-disrupting compounds looked at, flutamide has a notable effect on anogenital distance in rats.)
+
+
+== Pharmacology ==
+
+
+=== Pharmacodynamics ===
+
+
+==== Antiandrogenic activity ====
+
+Flutamide acts as a selective, competitive, silent antagonist of the androgen receptor (AR). Its active form, hydroxyflutamide, has between 10- and 25-fold higher affinity for the AR than does flutamide, and hence is a much more potent AR antagonist in comparison. However, at high concentrations, unlike flutamide, hydroxyflutamide is able to weakly activate the AR. Flutamide has far lower affinity for the AR than do steroidal antiandrogens like spironolactone and cyproterone acetate, and it is a relatively weak antiandrogen in terms of potency by weight, but the large dosages at which flutamide is used appear to compensate for this. In accordance with its selectivity for the AR, flutamide does not interact with the progesterone, estrogen, glucocorticoid, or mineralocorticoid receptor, and possesses no intrinsic progestogenic, estrogenic, glucocorticoid, or antigonadotropic activity. However, it can have some indirect estrogenic effects via increased levels of estradiol secondary to AR blockade, and this involved in the gynecomastia it can produce. Because flutamide does not have any estrogenic, progestogenic, or antigonadotropic activity, the medication does not cause menstrual irregularities in women. This is in contrast to steroidal antiandrogens like spironolactone and cyproterone acetate. Similarly to nilutamide, bicalutamide, and enzalutamide, flutamide crosses the blood–brain barrier and exerts central antiandrogen actions.
+Flutamide has been found to be equal to slightly more potent than cyproterone acetate and substantially more potent than spironolactone as an antiandrogen in bioassays. This is in spite of the fact that hydroxyflutamide has on the order of 10-fold lower affinity for the AR relative to cyproterone acetate. Hydroxyflutamide shows about 2- to 4-fold lower affinity for the rat and human AR than does bicalutamide. In addition, whereas bicalutamide has an elimination half-life of around 6 days, hydroxyflutamide has an elimination half-life of only 8 to 10 hours, a roughly 17-fold difference. In accordance, at dosages of 50 mg/day bicalutamide and 750 mg/day flutamide (a 15-fold difference), circulating levels of flutamide at steady-state have been found to be approximately 7.5-fold lower than those of bicalutamide. Moreover, whereas flutamide at this dosage has been found to produce a 75% reduction in prostate-specific antigen levels in men with prostate cancer, a fall of 90% has been demonstrated with this dosage of bicalutamide. In accordance, 50 mg/day bicalutamide has been found to possess equivalent or superior effectiveness to 750 mg/day flutamide in a large clinical trial for prostate cancer. Also, bicalutamide has been shown to be 5-fold more potent than flutamide in rats and 50-fold more potent than flutamide in dogs. Taken together, flutamide appears to be a considerably less potent and efficacious antiandrogen than is bicalutamide.
+Dose-ranging studies of flutamide in men with benign prostatic hyperplasia and prostate cancer alone and in combination with a GnRH agonist have been performed.
+Flutamide increases testosterone levels by 5- to 10-fold in gonadally intact male rats.
+
+
+==== CYP17A1 inhibition ====
+Flutamide and hydroxyflutamide have been found in vitro to inhibit CYP17A1 (17α-hydroxylase/17,20-lyase), an enzyme which is required for the biosynthesis of androgens. In accordance, flutamide has been found to slightly but significantly lower androgen levels in GnRH analogue-treated male prostate cancer patients and women with polycystic ovary syndrome. In a directly comparative study of flutamide monotherapy (375 mg once daily) versus bicalutamide monotherapy (80 mg once daily) in Japanese men with prostate cancer, after 24 weeks of treatment flutamide decreased dehydroepiandrosterone (DHEA) levels by about 44% while bicalutamide increased them by about 4%. As such, flutamide is a weak inhibitor of androgen biosynthesis. However, the clinical significance of this action may be limited when flutamide is given without a GnRH analogue to non-castrated men, as the medication markedly elevates testosterone levels into the high normal male range via prevention of AR activation-mediated negative feedback on the hypothalamic–pituitary–gonadal axis in this context.
+
+
+==== Other activities ====
+Flutamide has been identified as an agonist of the aryl hydrocarbon receptor. This may be involved in the hepatotoxicity of flutamide.
+
+
+=== Pharmacokinetics ===
+The absorption of flutamide is complete upon oral ingestion. Food has no effect on the bioavailability of flutamide. Steady-state levels of hydroxyflutamide, the active form of flutamide, are achieved after 2 to 4 days administration. Levels of hydroxyflutamide are approximately 50-fold higher than those of flutamide at steady-state.
+The plasma protein binding of flutamide and hydroxyflutamide are high; 94 to 96% and 92 to 94%, respectively. Flutamide and its metabolite hydroxyflutamide are known to be transported by the multidrug resistance-associated protein 1 (MRP1; ABCC1).
+Flutamide is metabolized by CYP1A2 (via α-hydroxylation) in the liver during first-pass metabolism to its main metabolite hydroxyflutamide (which accounts for 23% of an oral dose of flutamide one hour post-ingestion), and to at least five other, minor metabolites. Flutamide has at least 10 inactive metabolites total, including 4-nitro-3-fluoro-methylaniline.
+Flutamide is excreted in various forms in the urine, the primary form being 2-amino-5-nitro-4-(trifluoromethyl)phenol.
+Flutamide and hydroxyflutamide have elimination half-lives of 4.7 hours and 6 hours in adults, respectively. However, the half-life of hydroxyflutamide is extended to 8 hours after a single dose and to 9.6 hours at steady state) in elderly individuals. The elimination half-lives of flutamide and hydroxyflutamide are regarded as too short to allow for once-daily dosing, and for this reason, flutamide is instead administered three times daily at 8-hour intervals. In contrast, the newer NSAAs nilutamide, bicalutamide, and enzalutamide all have much longer half-lives, and this allows for once-daily administration in their cases.
+
+
+== Chemistry ==
+Unlike the hormones with which it competes, flutamide is not a steroid; rather, it is a substituted anilide. Hence, it is described as nonsteroidal in order to distinguish it from older steroidal antiandrogens such as cyproterone acetate and megestrol acetate.
+
+
+=== Synthesis ===
+
+Schotten–Baumann reaction between 4-nitro-3-(trifluoromethyl)aniline [393-11-3] (1) with isobutanoyl chloride [79-30-1] (2) in the presence of triethylamine.
+
+
+== History ==
+Flutamide was first synthesized in 1967 by Neri and colleagues at Schering Plough Corporation. It was originally synthesized as a bacteriostatic agent, but was subsequently, and serendipitously found to possess antiandrogen activity. The code name of flutamide during development was SCH-13521. Clinical research of the medication began in 1971, and it was first marketed in 1983, specifically in Chile under the brand name Drogenil and in West Germany under the brand name Flugerel. Flutamide was not introduced in the United States until 1989; it was specifically approved by the U.S. Food and Drug Administration for the treatment of metastatic prostate cancer in combination with a gonadotropin-releasing hormone (GnRH) analogue. The medication was first studied for the treatment of hirsutism in women in 1989. It was the first "pure antiandrogen" to be studied in the treatment of hirsutism. Flutamide was the first NSAA to be introduced, and was followed by nilutamide in 1989 and then bicalutamide in 1995.
+
+
+== Society and culture ==
+
+
+=== Generic names ===
+Flutamide is the generic name of the drug and its INNTooltip International Nonproprietary Name, USANTooltip United States Adopted Name, BANTooltip British Approved Name, DCFTooltip Dénomination Commune Française, and JANTooltip Japanese Accepted Name. Its names in Latin, German, and Spanish are flutamidum, flutamid, and flutamida, respectively. The medication has also been referred to by the name niftolide.
+
+
+=== Brand names ===
+Brand names of flutamide include or have included Cebatrol, Cytomid, Drogenil, Etaconil, Eulexin, Flucinom, Flumid, Flutacan, Flutamid, Flutamida, Flutamin, Flutan, Flutaplex, Flutasin, Fugerel, Profamid, and Sebatrol, among others.
+
+
+=== Availability ===
+Flutamide is marketed widely throughout the world, including in the United States, Canada, Europe, Australia, New Zealand, South Africa, Central and South America, East and Southeast Asia, India, and the Middle East.
+
+
+== Research ==
+
+
+=== Prostate cancer ===
+The combination of an estrogen and flutamide as a form of combined androgen blockade for the treatment of prostate cancer has been researched.
+
+
+=== Enlarged prostate ===
+Flutamide has been studied in the treatment of benign prostatic hyperplasia (BPH; enlarged prostate) in men in several clinical studies. It has been found to reduce prostate volume by about 25%, which is comparable to the reduction achieved with the 5α-reductase inhibitor finasteride. Unfortunately, it has been associated with side effects in these studies including gynecomastia and breast tenderness (in about 50% of patients), gastrointestinal disturbances such as nausea, diarrhea, and flatulence, and hepatotoxicity, although sexual function including libido and erectile potency were maintained.
+
+
+=== Breast cancer ===
+Flutamide was studied for the treatment of advanced breast cancer in two phase II clinical trials but was found to be ineffective. Out of a total of 47 patients, only three short-term responses occurred. However, the patients in the studies were selected irrespective of AR, ERTooltip estrogen receptor, PRTooltip progesterone receptor, or HER2 status, which were all unknown.
+
+
+=== Psychiatric disorders ===
+Flutamide has been studied in the treatment of bulimia nervosa in women.
+Flutamide was found to be effective in the treatment of obsessive–compulsive disorder (OCD) in men with comorbid Tourette's syndrome in one small randomized controlled trial. Conversely, it was ineffective in patients with OCD in another study. More research is necessary to determine whether flutamide is effective in the treatment of OCD.

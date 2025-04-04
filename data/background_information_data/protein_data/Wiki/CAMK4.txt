@@ -1,0 +1,2 @@
+Calcium/calmodulin-dependent protein kinase type IV is an enzyme that in humans is encoded by the CAMK4 gene.
+The product of this gene belongs to the serine/threonine protein kinase cluster, and to the Ca2+/calmodulin-dependent protein kinase (CAMK) group. This enzyme is a multifunctional serine/threonine protein kinase with limited tissue distribution, that has been implicated in transcriptional regulation in lymphocytes, neurons, and male germ cells.

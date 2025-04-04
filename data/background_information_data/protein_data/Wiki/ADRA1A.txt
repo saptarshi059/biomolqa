@@ -1,0 +1,34 @@
+The alpha-1A adrenergic receptor (α1A adrenoreceptor), also known as ADRA1A, formerly known also as the  alpha-1C adrenergic receptor, is an alpha-1 adrenergic receptor, and also denotes the human gene encoding it. There is no longer a subtype α1C receptor. At one time, there was a subtype known as α1C, but it was found to be identical to the previously discovered α1A receptor subtype. To avoid confusion, the naming convention was continued with the letter D.
+
+
+== Receptor ==
+There are 3 alpha-1 adrenergic receptor subtypes: alpha-1A, -1B and -1D, all of which signal through the Gq/11 family of G-proteins.  Different subtypes show different patterns of activation.  The majority of alpha-1 receptors are directed toward the function of epinephrine, a hormone that has to do with the fight-or-flight response.
+
+
+== Gene ==
+This gene encodes the alpha-1A-adrenergic receptor. Alternative splicing of this gene generates four transcript variants, which encode four different isoforms with distinct C-termini but having similar ligand binding properties.
+
+
+== Ligands ==
+
+
+=== Agonists ===
+6-(5-fluoro-2-pyrimidin-5-yl-phenyl)-6,7-dihydro-5H-pyrrolo[1,2-a]imidazole: EC50 = 1nM, Emax = 65%; good selectivity over α1B, α1D and α2A subtypes
+further partial agonistic imidazole compounds
+A-61603
+Metaraminol
+
+
+=== Antagonists ===
+Tamsulosin: for treatment of benign prostatic hyperplasia
+Silodosin: for treatment of benign prostatic hyperplasia
+Doxazosin: for treatment of benign prostatic hyperplasia and/or Hypertension
+Risperidone: used to treat schizophrenia and bipolar disorder
+WB-4101
+Ziprasidone
+Nicergoline
+Most tricyclic antidepressants
+
+
+== Role in neural circuits ==
+α1A-adrenergic receptor subtypes increase inhibition at dendrodendritic synapses, suggesting a synaptic mechanism for noradrenergic modulation of olfactory driven behaviors.

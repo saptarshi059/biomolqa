@@ -1,0 +1,89 @@
+Fluorouracil (5-FU, 5-fluorouracil), sold under the brand name Adrucil among others, is a cytotoxic chemotherapy medication used to treat cancer. By intravenous injection it is used for treatment of colorectal cancer, oesophageal cancer, stomach cancer, pancreatic cancer, breast cancer, and cervical cancer. As a cream it is used for actinic keratosis, basal cell carcinoma, and skin warts.
+Side effects of use by injection are common. They may include inflammation of the mouth, loss of appetite, low blood cell counts, hair loss, and inflammation of the skin. When used as a cream, irritation at the site of application usually occurs. Use of either form in pregnancy may harm the fetus. Fluorouracil is in the antimetabolite and pyrimidine analog families of medications. How it works is not entirely clear, but it is believed to involve blocking the action of thymidylate synthase and thus stopping the production of DNA.
+Fluorouracil was patented in 1956 and came into medical use in 1962. It is on the World Health Organization's List of Essential Medicines. In 2022, it was the 270th most commonly prescribed medication in the United States, with more than 900,000 prescriptions.
+
+
+== Medical uses ==
+
+Fluorouracil has been given systemically for anal, breast, colorectal, oesophageal, stomach, pancreatic and skin cancers (especially head and neck cancers). It has also been given topically (on the skin) for actinic keratoses, skin cancers and Bowen's disease (a type of cutaneous squamous-cell carcinoma), and as eye drops for treatment of ocular surface squamous neoplasia. Other uses include ocular injections into a previously created trabeculectomy bleb to inhibit healing and cause scarring of tissue, thus allowing adequate aqueous humor flow to reduce intraocular pressure.
+
+
+== Contraindications ==
+Fluorouracil is contraindicated in patients who are severely debilitated and in patients with bone marrow suppression due to either radiotherapy or chemotherapy. It is likewise contraindicated in pregnant or breastfeeding women.
+Non-topical use, i.e.  administration by injection, should be avoided in patients who do not have malignant illnesses.
+in 2020, the EU and UK license was updated to state that fluorouracil was contra-indicated in patients that "have a known complete absence of dihydropyrimidine dehydrogenase (DPD) activity".  In US, as of 2024, there is no specific contraindication on the package inserts however, there is a cautionary warning: "Increased risk of serious or fatal adverse reactions in patients with low or absent Dipyrimidine Dehydrogenase activity: withhold or permanently discontinue fluorouracil in patients with evidence of acute early-onset or unusually severe toxicity, which may indicate near complete or total absence of dipyrimidine dehydrogenase (DPD) activity.
+No fluorouracil dose has been proven safe in patients with absent DPD activity."
+Within the UK, DPYD testing to check for this contraindication is now routine practice, this is not the case in the US.
+
+
+== Adverse effects ==
+Adverse effects by frequency include:
+
+
+=== During systemic use ===
+Common (> 1% frequency):
+Uncommon (0.1–1% frequency):
+
+Rare (< 0.1% frequency):
+
+Anaphylaxis
+Allergic reactions
+Fever without signs of infection
+Mania, reversible dementia
+Diarrhea is severe and may be dose-limiting and is exacerbated by co-treatment with calcium folinate. Neutropenia tends to peak about 9–14 days after beginning treatment. Thrombocytopenia tends to peak about 7–17 days after the beginning of treatment and tends to recover about 10 days after its peak. Cardiotoxicity is a fairly common side effect, usually manifesting as angina or symptoms associated with coronary artery spasm, but about 0.55% of those receiving the drug will develop life-threatening cardiotoxicity. Life-threatening cardiotoxicity includes: arrhythmias, ventricular tachycardia and cardiac arrest, secondary to transmural ischaemia.
+
+
+=== During topical use ===
+Common (> 1% frequency):
+
+Uncommon (0.1–1% frequency):
+
+Hyper- or hypopigmentation
+Scarring
+
+
+=== Neurological damage ===
+The United States package insert warns that acute cerebellar syndrome has been observed following injection of fluorouracil and may persist after cessation of treatment. Symptoms include ataxia, nystagmus, and dysmetria.
+
+
+== Potential overdose ==
+There is very little difference between the minimum effective dose and maximum tolerated dose of 5-FU, and the drug exhibits marked individual pharmacokinetic variability. Therefore, an identical dose of 5-FU may result in a therapeutic response with acceptable toxicity in some patients and unacceptable and possibly life-threatening toxicity in others. Both overdosing and underdosing are of concern with 5-FU, although several studies have shown that the majority of colorectal cancer patients treated with 5-FU are underdosed based on today's dosing standard, body surface area (BSA). The limitations of BSA-based dosing prevent oncologists from being able to accurately titer the dosage of 5-FU for the majority of individual patients, which results in sub-optimal treatment efficacy or excessive toxicity.
+Numerous studies have found significant relationships between concentrations of 5-FU in blood plasma and both desirable or undesirable effects on patients. Studies have also shown that dosing based on the concentration of 5-FU in plasma can greatly increase desirable outcomes while minimizing negative side effects of 5-FU therapy. One such test that has been shown to successfully monitor 5-FU plasma levels and which "may contribute to improved efficacy and safety of commonly used 5-FU-based chemotherapies" is the My5-FU test.
+Uridine Triacetate is a potential antidote for cases of suspected overdose.
+
+
+== Dangers to pets ==
+The US Food and Drug Administration has highlighted the dangers of inadvertent administration to pets. While fluorouracil is sometimes used off label to treat horses, its administration to dogs in particular can be fatal.
+The FDA reports that it has received 20 reports of fatal outcomes in dogs following accidental ingestion of topical  fluorouracil.
+
+
+== Interactions ==
+It may increase the INR and prothrombin times in people on warfarin. Fluorouracil's efficacy is decreased when used alongside allopurinol, which can be used to decrease fluorouracil induced stomatitis through use of allopurinol mouthwash.
+
+
+== Pharmacology ==
+
+
+=== Pharmacogenetics ===
+The dihydropyrimidine dehydrogenase (DPD) enzyme is responsible for the detoxifying metabolism of fluoropyrimidines, a class of drugs that includes 5-fluorouracil, capecitabine, and tegafur. Genetic variations within the DPD gene (DPYD) can lead to reduced or absent DPD activity, and individuals who are heterozygous or homozygous for these variations may have partial or complete DPD deficiency; an estimated 0.2% of individuals have complete DPD deficiency. Those with partial or complete DPD deficiency have a significantly increased risk of severe or even fatal drug toxicities when treated with fluoropyrimidines; examples of toxicities include myelosuppression, neurotoxicity and hand-foot syndrome.
+
+
+=== Mechanism of action ===
+5-FU acts in several ways, but principally as a thymidylate synthase (TS) inhibitor. Interrupting the action of this enzyme blocks synthesis of the pyrimidine thymidylate (dTMP), which is a nucleotide required for DNA replication. Thymidylate synthase methylates deoxyuridine monophosphate (dUMP) to form thymidine monophosphate (dTMP). Administration of 5-FU causes a scarcity in dTMP, so rapidly dividing cancerous cells undergo cell death via thymineless death. Calcium folinate provides an exogenous source of reduced folinates and hence stabilises the 5-FU-TS complex, hence enhancing 5-FU's cytotoxicity.
+
+
+== History ==
+In 1954, Abraham Cantarow and Karl Paschkis found liver tumors absorbed radioactive uracil more readily than did normal liver cells. Charles Heidelberger, who had earlier found that fluorine in fluoroacetic acid inhibited a vital enzyme, asked Robert Duschinsky and Robert Schnitzer at Hoffmann-La Roche to synthesize fluorouracil. Some credit Heidelberger and Duschinsky with the discovery that 5-fluorouracil markedly inhibited tumors in mice. The original 1957 report
+In 1958, Anthony R. Curreri, Fred J. Ansfield, Forde A. McIver, Harry A. Waisman, and Charles Heidelberger reported the first clinical findings of 5-FU's activity in cancer in humans.
+
+
+== Natural analogues ==
+In 2003, scientists isolated 5-fluorouracil derivatives, closely related compounds, from the marine sponge, Phakellia fusca, collected around Yongxing Island of the Xisha Islands in the South China Sea. This is significant because fluorine-containing natural products are extremely rare.
+
+
+== Interactive pathway map ==
+Click on genes, proteins and metabolites below to link to respective articles. 
+
+
+== Names ==
+The name "fluorouracil" is the INN, USAN, USP name, and BAN. The form "5-fluorouracil" is often used; it shows that there is a fluorine atom on the 5th carbon of a uracil ring.

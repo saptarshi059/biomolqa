@@ -1,0 +1,24 @@
+The complement component 1q (or simply C1q) is a protein complex involved in the complement system, which is part of the innate immune system. C1q together with C1r and C1s form the C1 complex.
+Antibodies of the adaptive immune system can bind antigen, forming an antigen-antibody complex. When C1q binds antigen-antibody complexes, the C1 complex becomes activated. Activation of the C1 complex initiates the classical complement pathway of the complement system. The antibodies IgM and all IgG subclasses except IgG4 are able to initiate the complement system.
+
+
+== Structure ==
+C1q is a 460 kDa protein formed from 18 peptide chains in 3 subunits of 6. Each 6 peptide subunit consists of a Y-shaped pair of triple peptide helices joined at the stem and ending in a globular non-helical head.
+The 80-amino acid helical component of each triple peptide contain many Gly-X-Y sequences, where X and Y are proline, isoleucine, or hydroxylysine; they, therefore, strongly resemble collagen fibrils.
+
+
+=== C1q chains A, B and C ===
+C1q is composed of 18 polypeptide chains: six A-chains, six B-chains, and six C-chains. Each chain contains a collagen-like region located near the N terminus and a C-terminal globular region. The A-, B-, and C-chains are arranged in the order A-C-B on chromosome 1.
+
+
+== Domain ==
+The C1q domain is a conserved protein domain. C1q is a subunit of the C1 enzyme complex that activates the serum complement system. C1q comprises 6 A, 6 B and 6 C chains. These share the same topology, each possessing a small, globular N-terminal domain, a collagen-like Gly/Pro-rich central region, and a conserved C-terminal region, the C1q domain. The C1q protein is produced in collagen-producing cells and shows sequence and structural similarity to collagens VIII and X.
+
+
+== Function ==
+
+It is assumed that the globular ends are the sites for multivalent attachment to the complement fixing sites in immune complexed immunoglobulin. Patients with Lupus erythematosus often have deficient expression of C1q. Genetic deficiency of C1q is extremely rare (approximately 75 known cases) although the majority (>90%) of those have SLE.
+C1q associates with C1r and C1s in order to yield the C1 complex (C1qr2s2), the first component of the serum complement system. Deficiency of C1q has been associated with lupus erythematosus and glomerulonephritis.
+It is potentially multivalent for attachment to the complement fixation sites of immunoglobulin. 
+The sites are on the CH2 domain of IgG and, it is thought, on the CH4 domain of IgM. IgG4 cannot bind C1q, but the other three IgG subclasses can.
+The appropriate peptide sequence of the complement fixing site might become exposed following complexing of the immunoglobulin, or the sites might always be available, but might require multiple attachment by C1q with critical geometry in order to achieve the necessary avidity.

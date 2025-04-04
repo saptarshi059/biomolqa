@@ -1,0 +1,82 @@
+Pyrimethamine, sold under the brand name Daraprim among others, is a medication used with leucovorin (leucovorin is used to decrease side effects of pyrimethamine; it does not have intrinsic anti-parasitic activity) to treat the parasitic diseases toxoplasmosis and cystoisosporiasis. It is also used with dapsone as a second-line option to prevent Pneumocystis jiroveci pneumonia  in people with HIV/AIDS. It was previously used for malaria but is no longer recommended due to resistance. Pyrimethamine is taken by mouth.
+Common side effects include gastrointestinal upset, severe allergic reactions, and bone marrow suppression. It should not be used by people with folate deficiency that has resulted in anemia. There is concern that it may increase the risk of cancer. While occasionally used in pregnancy it is unclear if pyrimethamine is safe for the baby. Pyrimethamine is classified as a folic acid antagonist. It works by inhibiting folic acid metabolism and therefore the making of DNA.
+Pyrimethamine was discovered in 1952 and came into medical use in 1953. It is on the World Health Organization's List of Essential Medicines. It was approved as a generic in the United States in February 2020.
+
+
+== Medical uses ==
+Pyrimethamine is typically given with a sulfonamide and folinic acid.
+It is used for the treatment of toxoplasmosis, actinomycosis, and isosporiasis, and for the treatment and prevention of Pneumocystis jirovecii pneumonia.
+
+
+=== Toxoplasmosis ===
+Pyrimethamine is also used in combination with sulfadiazine to treat active toxoplasmosis. The two drugs bind the same enzymatic targets as the drugs trimethoprim and sulfamethoxazole - dihydrofolate reductase and dihydropteroate synthase, respectively.
+Pyrimethamine has also been used in several trials to treat retinochoroiditis.
+
+
+=== Pregnancy consideration ===
+Pyrimethamine is labeled as pregnancy category C in the United States. To date,  not enough evidence on its risks in pregnancy or its effects on the fetus is available.
+
+
+=== Malaria ===
+It is primarily active against Plasmodium falciparum, but also against Plasmodium vivax. Due to the emergence of pyrimethamine-resistant strains of P. falciparum, pyrimethamine alone is seldom used now. In combination with a long-acting sulfonamide such as sulfadiazine, it was widely used, such as in Fansidar, though resistance to this combination is increasing.
+
+
+== Contraindications ==
+Pyrimethamine is contraindicated in people with folate-deficiency anaemia.
+
+
+== Side effects ==
+When higher doses are used, as in the treatment of toxoplasmosis, pyrimethamine can cause gastrointestinal symptoms such as nausea, vomiting, glossitis, anorexia, and diarrhea. A rash, which can be indicative of a hypersensitivity reaction, is also seen, particularly in combination with sulfonamides. Central nervous system effects include ataxia, tremors, and seizures. Hematologic side effects such as thrombocytopenia, leukopenia, and anemia can also occur.
+
+
+== Interactions ==
+Other antifolate agents such as methotrexate and trimethoprim may potentiate the antifolate actions of pyrimethamine, leading to potential folate deficiency, anaemia, and other blood dyscrasias.
+
+
+== Mechanism of action ==
+Pyrimethamine interferes with the regeneration of tetrahydrofolic acid from dihydrofolate by competitively inhibiting the enzyme dihydrofolate reductase. Tetrahydrofolic acid is essential for DNA and RNA synthesis in many species, including protozoa. It has also been found to reduce the expression of SOD1, a key protein involved in amyotrophic lateral sclerosis.
+
+
+=== Other medications ===
+Pyrimethamine is typically given with folinic acid and sulfadiazine.
+
+Sulfonamides (e.g. sulfadiazine) inhibit dihydropteroate synthetase, an enzyme that participates in folic acid synthesis from para-aminobenzoic acid.  Hence, sulfonamides work synergistically with pyrimethamine by blocking a different enzyme needed for folic acid synthesis.
+Folinic acid (leucovorin) is a folic acid derivative converted to tetrahydrofolate, the primary active form of folic acid, in vivo, without relying on dihydrofolate reductase. Folinic acid reduces side effects related to folate deficiency in the patient.
+
+
+=== Mechanism of resistance ===
+Resistance to pyrimethamine is widespread.  Mutations in the malarial gene for dihydrofolate reductase may reduce its effectiveness.  These mutations decrease the binding affinity between pyrimethamine and dihydrofolate reductase via loss of hydrogen bonds and steric interactions.
+
+
+== History ==
+
+Nobel Prize-winning American scientist Gertrude Elion developed the drug at Burroughs-Wellcome (now part of GlaxoSmithKline) to combat malaria. Pyrimethamine has been available since 1953. In 2010, GlaxoSmithKline sold the marketing rights for Daraprim to CorePharma. Impax Laboratories sought to buy CorePharma in 2014, and completed the acquisition, including Daraprim, in March 2015. In August 2015, the rights were bought by Turing Pharmaceuticals. Turing subsequently became infamous for a price hike controversy when it raised the price of a dose of the drug in the U.S. market from US$13.50 to US$750, a 5,500% increase.
+
+
+== Society and culture ==
+
+
+=== Economics ===
+In the United States in 2015, Turing Pharmaceuticals was criticized for increasing the price 50-fold, from US$13.50 to $750 a tablet, leading to a cost of $75,000 for a course of treatment reported at one hospital.
+
+
+==== United States ====
+In the United States, in 2015, with Turing Pharmaceuticals' acquisition of the US marketing rights for Daraprim tablets, Daraprim became a single-source and specialty pharmacy item, and the price was increased. The cost of a monthly course for a person on 75 mg dose rose to about $75,000/month at one hospital, or $750 per tablet while it was previously priced at $13.50.
+Outpatients could no longer obtain the medication from a community pharmacy, but only through a single dispensing pharmacy, Walgreens Specialty Pharmacy, and institutions could no longer order from their general wholesaler, but had to set up an account with the Daraprim Direct program.  Presentations from Retrophin, a company formerly headed by Martin Shkreli, CEO of Turing, from which Turing acquired the rights to Daraprim, suggested that a closed distribution system could prevent generic competitors from legally obtaining the drugs for the bioequivalence studies required for FDA approval of a generic drug.
+Shkreli defended the price hike by saying, "If there was a company that was selling an Aston Martin at the price of a bicycle, and we buy that company and we ask to charge Toyota prices, I don't think that that should be a crime."  As a result of the backlash, Shkreli hired a crisis public relations firm to help explain his fund's move. Turing Pharmaceuticals announced on 24 November 2015, "that it would not reduce the list price of that drug after all", but they would offer patient assistance programs. New York Times journalist Andrew Pollack noted that these programs "are standard for companies selling extremely high-priced drugs. They enable the patients to get the drug while pushing most of the costs onto insurance companies and taxpayers."
+The price increase was criticized by physician groups such as HIV Medicine Associates and Infectious Diseases Society of America.
+In 2016, a group of high school students from Sydney Grammar supported by the University of Sydney prepared pyrimethamine as an illustration that the synthesis is comparatively easy and the price-hike unjustifiable. His team produced 3.7 g for US$20, which would have been worth between US$35,000 and US$110,000 in the United States at the time.  Shkreli said the schoolboys were not competition, likely because the necessary bioequivalence studies require a sample of the existing medication provided directly by the company, and not simply purchased from a pharmacy, which Turing could decline to provide. Nonetheless, the students' work was featured in The Guardian and Time magazine, and on ABC Australia, the BBC, and CNN.
+On 22 October 2015, Imprimis Pharmaceuticals announced it had made available compounded and customizable formulations of pyrimethamine and leucovorin in capsules to be taken by mouth starting as low as $99 for a 100-count bottle in the United States. Pyrimethamine was approved as a generic in the United States in February 2020.
+In January 2020, the FTC filed a case against Vyera "alleging an elaborate anticompetitive scheme to preserve a monopoly for the life-saving drug, Daraprim". A settlement was reached in December 2021. According to AP News, the settlement "requires Vyera and Phoenixus to provide up to $40 million in relief over 10 years to consumers who allegedly were fleeced by their actions and requires them to make Daraprim available to any potential generic competitor at the cost of producing the drug." According to Law360, company executive Kevin Mulleady "agreed to a seven-year ban on working for or holding more than an 8% share in most pharmaceutical companies."
+
+
+==== Other countries ====
+In India, multiple combinations of generic pyrimethamine are available for a price ranging from US$0.04 to US$0.10 each (3–7 rupees).
+In the UK, the same drug is available from GSK at a cost of US$20 (£13) for 30 tablets (about $0.66 each).
+In Australia, the drug is available in most pharmacies at a cost of US$9.35 (A$12.99) for 50 tablets (around US$0.18 each).
+In Brazil, the drug is available for R$0.07 a pill, or about US$0.02.
+In Switzerland, the drug is available for US$9.45 (CHF9.05) for 30 tablets (around US$0.32 a piece).
+
+
+== Research ==
+In 2011, researchers discovered that pyrimethamine can increase β-hexosaminidase activity, thus potentially slowing down the progression of late-onset Tay–Sachs disease. It is being evaluated in clinical trials as a treatment for amyotrophic lateral sclerosis.

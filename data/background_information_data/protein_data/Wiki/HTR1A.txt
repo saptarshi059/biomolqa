@@ -1,0 +1,82 @@
+The serotonin 1A receptor (or 5-HT1A receptor) is a subtype of serotonin receptors, or 5-HT receptors, that binds serotonin, also known as 5-HT, a neurotransmitter. 5-HT1A is expressed in the brain, spleen, and neonatal kidney. It is a G protein-coupled receptor (GPCR), coupled to the Gi protein, and its activation in the brain mediates hyperpolarization and reduction of firing rate of the postsynaptic neuron. In humans, the serotonin 1A receptor is encoded by the HTR1A gene.
+
+
+== Distribution ==
+The 5-HT1A receptor is the most widespread of all the 5-HT receptors. In the central nervous system, 5-HT1A receptors exist in the cerebral cortex, hippocampus, septum, amygdala, and raphe nucleus in high densities, while low amounts also exist in the basal ganglia and thalamus. The 5-HT1A receptors in the raphe nucleus are largely somatodendritic autoreceptors, whereas those in other areas such as the hippocampus are postsynaptic receptors.
+
+
+== Function ==
+
+
+=== Neuromodulation ===
+5-HT1A receptor agonists are involved in neuromodulation. They decrease blood pressure and heart rate via a central mechanism, by inducing peripheral vasodilation, and by stimulating the vagus nerve. These effects are the result of activation of 5-HT1A receptors within the rostral ventrolateral medulla. The sympatholytic antihypertensive drug urapidil is an α1-adrenergic receptor antagonist and 5-HT1A receptor agonist, and it has been demonstrated that the latter property contributes to its overall therapeutic effects. Vasodilation of the blood vessels in the skin via central 5-HT1A activation increases heat dissipation from the organism out into the environment, causing a decrease in body temperature.
+Activation of central 5-HT1A receptors triggers the release or inhibition of norepinephrine depending on species, presumably from the locus coeruleus, which then reduces or increases neuronal tone to the iris sphincter muscle by modulation of postsynaptic α2-adrenergic receptors within the Edinger-Westphal nucleus, resulting in pupil dilation in rodents, and pupil constriction in primates including humans.
+5-HT1A receptor agonists like buspirone and flesinoxan show efficacy in relieving anxiety and depression. Buspirone and tandospirone are currently approved for these indications in different parts of the world. Others such as gepirone, flesinoxan, flibanserin, and naluzotan have also been investigated, though none have been fully developed and approved yet. Some of the atypical antipsychotics like lurasidone and aripiprazole are also partial agonists at the 5-HT1A receptor and are sometimes used in low doses as augmentations to standard antidepressants like the selective serotonin reuptake inhibitors (SSRIs). Mice lacking 5-HT1A receptors altogether (knockout) show increased anxiety but lower depressive-like behaviour.
+5-HT1A autoreceptor desensitization and increased 5-HT1A receptor postsynaptic activation via general increases in serotonin levels by serotonin precursor supplementation, serotonin reuptake inhibition, or inhibition of monoamine oxidase has been shown to be a major mediator in the therapeutic benefits of most mainstream antidepressant supplements and pharmaceuticals, including serotonin precursors like L-tryptophan and 5-HTP, SSRIs, serotonin-norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), tetracyclic antidepressants (TeCAs), and monoamine oxidase inhibitors (MAOIs). 5-HT1A receptor activation likely plays a significant role in the positive effects of serotonin releasing agents (SRAs) like MDMA (commonly known as ecstasy) as well.
+5-HT1A receptors in the dorsal raphe nucleus are co-localized with neurokinin 1 (NK1) receptors and have been shown to inhibit the release of substance P, their endogenous ligand. In addition to being antidepressant and anxiolytic in effect, 5-HT1A receptor activation has also been demonstrated to be antiemetic and analgesic, and all of these properties may be mediated in part or full, depending on the property in question, by NK1 receptor inhibition. Consequently, novel NK1 receptor antagonists are now in use for the treatment of nausea and emesis, and are also being investigated for the treatment of anxiety and depression.
+5-HT1A receptor activation has been shown to increase dopamine release in the medial prefrontal cortex, striatum, and hippocampus, and may be useful for improving the symptoms of schizophrenia and Parkinson's disease. As mentioned above, some of the atypical antipsychotics are 5-HT1A receptor partial agonists, and this property has been shown to enhance their clinical efficacy. Enhancement of dopamine release in these areas may also play a major role in the antidepressant and anxiolytic effects as seen upon postsynaptic activation of the 5-HT1A receptor.
+The activation of 5-HT1A receptors has been demonstrated to impair certain aspects of memory (affecting declarative and non-declarative memory functions) and learning (due to interference with memory-encoding mechanisms), by inhibiting the release of glutamate and acetylcholine in various areas of the brain. 5-HT1A activation is known to improve cognitive functions associated with the prefrontal cortex, possibly via inducing prefrontal cortex dopamine and acetylcholine release. Conversely, the 5-HT1A antagonist, WAY100635, alleviated learning and memory impairments induced by glutamate blockade (with dizocilpine) or hippocampal cholinergic denervation (by fornix transection) in primates.  Furthermore, 5-HT1A receptor antagonists such as lecozotan have been shown to facilitate certain types of learning and memory in rodents, and as a result, are being developed as novel treatments for Alzheimer's disease.
+Other effects of 5-HT1A activation that have been observed in scientific research include:
+
+Decreased aggression
+Increased sociability
+Decreased impulsivity
+Inhibition of drug-seeking behavior
+Facilitation of sex drive and arousal
+Inhibition of penile erection
+Diminished food intake
+Prolongation of REM sleep latency
+Reversal of opioid-induced respiratory depression
+
+
+=== Endocrinology ===
+5-HT1A receptor activation induces the secretion of various hormones including cortisol, corticosterone, adrenocorticotropic hormone (ACTH), oxytocin, prolactin, growth hormone, and β-endorphin. The receptor does not affect vasopressin or renin secretion, unlike the 5-HT2 receptors. It has been suggested that oxytocin release may contribute to the prosocial, antiaggressive, and anxiolytic properties observed upon activation of the receptor. β-Endorphin secretion may contribute to antidepressant, anxiolytic, and analgesic effects.
+
+
+=== Autoreceptors ===
+5-HT1A receptors can be located on the cell body, dendrites, axons, and both presynaptically and postsynaptically in nerve terminals or synapses. Those located on the soma and dendrites are referred to as somatodendritic, and those located presynaptically in the synapse are simply referred to as presynaptic. As a group, receptors that are sensitive to the neurotransmitter that is released by the neuron on which the receptors are located are known as autoreceptors; they typically constitute the key component of an ultra-short negative feedback loop whereby the neuron's release of neurotransmitter inhibits its further release of neurotransmitter. Stimulation of 5-HT1A autoreceptors inhibits the release of serotonin in nerve terminals. For this reason, 5-HT1A receptor agonists tend to exert a biphasic mode of action; they decrease serotonin release and postsynaptic 5-HT1A receptor activity in low doses, and further decrease serotonin release but increase postsynaptic 5-HT1A receptor activity at higher doses by directly stimulating the receptors in place of serotonin.
+This autoreceptor-mediated inhibition of serotonin release has been theorized to be a major factor in the therapeutic lag that is seen with serotonergic antidepressants such as the SSRIs. The autoreceptors must first desensitize before the concentration of extracellular serotonin in the synapse can become elevated appreciably. Though the responsiveness of the autoreceptors is somewhat reduced with chronic treatment, they still remain effective at constraining large increases in extracellular serotonin concentrations. For this reason, serotonin reuptake inhibitors that also have 5-HT1A receptor antagonistic or partial agonistic properties, such as vilazodone and SB-649,915, are being investigated and introduced as novel antidepressants with the potential for a faster onset of action and improved effectiveness compared to those currently available.
+Unlike most drugs that elevate extracellular serotonin levels like the SSRIs and MAOIs, SRAs such as fenfluramine and MDMA bypass serotonin autoreceptors such as 5-HT1A. They do this by directly acting on the release mechanisms of serotonin neurons and forcing release to occur regardless of autoreceptor-mediated inhibition. As such, SRAs induce immediate and much greater increases in extracellular serotonin concentrations compared to other serotonin-elevating agents such as the SSRIs. [Note: This is questionable as the level of serotonin output from SRAs is still dose dependant and, while SRAs will initially bypass autoreceptors, the increase in serotonin they induce will then agonise autoreceptors.] In contrast to SRAs, SSRIs may decrease serotonin levels initially (especially at lower dosages due to the biphasic mode of action mentioned above) and require several weeks of chronic dosing before serotonin concentrations reach their maximal elevation (due to 1A autoreceptor desensitization) and full clinical benefits for conditions such as depression and anxiety are seen (although other studies show an acute increase in 5-HT which may account for initial worsening of symptoms in sensitive individuals). For these reasons, selective serotonin releasing agents (SSRAs) such as MDAI and MMAI have been proposed as novel antidepressants with a putatively faster onset of action and improved effectiveness compared to current treatments.
+Similarly to SRAs, sufficiently high doses of 5-HT1A receptor agonists also bypass the 5-HT1A autoreceptor-mediated inhibition of serotonin release and therefore increase 5-HT1A postsynaptic receptor activation by directly agonizing the postsynaptic receptors in lieu of serotonin.
+
+
+== Ligands ==
+The distribution of 5-HT1A receptors in the human brain may be imaged with the positron emission tomography using the radioligand [11C] WAY-100,635.
+For example, one study has found increased 5-HT1A binding in type 2 diabetes. Another PET study found a negative correlation between the amount of 5-HT1A binding in the raphe nuclei, hippocampus and neocortex and a self-reported tendency to have spiritual experiences. Labeled with tritium, WAY-100,635 may also be used in autoradiography.
+
+
+=== Agonists ===
+
+
+==== Partial agonists ====
+
+
+==== Full agonists ====
+
+
+==== Biased agonists ====
+HBK-17 – β-arrestin biased agonist
+NLX-204 – ERK1/2 preferring agonist
+F-15,599, also known as NLX-101
+
+
+=== Antagonists ===
+
+
+=== Allosteric modulators ===
+Cholesterol – endogenous PAM
+Oleamide – endogenous PAM
+Zn2+ – endogenous NAM
+AM-2201 – exogenous PAM
+
+
+== Genetics ==
+The 5-HT1A receptor is coded by the HTR1A gene. There are several human polymorphisms associated with this gene. A 2007 review listed 27 single nucleotide polymorphisms (SNP). The most investigated SNPs are C-1019G (rs6295), C-1018G, Ile28Val (rs1799921), Arg219Leu (rs1800044), and Gly22Ser (rs1799920). Some of the other SNPs are Pro16Leu, Gly272Asp, and the synonymous polymorphism G294A (rs6294). These gene variants have been studied in relation to psychiatric disorders with no definitive results.
+
+
+== Protein-protein interactions ==
+The 5-HT1A receptor has been shown to interact with brain-derived neurotrophic factor (BDNF), which may play a major role in its regulation of mood and anxiety.
+
+
+=== Receptor oligomers ===
+The 5-HT1A receptor forms heterodimers with the following receptors: 5-HT7, 5-HT1B, 5-HT1D, GABAB2, LPA1 (GPCR26), LPA3, S1P1, S1P3.

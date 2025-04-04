@@ -1,0 +1,63 @@
+Erlotinib, sold under the brand name Tarceva among others, is a medication used to treat non-small cell lung cancer (NSCLC) and pancreatic cancer. Specifically it is used for NSCLC with mutations in the epidermal growth factor receptor (EGFR) — either an exon 19 deletion (del19) or exon 21 (L858R) substitution mutation — which has spread to other parts of the body. It is taken by mouth.
+Common side effects include rash, diarrhea, muscle pain, joint pain, and cough. Serious side effects may include lung problems, kidney problems, liver failure, gastrointestinal perforation, stroke, and corneal ulceration. Use in pregnancy may harm the baby. It is a receptor tyrosine kinase inhibitor, which acts on the epidermal growth factor receptor (EGFR).
+Erlotinib was approved for medical use in the United States in 2004. It is on the World Health Organization's List of Essential Medicines.
+
+
+== Medical uses ==
+
+
+=== Lung cancer ===
+Erlotinib in unresectable non-small cell lung cancer when added to chemotherapy improves overall survival by 19%, and improved progression-free survival (PFS) by 29%, when compared to chemotherapy alone. The U.S. Food and Drug Administration (FDA) approved erlotinib for the treatment of locally advanced or metastatic non-small cell lung cancer that has failed at least one prior chemotherapy regimen.
+In lung cancer, erlotinib has been shown to be effective in patients with or without EGFR mutations, but appears to be more effective in patients with EGFR mutations. Overall survival, progression-free survival and one-year survival are similar to standard second-line therapy (docetaxel or pemetrexed). Overall response rate is about 50% better than standard second-line chemotherapy. Patients who are non-smokers, and light former smokers, with adenocarcinoma or subtypes like BAC are more likely to have EGFR mutations, but mutations can occur in all types of patients. A test for the EGFR mutation has been developed by Genzyme.
+
+
+=== Pancreatic cancer ===
+In November 2005, the FDA approved erlotinib in combination with gemcitabine for treatment of locally advanced, unresectable, or metastatic pancreatic cancer.
+
+
+=== Resistance to treatment ===
+
+As with other ATP competitive small molecule tyrosine kinase inhibitors, such as imatinib in CML, patients rapidly develop resistance. In the case of erlotinib this typically occurs 8–12 months from the start of treatment. Over 50% of resistance is caused by a mutation in the ATP binding pocket of the EGFR kinase domain involving substitution of a small polar threonine residue with a large nonpolar methionine residue (T790M).
+Approximately 20% of drug resistance is caused by amplification of the hepatocyte growth factor receptor, which drives ERBB3 dependent activation of PI3K.
+
+
+== Side effects ==
+
+
+=== Common ===
+Rash occurs in the majority of patients.  This resembles acne and primarily involves the face and neck.  It is self-limited and resolves in the majority of cases, even with continued use.  Some clinical studies have indicated a correlation between the severity of the skin reactions and increased survival though this has not been quantitatively assessed. The Journal of Clinical Oncology reported in 2004 that "cutaneous [skin] rash seems to be a surrogate marker of clinical benefit, but this finding should be confirmed in ongoing and future studies." The newsletter Lung Cancer Frontiers reported in its October 2003 issue, "Patients with moderate to severe cutaneous reactions [rashes] have a far better survival, than those with only mild reactions and much better than those with no cutaneous manifestations of drug effects."
+Diarrhea
+Loss of appetite
+Fatigue
+Partial hair loss (by strands, not typically in clumps)
+
+
+=== Rare ===
+interstitial pneumonitis, which is characterized by cough and increased dyspnea. This may be severe and must be considered among those patients whose breathing acutely worsens.
+ingrown hairs, such as eyelashes
+gastrointestinal tract toxicity
+serious or fatal gastrointestinal tract perforations
+skin toxicity
+bullous, blistering, and exfoliative skin conditions (some fatal)
+Stevens–Johnson syndrome/toxic epidermal necrolysis
+ocular disorders
+corneal lesions
+Pulmonary toxicity
+interstitial pneumonitis
+bronchiolitis obliterans with organizing pneumonia (BOOP)
+pulmonary fibrosis
+fatal asymmetric interstitial lung disease
+
+
+== Interactions ==
+Erlotinib is not a substrate for either of hepatic OATPs (OATP1B1 or OATP1B3). Also, erlotinib is not an inhibitor of OATP-1B1 or OATP-1B3 transporter.
+Erlotinib is mainly metabolized by the liver enzyme CYP3A4. Compounds which induce this enzyme (i.e. stimulate its production), such as St John's wort, can lower erlotinib concentrations, while inhibitors can increase concentrations.
+
+
+== Mechanism ==
+Erlotinib is an epidermal growth factor receptor inhibitor (EGFR inhibitor). The drug follows Iressa (gefitinib), which was the first drug of this type.  Erlotinib specifically targets the epidermal growth factor receptor (EGFR) tyrosine kinase, which is highly expressed and occasionally mutated in various forms of cancer.  It binds in a reversible fashion to the adenosine triphosphate (ATP) binding site of the receptor.  For the signal to be transmitted, two EGFR molecules need to come together to form a homodimer.  These then use the molecule of ATP to trans-phosphorylate each other on tyrosine residues, which generates phosphotyrosine residues, recruiting the phosphotyrosine-binding proteins to EGFR to assemble protein complexes that transduce signal cascades to the nucleus or activate other cellular biochemical processes.   When erlotinib binds to EGFR, formation of phosphotyrosine residues in EGFR is not possible and the signal cascades are not initiated.
+
+
+== Society and culture ==
+It is marketed in the United States by Genentech and OSI Pharmaceuticals and elsewhere by Roche.
+The drug's U.S. patent expired in 2020. In May 2012, the US District Court of Delaware passed an order in favor of OSI Pharmaceutical LLC against Mylan Pharmaceuticals upholding the validity of the patent for Erlotinib. In India, generic pharmaceutical firm Cipla is battling with Roche against the Indian patent for this drug.

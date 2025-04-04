@@ -1,0 +1,29 @@
+The alpha-2C adrenergic receptor (α2C adrenoceptor), also known as ADRA2C, is an alpha-2 adrenergic receptor, and also denotes the human gene encoding it.
+
+
+== Receptor ==
+Alpha-2-adrenergic receptors include 3 highly homologous subtypes: alpha2A, alpha2B, and alpha2C. These receptors have a critical role in regulating neurotransmitter release from sympathetic nerves and from adrenergic neurons in the central nervous system. Studies in mice revealed that both the alpha2A and alpha2C subtypes were required for normal presynaptic control of transmitter release from sympathetic nerves in the heart and from central noradrenergic neurons; the alpha2A subtype inhibited transmitter release at high stimulation frequencies, whereas the alpha2C subtype modulated neurotransmission at lower levels of nerve activity.
+
+
+== Gene ==
+This gene encodes the alpha2C subtype, which contains no introns in either its coding or untranslated sequences.
+
+
+== Ligands ==
+
+
+=== Agonists ===
+(R)-3-Nitrobiphenyline (also weak antagonist at α2A and α2B)
+
+
+=== Antagonists ===
+BMY 7378 (also α1D antagonist)
+Brexpiprazole
+JP-1302: selective over α2A, α2B, α2C
+N-{2-[4-(2,3-dihydro-benzo[1,4]dioxin-2-ylmethyl)-[1,4]diazepan-1-yl]-ethyl}-2-phenoxy-nicotinamide
+Pirepemat
+Quetiapine
+Risperidone
+Mirtazapine
+Spiroxatrine
+Yohimbine derivatives 9 and 10: >43 fold selectivity over α2A, α2B and α1 subtypes

@@ -1,0 +1,56 @@
+Protein kinase C alpha (PKCα) is an enzyme that in humans is encoded by the  PRKCA gene.
+
+
+== Function ==
+Protein kinase C (PKC) is a family of serine- and threonine-specific protein kinases that can be activated by calcium and the second messenger diacylglycerol. PKC family members phosphorylate a wide variety of protein targets and are known to be involved in diverse cellular signaling pathways. PKC family members also serve as major receptors for phorbol esters, a class of tumor promoters. Each member of the PKC family has a specific expression profile and is believed to play a distinct role in cells. The protein encoded by this gene is one of the PKC family members. This kinase has been reported to play roles in many different cellular processes, such as cell adhesion, cell transformation, cell cycle checkpoint, and cell volume control. Knockout studies in mice suggest that this kinase may be a fundamental regulator of cardiac contractility and Ca2+ handling in myocytes.
+Protein kinase C-alpha (PKC-α) is a specific member of the protein kinase family.  These enzymes are characterized by their ability to add a phosphate group to other proteins, thus changing their function.  PKC-α has been widely studied in the tissues of many organisms including drosophila, xenopus, cow, dog, chicken, human, monkey, mouse, pig, and rabbit.  Many studies are currently being conducted investigating the structure, function, and regulation of this enzyme.  The most recent investigations concerning this enzyme include its general regulation, hepatic function, and cardiac function.
+
+
+== Regulation ==
+PKC-α is unique in its mode of regulation compared to other kinases within this family.  In general, the protein kinase family is regulated by allosteric regulation, the binding of a modulating molecule that effects a conformational change in the enzyme and thus a change in the enzyme's activity. The primary mode of PKC-α's regulation, however, involves its interaction with the cell membrane, not direct interaction with specific molecules. The cell membrane consists of phospholipids.  At warmer temperatures, phospholipids exist in a more fluid state as a result of increased intramolecular motion.  The more fluid the cell membrane, the greater PKC-α's activity.  At cooler temperatures, phospholipids are found in a solid state with constricted motion.  As phospholipids become stationary, they assume a particular orientation within the membrane.  Phospholipids that solidify at an irregular or angled orientation with respect to the membrane, can reduce PKC-α's activity.
+The composition of the cell membrane can also affect PKC-α's function.  The presence of calcium ions, magnesium ions, and diacylglycerols (DAGs) are the most important because they influence the hydrophobic domain of the membrane.  Varying concentrations of these three components constitute a longer or shorter length of the hydrophobic domain.  Membranes with long hydrophobic domains result in decreased activity because it is harder for PKC-α to insert into the membrane.  At low concentrations, the hydrophobic domain is shorter allowing PKC-α to readily insert into the membrane and its activity increases.
+
+
+== Secondary structure ==
+Using infrared spectroscopy techniques, researchers have demonstrated that the secondary structure of PKC alpha consists of around 44% beta sheets and nearly 22% alpha helices at 20 °C.  Upon addition of calcium ions, a slight increase in beta sheets to 48% was observed.  Additional ligands normally associated with PKC alpha, such as PMA, ATP, and phospholipids had no effect on secondary structure.
+The structure of PKC alpha was better preserved during denaturation of the enzyme at 75 °C in the presence of calcium ions than in their absence.  In one study, beta sheet composition only decreased by 13% with calcium ions present compared to 19% when absent.
+
+
+== Role ==
+
+
+=== Epithelium ===
+Another field of research has indicated that PKC-α plays a vital role in epithelial tissue, the tissue that covers all external and internal surfaces of the body.  Specifically, PKC-α is involved in altering the function of tight junctions.  Tight junctions exist at the meeting point between two cells.  Here, tight junctions fuse together to form an impermeable barrier to not only large molecules such as proteins, but also smaller molecules like water.  This prevents foreign molecules from entering the cell and helps regulate the internal environment of the cell.  Cells infected with certain types of epithelial cancer exhibit increased PKC-α activity.  This is a result of a change in the shape of the cell membrane, particularly in the areas where tight junctions exists. With greater activity of PKC-α, the tight junctions lose their ability to form a tight barrier.  This causes an increased leakiness of the tight junctions and thus movement of molecules into the cells.  In intestinal areas, luminal growth factors are able to enter the cell and increase the rate of cell growth.  This is thought to be a promotional event that may prolong certain epithelial cancers.
+
+
+=== Liver ===
+Much of the research of PKC alpha pertaining to its role in liver tissue involves the effects of bile acids on the phosphorylation mechanism of the PKC family of proteins.  Past research has affirmed that the bile acid CDCA inhibits the healthy glucagon response through a phosphorylation-related sequence.  In related studies further testing the effects of CDCA on hepatocytes, CDCA was shown to have induced PKC translocation to the plasma membrane.  PKC alpha was favored in this process over PKC delta.  The implications of this finding are that increased interaction between the glucagon receptor and PKC alpha could occur.
+
+
+=== Heart ===
+PKC alpha is one of the lesser studied proteins of the PKC family because it is not highly regulated in the serious medical condition known as acute myocardial ischemia, which results from a lack of blood supply to the myocardium (heart muscle tissue).  Recent research into the role of PKC alpha in cardiac tissue has indicated that it has an important role in stimulating hypertrophy.  This was demonstrated by the ability of agonist-mediated hypertrophy to be stopped only as a result of the inhibition of PKC alpha in an experiment in situ.  However, in further in vivo research using mice, the transgenic overexpression of PKC alpha showed no effect on cardiac growth, and the inhibition of PKC alpha showed no effect on hypertrophic response to increased cardiac pressure.  On the contrary, research has shown that removing PKC alpha altogether improved the hearts ability to contract.
+In summary, research is pointing in the direction that PKC alpha's role in cardiac tissue has more impact as a regulator of contractility than of hypertrophy.  In another study, the binding peptides, RACK and others derived from PKC beta, were expressed in mouse hearts.  The genetic code for these proteins are similar to those of all isoforms of the PKC family (alpha, beta, and gamma).  As such, RACK and other proteins can regulate the expression of all PKC family proteins.  In this particular study, however, only PKC alpha was affected.  Again, overexpression caused decreased contractile performance, whereas inhibition saw increased performance.
+
+
+=== Memory and PTSD ===
+The scientists led by neuroscientist Dominique de Quervain of the University of Basel in Switzerland used memory tests and DNA studies to conclude that people who carried a particular DNA signature in at least one copy of a gene that encodes protein kinase C alpha had stronger memory than their peers; and brain scans of people with the genetic signature show stronger brain activation in parts of the prefrontal cortex compared with those who lacked the genetic feature. The team looked at the Rwandan refugees who had survived the 1994 genocide and found that the risk of PTSD in the refugees with strong memory signature is twice of that in the refugees without the genetic signature.
+
+
+=== Cell membrane ===
+
+PKC-α shows important regulation of phospholipase D.  Phospholipase D is located on the plasma membrane and is responsible for hydrolyzing phosphatidylcholine to phosphatidic acid and choline.  Research has indicated that phospholipase D may play roles in tumorigenesis by altering cellular events such as invasion and migration.  Point mutations at particular phenylalanine residues have shown to inhibit PKC-α's ability to activate phospholipase D.  Current research is being conducted investigating PKC-α's inhibitory affects.  Researchers hope to learn how to exploit PKC-α's ability to turn down phospholipase D's activity and use this function to create anti-cancer drugs.
+Another breakthrough branch of research concerning PKC-α concerns its role in erythrocyte (red blood cell) development.  Currently, researchers understand that PKC-α is correlated with the differentiation of erythroid progenitor cells in bone marrow.  These undifferentiated cells give rise to the mass of red blood cells present in blood.  Future research endeavors seek to find whether it is activation or inhibition of PKC-α which affects the development of erythrocytes. By answering this question, scientists hope to gain insight into various types of hematologic diseases such as aplastic anemia and leukemia.
+
+
+== Pathology ==
+Increased activation of PKCα is associated with the growth and invasion of cancers. High levels of PKCα are linked to malignant brain cancer. Moreover, a high proliferation rate of glioma tumor cells is the result of overexpression of isozyme PKCα.
+
+
+== Interactions ==
+PKC alpha has been shown to interact with:
+
+C1QBP,
+CD29,
+EGFR,
+FSCN1, and
+OGG1.

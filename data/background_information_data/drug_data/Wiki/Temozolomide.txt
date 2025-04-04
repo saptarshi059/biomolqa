@@ -1,0 +1,66 @@
+Temozolomide, sold under the brand name Temodar among others, is an anticancer medication used to treat brain tumors such as glioblastoma and anaplastic astrocytoma. It is taken by mouth or via intravenous infusion.
+The most common side effects with temozolomide are nausea, vomiting, constipation, loss of appetite, alopecia (hair loss), headache, fatigue, convulsions (seizures), rash, neutropenia or lymphopenia (low white-blood-cell counts), and thrombocytopenia (low blood platelet counts). People receiving the solution for infusion may also have injection-site reactions, such as pain, irritation, itching, warmth, swelling and redness, as well as bruising.
+Temozolomide is an alkylating agent used to treat serious brain cancers; most commonly as second-line treatments for astrocytoma and as the first-line treatment for glioblastoma. Olaparib in combination with temozolomide demonstrated substantial clinical activity in relapsed small cell lung cancer. It is available as a generic medication.
+
+
+== Medical uses ==
+In the United States, temozolomide is indicated for the treatment of adults with newly diagnosed glioblastoma concomitantly with radiotherapy and subsequently as monotherapy treatment; or adults with newly diagnosed or refractory anaplastic astrocytoma.
+In the European Union, temozolomide is indicated for adults with newly diagnosed glioblastoma multiforme concomitantly with radiotherapy and subsequently as monotherapy treatment; or children from the age of three years, adolescents and adults with malignant glioma, such as glioblastoma multiforme or anaplastic astrocytoma, showing recurrence or progression after standard therapy.
+Temozolomide is also used to treat aggressive pituitary tumors and pituitary cancer.
+
+
+== Contraindications ==
+Temozolomide is contraindicated in people with hypersensitivity to it or to the similar drug dacarbazine.
+
+
+== Adverse effects ==
+The most common side effects include nausea (feeling sick), vomiting, constipation, loss of appetite, alopecia (hair loss), headache, fatigue (tiredness), convulsions (fits), rash, neutropenia or lymphopenia (low white-blood-cell counts), and thrombocytopenia (low blood platelet counts). People receiving the solution for infusion may also have injection-site reactions, such as pain, irritation, itching, warmth, swelling and redness, as well as bruising.
+
+
+== Interactions ==
+Combining temozolomide with other myelosuppressants may increase the risk of myelosuppression.
+
+
+== Pharmacology ==
+
+
+=== Mechanism of action ===
+The therapeutic benefit of temozolomide depends on its ability to alkylate/methylate DNA, which most often occurs at the N-7 or O-6 positions of guanine residues. This methylation damages the DNA and triggers the death of tumor cells. However, some tumor cells are able to repair this type of DNA damage, and therefore diminish the therapeutic efficacy of temozolomide, by expressing a protein O6-alkylguanine DNA alkyltransferase (AGT) encoded in humans by the O-6-methylguanine-DNA methyltransferase (MGMT) gene. In some tumors, epigenetic silencing of the MGMT gene prevents the synthesis of this enzyme, and as a consequence such tumors are more sensitive to killing by temozolomide. Conversely, the presence of AGT protein in brain tumors predicts poor response to temozolomide and these patients receive little benefit from chemotherapy with temozolomide.
+
+
+=== Pharmacokinetics ===
+Temozolomide is quickly and almost completely absorbed from the gut, and readily penetrates the blood–brain barrier; the concentration in the cerebrospinal fluid is 30% of the concentration in the blood plasma. Intake with food decreases maximal plasma concentrations by 33% and the area under the curve by 9%. Only 15% (10–20%) of the substance are bound to blood plasma proteins. Temozolomide is a prodrug; it is spontaneously hydrolyzed at physiological pH to 3-methyl-(triazen-1-yl)imidazole-4-carboxamide (MTIC), which further splits into monomethylhydrazine, likely the active methylating agent, and 5-aminoimidazole-4-carboxamide (AIC). Other metabolites include temozolomide acid and unidentified hydrophilic substances.
+Plasma half-life is 1.8 hours. The substance and its metabolites are mainly excreted via the urine.
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Chemical properties ==
+Temozolomide is an imidazotetrazine derivative. It is slightly soluble in water and aqueous acids, and decomposes at 212 °C (414 °F). It was recently discovered that temozolomide is an explosive, tentatively assigned as UN Class 1.
+Temozolomide has also been reported to be a comparatively safe and stable in situ source of diazomethane in organic synthesis. In particular, use as a methylating and cyclopropanating reagent has been demonstrated.
+
+
+== History ==
+The agent was discovered at Aston University in Birmingham, England. Its preclinical activity was reported in 1987.
+It was approved for medical use in the European Union in January 1999, and in the United States in August 1999. The intravenous formulation was approved in the United States in February 2009.
+
+
+== Research ==
+Laboratory studies and clinical trials have started investigating the possibility of increasing the anticancer potency of temozolomide by combining it with other pharmacologic agents. For example, clinical trials have indicated that the addition of chloroquine might be beneficial for the treatment of glioma patients. Laboratory studies found that temozolomide killed brain tumor cells more efficiently when epigallocatechin gallate (EGCG), a component of green tea, was added; however, the efficacy of this effect has not yet been confirmed in brain-tumor patients. Preclinical studies reported in 2010 on investigations into the use of the novel oxygen diffusion-enhancing compound trans sodium crocetinate (TSC) when combined with temozolomide and radiation therapy and a clinical trial was underway as of August  2015.
+While the above-mentioned approaches have investigated whether the combination of temozolomide with other agents might improve therapeutic outcome, efforts have also started to study whether altering the temozolomide molecule itself can increase its activity. One such approach permanently fused perillyl alcohol, a natural compound with demonstrated therapeutic activity in brain cancer patients, to the temozolomide molecule. The resultant novel compound, called NEO212 or TMZ-POH, revealed anticancer activity that was significantly greater than that of either of its two parent molecules, temozolomide and perillyl alcohol. Although as of 2016, NEO212 has not been tested in humans, it has shown superior cancer therapeutic activity in animal models of glioma, melanoma, and brain metastasis of triple-negative breast cancer.
+Because tumor cells that express the O-6-methylguanine-DNA methyltransferase (MGMT) gene are more resistant to the effects of temozolomide, researchers investigated whether the inclusion of O6-benzylguanine (O6-BG), an AGT inhibitor, could overcome this resistance and improve the drug's therapeutic effectiveness. In the laboratory, this combination indeed showed increased temozolomide activity in tumor-cell culture in vitro and in animal models in vivo. However, a recently completed phase-II clinical trial with brain-tumor patients yielded mixed outcomes; while there was some improved therapeutic activity when O6-BG and temozolomide were given to patients with temozolomide-resistant anaplastic glioma, there seemed to be no significant restoration of temozolomide sensitivity in patients with temozolomide-resistant glioblastoma multiforme.
+Some efforts focus on engineering hematopoietic stem cells expressing the MGMT gene prior to transplanting them into brain-tumor patients. This would allow for the patients to receive stronger doses of temozolomide, since the patient's hematopoietic cells would be resistant to the drug.
+High doses of temozolomide in high-grade gliomas have low toxicity, but the results are comparable to the standard doses.
+Two mechanisms of resistance to temozolomide effects have now been described: 1) intrinsic resistance conferred by MGMT deficiency (MGMTd) and 2) intrinsic or acquired resistance through MMR deficiency (MMRd). The MGMT enzyme is the first line of repair of mismatched bases created by temozolomide. Cells are normally MGMT proficient (MGMTp) as they have an unmethylated MGMT promoter allowing the gene to be expressed normally. In this state, temozolomide induced DNA damage is able to be efficiently repaired in tumor cells (and normal cells) by the active MGMT enzyme. Cells may grow and pass through the cell cycle normally without arrest or death. However, some tumors cells are MGMT deficient (MGMTd). This is most commonly due to abnormal methylation of the MGMT gene promoter and suppression of gene expression. MGMTd has also been described to occur by promoter rearrangement. In cells with MGMTd, DNA damage by temozolomide activates the next stage of repair in cells with a proficient Mismatch Repair enzyme complex (MMRp). In MMRp the MMR protein complex identifies the damage and causes cells to arrest and undergo death which inhibits tumor growth. However, if cells have combined MGMTd and MMR deficiency (MGMTd + MMRd) then cells retain the induced mutations and continue to cycle and are resistant to effects of temozolomide.
+In gliomas and other cancers MMRd has now been reported to occur as primary MMRd (intrinsic or germline Lynch bMMRd) or as secondary MMRd (acquired - not present in the original untreated tumor). The latter occurs after effective treatment and cytoreduction of tumors with temozolomide and then selection or induction of mutant MSH6, MSH2, MLH1, or PMS2 proteins and cells which are MMRd and temozolomide resistant. The latter is described as an acquired resistance pathway with hotspot mutations in glioma patients (MSH6 p.T1219I).

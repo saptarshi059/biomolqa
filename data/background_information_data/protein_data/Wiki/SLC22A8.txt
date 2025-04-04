@@ -1,0 +1,5 @@
+Solute carrier family 22 member 8, or organic anion transporter 3 (OAT3), is a protein that in humans is encoded by the SLC22A8 gene.
+
+
+== Function ==
+OAT3 is involved in the transport and excretion of organic ions some of which are drugs (e.g., penicillin G (benzylpenicillin), methotrexate (MTX), indomethacin (an NSAID), and ciprofloxacin (a fluoroquinolone antibiotic)) and some of which are pure toxicants. SLC22A8 (OAT3) is indirectly dependent on the inward sodium gradient, which is a driving force for reentry of dicarboxylates into the cytosol.  Dicarboxylates, such as alpha-ketoglutarate generated within the cell, or recycled from the extracellular space, are used as exchange substrates to fuel the influx of organic anions against their concentration gradient.  The encoded protein is an integral membrane protein and appears to be localized to the basolateral membrane  of renal proximal tubule cells.

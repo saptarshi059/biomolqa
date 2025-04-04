@@ -1,0 +1,20 @@
+The alpha-1D adrenergic receptor (α1D adrenoreceptor), also known as ADRA1D, is an alpha-1 adrenergic receptor, and also denotes the human gene encoding it.
+
+
+== Receptor ==
+There are 3 alpha-1 adrenergic receptor subtypes: alpha-1A, -1B and -1D, all of which signal through the Gq/11 family of G-proteins and different subtypes show different patterns of activation. They activate mitogenic responses and regulate growth and proliferation of many cells.
+
+
+== Gene ==
+This gene encodes alpha-1D-adrenergic receptor. Similar to alpha-1B-adrenergic receptor gene, this gene comprises 2 exons and a single intron that interrupts the coding region.
+
+
+== Ligands ==
+Many α1 receptor ligands are non-selective for receptor subtypes.
+
+Antagonists
+A-315456
+BMY 7378 (also α2C antagonist)
+Domesticine
+Cyclazosin (slight α1C selectivity)
+Tamsulosin (roughly equal affinity for α1A)

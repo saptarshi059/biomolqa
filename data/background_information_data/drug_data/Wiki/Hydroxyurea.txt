@@ -1,0 +1,53 @@
+Hydroxycarbamide, also known as hydroxyurea, is an antimetabolite medication used in sickle-cell disease, essential thrombocythemia, chronic myelogenous leukemia, polycythemia vera, and cervical cancer. In sickle-cell disease it increases fetal hemoglobin and decreases the number of attacks. It is taken by mouth.
+Common side effects include bone marrow suppression, fevers, loss of appetite, psychiatric problems, shortness of breath, and headaches. There is also concern that it increases the risk of later cancers. Use during pregnancy is typically harmful to the fetus. Hydroxycarbamide is in the antineoplastic family of medications. It is believed to work by blocking the making of DNA.
+Hydroxycarbamide was approved for medical use in the United States in 1967. It is on the World Health Organization's List of Essential Medicines. Hydroxycarbamide is available as a generic medication.
+
+
+== Medical uses ==
+Hydroxycarbamide is used for the following indications:
+
+Myeloproliferative disease (primarily essential thrombocythemia and polycythemia vera). It has been found to be superior to anagrelide for the control of ET.
+Sickle-cell disease (increases production of fetal hemoglobin that then interferes with the hemoglobin polymerisation as well as by reducing white blood cells that contribute to the general inflammatory state in sickle cell patients.)
+Second line treatment for psoriasis (slows down the rapid division of skin cells)
+Systemic mastocytosis with associated hematological neoplasm(SM-AHN)   (The utility in treating SM-AHN with hydroxycarbamide stems from its myelosuppressive activity, it does not however exhibit any selective anti-mast cell activity)
+Chronic myelogenous leukemia (largely replaced by imatinib, but still in use for its cost-effectiveness)
+
+
+== Side effects ==
+Reported side effects are: neurological reactions (e.g., headache, dizziness, drowsiness, disorientation, hallucinations, and convulsions), nausea, vomiting, diarrhea, constipation, mucositis, anorexia, stomatitis, bone marrow toxicity (dose-limiting toxicity; may take 7–21 days to recover after the drug has been discontinued), megaloblastic anemia, thrombocytopenia, bleeding, hemorrhage, gastrointestinal ulceration and perforation, immunosuppression, leukopenia, alopecia (hair loss), skin rashes (e.g., maculopapular rash), erythema, pruritus, vesication or irritation of the skin and mucous membranes, pulmonary edema, abnormal liver enzymes, creatinine and blood urea nitrogen.
+Due to its negative effect on the bone marrow, regular monitoring of the full blood count is vital, as well as early response to possible infections. In addition, renal function, uric acid and electrolytes, as well as liver enzymes, are commonly checked. Moreover, because of this, its use in people with leukopenia, thrombocytopenia or severe anemia is contraindicated.
+Hydroxycarbamide has been used primarily for the treatment of myeloproliferative diseases, which has an inherent risk of transforming to acute myeloid leukemia. There has been a longstanding concern that hydroxycarbamide itself carries a leukemia risk, but large studies have shown that the risk is either absent or very small. Nevertheless, it has been a barrier for its wider use in patients with sickle-cell disease.
+
+
+== Mechanism of action ==
+Hydroxycarbamide decreases the production of deoxyribonucleotides via inhibition of the enzyme ribonucleotide reductase by scavenging tyrosyl free radicals as they are involved in the reduction of nucleoside diphosphates (NDPs). Additionally, hydroxycarbamide causes production of reactive oxygen species in cells, leading to disassembly of replicative DNA polymerase enzymes and arresting DNA replication. 
+In the treatment of sickle-cell disease, hydroxycarbamide increases the concentration of fetal hemoglobin. The precise mechanism of action is not yet clear, but it appears that hydroxycarbamide increases nitric oxide levels, causing soluble guanylyl cyclase activation with a resultant rise in cyclic GMP, and the activation of gamma globin gene expression and subsequent gamma chain synthesis necessary for fetal hemoglobin (HbF) production (which does not polymerize and deform red blood cells like the mutated HbS, responsible for sickle cell disease). Adult red cells containing more than 1% HbF are termed F cells. These cells are progeny of a small pool of immature committed erythroid precursors (BFU-e) that retain the ability to produce HbF. Hydroxyurea also suppresses the production of granulocytes in the bone marrow which has a mild immunosuppressive effect particularly at vascular sites where sickle cells have occluded blood flow.
+
+
+== Natural occurrence ==
+Hydroxyurea has been reported as endogenous in human blood plasma at concentrations of approximately 30 to 200 ng/ml.
+
+
+== Chemistry ==
+
+Hydroxyurea has been prepared in many different ways since its initial synthesis in 1869. The original synthesis by Dresler and Stein was based around the reaction of hydroxylamine hydrochloride and potassium cyanate. Hydroxyurea lay dormant for more than fifty years until it was studied as part of an investigation into the toxicity of protein metabolites. Due to its chemical properties hydroxyurea was explored as an antisickling agent in the treatment of hematological conditions.
+One common mechanism for synthesizing hydroxyurea is by the reaction of calcium cyanate with hydroxylamine nitrate in absolute ethanol and by the reaction of a cyanate salt and hydroxylamine hydrochloride in aqueous solution. Hydroxyurea has also been prepared by converting a quaternary ammonium anion exchange resin from the chloride form to the cyanate form with sodium cyanate and reacting the resin in the cyanate form with hydroxylamine hydrochloride. This method of hydroxyurea synthesis was patented by Hussain et al. (2015).
+
+
+== Pharmacology ==
+Hydroxyurea is a monohydroxyl-substituted urea (hydroxycarbamate) antimetabolite. Similar to other antimetabolite anti-cancer drugs, it acts by disrupting the DNA replication process of dividing cancer cells in the body. Hydroxyurea selectively inhibits ribonucleoside diphosphate reductase, an enzyme required to convert ribonucleoside diphosphates into deoxyribonucleoside diphosphates, thereby preventing cells from leaving the G1/S phase of the cell cycle. This agent also exhibits radiosensitizing activity by maintaining cells in the radiation-sensitive G1 phase and interfering with DNA repair.
+Biochemical research has explored its role as a DNA replication inhibitor which causes deoxyribonucleotide depletion and results in DNA double strand breaks near replication forks (see DNA repair). Repair of DNA damaged by chemicals or irradiation is also inhibited by hydroxyurea, offering potential synergy between hydroxyurea and radiation or alkylating agents.
+Hydroxyurea has many pharmacological applications under the Medical Subject Headings classification system:
+
+Antineoplastic agents – Substances that inhibit or prevent the proliferation of neoplasms.
+Antisickling agents – Agents used to prevent or reverse the pathological events leading to sickling of erythrocytes in sickle cell conditions.
+Nucleic acid synthesis inhibitors – Compounds that inhibit cell production of DNA or RNA.
+Enzyme inhibitors – Compounds or agents that combine with an enzyme in such a manner as to prevent the normal substrate-enzyme combination and the catalytic reaction.
+Cytochrome P-450 CYP2D6 inhibitors – Agents that inhibit one of the most important enzymes involved in the metabolism of xenobiotics in the body, CYP2D6, a member of the cytochrome P450 mixed oxidase system.
+
+
+== Society and culture ==
+
+
+=== Brand names ===
+Brand names include: Hydrea, Litalir, Droxia, and Siklos.

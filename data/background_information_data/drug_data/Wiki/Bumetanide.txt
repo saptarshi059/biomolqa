@@ -1,0 +1,34 @@
+Bumetanide, sold under the brand name Bumex among others, is a medication used to treat swelling and high blood pressure. This includes swelling as a result of heart failure, liver failure, or kidney problems. It may work for swelling when other medications have not. For high blood pressure it is not a preferred treatment. It is taken by mouth, or by injection into a vein or muscle. Effects generally begin within an hour and last for about six hours.
+Common side effects include dizziness, low blood pressure, low blood potassium, muscle cramps, and kidney problems. Other serious side effects may include hearing loss and low blood platelets. Blood tests are recommended regularly for those on treatment. Safety during pregnancy and breastfeeding is unclear. Bumetanide is a loop diuretic and works by decreasing the reabsorption of sodium by the kidneys.
+Bumetanide was patented in 1968 and came into medical use in 1972. It is on the World Health Organization's List of Essential Medicines. It is available as a generic medication. In 2020, it was the 270th most commonly prescribed medication in the United States, with more than 1 million prescriptions.
+
+
+== Medical uses ==
+It is used to treat swelling and high blood pressure. This includes swelling as a result of heart failure, liver failure, or kidney problems. For high blood pressure it is not a preferred treatment. It is taken by mouth, or by injection into a vein or muscle.
+
+
+== Side effects ==
+Common side effects include dizziness, low blood pressure, low blood potassium, muscle cramps, and kidney problems. Other serious side effects may include hearing loss and low blood platelets. A large observational study  concluded that people with a sulfonamide antibiotic allergy may be allergic to sulfonamide non-antibiotics, such as bumetanide, but this is likely due to certain people being at an increased risk in general to developing allergic reactions rather than cross-reactivity between sulfonamide-containing drugs. In smaller studies, the lack of cross-reactivity between sulfonamide antibiotics and sulfonamide non-antibiotics has been demonstrated. 
+Safety during pregnancy and breastfeeding is unclear.
+
+
+== Pharmacology ==
+
+
+=== Pharmacodynamics ===
+Bumetanide is a loop diuretic and works by decreasing the reabsorption of sodium by the kidneys.
+The main difference between bumetanide and furosemide is in their bioavailability and potency. About 60% of furosemide is absorbed in the intestine, and there are substantial inter- and intraindividual differences in bioavailability (range 10-90%). About 80% of bumetanide is absorbed, and its absorption does not change when it is taken with food. It is said to be a more predictable diuretic, meaning that the predictable absorption is reflected in a more predictable effect. Bumetanide is 40 times more potent than furosemide for people with normal renal function.
+
+
+== Synthesis ==
+Bumetanide is synthesized from 4-chlorobenzoic acid. In the first stage of synthesis, it undergoes sulfonylchlorination by chlorosulfonic acid, forming 4-chloro-3-chlorosulfonylbenzoic acid, which is further nitrated with nitric acid to 4-chloro-3-chlorosulfonyl-5-nitrobenzoic acid. Reacting this with ammonia gives 5-aminosulfonyl-4-chloro-3-nitrobenzoic acid, which when reacted with sodium phenolate is transformed into 5-amino-sulfonyl-3-nitro-5-phenoxybenzoic acid. Reduction of the nitro group in this product by hydrogen using a palladium on carbon catalyst gives 3-amino-5-aminosulfonyl-5-phenoxybenzoic acid. Finally, reacting this with butyl alcohol in the presence of sulfuric acid, followed by treatment with sodium hydroxide to hydrolyze the butyl ester, gives the desired bumetanide.
+
+
+== Society and culture ==
+It 2008, ESPN reported that four NFL players were being suspended under the steroid policy as a result of taking bumetanide.
+Bumetanide was an undisclosed active ingredient in the over-the-counter weight loss supplement StarCaps, which was removed from the market after its presence was discovered by the United States Food and Drug Administration.
+
+
+== Research ==
+In the brain, bumetanide blocks the NKCC1 cation-chloride co-transporter, and thus decreases internal chloride concentration in neurons. In turn, this concentration change makes the action of GABA more hyperpolarizing, which may be useful for treatment of neonatal seizures, which quite often are not responsive to traditional GABA-targeted treatment, such as barbiturates. Bumetanide is therefore under evaluation as a prospective antiepileptic drug. 
+The drug has also been studied as a treatment for autism.

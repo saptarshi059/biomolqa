@@ -1,0 +1,35 @@
+Doxazosin, sold under the brand name Cardura among others, is a medication used to treat symptoms of benign prostatic hyperplasia (enlarged prostate), hypertension (high blood pressure), and post-traumatic stress disorder (PTSD). For high blood pressure, it is a less preferred option. It is taken by mouth.
+Common side effects include dizziness, sleepiness, swelling, nausea, shortness of breath, and abdominal pain. Severe side effects may include low blood pressure with standing, an irregular heart beat, and priapism. It is a selective α1-adrenergic blocker in the quinazoline class of compounds.
+Doxazosin was patented in 1977 and came into medical use in 1988. It is available as a generic medication. In 2022, it was the 180th most commonly prescribed medication in the United States, with more than 2 million prescriptions.
+
+
+== Medical uses ==
+
+
+=== High blood pressure ===
+Doxazosin is usually added to other antihypertensive therapy such as calcium channel antagonists, diuretics, beta-adrenoreceptor antagonists, angiotensin-converting enzyme inhibitors and angiotensin-2 receptor blockers.
+Doxazosin is generally considered to be safe, well tolerated and effective as an add-on (adjunctive) antihypertensive drug.
+Like other alpha-1 receptor antagonists, it has a role in the peri-operative management of pheochromocytoma.
+
+
+=== Benign prostatic hyperplasia ===
+Doxazosin is considered to be effective in reducing urinary symptom scores and improving peak urinary flow in men with benign prostatic hyperplasia. The bladder neck is densely packed with alpha-1 receptors.
+
+
+=== PTSD nightmares and flashbacks ===
+Sympatholytic drugs, including prazosin and doxazosin, are used for nightmares and flashbacks in posttraumatic stress disorder (PTSD). Doxazosin is very well tolerated for this constellation of symptoms. Given its long half-life, doxazosin lasts much longer than prazosin. While prazosin is dosed up to 4 times daily, doxazosin is generally dosed only once daily (at night). Both are alpha-1 antagonists. Other sympatholytic drugs include clonidine and guanfacine, which are alpha-2 agonists; they are not in the same exact class as doxazosin and prazosin.
+
+
+== History ==
+The Antihypertensive and Lipid Lowering Treatment to Prevent Heart Attack Trial (ALLHAT) study stopped its arm of the trial looking at alpha blockers, because doxazosin was less effective than a simple diuretic, and because patients on doxazosin had a 25% higher rate of cardiovascular disease and twice the rate of congestive heart failure as patients on diuretics. Pfizer, aware of the results before publication, launched a marketing campaign in early 2000, and sales were largely unaffected, despite the dangers highlighted by the study. The decision to stop the trial was controversial because the higher rate of heart failure (HF) in the doxazosin group could have been caused by misdiagnosis due to fluid retention from the medication, or because patients with existing HF stopped their diuretic treatment to switch to doxazosin. However, in the later ASCOT trial, where doxazosin was used as a third-line treatment, there was no increase in HF risk.
+
+
+== Society and culture ==
+
+
+=== Brand names ===
+In the US, Cardura is marketed by Viatris after Upjohn was spun off from Pfizer.
+
+
+== Research ==
+A 2021 study associated doxazosin with decelerated biological aging in humans and confirmed its causal role in longevity in C. elegans.

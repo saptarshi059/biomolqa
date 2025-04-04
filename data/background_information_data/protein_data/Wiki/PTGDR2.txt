@@ -1,0 +1,57 @@
+Prostaglandin D2 receptor 2 (DP2 or CRTH2) is a human protein encoded by the PTGDR2 gene. DP2 has also been designated as CD294 (cluster of differentiation 294). It is a member of the class of prostaglandin receptors which bind with and respond to various prostaglandins. DP2 along with prostaglandin DP1 receptor are receptors for prostglandin D2 (PGD2). Activation of DP2 by PGD2 or other cognate receptor ligands has been associated with certain physiological and pathological responses, particularly those associated with allergy and inflammation, in animal models and certain human diseases.
+
+
+== Gene ==
+The PTGDR2 gene is located on human chromosome 11 at position q12.2 (i.e. 11q12.2). It consists of two introns and three exons and codes for a G protein coupled receptor (GPCR) composed of 472 amino acids. DP2, is related to members of the chemotactic factor class of GPCRs, sharing an amino acid sequence identity of 29% with the C5a receptor, Formyl peptide receptor 1, and Formyl peptide receptor 2 receptors. DP2 has little or no such amino acid sequence relationship to the eight other Prostanoid receptors (see Eicosanoid receptor#Prostenoid receptors).
+
+
+== Expression ==
+DP2 was found to stimulate the directed movement or chemotaxis of human T-helper type 2 cells (see T helper cell#Th1/Th2 Model for helper T cells) by binding to a receptor initially termed GPR44 and thereafter CRTH2 (for Chemoattractant Receptor-homologous molecule expressed on T-Helper type 2 cells). In addition to these T helper cells, DP2 messenger RNA is also expressed by human basophils, eosinophils, a subpopulation of cytotoxic T cells (i.e. CD8+ T cells), thalamus, ovary, and spleen, and, in the central nervous system, by the frontal cortex, pons, hippocampus, and at lower levels, hypothalamus and caudate nucleus/putamen. These transcripts are also detected in fetal liver and thymus.
+
+
+== Ligands ==
+
+
+=== Activating ligands ===
+The following standard prostaglandins have the following relative affinities and potencies in binding to and activating DP2: PGD2>>PGF2alpha=PGE2>PGI2=thromboxane A2. The cyclopentenone prostaglandins, PGJ2, Δ12-PGJ2, and 15-d-Δ12,14-PGJ2 are spontaneously formed or protein-facilitated derivatives of PGD2 that are generated in vitro as well as in vivo; these derivatives have binding affinities and activating potencies on DP2 that are similar to PGD2. Studies suggest that at least some if not most or all of the cytotoxic effects of cylopenenone prostaglandin derivatives of PGD2 act independently of DP2. Certain metabolites and derivatives of PGD2 viz., 13,14-dihydro-15-keto-PGD2 and 15(S)-15-methyl-PGD2, are ~10-fold less active than PGD2 while the drug indomethacin is weak in activating DP2.
+
+
+=== Inhibiting ligands ===
+The following compounds are selective receptor antagonists of and thereby inhibit the activation of DP2: fevipiprant, setipiprant, ADC-3680, AZD-1981, MK-1029, MK-7246, OC-459, OC000459, QAV-680, and TM30089. Ramatroban and vidupiprant are non-selective (i.e. known to influence other receptors) antagonists of DP2.
+
+
+== Mechanisms of cell activation ==
+G protein-coupled receptors (GPCRs) such as DP2 are integral membrane proteins that, when bound by their cognate ligands (or, in some cases, even when not ligand-bound and thereby acting continuously in a constitutive manner {see Receptor (biochemistry)#Constitutive activity}), mobilize one or more types of Heterotrimeric G proteins. DP2 is classified as a "contractile" prostanoid receptor in that it can cause the contraction of smooth muscle. As evidenced by its initial discovery as a receptor for PGD2 in T-helper type 2 cells, activated DP2 triggers Gi alpha subunit-linked heterotrimeric G proteins to dissociate into their component a) Gi alpha subunits (also termed Giα subunits) inhibit adenylyl cyclase b) G beta-gamma complex of subunits (Gβγ) have many potential functions, including simulation of phospholipase C to cleave phosphatidylinositol triphosphate into inositol triphosphate (IP3) and diacylglycerol (DAG), inhibition or stimulation of adenylyl cyclase depending on the isoform, activation of GIRK channels and activation of GRK. IP3 raises cytosolic Ca2 levels thereby regulating Ca2-sensitive signal pathways; DAG activates certain protein kinase C enzymes )PKCs) that phosphorylate and thereby regulate target proteins involved in cell signaling; and adenyl cyclase converts AMP into cyclic AMP (cAMP) thereby down-regulating cAMP-responsive proteins involved in cell signalling. Concurrently with the mobilization of these pathways, activated DP2 also mobilizes G protein-coupled receptor kinases (GRKs, GRK2, GRK3, and/or GRK6) and Arrestin-2 (also termed Arrestin beta 1 or β-arrestin). The GRKs, along with the DAG-activated PKCs, phosphorylate DP2 to promote its internalization while arrestin-2 inhibits DP2 from further activating heterotrimeric G proteins while also linking DP2 to elements, clathrin and clathrin adaptor AP2, of the receptor internalization machinery. These pathways render DP2 unable to mobilize heterotrimereic G proteins thereby rendering the cell less sensitive or insensitive to further stimulation by DP ligands. The process, termed Homologous desensitization, serves as a physiological limiter of cell responses to DP2 activators.
+
+
+== Function ==
+
+
+=== Allergy ===
+Ligands that activate DP2 stimulate the in vitro chemotaxis (i.e. directed migration) of leukocytes active in mediating allergic responses viz., eosinophils, basophils, and Th2 cells. DP2 activation also stimulates eosinophils and basophils to release the many pro-allergic elements of their granules to the extracellular milieu. Ligand-induced activation of DP2 has similar activities in vivo it stimulates the accumulation on and activation of eosinophils, basophils, and Th2 cells at sites of nascent inflammation in animal models. PGD2, acting through DP2, stimulates the in vitro chemotaxis of CD8+ cells, although the contribution of this to the in vivo function of DP2 has not been clarified.
+PDP2 receptor antagonists have been shown to allergic reactions induced in the airways mice and sheep as well as the airways and nose of guinea pigs.
+Mice genetically engineered to be deficient in DP2 (i.e. DP2−/-) mice are defective in mounting asthmatic responses in models of: a) allergen-induced asthma, b) dermal allergy, c) ACTH and cortisol release in response to inflammatory stimuli, and c) perception of pain caused by inflammation in peripheral tissues. DP2−/- mice are also highly resistant to the gram (-) bacterial sepsis caused by cecal ligation and puncture; the protective effect was associated with lower bacterial load and lower production of pro-inflammatory cytokines (i.e. TNF-α, IL-6, and CCL3) and increased production of an anti-inflammatory cytokine (IL-10).
+
+
+=== Embryogenesis ===
+Studies in Dp2 gene-deficient (i.e. Dp2−/-) mice indicate that DP2 is essential for controlling cell cycle genes in fetal testes which contribute to the arrest of mitotic process and to the differentiate of germ cells. This control involves, at least in part, the DP2-dependent activation of the male germ cell marker Nanos2 and the inhibition of meiosis through repression of Stra8.
+
+
+== Human genomics studies ==
+The 1544G-1651G haplotype in the 3'-untranslated region of the DP2 gene increased the stability of the gene's mRNA; this haplotype has been associated with an increased incidence of asthma in Chinese population and African but not Japanese sampling studies. The rs11571288 C/G Single-nucleotide polymorphism (SNP) variant of DP2 has been associated with an increase in the percentage of circulating eosinophils, an increase in the expression of DP2 by these cells, an enhanced rate of differentiation of precursor cells to Th2 cells in culture, enhanced Th2 cytokine (i.e. IL-4 and IL-13) production by these cells, and an increased incidence of asthma in a sampling of multi-ethnic Caucasian Canadians.
+
+
+== Clinical studies ==
+
+
+=== Allergic Diseases ===
+Setipiprant (ACT-129968), a selective, orally active antagonist of the DP2 receptor, proved to be well tolerated and reasonably effective in reducing allergen-induced airway responses in asthmatic patient clinical trials. However, the drug, while supporting the concept that DP2 contributes to asthmatic disease, did not show sufficient advantage over existing drugs and was discontinued from further development for this application (see setipiprant).
+Patients with the chronic spontaneous urticarial form of hives exhibit significantly lower surface membrane expression of the DP22 receptor on their blood eosinophils and basophils, a result fully consistent with this receptor being initially activated and subsequently desensitization (refer to above section on "Mechanisms of cell activation"). The DP2 receptor antagonist, AZD1981, is in a phase 2 clinical trial for the treatment of chronic idiopathic urticarial.
+A randomized, partially-blinded, placebo-controlled, two-way crossover, proof of concept study comparing the efficacy of the DP2 receptor antagonist, QAV680, in the treatment of allergic rhinitis and a study on the effectiveness of OC000459, a DP2 receptor antagonist, in reducing the exacerbation of asthma induced by experimentally-induced rhinovirus infection in subjects has just been completed or is underway, respectively.
+
+
+=== Other diseases and conditions ===
+
+
+=== Baldness ===
+Acting through DP2, PGD2 can inhibit hair growth, suggesting that this receptor is a potential target for bald treatment. A potential drug for blocking the DP2 receptor and thereby ameliorating baldness is the compound setipiprant. A phase 2A study is underway to evaluate the safety, tolerability, and efficacy of oral setipiprant relative to a placebo in 18- to 49-year-old males with androgenetic alopecia.

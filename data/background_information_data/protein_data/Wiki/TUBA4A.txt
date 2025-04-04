@@ -1,0 +1,9 @@
+Tubulin alpha-4A chain is a protein that in humans is encoded by the TUBA4A gene.
+
+
+== Function ==
+Microtubules of the eukaryotic cytoskeleton perform essential and diverse functions and are composed of a heterodimer of alpha and beta tubulin. The genes encoding these microtubule constituents are part of the tubulin superfamily, which is composed of six distinct families. Genes from the alpha, beta and gamma tubulin families are found in all eukaryotes. The alpha and beta tubulins represent the major components of microtubules, while gamma tubulin plays a critical role in the nucleation of microtubule assembly. There are multiple alpha and beta tubulin genes and they are highly conserved among and between species. This gene encodes an alpha tubulin that is a highly conserved homolog of a rat testis-specific alpha tubulin.
+
+
+== Interactions ==
+TUBA4A has been shown to interact with NCOA6 and APC.

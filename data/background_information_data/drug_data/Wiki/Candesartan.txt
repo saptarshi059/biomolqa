@@ -1,0 +1,53 @@
+Candesartan is an angiotensin receptor blocker used mainly for the treatment of high blood pressure and congestive heart failure. Candesartan has a very low maintenance dose. Like olmesartan, the metabolism of the drug is unusual as it is a cascading prodrug. Candesartan has good bioavailibility and is the most potent by weight of the AT-1 receptor antagonists.
+It was patented in 1990 and approved for medical use in 1997.
+
+
+== Medical uses ==
+
+
+=== Hypertension ===
+As with other angiotensin II receptor antagonists, candesartan is indicated for the treatment of hypertension. Candesartan has an additive antihypertensive effect when combined with a diuretic, such as chlorthalidone. It is available in a fixed-combination formulation with a low dose of the thiazide diuretic hydrochlorothiazide. Candesartan/hydrochlorothiazide combination preparations are marketed under various trade names including Atacand Plus, Hytacand, Blopress Plus, Advantec and Ratacand Plus.
+
+
+=== Heart failure ===
+In heart failure patients, angiotensin receptor blockers such as candesartan and valsartan may be a suitable option for those who do not tolerate angiotensin-converting enzyme inhibitor medicines. Randomised control trials have shown candesartan reduces heart failure hospitalisations and cardiovascular deaths for patients who have heart failure with reduced left ventricular ejection fraction (LVEF ≤ 40%).
+
+
+=== Prehypertension ===
+In a four-year randomized controlled trial, candesartan was compared to placebo to see whether it could prevent or postpone the development of full-blown hypertension in people with so-called prehypertension. During the first two years of the trial, half of participants were given candesartan while the other half received placebo; candesartan reduced the risk of developing hypertension by nearly two-thirds during this period. In the last two years of the study, all participants were switched to placebo. By the end of the study, candesartan had significantly reduced the risk of hypertension, by more than 15%. Serious adverse effects were more common among participants receiving placebo than in those given candesartan.
+
+
+=== Prevention of atrial fibrillation ===
+In 2005, meta-analysis results showed that angiotensin receptor blockers and angiotensin converting enzyme inhibitors considerably reduce the risk of atrial fibrillation in patients with coexisting heart failure and systolic left ventricular dysfunction. Specifically, an analysis of the CHARM study showed benefits for Candesartan in reducing new occurrences of atrial fibrillation in patients with heart failure and reduced left ventricular function. While these studies have demonstrated a potential additional benefit for candesartan when used in patients with systolic left ventricular dysfunction, additional studies are required to further elucidate the role of candesartan in the prevention of atrial fibrillation in other population groups.
+
+
+=== Diabetic retinopathy ===
+Use of antihypertensive drugs has been demonstrated to slow the progression of diabetic retinopathy; the role of candesartan specifically in reducing progression in type 1 and type 2 diabetes is still up for debate. Results from a 2008 study on patients with type 1 diabetes showed there was no benefit in using candesartan to reduce progression of diabetic retinopathy when compared to placebo. Candesartan has been demonstrated to reverse the severity (cause regression) of mild to moderate diabetic retinopathy in patients with type 2 diabetes. The patient populations investigated in these studies were limited to mostly Caucasians and those younger than 75 years of age, so generalization of these findings to other population groups should be done with caution.
+
+
+=== Migraine prophylaxis ===
+Candesartan may be helpful in migraine prevention as it has better tolerability and fewer side effects compared to other first line medications. It has been recommended by multiple guidelines for migraine prophylaxis in adults with different levels of recommendations, however further studies on larger populations are needed.
+
+
+== Adverse effects ==
+As with other drugs that inhibit the renin–angiotensin system, if candesartan is taken by pregnant women during the second or third trimester, it can cause injury and in some cases, death of the developing fetus. Symptomatic hypotension may occur in people who take candesartan and are volume-depleted or salt-depleted, as can also occur when diuretics are coadministered. Reduction in renal glomerular filtration rate may occur; people with renal artery stenosis may be at higher risk. Hyperkalemia may occur; people who are also taking spironolactone or eplerenone may be at higher risk.
+Anemia may occur, due to inhibition of the renin–angiotensin system.
+As with other angiotensin receptor blockers, candesartan can rarely cause severe liver injury.
+
+
+== Chemistry and pharmacokinetics ==
+Candesartan is marketed as the cyclohexyl 1-hydroxy ethyl carbonate (cilexetil) ester, known as candesartan cilexetil. Candesartan cilexetil is metabolised completely by esterases in the intestinal wall during absorption to the active candesartan moiety. In the first step of the cascading pro-drug mechanism, the carbonate group is hydrolyzed, releasing carbon dioxide. The metabolite at this step is cyclohexanol which, being relatively non-toxic, is advantageous to the design of the drug.  The other aspect of the cascading prodrug is the O-CH-CH3 molecule which becomes converted into acetic acid, which is another product from the cascading side reaction. Similar to the insight from cyclohexanol, the metabolite of acetic acid relatively is non-toxic and thus less of a hazard if produced as the drug takes pharmacologic action.
+The use of a prodrug form increases the bioavailability of candesartan. Despite this, absolute bioavailability is relatively poor at 15% (candesartan cilexetil tablets) to 40% (candesartan cilexetil solution). Its IC50 is 15 μg/kg. Candesartan is not administered in its active form because the administration of the pro-drug would require greater doses and has an unfavorable adverse event profile.
+
+
+== Research ==
+There is ongoing research into several potential benefits of candesartan beyond established indications. Candesartan is being investigated for its neuroprotective and anti-inflammatory properties. In an early Alzheimer's disease mouse model, candesartan significantly reduced amyloid burden and inflammation and it is being examined as a potential treatment for early Alzheimer's. Rat models indicate that candesartan may have neuroprotective benefits that mitigate certain central mechanisms of ageing and senescence. Additionally, candesartan has shown potential therapeutic applications as an anti-anxiety agent. In a double-blind, placebo-controlled, randomized study, candesartan induced regression of left ventricular hypertrophy, and improved both LV function and exercise tolerance with no side effects in patients with non-obstructive hypertrophic cardiomyopathy. The unique anti-oxidative and anti-inflammatory effects of Candesartan are shown to offer superior renoprotection of chronic renal inflammation, and in ultrahigh doses and in a multidrug context, could be investigated as potentially inducing remission of chronic kidney disease.
+
+
+== History ==
+
+The compound known as TCV-116 (candesartan) was studied by Japanese scientists using standard laboratory rats. Animal studies were published showing the effectiveness of the compound in 1992–1993, with a pilot study on humans published in the summer of 1993.
+
+
+== Names ==
+The prodrug candesartan cilexetil is marketed by AstraZeneca and Takeda Pharmaceuticals, commonly under the trade names Blopress, Atacand, Amias, and Ratacand. It is available in generic form.

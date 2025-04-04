@@ -1,0 +1,36 @@
+Azelastine, sold under the brand name Astelin among others, is a H1 receptor-blocking medication primarily used as a nasal spray to treat allergic rhinitis (hay fever) and as eye drops for allergic conjunctivitis. Other uses may include asthma and skin rashes for which it is taken by mouth. Onset of effects is within minutes when used in the eyes and within an hour when used in the nose. Effects last for up to 12 hours.
+Common side effects include headache, sleepiness, change in taste, and sore throat. It is unclear if use is safe during pregnancy or breastfeeding. It is a second-generation antihistamine and works by blocking the release of a number of inflammatory mediators including histamine.
+Azelastine was patented in 1971 and came into medical use in 1986. It is available as a generic medication. In 2022, it was the 124th most commonly prescribed medication in the United States, with more than 5 million prescriptions.
+
+
+== Medical uses ==
+Azelastine nasal spray is indicated for the local treatment of the symptoms of seasonal allergic rhinitis and perennial allergic rhinitis, such as rhinorrhea, sneezing and nasal pruritus in people five years of age and older. In some countries, it is also indicated for the treatment of vasomotor rhinitis in adults and children ≥ 12 years old. Azelastine eye drops are indicated for the local treatment of seasonal and perennial allergic conjunctivitis.
+
+
+== Side effects ==
+Azelastine is safe and well tolerated in both adults and children with allergic rhinitis. Bitter taste, headache, nasal burning and somnolence are the most frequently reported adverse events. US prescribing recommendations warn against the concurrent use of alcohol and/or other central nervous system depressants, but to date there have been no studies to assess the effects of azelastine nasal spray on the CNS in humans. More recent studies have shown similar degrees of somnolence (approx. 2%) compared with placebo treatment.
+The most common side effect is a bitter taste (about 20% of people). Due to this, the manufacturer has produced another formulation of azelastine with sucralose. The problem of bitter taste may also be reduced by correct application of the nasal spray (i.e. slightly tipping the head forward and not inhaling the medication too deeply), or alternatively using the azelastine/sucralose formulation.
+In addition, anosmia (loss in the ability to smell) can occur with nasal spray antihistamines (including both formulations of azelastine).
+
+
+== Pharmacology ==
+
+
+=== Pharmacodynamics ===
+Azelastine has a triple mode of action:
+
+Anti-histamine effect,
+Mast-cell stabilizing effect and
+Anti-inflammatory effect.
+
+
+=== Pharmacokinetics ===
+The systemic bioavailability of azelastine is approximately 40% when administered intranasally. Maximum plasma concentrations (Cmax) are observed within 2–3 hours. The elimination half life, steady-state volume of distribution and plasma clearance are 22 h, 14.5 L/kg and 0.5 L/h/kg respectively (based on intravenous and oral administration data). Approximately 75% of an oral dose is excreted in feces. Pharmacokinetics of orally administered azelastine is not affected by age, gender, or hepatic impairment.
+
+
+==== Metabolism ====
+Azelastine is oxidatively metabolized by the cytochrome P450 family into its active metabolite, desmethylazelastine, and two inactive carboxylic acid metabolites.
+
+
+== Chemical properties ==
+The chemical nomenclature of azelastine is (±)-1-(2H)-phthalazinone, 4-[(4-chlorophenyl) methyl]-2-(hexahydro-1-methyl-1H-azepin-4-yl)-monohydrochloride. It is white, almost odorless with a bitter taste.

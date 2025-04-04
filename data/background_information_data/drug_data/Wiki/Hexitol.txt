@@ -1,0 +1,74 @@
+Mannitol is a type of sugar alcohol used as a sweetener and medication. It is used as a low calorie sweetener as it is poorly absorbed by the intestines. As a medication, it is used to decrease pressure in the eyes, as in glaucoma, and to lower increased intracranial pressure. Medically, it is given by injection or inhalation. Effects typically begin within 15 minutes and last up to 8 hours.
+Common side effects from medical use include electrolyte problems and dehydration. Other serious side effects may include worsening heart failure and kidney problems. It is unclear if use is safe in pregnancy. Mannitol is in the osmotic diuretic family of medications and works by pulling fluid from the brain and eyes.
+The discovery of mannitol is attributed to Joseph Louis Proust in 1806. It is on the World Health Organization's List of Essential Medicines. It was originally made from the flowering ash and called manna due to its supposed resemblance to the Biblical food. Mannitol is on the World Anti-Doping Agency's banned substances list due to concerns that it may mask prohibited drugs.
+
+
+== Uses ==
+
+
+=== Medical uses ===
+In the United States, mannitol is indicated for the reduction of intracranial pressure and treatment of cerebral edema and elevated intraocular pressure.
+In the European Union, mannitol is indicated for the treatment of cystic fibrosis (CF) in adults aged 18 years and above as an add-on therapy to best standard of care.
+Mannitol is used intravenously to reduce acutely raised intracranial pressure until more definitive treatment can be applied, e.g., after head trauma.  While mannitol injection is the mainstay for  treating high pressure in the skull after a bad brain injury, it is no better than hypertonic saline as a first-line treatment. In treatment-resistant cases, hypertonic saline works better. Intra-arterial infusions of mannitol can transiently open the blood–brain barrier by disrupting tight junctions.
+It may also be used for certain cases of kidney failure with low urine output, decreasing pressure in the eye, to increase the elimination of certain toxins, and to treat fluid build up.
+Intraoperative mannitol prior to vessel clamp release during renal transplant has been shown to reduce post-transplant kidney injury, but has not been shown to reduce graft rejection.
+Mannitol acts as an osmotic laxative in oral doses larger than 20 g, and is sometimes sold as a laxative for children.
+The use of mannitol, when inhaled, as a bronchial irritant as an alternative method of diagnosis of exercise-induced asthma has been proposed.  A 2013 systematic review concluded evidence to support its use for this purpose at this time is insufficient.
+Mannitol is commonly used in the circuit prime of a heart lung machine during cardiopulmonary bypass. The presence of mannitol preserves renal function during the times of low blood flow and pressure, while the patient is on bypass. The solution prevents the swelling of endothelial cells in the kidney, which may have otherwise reduced blood flow to this area and resulted in cell damage.
+Mannitol can also be used to temporarily encapsulate a sharp object (such as a helix on a lead for an artificial pacemaker) while it passes through the venous system.  Because the mannitol dissolves readily in blood, the sharp point becomes exposed at its destination.
+Mannitol is also the first drug of choice to treat acute glaucoma in veterinary medicine.  It is administered as a 20% solution intravenously.  It dehydrates the vitreous humor and, therefore, lowers the intraocular pressure.  However, it requires an intact blood-ocular barrier to work.
+
+
+=== Food ===
+Mannitol increases blood glucose to a lesser extent than sucrose (thus having a relatively low glycemic index) so is used as a sweetener for people with diabetes, and in chewing gums. Although mannitol has a higher heat of solution than most sugar alcohols, its comparatively low solubility reduces the cooling effect usually found in mint candies and gums. However, when mannitol is completely dissolved in a product, it induces a strong cooling effect. Also, it has a very low hygroscopicity – it does not pick up water from the air until the humidity level is 98%. This makes mannitol very useful as a coating for hard candies, dried fruits, and chewing gums, and it is often included as an ingredient in candies and chewing gum. The pleasant taste and mouthfeel of mannitol also makes it a popular excipient for chewable tablets.
+
+
+=== Analytical chemistry ===
+Mannitol can be used to form a complex with boric acid. This increases the acid strength of the boric acid, permitting better precision in volumetric analysis of this acid.
+
+
+=== Other ===
+Mannitol is the primary ingredient of mannitol salt agar, a bacterial growth medium, and is used in others.
+Mannitol is used as a cutting agent in various drugs that are used intranasally (snorted), such as heroin and cocaine. A mixture of mannitol and fentanyl (or fentanyl analogs) in ratio 1:10 is labeled and sold as "China white", a popular heroin substitute.
+Mannitol is a sugar alcohol with "50-70 percent of the relative sweetness of sugar, which means more must be used to equal the sweetness of sugar. Mannitol lingers in the intestines for a long time and therefore often causes bloating and diarrhea."
+
+
+== Contraindications ==
+Mannitol is contraindicated in people with anuria, severe hypovolemia, pre-existing severe pulmonary vascular congestion or pulmonary edema, irritable bowel syndrome (IBS), and active intracranial bleeding except during craniotomy.
+Adverse effects include hyponatremia and volume depletion leading to metabolic acidosis.
+
+
+== Chemistry ==
+Mannitol is an isomer of sorbitol, another sugar alcohol; the two differ only in the orientation of the hydroxyl group on carbon 2. While similar, the two sugar alcohols have very different sources in nature, melting points, and uses.
+
+
+== Production ==
+Mannitol is classified as a sugar alcohol; that is, it can be derived from a sugar (mannose) by reduction. Other sugar alcohols include xylitol and sorbitol.
+
+
+=== Industrial synthesis ===
+Mannitol is commonly produced via the hydrogenation of fructose, which is formed from either starch or sucrose (common table sugar). Although starch is a cheaper source than sucrose, the transformation of starch is much more complicated. Eventually, it yields a syrup containing about 42% fructose, 52% glucose, and 6% maltose. Sucrose is simply hydrolyzed into an invert sugar syrup, which contains about 50% fructose. In both cases, the syrups are chromatographically purified to contain 90–95% fructose. The fructose is then hydrogenated over a nickel catalyst into a mixture of isomers sorbitol and mannitol. Yield is typically 50%:50%, although slightly alkaline reaction conditions can slightly increase mannitol yields.
+
+
+=== Biosyntheses ===
+Mannitol is one of the most abundant energy and carbon storage molecules in nature, produced by a plethora of organisms, including bacteria, yeasts, fungi, algae, lichens, and many plants. Fermentation by microorganisms is an alternative to the traditional industrial synthesis. A fructose to mannitol metabolic pathway, known as the mannitol cycle in fungi, has been discovered in a type of red algae (Caloglossa leprieurii), and it is highly possible that other microorganisms employ similar such pathways. A class of lactic acid bacteria, labeled heterofermentive because of their multiple fermentation pathways, convert either three fructose molecules or two fructose and one glucose molecule into two mannitol molecules, and one molecule each of lactic acid, acetic acid, and carbon dioxide. Feedstock syrups containing medium to large concentrations of fructose (for example, cashew apple juice, containing 55% fructose: 45% glucose) can produce yields 200 g (7.1 oz) mannitol per liter of feedstock. Further research is being conducted, studying ways to engineer even more efficient mannitol pathways in lactic acid bacteria, as well as the use of other microorganisms such as yeast and E. coli in mannitol production. When food-grade strains of any of the aforementioned microorganisms are used, the mannitol and the organism itself are directly applicable to food products, avoiding the need for careful separation of microorganism and mannitol crystals. Although this is a promising method, steps are needed to scale it up to industrially needed quantities.
+
+
+=== Natural extraction ===
+Since mannitol is found in a wide variety of natural products, including almost all plants, it can be directly extracted from natural products, rather than chemical or biological syntheses. In fact, in China, isolation from seaweed is the most common form of mannitol production. Mannitol concentrations of plant exudates can range from 20% in seaweeds to 90% in the plane tree. It is a constituent of saw palmetto (Serenoa).
+Traditionally, mannitol is extracted by the Soxhlet extraction, using ethanol, water, and methanol to steam and then hydrolysis of the crude material. The mannitol is then recrystallized from the extract, generally resulting in yields of about 18% of the original natural product. Another method of extraction is using supercritical and subcritical fluids. These fluids are at such a stage that no difference exists between the liquid and gas stages, so are more diffusive than normal fluids. This is considered to make them much more effective mass transfer agents than normal liquids. The super- or subcritical fluid is pumped through the natural product, and the mostly mannitol product is easily separated from the solvent and minute amount of byproduct.
+Supercritical carbon dioxide extraction of olive leaves has been shown to require less solvent per measure of leaf than a traditional extraction – 141.7 g (5.00 oz) CO2 versus 194.4 g (6.86 oz) ethanol per 1 g (0.035 oz) olive leaf. Heated, pressurized, subcritical water is even cheaper, and is shown to have dramatically greater results than traditional extraction. It requires only 4.01 g (0.141 oz) water per 1 g (0.035 oz) of olive leaf, and gives a yield of 76.75% mannitol. Both super- and subcritical extractions are cheaper, faster, purer, and more environmentally friendly than the traditional extraction. However, the required high operating temperatures and pressures are causes for hesitancy in the industrial use of this technique.
+
+
+== History ==
+In the early 1880s, Julije Domac elucidated the structure of hexene and mannitol obtained from Caspian manna. He determined the place of the double bond in hexene obtained from mannitol and proved that it is a derivative of a normal hexene. This also solved the structure of mannitol, which was unknown until then.
+
+
+== Controversy ==
+The three studies that originally found high-dose mannitol effective in treating severe head injury were the subject of an investigation. Published in 2007 after the lead author Dr Julio Cruz's death, the investigation questioned whether the studies had actually taken place. The co-authors of the paper were not able to confirm the existence of the study patients, and the Federal University of São Paulo, which Cruz gave as his affiliation, had never employed him. As a result of doubt surrounding Cruz's work, an updated version of the Cochrane review excludes all studies by Julio Cruz, leaving only four studies. Due to differences in selection of control groups, a conclusion about the clinical use of mannitol has not been reached.
+
+
+== Compendial status ==
+British Pharmacopoeia
+Japanese Pharmacopoeia
+United States Pharmacopeia

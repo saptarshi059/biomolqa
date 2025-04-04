@@ -1,0 +1,9 @@
+Calsenilin is a protein that in humans is encoded by the KCNIP3 gene.
+
+
+== Function ==
+This gene encodes a member of the family of voltage-gated potassium (Kv) channel-interacting proteins, which belong to the neuronal calcium sensor family of proteins. Members of this family are small calcium binding proteins containing EF-hand-like domains. They are integral subunit components of native Kv4 channel complexes that may regulate A-type currents, and hence neuronal excitability, in response to changes in intracellular calcium. The encoded protein also functions as a calcium-regulated transcriptional repressor, and interacts with presenilins. In addition, the protein has been shown to transcriptionally repress A20 (TNFAIP3) expression and thus modulate the anti-inflammatory signaling. Alternatively spliced transcript variants encoding different isoforms have been described.
+
+
+== Interactions ==
+Calsenilin has been shown to interact with PSEN1 and PSEN2.

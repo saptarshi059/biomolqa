@@ -1,0 +1,36 @@
+Bexarotene, sold under the brand Targretin, is an antineoplastic (anti-cancer) agent used for the treatment of cutaneous T cell lymphoma (CTCL). It is a third-generation retinoid.
+It was approved by the U.S. Food and Drug Administration (FDA) in December 1999, and the European Medicines Agency (EMA) in March 2001. It is available as a generic medication.
+
+
+== Medical uses ==
+Bexarotene is indicated for the treatment of cutaneous manifestations of cutaneous T-cell lymphoma in people who are refractory to at least one prior systemic therapy (oral) and for the topical treatment of cutaneous lesions in patients with CTCL who have refractory or persistent disease after other therapies or who have not tolerated other therapies (topical).
+It has been used off-label for non-small cell lung cancer and breast cancer.
+
+
+== Contraindications ==
+Known contraindications include:
+
+
+== Adverse effects ==
+Overall the most common adverse effects are skin reactions (mostly itchiness and rashes), leucopenia, headache, weakness, thyroid anomalies (which seem to be mediated by RXR-mediated downregulation of thyroid stimulating hormone) and blood lipid anomalies such as hypercholesterolaemia (high blood cholesterol) and hyperlipidaemia, hypothyroidism.
+
+
+== Interactions ==
+Its plasma concentration may be increased by concomitant treatment with CYP3A4 inhibitors such as ketoconazole. It may also induce CYP3A4, and hence CYP3A4 substrates like cyclophosphamide may have their plasma concentrations reduced. Likewise consumption of grapefruit juice might increase bexarotene's plasma concentrations, hence potentially altering its therapeutic effects.
+
+
+== Mechanism ==
+Bexarotene is a retinoid that selectively activates retinoid X receptors (RXRs), as opposed to the retinoic acid receptors, the other major target of retinoic acid (the acid form of vitamin A). By so doing it induces cell differentiation and apoptosis and prevents the development of drug resistance. It also has anti-angiogenic effects and inhibits cancer metastasis. The retinoic acid receptors (RARs) regulate cell differentiation and proliferation whereas RXRs regulate apoptosis.
+
+
+== Physical properties ==
+Bexarotene is a solid, white powder. It is poorly soluble in water; the solubility is estimated to be about 10-50 μM. It is soluble in DMSO at 65 mg/mL and in ethanol at 10 mg/mL with warming.
+
+
+== History ==
+SRI International and the La Jolla Cancer Research Foundation (now the Sanford-Burnham Medical Research Institute) collaborated on work that resulted in patent filings for the drug.
+The developer of bexarotene (brand name Targretin) was Ligand Pharmaceuticals, a San Diego biotech company which received FDA approval for the drug in 1999. The FDA approved bexarotene on 29 December 1999.
+Japanese pharmaceutical Eisai bought the rights to Targretin and three other anti-cancer products from Ligand in 2006.  In the United States, patents on the drug expired in 2016.
+It received EMA approval on 29 March 2001.
+Early-stage preclinical studies suggested that bexarotene reduced amyloid plaques and improved mental functioning in a small sample of mice engineered to exhibit Alzheimer's-like symptoms   although subsequent studies have yielded mixed results.
+The results of CCMR-One, a clinical trial of the effects of bexarotene on patients with multiple sclerosis operated by the University of Cambridge, have shown that the drug can cause remyelination, but will not lead to the drug being used as a therapy, due to its risk profile.

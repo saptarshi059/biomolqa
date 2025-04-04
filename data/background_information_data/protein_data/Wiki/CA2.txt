@@ -1,0 +1,102 @@
+Calcium ions  (Ca2+) contribute to the physiology and biochemistry of organisms' cells. They play an important role in signal transduction pathways, where they act as a second messenger, in neurotransmitter release from neurons, in contraction of all muscle cell types, and in fertilization. Many enzymes require calcium ions as a cofactor, including several of the coagulation factors. Extracellular calcium is also important for maintaining the potential difference across excitable cell membranes, as well as proper bone formation.
+Plasma calcium levels in mammals are tightly regulated, with bone acting as the major mineral storage site. Calcium ions, Ca2+, are released from bone into the bloodstream under controlled conditions. Calcium is transported through the bloodstream as dissolved ions or bound to proteins such as serum albumin.  Parathyroid hormone secreted by the parathyroid gland regulates the resorption of Ca2+ from bone, reabsorption in the kidney back into circulation, and increases in the activation of vitamin D3 to calcitriol. Calcitriol, the active form of vitamin D3, promotes absorption of calcium from the intestines and bones. Calcitonin secreted from the parafollicular cells of the thyroid gland also affects calcium levels by opposing parathyroid hormone; however, its physiological significance in humans is dubious.
+Intracellular calcium is stored in organelles which repetitively release and then reaccumulate Ca2+ ions in response to specific cellular events: storage sites include mitochondria and the endoplasmic reticulum.
+Characteristic concentrations of calcium in model organisms are: in E. coli 3 mM (bound), 100 nM (free), in budding yeast 2 mM (bound), in mammalian cell 10–100 nM (free) and in blood plasma 2 mM.
+
+
+== Humans ==
+
+In 2022, it was the 277th most commonly prescribed medication in the United States, with more than 700,000 prescriptions.
+
+
+=== Dietary recommendations ===
+The US Institute of Medicine (IOM) established Recommended Dietary Allowances (RDAs) for calcium in 1997 and updated those values in 2011. See table. The 
+European Food Safety Authority (EFSA) uses the term Population Reference Intake (PRIs) instead of RDAs and sets slightly different numbers: ages 4–10 800 mg, ages 11–17 1150 mg, ages 18–24 1000 mg, and >25 years 950 mg.
+Because of concerns of long-term adverse side effects such as calcification of arteries and kidney stones, the IOM and EFSA both set Tolerable Upper Intake Levels (ULs) for the combination of dietary and supplemental calcium. From the IOM, people ages 9–18 years are not supposed to exceed 3,000 mg/day; for ages 19–50 not to exceed 2,500 mg/day; for ages 51 and older, not to exceed 2,000 mg/day. The EFSA set UL at 2,500 mg/day for adults but decided the information for children and adolescents was not sufficient to determine ULs.
+
+
+==== Labeling ====
+For US food and dietary supplement labeling purposes, the amount in a serving is expressed as a percent of Daily Value (%DV). For calcium labeling purposes, 100% of the Daily Value was 1000 mg, but as of 27 May 2016, it was revised to 1300 mg to bring it into agreement with the RDA. A table of the old and new adult daily values is provided at Reference Daily Intake.
+
+
+=== Health claims ===
+Although as a general rule, dietary supplement labeling and marketing are not allowed to make disease prevention or treatment claims, the FDA has for some foods and dietary supplements reviewed the science, concluded that there is significant scientific agreement, and published specifically worded allowed health claims. An initial ruling allowing a health claim for calcium dietary supplements and osteoporosis was later amended to include calcium and vitamin D supplements, effective 1 January 2010. Examples of allowed wording are shown below. In order to qualify for the calcium health claim, a dietary supplement must contain at least 20% of the Reference Dietary Intake, which for calcium means at least 260 mg/serving.
+
+"Adequate calcium throughout life, as part of a well-balanced diet, may reduce the risk of osteoporosis."
+"Adequate calcium as part of a healthful diet, along with physical activity, may reduce the risk of osteoporosis in later life."
+"Adequate calcium and vitamin D throughout life, as part of a well-balanced diet, may reduce the risk of osteoporosis."
+"Adequate calcium and vitamin D as part of a healthful diet, along with physical activity, may reduce the risk of osteoporosis in later life."
+In 2005, the FDA approved a Qualified Health Claim for calcium and hypertension, with suggested wording "Some scientific evidence suggests that calcium supplements may reduce the risk of hypertension. However, FDA has determined that the evidence is inconsistent and not conclusive." Evidence for pregnancy-induced hypertension and preeclampsia was considered inconclusive. The same year, the FDA approved a QHC for calcium and colon cancer, with suggested wording "Some evidence suggests that calcium supplements may reduce the risk of colon/rectal cancer, however, FDA has determined that this evidence is limited and not conclusive." Evidence for breast cancer and prostate cancer was considered inconclusive. Proposals for QHCs for calcium as protective against kidney stones or against menstrual disorders or pain were rejected.
+The European Food Safety Authority (EFSA) concluded that "Calcium contributes to the normal development of bones." The EFSA rejected a claim that a cause-and-effect relationship existed between the dietary intake of calcium and potassium and maintenance of normal acid-base balance. The EFSA also rejected claims for calcium and nails, hair, blood lipids, premenstrual syndrome and body weight maintenance.
+
+
+=== Food sources ===
+The United States Department of Agriculture (USDA) web site has a very complete searchable table of calcium content (in milligrams) in foods, per common measures such as per 100 grams or per a normal serving.
+
+
+=== Measurement in blood ===
+The amount of calcium in blood (more specifically, in blood plasma) can be measured as total calcium, which includes both protein-bound and free calcium. In contrast, ionized calcium is a measure of free calcium. An abnormally high level of calcium in plasma is termed hypercalcemia and an abnormally low level is termed hypocalcemia, with "abnormal" generally referring to levels outside the reference range.
+
+The main methods to measure serum calcium are:
+
+O-Cresolphalein Complexone Method; A disadvantage of this method is that the volatile nature of the 2-amino-2-methyl-1-propanol used in this method makes it necessary to calibrate the method every few hours in a clinical laboratory setup.
+Arsenazo III Method; This method is more robust, but the arsenic in the reagent is a health hazard.
+The total amount of Ca2+ present in a tissue may be measured using Atomic absorption spectroscopy, in which the tissue is vaporized and combusted.  To measure Ca2+ concentration or spatial distribution within the cell cytoplasm in vivo or in vitro, a range of fluorescent reporters may be used. These include cell permeable, calcium-binding fluorescent dyes such as Fura-2 or genetically engineered variant of green fluorescent protein (GFP) named Cameleon.
+
+
+==== Corrected calcium ====
+As access to an ionized calcium is not always available a corrected calcium may be used instead. To calculate a corrected calcium in mmol/L one takes the total calcium in mmol/L and adds it to ((40 minus the serum albumin in g/L) multiplied by 0.02). There is, however, controversy around the usefulness of corrected calcium as it may be no better than total calcium. It may be more useful to correct total calcium for both albumin and the anion gap.
+
+
+== Other animals ==
+
+
+=== Vertebrates ===
+
+In vertebrates, calcium ions, like many other ions, are of such vital importance to many physiological processes that its concentration is maintained within specific limits to ensure adequate homeostasis. This is evidenced by human plasma calcium, which is one of the most closely regulated physiological variables in the human body. Normal plasma levels vary between 1 and 2% over any given time. Approximately half of all ionized calcium circulates in its unbound form, with the other half being complexed with plasma proteins such as albumin, as well as anions including bicarbonate, citrate, phosphate, and sulfate.
+
+Different tissues contain calcium in different concentrations. For instance, Ca2+ (mostly calcium phosphate and some calcium sulfate) is the most important (and specific) element of bone and calcified cartilage. In humans, the total body content of calcium is present mostly in the form of bone mineral (roughly 99%). In this state, it is largely unavailable for exchange/bioavailability. The way to overcome this is through the process of bone resorption, in which calcium is liberated into the bloodstream through the action of bone osteoclasts. The remainder of calcium is present within the extracellular and intracellular fluids.
+Within a typical cell, the intracellular concentration of ionized calcium is roughly 100 nM, but is subject to increases of 10- to 100-fold during various cellular functions. The intracellular calcium level is kept relatively low with respect to the extracellular fluid, by an approximate magnitude of 12,000-fold. This gradient is maintained through various plasma membrane calcium pumps that utilize ATP for energy, as well as a sizable storage within intracellular compartments. In electrically excitable cells, such as skeletal and cardiac muscles and neurons, membrane depolarization leads to a Ca2+ transient with cytosolic Ca2+ concentration reaching around 1 μM. Mitochondria are capable of sequestering and storing some of that Ca2+. It has been estimated that mitochondrial matrix free calcium concentration rises to the tens of micromolar levels in situ during neuronal activity.
+
+
+==== Effects ====
+The effects of calcium on human cells are specific, meaning that different types of cells respond in different ways. However, in certain circumstances, its action may be more general. Ca2+ ions are one of the most widespread second messengers used in signal transduction. They make their entrance into the cytoplasm either from outside the cell through the cell membrane via calcium channels (such as calcium-binding proteins or voltage-gated calcium channels), or from some internal calcium storages such as the endoplasmic reticulum and mitochondria. Levels of intracellular calcium are regulated by transport proteins that remove it from the cell. For example, the sodium-calcium exchanger uses energy from the electrochemical gradient of sodium by coupling the influx of sodium into cell (and down its concentration gradient) with the transport of calcium out of the cell. In addition, the plasma membrane Ca2+ ATPase (PMCA) obtains energy to pump calcium out of the cell by hydrolysing adenosine triphosphate (ATP). In neurons, voltage-dependent, calcium-selective ion channels are important for synaptic transmission through the release of neurotransmitters into the synaptic cleft by vesicle fusion of synaptic vesicles.
+Calcium's function in muscle contraction was found as early as 1882 by Ringer. Subsequent investigations were to reveal its role as a messenger about a century later. Because its action is interconnected with cAMP, they are called synarchic messengers. Calcium can bind to several different calcium-modulated proteins such as troponin-C (the first one to be identified) and calmodulin, proteins that are necessary for promoting contraction in muscle.
+In the endothelial cells which line the inside of blood vessels, Ca2+ ions can regulate several signaling pathways which cause the smooth muscle surrounding blood vessels to relax.  Some of these Ca2+-activated pathways include the stimulation of eNOS to produce nitric oxide, as well as the stimulation of Kca channels to efflux K+ and cause hyperpolarization of the cell membrane.  Both nitric oxide and hyperpolarization cause the smooth muscle to relax in order to regulate the amount of tone in blood vessels.  However, dysfunction within these Ca2+-activated pathways can lead to an increase in tone caused by unregulated smooth muscle contraction.  This type of dysfunction can be seen in cardiovascular diseases, hypertension, and diabetes.
+Calcium coordination plays an important role in defining the structure and function of proteins. An example a protein with calcium coordination is von Willebrand factor (vWF) which has an essential role in blood clot formation process. It was discovered using single molecule optical tweezers measurement that calcium-bound vWF acts as a shear force sensor in the blood. Shear force leads to unfolding of the A2 domain of vWF whose refolding rate is dramatically enhanced in the presence of calcium.
+
+
+==== Adaptation ====
+Ca2+ ion flow regulates several secondary messenger systems in neural adaptation for visual, auditory, and the olfactory system. It may often be bound to calmodulin such as in the olfactory system to either enhance or repress cation channels. Other times the calcium level change can actually release guanylyl cyclase from inhibition, like in the photoreception system. Ca2+ ion can also determine the speed of adaptation in a neural system depending on the receptors and proteins that have varied affinity for detecting levels of calcium to open or close channels at high concentration and low concentration of calcium in the cell at that time.
+
+
+==== Negative effects and pathology ====
+Substantial decreases in extracellular Ca2+ ion concentrations may result in a condition known as hypocalcemic tetany, which is marked by spontaneous motor neuron discharge. In addition, severe hypocalcaemia will begin to affect aspects of blood coagulation and signal transduction.
+Ca2+ ions can damage cells if they enter in excessive numbers (for example, in the case of excitotoxicity, or over-excitation of neural circuits, which can occur in neurodegenerative diseases, or after insults such as brain trauma or stroke). Excessive entry of calcium into a cell may damage it or even cause it to undergo apoptosis, or death by necrosis. Calcium also acts as one of the primary regulators of osmotic stress (osmotic shock). Chronically elevated plasma calcium (hypercalcemia) is associated with cardiac arrhythmias and decreased neuromuscular excitability. One cause of hypercalcemia is a condition known as hyperparathyroidism.
+
+
+=== Invertebrates ===
+Some invertebrates use calcium compounds for building their exoskeleton (shells and carapaces) or endoskeleton (echinoderm plates and poriferan calcareous spicules).
+
+
+== Plants ==
+
+
+=== Stomata closing ===
+
+When abscisic acid signals the guard cells, free Ca2+ ions enter the cytosol from both outside the cell and internal stores, reversing the concentration gradient so the K+ ions begin exiting the cell. The loss of solutes makes the cell flaccid and closes the stomatal pores.
+
+
+=== Cellular division ===
+Calcium is a necessary ion in the formation of the mitotic spindle. Without the mitotic spindle, cellular division cannot occur. Although young leaves have a higher need for calcium, older leaves contain higher amounts of calcium because calcium is relatively immobile through the plant. It is not transported through the phloem because it can bind with other nutrient ions and precipitate out of liquid solutions.
+
+
+=== Structural roles ===
+Ca2+ ions are an essential component of plant cell walls and cell membranes, and are used as cations to balance organic anions in the plant vacuole.  The Ca2+ concentration of the vacuole may reach millimolar levels.  The most striking use of Ca2+ ions as a structural element in algae occurs in the marine coccolithophores, which use Ca2+ to form the calcium carbonate plates, with which they are covered.
+Calcium is needed to form the pectin in the middle lamella of newly formed cells.
+Calcium is needed to stabilize the permeability of cell membranes. Without calcium, the cell walls are unable to stabilize and hold their contents. This is particularly important in developing fruits. Without calcium, the cell walls are weak and unable to hold the contents of the fruit.
+Some plants accumulate Ca in their tissues, thus making them more firm. Calcium is stored as Ca-oxalate crystals in plastids.
+
+
+=== Cell signaling ===
+Ca2+ ions are usually kept at nanomolar levels in the cytosol of plant cells, and act in a number of signal transduction pathways as second messengers.

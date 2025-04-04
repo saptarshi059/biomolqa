@@ -1,0 +1,35 @@
+Desloratadine sold under the brand name Aerius among others, is a tricyclic H1 inverse agonist that is used to treat allergies. It is an active metabolite of loratadine.
+It was patented in 1984 and came into medical use in 2001. It was brought to the market in the US by Schering Corporation, later named Schering-Plough.
+
+
+== Medical uses ==
+Desloratadine is used to treat allergic rhinitis, nasal congestion and chronic idiopathic urticaria (hives). It is the major metabolite of loratadine and the two drugs are similar in safety and effectiveness. Desloratadine is available in many dosage forms and under many brand names worldwide.
+An emerging indication for desloratadine is in the treatment of acne, as an inexpensive adjuvant to isotretinoin and possibly as maintenance therapy or monotherapy.
+
+
+== Side effects ==
+The most common side-effects are fatigue (1.2%), dry mouth (3%), and headache (0.6%).
+
+
+== Interactions ==
+Co-administration with erythromycin, ketoconazole, azithromycin, fluoxetine, or cimetidine resulted in elevated blood plasma concentrations of desloratadine and its metabolite 3-hydroxydesloratadine in studies. However, no clinically relevant changes were observed.
+
+
+== Pharmacology ==
+
+
+=== Pharmacodynamics ===
+Desloratadine is a selective H1-antihistamine which functions as an inverse agonist at the histamine H1 receptor.
+At very high doses, is also an antagonist at various subtypes of the muscarinic acetylcholine receptors. This effect is not relevant for the drug's action at therapeutic doses.
+
+
+=== Pharmacokinetics ===
+Desloratadine is well absorbed from the gut and reaches highest blood plasma concentrations after about three hours. In the bloodstream, 83 to 87% of the substance are bound to plasma proteins.
+Desloratadine is metabolized to 3-hydroxydesloratadine in a three-step sequence in normal metabolizers. First, N-glucuronidation of desloratadine by UGT2B10; then, 3-hydroxylation of desloratadine N-glucuronide by CYP2C8; and finally, a non-enzymatic deconjugation of 3-hydroxydesloratadine N-glucuronide. Both desloratadine and 3-hydroxydesloratadine are eliminated via urine and feces with a half-life of 27 hours in normal metabolizers.
+
+It exhibits only peripheral activity since it does not readily cross the blood–brain barrier; hence, it does not normally cause drowsiness because it does not readily enter the central nervous system.
+Desloratadine does not have a strong effect on a number of tested enzymes in the cytochrome P450 system. It was found to weakly inhibit CYP2B6, CYP2D6, and CYP3A4/CYP3A5, and not to inhibit CYP1A2, CYP2C8, CYP2C9, or CYP2C19. Desloratadine was found to be a potent and relatively selective inhibitor of UGT2B10, a weak to moderate inhibitor of UGT2B17, UGT1A10, and UGT2B4, and not to inhibit UGT1A1, UGT1A3, UGT1A4, UGT1A6, UGT1A9, UGT2B7, UGT2B15, UGT1A7, and UGT1A8.
+
+
+=== Pharmacogenomics ===
+2% of Caucasians and 18% of people from African descent are desloratadine poor metabolizers. In these people, the drug reaches threefold higher plasma concentrations at seven hours after intake, and it has a half-life of 89 hours (compared to a 27-hour half-life in normal metabolizers). Adverse effects were reported at similar rates in poor metabolizers, suggesting that it is not clinically relevant.

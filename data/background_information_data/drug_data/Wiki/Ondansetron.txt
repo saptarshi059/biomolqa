@@ -1,0 +1,80 @@
+Ondansetron, sold under the brand name Zofran among others, is a medication used to prevent nausea and vomiting caused by chemotherapy, radiation therapy, migraines, or surgery. It is also effective for treating gastroenteritis. It can be given orally (by mouth), intramuscularly (injection into a muscle), or intravenously (injection into a vein).
+Common side effects include diarrhea, constipation, headache, sleepiness, and itchiness. Serious side effects include QT prolongation and severe allergic reaction. It appears to be safe during pregnancy but has not been well studied in this group. It is a serotonin 5-HT3 receptor antagonist. It does not have any effect on dopamine receptors or muscarinic acetylcholine receptor and therefore does not cause akathisia.
+Ondansetron was patented in 1984 and approved for medical use in 1990. It is on the World Health Organization's List of Essential Medicines. It is available as a generic medication. In 2022, it was the 61st most commonly prescribed medication in the United States, with more than 10 million prescriptions.
+
+
+== Medical uses ==
+Ondansetron is indicated for the prevention of chemotherapy-induced nausea and vomiting and postoperative nausea and vomiting.
+
+
+=== Pregnancy ===
+Ondansetron is used off-label to treat morning sickness and hyperemesis gravidarum of pregnancy. It is typically used after other antiemetic drugs have failed.
+A large multi-center cohort study found no association between ondansetron exposure and fetal risk compared to other antiemetics.
+
+
+=== Cyclic vomiting syndrome ===
+Ondansetron is one of several antiemetics used during the vomiting phase of cyclic vomiting syndrome.
+
+
+=== Gastroenteritis ===
+Trials in emergency department settings support the use of ondansetron to abort vomiting episodes associated with gastroenteritis and dehydration. A randomized controlled trial using a single dose of oral ondansetron in children with presumably viral gastroenteritis found it to be highly effective in stopping vomiting and increasing the effectiveness of oral rehydration therapy, thereby significantly increasing patient satisfaction. Only 16 of the 123 children treated with ondansetron vomited in the following 6 hours. A retrospective review found that ondansetron was used commonly for vomiting due to gastroenteritis, being administered in over 58% of cases. Its use reduced hospital admissions, but was also associated with higher rates of return visits to the emergency department. Furthermore, people who had initially received ondansetron were more likely to be admitted on the return visit than people who had not received the drug. However, this effect may simply be due to the agent being used more frequently in people who present with more severe illness. Its use was not found to mask serious diagnoses.
+
+
+=== Irritable bowel syndrome (IBS) ===
+In a study of patients diagnosed as having IBS with diarrhea (IBS-D), ondansetron showed statistically significant effects on stool consistency, frequency, urgency and bloating, but not on pain scores. This was confirmed in a later trial and meta-analysis and is included in international guidelines.
+
+
+== Special populations ==
+
+
+=== Children ===
+Ondansetron has rarely been studied in people under 4 years of age. As such, little data is available to guide dosage recommendations.
+Three open non-comparative studies have been conducted to assess the safety and efficacy of ondansetron in children receiving a variety of chemotherapy regimens.
+Ondansetron was well tolerated and none of the patients experienced extrapyramidal symptoms.
+
+
+== Adverse effects ==
+Headache is the most common adverse effect. A review of use for post-operative nausea and vomiting found that for every 36 people treated, one would experience headache, which could be severe.
+Constipation, diarrhea, and dizziness are other commonly reported side effects. It is broken down by the hepatic cytochrome P450 system and it has little effect on the metabolism of other drugs broken down by this system.
+
+
+=== QT prolongation ===
+Use of ondansetron has been associated with prolongation of the QT interval, which can lead to a potentially fatal heart rhythm known as torsades de pointes. Although this may happen in any person with any formulation, the risk is most salient with the injectable (intravenous) form of the drug and increases with dose. The risk is also higher in people taking other medicines that prolong the QT interval, as well as in people with congenital long QT syndrome, congestive heart failure, and/or bradyarrhythmias. As such, single doses of injectable ondansetron should not exceed 16 mg at one time. (Oral dosing recommendations remain intact, including the recommendation of a single 24 mg oral dose when indicated.) Electrolyte imbalances should be corrected before the use of injectable ondansetron. People are cautioned to seek immediate medical care if symptoms such as irregular heartbeat/palpitations, shortness of breath, dizziness, or fainting occur while taking ondansetron.
+
+
+=== Overdose ===
+No specific treatment is available for ondansetron overdose; people are managed with supportive measures. An antidote to ondansetron is not known.
+
+
+== Pharmacology ==
+
+
+=== Pharmacodynamics ===
+Ondansetron is a highly selective serotonin 5-HT3 receptor antagonist, with low affinity for dopamine receptors. The 5-HT3 receptors are present both peripherally on vagal nerve terminals and centrally in the chemoreceptor trigger zone of the area postrema in the medulla. Serotonin is released by the enterochromaffin cells of the small intestine in response to chemotherapeutic agents and may stimulate vagal afferents (via 5-HT3 receptors) to initiate the vomiting reflex. It is thought that ondansetron's antiemetic action is mediated mostly via antagonism of vagal afferents with a minor contribution from antagonism of central receptors. The R– and S–ondansetron isomers have similar potency as serotonin antagonists when tested on ex vivo rat vagus nerve. However, the R–ondansetron enantiomer was 7.9 times more potent as an antagonist of serotonin and 2-methyl-5-hydroxytryptamine (2-methylserotonin) when tested on the longitudinal smooth muscle from guinea pig ileum. However, the guinea pig ileum test was likely not as faithful as a test of 5-HT3 receptor antagonism, because ondansetron only partially blocked the effect of serotonin, while it completely blocked the effect of 2-methylserotonin.
+
+
+=== Pharmacokinetics ===
+Ondansetron may have a degree of peripheral selectivity due to binding to P-glycoprotein and efflux out of the brain at the blood–brain barrier. Ondansetron is marketed as a racemic mixture of R–(–)–ondansetron and S–(+)–ondansetron, and the two enantiomers have significantly different kinetics. In rats given 2 mg/kg intravenous doses of each enantiomer separately, R–(–)–ondansetron was found to have a 37% longer half-life (P < 0.05) and an 87% higher area-under-curve or AUC (P < 0.01) compared to S–(+)–ondansetron, indicating that the R enantiomer is metabolized more slowly. The chiral carbon in ondansetron is adjacent to a carbonyl group, so keto-enol tautomerism could theoretically lead to interconversion between the two enantiomers under physiologic conditions, if the hydrogen on the chiral carbon were removed and then replaced with opposite chirality. An experiment in rats given each enantiomer separately showed no evidence of this interconversion, the chirality was stable in vivo. A study of 141 human patients given 4 or 8 mg of intravenous ondansetron for the prevention of post-operative nausea and vomiting also found that R and S–ondansetron have different pharmacokinetic properties. Each patient was classified according to their genotype for the liver enzymes CYP2D6 and CYP3A5, and they were put on a spectrum between poor metabolizers (slow) and ultra metabolizers (fast). CYP2D6 was found to be more important for the elimination of S–ondansetron, whereas CYP3A5 genotype had no impact on S–ondansetron plasma levels, measured 3 hours after drug administration. CYP3A5 was more important for R–ondansetron clearance, and CYP2D6 genotype had no consistent effect on plasma levels of R–ondansetron at 3 hours.
+
+
+== History ==
+
+Ondansetron (marketed under the brand name Zofran) was developed in the mid-1980s by GlaxoSmithKline in London. It was granted U.S. patent protection in September 1987, received a use patent June 1988, and was approved by the U.S. Food and Drug Administration (FDA) in January 1991. It was granted another divisional patent in November 1996. Finally, owing to GlaxoSmithKline's research on pediatric use, ondansetron's patent protection was extended until December 2006. By this final year of its patent (2006), Zofran had become the 20th highest-selling brand-name drug in the United States, with sales of US$1.3 billion in the first 9 months of 2006 (80% from the US). The first generic versions were approved by the U.S. FDA in December 2006, with marketing approval granted to Teva Pharmaceuticals USA and SICOR Pharmaceuticals.
+In December 2012, the FDA announced that the 32 mg, single intravenous (IV) dose of ondansetron was being withdrawn from U.S. market because of the potential for serious cardiac issues from prolonged QT interval.
+In 2018, University of São Paulo and Biolab were granted a patent for an orodispersible form of the drug.
+
+
+== Society and culture ==
+
+
+=== Publication bias ===
+In 1997, ondansetron was the subject of a meta-analysis case study. Researchers examined 84 trials, with 11,980 people receiving ondansetron, published between 1991 and September 1996. Intravenous ondansetron 4 mg versus placebo was investigated in 16 reports and three further reports which had been duplicated a total of six times. The number needed to treat (NNT) to prevent vomiting within 24 hours was 9.5, with 95% confidence interval 6.9 to 15, in the 16 nonduplicated reports. In the three duplicated reports, the NNT was significantly lower at 3.9 (3.3 to 4.8). When all 25 reports were combined, the apparent NNT improved to 4.9 (4.4 to 5.6). Inclusion of duplicate reports led to a 23% overestimation of ondansetron's antiemetic efficacy.
+In addition, the authors found the covert duplication of reports on ondansetron was not easy to detect, because of lack of cross-referencing between papers, and reports containing duplicate findings were cited in eight reviews of the drug. Their analysis was a subject of an editorial in the Journal of the American Medical Association in 1999.
+
+
+=== Availability ===
+Ondansetron is a generic medication and is available in many countries under many brand names.
+
+
+== Research ==
+Ondansetron may be useful in the treatment of nausea and vomiting that can sometimes be induced by certain serotonergic psychedelics.

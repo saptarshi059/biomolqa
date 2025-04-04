@@ -1,0 +1,10 @@
+Geranylgeranyl pyrophosphate synthase is an enzyme that in humans is encoded by the GGPS1 gene.
+
+
+== Function ==
+This gene is a member of the prenyltransferase family and encodes a protein with geranylgeranyl diphosphate (GGPP) synthase activity. The enzyme catalyzes the synthesis of GGPP from farnesyl diphosphate and isopentenyl diphosphate. GGPP is an important molecule responsible for the C20-prenylation of proteins and for the regulation of a nuclear hormone receptor. Alternate transcriptional splice variants, encoding different isoforms, have been characterized.
+Much like its homolog farnesyl diphosphate synthase, GGPS1 is inhibited by bisphosphonate compounds.
+
+
+== Clinical ==
+Mutations in both copies of this gene have been associated with a syndrome of muscular dystrophy, hearing loss and ovarian insufficiency.

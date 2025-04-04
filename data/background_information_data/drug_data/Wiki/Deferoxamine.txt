@@ -1,0 +1,24 @@
+Deferoxamine (DFOA), also known as desferrioxamine and sold under the brand name Desferal, is a medication that binds iron and aluminium. It is specifically used in iron overdose, hemochromatosis either due to multiple blood transfusions or an underlying genetic condition, and aluminium toxicity in people on dialysis. It is used by injection into a muscle, vein, or under the skin.
+Common side effects include pain at the site of injection, diarrhea, vomiting, fever, hearing loss, and eye problems. Severe allergic reactions including anaphylaxis and low blood pressure may occur. It is unclear if use during pregnancy or breastfeeding is safe for the baby. Deferoxamine is a siderophore from the bacteria Streptomyces pilosus.
+Deferoxamine was approved for medical use in the United States in 1968. It is on the World Health Organization's List of Essential Medicines.
+
+
+== Medical uses ==
+Deferoxamine is used to treat acute iron poisoning, especially in small children. This agent is also frequently used to treat hemochromatosis, a disease of iron accumulation that can be either genetic or acquired. Acquired hemochromatosis is common in patients with certain types of chronic anemia (e.g. thalassemia and myelodysplastic syndrome) who require many blood transfusions, which can greatly increase the amount of iron in the body. Treatment with iron-chelating drugs such as deferoxamine reduces mortality in persons with sickle cell disease or β‐thalassemia who are transfusion dependent.
+Administration for chronic conditions is generally accomplished by subcutaneous injection over a period of 8–12 hours each day. Administration of deferoxamine after acute intoxication may color the urine a pinkish red, a phenomenon termed "vin rosé urine". Apart from iron toxicity, deferoxamine can be used to treat aluminium toxicity (an excess of aluminium in the body) in selected patients. In US, the drug is not FDA-approved for this use. Deferoxamine is also used to minimize doxorubicin's cardiotoxic side effects and in the treatment of patients with aceruloplasminemia. Deferoxamine may be effective for improving neurologic outcomes in persons with intracranial hemorrhage, although the evidence supporting the efficacy and safety for this indication was weak.
+Some published manuscripts suggesting the use of deferoxamine for patients diagnosed with COVID-19 because of the high level of ferritin among them.
+
+
+== Adverse effects ==
+It is unclear if use during pregnancy is safe for the baby.
+Chronic use of deferoxamine may increase the risk of hearing loss in patients with thalassemia major.
+Chronic use of deferoxamine may cause ocular symptoms, growth retardation, local reactions and allergy.
+
+
+== Mechanism ==
+Deferoxamine is produced by removal of the trivalent iron moiety from ferrioxamine B, an iron-bearing sideramine produced by the actinomycetes, Streptomyces pilosus. Its discovery was a serendipitous result of research conducted by scientists at Ciba in collaboration with scientists at the Swiss Federal Institute of Technology in Zurich and the University Hospital in Freiburg, Germany Deferoxamine acts by binding free iron in the bloodstream and enhancing its elimination in the urine. By removing excess iron from persons with hemochromatosis, the agent reduces the damage done to various organs and tissues, such as the liver. Also, it speeds healing of nerve damage (and minimizes the extent of recent nerve trauma). Deferoxamine may modulate expression and release of inflammatory mediators by specific cell types.
+
+
+== Research ==
+Deferoxamine is being studied as a treatment for spinal cord injury and intracerebral hemorrhage. It is also used to induce hypoxia-like environment in mesenchymal stem cells.
+Since the terminal amine group of Deferoxamine does not participate in metal chelation, it has been used to immobilize Deferoxamine to surfaces and substrates for various industrial and biomedical applications.

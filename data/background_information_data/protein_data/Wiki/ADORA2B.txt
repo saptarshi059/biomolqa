@@ -1,0 +1,37 @@
+The adenosine A2B receptor, also known as ADORA2B, is a G-protein coupled adenosine receptor, and also denotes the human adenosine A2b receptor gene which encodes it.
+
+
+== Mechanism ==
+This integral membrane protein stimulates adenylate cyclase activity in the presence of adenosine. This protein also interacts with netrin-1, which is involved in axon elongation.
+
+
+== Gene ==
+The gene is located near the Smith-Magenis syndrome region on chromosome 17.
+
+
+== Ligands ==
+Research into selective A2B ligands has lagged somewhat behind the development of ligands for the other three adenosine receptor subtypes, but a number of A2B-selective compounds have now been developed, and research into their potential therapeutic applications is ongoing.
+
+
+=== Agonists ===
+BAY 60-6583
+NECA (N-ethylcarboxamidoadenosine)
+(S)-PHPNECA - high affinity and efficacy at A2B, but poor selectivity over other adenosine receptor subtypes
+LUF-5835
+LUF-5845 - partial agonist
+
+
+=== Antagonists and inverse agonists ===
+Compound 38: antagonist, high affinity and good subtype selectivity
+ISAM-R56A: non-xanthinic high affinity selective antagonist (Ki: 1.50 nM)
+ISAM-140: non-xanthinic selective antagonist (Ki  = 3.49 nM).
+ISAM-R324A: Soluble and metabolically stable non-xanthinic selective antagonist (Ki  = 6.10 nM).
+ATL-801
+CVT-6883
+MRS-1706
+MRS-1754
+OSIP-339,391
+PSB-603: xanthinic antagonist
+PSB-0788: xanthinic antagonist
+PSB-1115: xanthinic antagonist
+PSB-1901: xanthinic antagonist with picomolar potency

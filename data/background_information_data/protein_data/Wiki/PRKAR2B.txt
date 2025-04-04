@@ -1,0 +1,9 @@
+cAMP-dependent protein kinase type II-beta regulatory subunit is an enzyme that in humans is encoded by the PRKAR2B gene.
+
+
+== Function ==
+cAMP is a signaling molecule important for a variety of cellular functions. cAMP exerts its effects by activating the cAMP-dependent protein kinase (PKA), which transduces the signal through phosphorylation of different target proteins. The inactive holoenzyme of PKA is a tetramer composed of two regulatory and two catalytic subunits. cAMP causes the dissociation of the inactive holoenzyme into a dimer of regulatory subunits bound to four cAMP and two free monomeric catalytic subunits. Four different regulatory subunits and three catalytic subunits of PKA have been identified in humans. The protein encoded by this gene is one of the regulatory subunits. This subunit can be phosphorylated by the activated catalytic subunit. This subunit has been shown to interact with and suppress the transcriptional activity of the cAMP responsive element binding protein 1 (CREB1) in activated T cells. Knockout studies in mice suggest that this subunit may play an important role in regulating energy balance and adiposity. The studies also suggest that this subunit may mediate the gene induction and cataleptic behavior induced by haloperidol.
+
+
+== Interactions ==
+PRKAR2B has been shown to interact with AKAP11 in an advanced Stage.

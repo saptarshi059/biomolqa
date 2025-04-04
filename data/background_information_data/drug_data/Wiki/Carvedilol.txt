@@ -1,0 +1,62 @@
+Carvedilol, sold under the brand name Coreg among others, is a beta blocker medication, that may be prescribed for the treatment of high blood pressure (hypertension) and chronic heart failure with reduced ejection fraction (also known as HFrEF or systolic heart failure). Beta-blockers as a collective medication class are not recommended as routine first-line treatment of high blood pressure for all patients, due to evidence demonstrating less effective cardiovascular protection and a less favourable safety profile when compared to other classes of blood pressure-lowering medications.
+Common side effects include dizziness, tiredness, joint pain, low blood pressure, nausea, and shortness of breath. Severe side effects may include bronchospasm. Safety during pregnancy or breastfeeding is unclear. Use is not recommended in those with liver problems. Carvedilol is a nonselective beta blocker and alpha-1 blocker. How it improves outcomes is not entirely clear but may involve dilation of blood vessels.
+Carvedilol was patented in 1978 and approved for medical use in the United States in 1995. It is on the World Health Organization's List of Essential Medicines. It is available as a generic medication. In 2022, it was the 34th most commonly prescribed medication in the United States, with more than 17 million prescriptions.
+
+
+== Medical uses ==
+Carvedilol is indicated in the management of congestive heart failure (CHF), commonly as an adjunct to angiotensin-converting-enzyme inhibitor (ACE inhibitors) and diuretics. It has been clinically shown to reduce mortality and hospitalizations in people with CHF. The mechanism of carvedilol in heart failure is due to its inhibition of receptors in the adrenergic nervous system, which releases noradrenaline to the body, including the heart. Noradrenaline is a hormone that causes the heart to beat faster and work harder. Blocking its binding to adrenergic receptors in the heart causes vasodilation, decreases heart rate and blood pressure, and improves myocardial contractility, which ultimately decreases the heart's workload. 
+Carvedilol reduces the risk of death, hospitalisations, and recurring heart attacks in patients with moderate to severe heart failure (with an ejection fraction <40%) following a heart attack  Carvedilol has also been proven to reduce death and hospitalization in patients with severe heart failure.
+Carvedilol is not considered a first-line treatment for hypertension; however, research has demonstrated that it exhibits an antihypertensive effect when compared to a placebo or other antihypertensive medications.
+Carvedilol has shown efficacy in preventing bleeding from oesophageal varices in patients with mild to moderate cirrhosis and may have benefit in avoiding successive bleeds.
+Carvedilol is used in the treatment of acute cardiovascular toxicity (e.g. overdose) with sympathomimetics, for instance caused by amphetamine, methamphetamine, cocaine, or ephedrine. It has also specifically been found to block the sympathomimetic effects of MDMA. Dual α1 and beta blockers like carvedilol and labetalol may be more favorable for such purposes due to the possibility of "unopposed α-stimulation" with selective beta blockers.
+
+
+=== Available forms ===
+Carvedilol is available in the following forms:
+
+Oral tablet
+Extended-release (24-hour) oral capsule (approved by the FDA in 2006)
+
+
+== Contraindications ==
+Carvedilol should not be used in patients with bronchial asthma or bronchospastic conditions due to increased risk of bronchoconstriction. It should not be used in people with second- or third-degree atrioventricular block, sick sinus syndrome, severe bradycardia (unless a permanent pacemaker is in place), or a decompensated heart condition. People with severe hepatic impairment should use carvedilol with caution.
+
+
+== Side effects ==
+The most common side effects (>10% incidence) of carvedilol include:
+
+Dizziness
+Fatigue
+Low blood pressure
+Diarrhea
+Weakness
+Slowed heart rate
+Weight gain
+Erectile dysfunction
+Carvedilol is not recommended for people with uncontrolled bronchospastic disease (e.g. current asthma symptoms) as it can block receptors that assist in opening the airways.
+Carvedilol may mask symptoms of low blood sugar, resulting in hypoglycemia unawareness. This is termed beta blocker induced hypoglycemia unawareness.
+
+
+== Interactions ==
+The risk of bradycardia is increased if used with amiodarone, digoxin, diltiazem, ivabradine, or verapamil. Also, combination of carvedilol with non-dihydropyridine calcium channel blockers, including diltiazem and verapamil, enhances it cardiodepressant effects.
+
+
+== Pharmacology ==
+
+
+=== Pharmacodynamics ===
+
+Carvedilol is both a non-selective β-adrenergic receptor antagonist (β1, β2) and an α-adrenergic receptor antagonist (α1). The S(–) enantiomer accounts for the beta-blocking activity whereas the S(–) and R(+) enantiomers have alpha-blocking activity. The affinity (Ki) of carvedilol for the β-adrenergic receptors is 0.32 nM for the human β1-adrenergic receptor and 0.13 to 0.40 nM for the β2-adrenergic receptor.
+Using rat proteins, carvedilol has shown affinity for a variety of targets including the β1-adrenergic receptor (Ki = 0.24–0.43 nM), β2-adrenergic receptor (Ki = 0.19–0.25 nM), α1-adrenergic receptor (Ki = 3.4 nM), α2-adrenergic receptor (Ki = 2,168 nM), 5-HT1A receptor (Ki = 3.4 nM), 5-HT2 receptor (Ki = 207 nM), H1 receptor (Ki = 3,034 nM), D2 receptor (Ki = 213 nM), μ-opioid receptor (Ki = 2,700 nM), veratridine site of voltage-gated sodium channels (IC50 = 1,260 nM), serotonin transporter (Ki = 528 nM), norepinephrine transporter (Ki = 2,406 nM), and dopamine transporter (Ki = 627 nM). It is an antagonist of the human 5-HT2A receptors with moderate affinity (Ki = 547 nM), although it is unclear if this is significant for its pharmacological actions given its much stronger activity at adrenergic receptors.
+Carvedilol reversibly binds to β-adrenergic receptors on cardiac myocytes. Inhibition of these receptors prevents a response to the sympathetic nervous system, leading to decreased heart rate and contractility. This action is beneficial in heart failure patients where the sympathetic nervous system is activated as a compensatory mechanism. Carvedilol blockade of α1-adrenergic receptors causes vasodilation of blood vessels. This inhibition leads to decreased peripheral vascular resistance and an antihypertensive effect. There is no reflex tachycardia response due to carvedilol blockade of β1-adrenergic receptors on the heart.
+
+
+=== Pharmacokinetics ===
+Carvedilol is about 25% to 35% bioavailable following oral administration due to extensive first-pass metabolism. Absorption is slowed when administered with food, however, it does not show a significant difference in bioavailability. Taking carvedilol with food decreases the risk of orthostatic hypotension.
+The majority of carvedilol is bound to plasma proteins (98%), mainly to albumin. Carvedilol is a basic, hydrophobic compound with a steady-state volume of distribution of 115 L. Plasma clearance ranges from 500 to 700 mL/min. Carvedilol is highly lipophilic and easily crosses the blood–brain barrier in animals, and hence is not thought to be peripherally selective.
+The compound is metabolized by liver enzymes, CYP2D6 and CYP2C9 via aromatic ring oxidation and glucuronidation, then further conjugated by glucuronidation and sulfation. The three active metabolites exhibit only one-tenth of the vasodilating effect of the parent compound. However, the 4'-hydroxyphenyl metabolite is about 13-fold more potent in β-blockade than the parent.
+The mean elimination half-life of carvedilol following oral administration ranges from 7 to 10 hours. The pharmaceutical product is a mix of two enantiomorphs, R(+)-carvedilol and S(–)-carvedilol, with differing metabolic properties. R(+)-Carvedilol undergoes preferential selection for metabolism, which results in a fractional half-life of about 5 to 9 hours, compared with 7 to 11 hours for the S(-)-carvedilol fraction.
+
+
+== Chemistry ==
+Carvedilol is a highly lipophilic compound with an experimental log P of 3.8 to 4.19 and a predicted log P of 3.05 to 4.2.

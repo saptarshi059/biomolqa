@@ -1,0 +1,28 @@
+Protein kinase C theta (PKC-θ) is an enzyme that in humans is encoded by the PRKCQ gene. PKC-θ, a member of serine/threonine kinases, is mainly expressed in hematopoietic cells with high levels in platelets and T lymphocytes, where plays a role in signal transduction. Different subpopulations of T cells vary in their requirements of PKC-θ, therefore PKC-θ is considered as a potential target for inhibitors in the context of immunotherapy.
+
+
+== Function ==
+Protein kinase C (PKC) is a family of serine- and threonine-specific protein kinases that can be activated by the second messenger diacylglycerol. PKC family members phosphorylate a wide variety of protein targets and are known to be involved in diverse cellular signaling pathways. PKC family members also serve as major receptors for phorbol esters, a class of tumor promoters. Each member of the PKC family has a specific expression profile and is believed to play a distinct role. The protein encoded by this gene is one of the PKC family members. It is a calcium-independent and phospholipid-dependent protein kinase. This kinase is important for T-cell activation. It is required for the activation of the transcription factors NF-kappaB and AP-1, and may link the T cell receptor (TCR) signaling complex to the activation of the transcription factors. PKC-θ also play a role in the apoptosis of lymphoid cells where it negatively influence and delay the aggregation of spectrin in an early phase of apoptosis.
+
+
+=== The role of PKC-θ in T cells ===
+PKC-θ has a role in the transduction of signals in T cells, the kinase influences their activation, survival and growth. PKC-θ is important in the signal pathway integrating signals from TCR and CD28 receptors. A junction between an APC (an antigen presenting cell) and a T cell through their TCR and MHC receptors forms an immunological synapse. The active PKC-θ is localized in immunological synapse of T cells between the cSMAC (central supramolecular activation cluster containing TCR) and pSMAC (peripheral supramolecular activation cluster containing LFA-1 and ICAM-1). In regulatory T cells, PKC-θ is depleted from the region of immunological synapse, whereas in effector T cells, PKC-θ is present. As a result of co-stimulation by CD28 and TCR, PKC-θ is sumoylated by SUMO1 predominantly on the sites Lys325 and Lys506. Sumoylation is important because of forming of the immunological synapse. Subsequently, PKC-θ phosphorylates SPAK (STE20/SPS1-related, proline alanine-rich kinase) that activates the transcription factor AP-1 (activating protein-1). PKC-θ also initiates the assembly of proteins Carma-1, Bcl-10 and Malt-1 by phosphorylation of Carma-1. This complex of three proteins activates the transcription factor NF-κB (nuclear factor-κB). Furthermore, PKC-θ plays a role in the activation of transcription factor NF-AT (nuclear factor of activated T cells). Thus, PKC-θ promotes inflammation in effector T cells. PKC-θ plays a role in the activation of ILC2 and contribute to the proliferation of Th2 cells. The kinase PKC-θ is crucial for function of Th2 and Th17. Moreover, PKC-θ can translocate itself to the nucleus and by phosphorylation of histones increases the accessibility of transcriptional-memory-responsive genes in memory T cells. PKC-θ plays a role in anti-tumor activity of NK cells. It was observed that in mice without PKC-θ, MHCI-deficient tumors are more often.
+
+
+=== The possible application of its inhibitors ===
+Properties of PKC-θ make PKC-θ a good target for therapy in order to reduce harmful inflammation mediated by Th17 (mediating autoimmune diseases) or by Th2 (causing allergies) without diminishing the ability of T cells to get rid of viral-infected cells. Inhibitors could be used in T-cell mediated adaptive immune responses. Inhibition of PKC-θ downregulates transcription factors (NF-κB, NF-AT) and cause lower production of IL-2. It was observed that animals without PKC-θ are resistant to some autoimmune diseases. PKC-θ could be a target of inhibitors in the therapy of allergies.
+The problem is that inhibitors of PKC-θ targeting catalytic sites may have toxic effects because of low specificity (catalytic sites among PKCs are very similar). Allosteric inhibitors have to be more specific to concrete isoforms of PKC. s.
+
+
+== Interactions ==
+PRKCQ has been shown to interact with:
+
+AKT1
+FYN,
+GLRX3,  and
+VAV1.
+PRKCQ has been shown to phosphorylate CARD11 as part of the NF-κB signaling pathway.
+
+
+== Inhibitors ==
+(R)-2-((S)-4-(3-Chloro-5-fluoro-6-(1H-pyrazolo[3,4-b]pyridin- 3-yl)pyridin-2-yl)piperazin-2-yl)-3-methylbutan-2-ol

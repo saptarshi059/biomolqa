@@ -1,0 +1,8 @@
+Voltage-dependent calcium channel subunit alpha-2/delta-1 is a protein that in humans is encoded by the CACNA2D1 gene.
+This gene encodes a member of the alpha-2/delta subunit family, a protein in the voltage-dependent calcium channel complex. Calcium channels mediate the influx of calcium ions into the cell upon membrane depolarization and consist of a complex of alpha-1, alpha-2/delta, beta, and gamma subunits in a 1:1:1:1 ratio. Research on a highly similar protein in rabbit suggests the protein described in this record is cleaved into alpha-2 and delta subunits. Alternate transcriptional splice variants of this gene have been observed, but have not been thoroughly characterized.
+In mammals, alpha-2/delta proteins exist in four subtypes coded by four separate but closely related genes, CACNA2D1, CACNA2D2, CACNA2D3 and CACNA2D4.
+Recently, alpha-2/delta1 proteins, in addition to calcium channels, have been found to interact directly with N-methyl-D-aspartate type glutamate receptors (NMDAR), AMPA type glutamate receptors (AMPAR) and the extracellular adhesion protein, thrombospondin.
+
+
+== Gabapentinoids ==
+Alpha-2/delta proteins are believed to be the molecular target of the gabapentinoids gabapentin and pregabalin, which are used to treat epilepsy and neuropathic pain. Only alpha-2/delta subtypes 1 and 2 (but not 3 and 4) are substrates for gabapentinoid drug binding.

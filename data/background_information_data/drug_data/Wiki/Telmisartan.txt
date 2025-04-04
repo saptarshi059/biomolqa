@@ -1,0 +1,46 @@
+Telmisartan, sold under the brand name Micardis among others, is a medication used to treat high blood pressure and heart failure. It is a reasonable initial treatment for high blood pressure. It is taken by mouth.
+Common side effects include upper respiratory tract infections, diarrhea, and back pain. Serious side effects may include kidney problems, low blood pressure, and angioedema. Use in pregnancy may harm the baby and use when breastfeeding is not recommended. It is an angiotensin II receptor blocker and works by blocking the effects of angiotensin II.
+Telmisartan was patented in 1991 and came into medical use in 1999. It is available as a generic medication. In 2022, it was the 228th most commonly prescribed medication in the United States, with more than 1 million prescriptions. It is available in combination with hydrochlorothiazide as telmisartan/hydrochlorothiazide; with cilnidipine as telmisartan/cilnidipine; and with amlodipine as telmisartan/amlodipine.
+
+
+== Medical uses ==
+Telmisartan is used to treat high blood pressure, heart failure, and diabetic kidney disease. It is a reasonable initial treatment for high blood pressure.: 146 
+
+
+== Contraindications ==
+Telmisartan is contraindicated during pregnancy. Telmisartan affects the renin–angiotensin system and can cause birth defects, stillbirths, and neonatal deaths. It is not known whether the medication passes into breast milk.
+
+
+== Side effects ==
+Side effects include tachycardia and bradycardia (fast or slow heartbeat), hypotension (low blood pressure) and edema (swelling of arms, legs, lips, tongue, or throat, the latter leading to breathing problems). Allergic reactions may also occur.
+
+
+== Interactions ==
+Due to its mechanism of action, telmisartan increases blood potassium levels. Combination with potassium preparations or potassium-sparing diuretics could cause hyperkalaemia (excessive potassium levels). Combination with NSAIDs, especially in patients with impaired kidney function, has a risk of causing (usually reversible) kidney failure.
+
+
+== Pharmacology ==
+
+
+=== Mechanism of action ===
+Telmisartan is an angiotensin II receptor blocker that shows high affinity for the angiotensin II receptor type 1 (AT1), with a binding affinity 3000 times greater for AT1 than AT2.
+
+In addition to blocking the renin–angiotensin system, telmisartan acts as a partial agonist of peroxisome proliferator-activated receptor gamma (PPAR-γ), a central regulator of insulin and glucose metabolism. It is believed that telmisartan's dual mode of action may provide protective benefits against the vascular and renal damage caused by diabetes and cardiovascular disease (CVD).: 171  As a partial agonist, it activates the receptor by 25–30%. Clinical trials have shown that telmisartan increases insulin sensitivity, reduces cardiac fibrosis and hypertrophy, and improves endothilial function; all these effects can be attributed to its activity on PPAR-γ. The kidney-protecting activity of telmisartan is attributed to both angiotensin II antagonism and improved endothelial function from PPAR-γ.
+Telmisartan's activity at the peroxisome proliferator-activated receptor delta (PPAR-δ) receptor has prompted speculation around its potential as a sport doping agent as an alternative to GW 501516. Telmisartan activates PPAR-δ receptors in several tissues. In mice, this results in effects such as enhanced endurance. However, telmisartan does not improve the walking performance (6-minute walk distance) in people with lower extremity peripheral artery disease.
+Telmisartan activates PPAR-α in vitro.
+
+
+=== Pharmacokinetics ===
+The substance is quickly but to varying degrees absorbed from the gut. The average bioavailability is about 50% (42–100%). Food intake has no clinically relevant influence on the kinetics of telmisartan. Plasma protein binding is over 99.5%, mainly to albumin and alpha-1-acid glycoprotein. It has the longest half-life of any angiotensin II receptor blocker (ARB) (24 hours) and the largest volume of distribution among ARBs (500 liters). Less than 3% of telmisartan is inactivated by glucuronidation in the liver, and over 97% is eliminated in unchanged form via bile and faeces.
+
+
+== History ==
+
+
+== Society and culture ==
+Telmisartan is available as a generic medication.
+
+
+== Research ==
+Telmisartan does not appear effective for slowing the growth of abdominal aortic aneurysm.
+Telmisartan does not cause rapid cancer growth like the PPAR-δ agonist GW 501516, but whether it causes a change in cancer rates is disputed. Short-term use is not associated with an increased incidence of cancer over other ARB drugs, according to a large 2016 analysis of UK patients. A 2022 meta-analysis finds that a longer duration of taking ARBs (including telmisartan) is associated with an increase in cancer rates. Patients who have taken an ARB for more than 3 years appears 11% more likely to develop cancer. A 2023 large-scale study on Lebanese patients finds that taking ARBs reduces the incidence of cancer, with greater effects on those who have taken the drug for a long time. A 2021 Korean study and a 2012 Japanese study finds similar results.

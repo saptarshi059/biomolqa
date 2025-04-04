@@ -1,0 +1,38 @@
+Miglustat, sold under the brand name Zavesca among others, is a medication used to treat type I Gaucher disease and Pompe disease.
+It was approved for medical use in the European Union in November 2002, and for medical use in the United States in July 2003.
+
+
+== Medical uses ==
+Miglustat is indicated to treat adults with mild to moderate type I Gaucher disease for whom enzyme replacement therapy is unsuitable. 
+In the European Union, miglustat (Opfolda), in combination with cipaglucosidase alfa, is a long-term enzyme replacement therapy in adults with late-onset Pompe disease (acid α‑glucosidase [GAA] deficiency).
+
+
+== Contraindications ==
+Miglustat is contraindicated for people with neurological conditions, kidney problems, women who are pregnant, and men and women planning to conceive a child.
+
+
+== Adverse effects ==
+Serious side effects include pain, burning, numbness or tingling in the hands, arms, legs, or feet; shaking hands that cannot be controlled; changes in vision; and easy bruising or bleeding.  Common side effects include gastrointestinal effects (including diarrhea, stomach pain or bloating, gas, loss of appetite, weight loss, upset stomach, vomiting, constipation), dry mouth, muscular effects (including weakness, muscle cramps, especially in the legs, feeling of heaviness in the arms or legs, unsteadiness when walking), back pain, dizziness, nervousness, headache, memory problems, and difficult or irregular menstruation (period).
+
+
+== Mechanism of action ==
+Type I Gaucher's disease is an autosomal recessive disorder; parents are generally healthy carriers with one functional and one mutated (nonfunctioning) copy of the Gaucher disease gene, GBA. People with type I Gaucher have a defect in the enzyme called glucocerebrosidase (also known as acid β-glucosidase).   Glucocerebrosidase is an enzyme, and its function is to convert glucocerebroside (also known as glucosylceramide) into ceramide and glucose.  When this enzyme doesn't work, glucocerebroside accumulates, which in turn causes liver and spleen enlargement, changes in the bone marrow and blood, and bone disease. Miglustat functions as a competitive and reversible inhibitor of the enzyme  glucosylceramide synthase,  the  initial  enzyme  in  a  series  of  reactions  which  results  in  the  synthesis  of  most glycosphingolipids.
+Earlier treatments on the market (imiglucerase (approved in 1995), velaglucerase (approved in 2010), taliglucerase alfa (Elelyso) (approved in 2012)) are enzyme replacement therapy—they are functioning versions of the enzyme that doesn't work. Miglustat, on the other hand, prevents the formation of the substance that builds up when the enzyme doesn't work; this is called substrate reduction therapy.
+
+
+== Chemistry ==
+Miglustat is an iminosugar, a synthetic analogue of D-glucose and a white to off-white crystalline solid that has a bitter taste.
+
+
+== Society and culture ==
+
+
+=== Legal status ===
+Miglustat has been approved in the EU, Canada, and Japan for treating progressive neurological complications in people with Niemann–Pick disease, type C (NPC).
+On 26 April 2023, the Committee for Medicinal Products for Human Use (CHMP) of the European Medicines Agency (EMA) adopted a positive opinion, recommending the granting of a marketing authorization for the medicinal product Opfolda, intended for the treatment of glycogen storage disease type II (Pompe disease) in combination with cipaglucosidase alfa. The applicant for this medicinal product is Amicus Therapeutics Europe Limited. Opfolda is a hybrid medicine of Zavesca which has been authorized in the EU since 2002. Opfolda contains the same active substance as Zavesca but in a lower strength. It is also authorized for a different indication and can only be used in combination with cipaglucosidase alfa. Miglustat (Opfolda) was approved for medical use in the European Union in June 2023.
+
+
+== Research ==
+In July 2004, Actelion started a clinical trial of miglustat to treat Tay–Sachs disease, particularly late-onset Tay–Sachs with an estimated enrollment of 10 subjects; the trial ended August 2007.
+In November 2007, Actelion initiated a clinical trial with miglustat in people with cystic fibrosis (CF) who have the ΔF508 in both copies of the cystic fibrosis transmembrane conductance regulator (CFTR) gene; the study ended in March 2008.  The cystic fibrosis trial showed no effect.
+N-butyldeoxynojirimycin interferes with the secretion of hepatitis B virus and reduces the infectivity of HIV virions, in the latter case by preventing proper folding of the gp160 precursor glycoprotein to cause a conformational defect in mature gp120, which interferes with the process of fusion with host membranes.

@@ -1,0 +1,40 @@
+The beta-3 adrenergic receptor (β3-adrenoceptor), also known as ADRB3, is a beta-adrenergic receptor, and also denotes the human gene encoding it.
+
+
+== Function ==
+Actions of the β3 receptor include
+
+Enhancement of lipolysis in adipose tissue.
+Thermogenesis in skeletal muscle
+It is located mainly in adipose tissue and is involved in the regulation of lipolysis and thermogenesis. Some β3 agonists have demonstrated antistress effects in animal studies, suggesting it also has a role in the central nervous system (CNS). β3 receptors are found in the gallbladder, urinary bladder, and in brown adipose tissue. Their role in gallbladder physiology is unknown, but they are thought to play a role in lipolysis and thermogenesis in brown fat. In the urinary bladder it is thought to cause relaxation of the bladder and prevention of urination.
+
+
+== Mechanism of action ==
+Beta adrenergic receptors are involved in the epinephrine- and norepinephrine-induced activation of adenylate cyclase through the action of the G proteins of the type Gs.
+
+
+== Ligands ==
+
+
+=== Agonists ===
+Amibegron (SR-58611A)
+BRL-37344
+CL-316,243
+L-742,791
+L-796,568
+LY-368,842
+Mirabegron (YM-178), approved for treatment of overactive bladder in Japan, United States, UK, Canada, China and India.
+Nebivolol selective beta(1)-blocker and beta(3)-agonist.
+Ro40-2148
+Solabegron (GW-427,353)
+Vibegron (MK-4618)
+
+
+=== Antagonists ===
+L-748,328
+L-748,337
+SR 59230A was thought to be a selective β3 antagonist but later found to also be an antagonist of the α1 receptor.
+
+
+== Interactions ==
+Beta-3 adrenergic receptor has been shown to interact with Src.

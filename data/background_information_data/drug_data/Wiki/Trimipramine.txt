@@ -1,0 +1,140 @@
+Trimipramine, sold under the brand name Surmontil among others, is a tricyclic antidepressant (TCA) which is used to treat depression. It has also been used for its sedative, anxiolytic, and weak antipsychotic effects in the treatment of insomnia, anxiety disorders, and psychosis, respectively. The drug is described as an atypical or "second-generation" TCA because, unlike other TCAs, it seems to be a fairly weak monoamine reuptake inhibitor. Similarly to other TCAs, however, trimipramine does have antihistamine, antiserotonergic, antiadrenergic, antidopaminergic, and anticholinergic activities.
+
+
+== Medical uses ==
+Trimipramine's primary use in medicine is in the treatment of major depressive disorder, especially where sedation is helpful due to its prominent sedative effects. The drug is also an effective anxiolytic, and can be used in the treatment of anxiety. In addition to depression and anxiety, trimipramine is effective in the treatment of insomnia, and unlike most other hypnotics, does not alter the normal sleep architecture. In particular, it does not suppress REM sleep, and dreams are said to "brighten" during treatment.
+Trimipramine also has some weak antipsychotic effects with a profile of activity described as similar to that of clozapine, and may be useful in the treatment of psychotic symptoms, such as in delusional depression, schizoaffective disorder or schizophrenia.
+A major systematic review and network meta-analysis of medications for the treatment of insomnia published in 2022 found that trimipramine had an effect size (standardized mean difference (SMD)) against placebo for treatment of insomnia at 4 weeks of 0.55 (95% CITooltip confidence interval –0.11 to 1.21). The certainty of evidence was rated as very low, and no data were available for longer-term treatment (3 months). For comparison, the other sedating antihistamines assessed, doxepin and doxylamine, had effect sizes (SMD) at 4 weeks of 0.30 (95% CI –0.05 to 0.64) (very low certainty evidence) and 0.47 (95% CI 0.06 to 0.89) (moderate certainty evidence), respectively.
+The effective dosage of trimipramine in depression is 150 to 300 mg/day. Doses of trimipramine used for insomnia range from 25 to 200 mg/day. However, it has been advised that doses be kept as low as possible, and a low dose of 25 mg/day has been recommended.
+
+
+== Contraindications ==
+Contraindications include:
+
+Recent myocardial infarction
+Any degree of heart block or other cardiac arrhythmias
+Mania
+Severe liver disease
+During breastfeeding
+Hypersensitivity to trimipramine or to any of the excipients
+
+
+== Side effects ==
+The side effects of trimipramine have been said to be similar to those of other tertiary amine TCAs, with a preponderance of anticholinergic and sedative effects. However, trimipramine has also been said to be associated with a different side effect profile compared to other TCAs and in general with fewer side effects, chiefly due to its lack of norepinephrine reuptake inhibition and relatively lower anticholinergic effects (although it is still a potent anticholinergic). Somnolence is the most common side effect of the drug. Dry mouth is the most common anticholinergic side effect, but others like constipation, urinary retention, and blurred vision are also present. Such effects, in any case, may be treated with bethanechol.
+It is described as being associated with minimal or no orthostatic hypotension, at least in comparison to clomipramine, in spite of its potent and comparable activity as an alpha-1 blocker. However, it has also been said to have a rate of orthostatic hypotension similar to that of other TCAs. Trimipramine is said to be less epileptogenic than other TCAs, although seizures have still been reported in association with it. It is also less cardiotoxic than other TCAs and cardiotoxicity is said to be minimal, with a "very favorable profile".
+Heavy exposure to any tricyclic antidepressants was associated with an elevated rate ratio for breast cancer 11–15 years later. However, on tests done on Drosophila melanogaster, nongenotoxic TCAs (amitriptyline, maprotiline, nortriptyline, and protriptyline), and  genotoxic TCAs (amoxapine, clomipramine, desipramine, doxepin, imipramine, and trimipramine) were identified.
+
+
+=== List of side effects ===
+Common adverse effects include:
+
+Adverse effects with an unknown incidence includes:
+
+Confusion
+Nausea
+Vomiting
+Extrapyramidal side effects (e.g. parkinsonism, dystonia, etc.)
+Tinnitus
+Paraesthesia
+ECG changes
+Increased liver function tests
+Rare adverse effects include:
+
+Seizures
+Syndrome of inappropriate secretion of antidiuretic hormone
+Blood dyscrasias including:
+Agranulocytosis
+Thrombocytopenia
+Eosinophilia
+Leukopenia
+Myocardial infarction
+Heart block
+QTc interval prolongation
+Sudden cardiac death
+Depression worsening
+Suicidal ideation
+
+
+== Overdose ==
+
+Compared to other TCAs, trimipramine is relatively safe in overdose, although it is more dangerous than the selective serotonin reuptake inhibitors (SSRIs) and serotonin–norepinephrine reuptake inhibitors (SNRIs) but less dangerous than bupropion in cases of overdose.
+
+
+== Interactions ==
+Trimipramine should not be given with sympathomimetic agents such as epinephrine (adrenaline), ephedrine, isoprenaline, norepinephrine (noradrenaline), phenylephrine and phenylpropanolamine.
+Barbiturates may increase the rate of metabolism. 
+Trimipramine should be administered with care in patients receiving therapy for hyperthyrodism.
+
+
+== Pharmacology ==
+
+
+=== Pharmacodynamics ===
+
+The mechanism of action of trimipramine in terms of its antidepressant effects differs from that of other TCAs and is not fully clear. The mechanism of action of its anxiolytic effects is similarly unclear. Trimipramine is a very weak reuptake inhibitor of serotonin, norepinephrine, and dopamine (see below), and unlike most other TCAs, has been claimed to be devoid of clinically significant monoamine reuptake inhibition. The effects of the drug are thought to be mainly due to receptor antagonism as follows:
+
+Very strong: H1
+Strong: 5-HT2A, α1-adrenergic
+Moderate: D2, mACh
+Weak: 5-HT2C, D1, α2-adrenergic
+In spite of its atypical nature and different profile of activity, trimipramine has been shown in head-to-head clinical studies to possess equivalent effectiveness to other antidepressants, including but not limited to other TCAs (e.g., amitriptyline, imipramine, doxepin, amineptine), tetracyclic antidepressants (TeCAs) (e.g., maprotiline), monoamine oxidase inhibitors (MAOIs) (e.g., phenelzine, isocarboxazid), and selective serotonin reuptake inhibitors (e.g., fluoxetine). In addition, trimipramine has been found to possess greater anxiolytic effects than other TCAs such as amitriptyline and doxepin in head-to-head comparisons. Indeed, its prominent anxiolytic effects have been said to distinguish it from most other TCAs. The atypicality of trimipramine in relation to its lack of monoamine reuptake inhibition is described as challenging the monoamine hypothesis of depression.
+The major metabolite of trimipramine, desmethyltrimipramine, is considered to possess pharmacological activity similar to that of other demethylated tertiary amine TCA variants.
+
+
+==== Monoamine reuptake inhibition ====
+
+Studies have generally found only very weak inhibition of serotonin and norepinephrine reuptake with trimipramine, and the drug has been described by various authors as devoid of monoamine reuptake inhibition. Richelson & Pfenning (1984) found a relatively high Ki for the NET of 510 nM in rat brain synaptosomes and Tatsumi et al. (1997) found a relatively high KD of 149 nM for the SERT in human HEK293 cells, but other authors and a more recent study with an improved design have not had the same findings. In the most recent study, by Haenisch et al. (2011), the researchers suggested that the discrepant findings from the Tatsumi et al. study were due to methodological differences, in particular the use of radioligand binding in isolated membranes (KD) to study interactions as opposed to actual functional reuptake inhibition (IC50).
+
+Trimipramine is extensively metabolized, so its metabolites may contribute to its pharmacology, including potentially to monoamine reuptake inhibition. In what was the only study to date to have assessed the activity profiles of the metabolites of trimipramine, Haenisch et al. (2011) assayed desmethyltrimipramine, 2-hydroxytrimipramine, and trimipramine-N-oxide in addition to trimipramine and found that these metabolites showed IC50 values for the SERT, NET, and DAT similar to those of trimipramine (see table to the right). Like other secondary amine TCAs, desmethyltrimipramine was slightly more potent than trimipramine in its norepinephrine reuptake inhibition but less potent in its inhibition of serotonin reuptake. However, desmethyltrimipramine still showed only very weak inhibition of the NET.
+Therapeutic concentrations of trimipramine are between 0.5 and 1.2 μM (150–350 ng/mL) and hence significant monoamine reuptake inhibition would not be expected with it or its metabolites. However, these concentrations are nearly 2-fold higher if the active metabolites of trimipramine are also considered, and studies of other TCAs have found that they cross the blood–brain barrier and accumulate in the brain to levels of up to 10-fold those in the periphery. As such, trimipramine and its metabolites might at least partially inhibit reuptake of serotonin and/or norepinephrine, though not of dopamine, at therapeutic concentrations, and this could be hypothesized to contribute at least in part to its antidepressant effects. This is relevant as Haenisch et al. has stated that these are the only actions known at present which could explain or at least contribute to the antidepressant effects of trimipramine. That said, blockade of the 5-HT2A, 5-HT2C, and α2-adrenergic receptors, as with mirtazapine, has also been implicated in antidepressant effects.
+In any case, there is also clinical and animal evidence that trimipramine does not inhibit the reuptake of monoamines. Unlike other TCAs, it does not downregulate β3-adrenergic receptors, which is likely the reason that it does not cause orthostatic hypotension. It can be safely combined with MAOIs apparently without risk of serotonin syndrome or hypertensive crisis. Indeed, in rabbits, whereas hyperpyrexia (a symptom of serotonin syndrome) occurs with imipramine and an MAOI and to a lesser extent with amitriptyline and an MAOI, it does not occur at all with trimipramine and an MAOI, likely due to trimipramine's lack of serotonin reuptake inhibition.
+
+
+==== Antihistamine activity ====
+
+Trimipramine is a very potent antihistamine; it has the third highest affinity for the H1 receptor (Ki = 0.27 nM) after mirtazapine (Ki = 0.14 nM) and doxepin (Ki = 0.24 nM) among the TCAs and tetracyclic antidepressants (TeCAs). The TeCA mianserin (Ki = 0.40) and the TCA amitriptyline (Ki = 1.0) are also very potent H1 receptor antagonists, whereas other TCAs and TeCAs are less potent. These TCAs and TeCAs, including trimipramine, are far more potent than the standard antihistamine diphenhydramine (approximately 800 times for doxepin and 250 times for trimipramine), and are among the most potent antihistamines available.
+Trimipramine is also an antagonist of the H2 receptor with lower potency and has been found to be effective in the treatment of duodenal ulcers.
+
+
+==== As a hypnotic ====
+Blockade of the H1 receptor is responsible for the sedative effects of trimipramine and other TCAs and their effectiveness in the treatment of insomnia.
+Most antidepressants suppress REM sleep, in parallel with their alleviation of depressive symptoms (although suppression of REM sleep is not required for antidepressant effects). This includes TCAs (e.g., amitriptyline, nortriptyline), TeCAs (e.g., mianserin, maprotiline), MAOIs (e.g., clorgiline, pargyline), and SSRIs (e.g., fluoxetine, zimelidine, indalpine). Trimipramine is unique in that it is an exception and produces antidepressant effects without compromising or otherwise affecting REM sleep. Even long-term treatment with trimipramine for up to 2 years has not been found to suppress REM sleep. In addition, trimipramine has been found to decrease nocturnal cortisol levels to normal and to normalize cortisol response in depressed patients; hence, it normalizes the hypothalamic–pituitary–adrenal axis, whereas imipramine and other antidepressants tend to increase nocturnal cortisol secretion.
+In clinical studies, trimipramine has been found in doses of 50 to 200 mg/day to significantly increase sleep efficiency and total sleep time and to decrease waking time for up to 3 weeks in patients with insomnia. It also improved subjectively perceived sleep quality and well-being during daytime. Monitoring of patients upon discontinuation of trimipramine found that it did not cause rebound insomnia or worsening of sleep quality in subjective evaluations of sleep, although objective measurements found total sleep time below baseline in a subset of patients during trimipramine withdrawal.
+
+
+==== Antidopaminergic activity ====
+
+Trimipramine is a weak but significant antagonist of the dopamine D1 and D2 receptors, and also binds to the D4 receptor (Ki = 275 nM). Its affinities for various monoamine receptors including the D2 and 5-HT2A receptors closely resemble those of the atypical antipsychotic clozapine. In accordance, high doses of trimipramine have been found to have antipsychotic effects in schizophrenic patients, notably without causing extrapyramidal symptoms, and trimipramine has recently been found to be effective in reducing psychotic symptoms in patients with delusional depression. The lack of extrapyramidal symptoms with trimipramine may be related to its affinity for the D4 receptor, these both being properties it shares with clozapine. Unlike other TCAs, but reminiscent of antipsychotics, trimipramine has been found to markedly increase plasma prolactin levels (a marker of D2 receptor antagonism) at a dose of 75 mg/day and to increase nocturnal prolactin secretion at doses of 75 and 200 mg/day. These findings are suggestive of important antidopaminergic actions of trimipramine.
+Unlike various other TCAs, trimipramine shows marked antagonism of presynaptic dopamine autoreceptors, potentially resulting in increased dopaminergic neurotransmission. This effect has also been observed with low-potency tricyclic antipsychotics like thioridazine and chlorprothixene. Notably, these two antipsychotics have been claimed many times to also possess antidepressant effects. As such, blockade of inhibitory dopamine autoreceptors and hence facilitation of dopaminergic signaling could be involved in the antidepressant effects of trimipramine. However, other authors have attributed the claimed antidepressant effects of antipsychotics like the two previously mentioned to α2-adrenergic receptor antagonism, although trimipramine specifically has only weak affinity for this receptor. Aside from antidepressant effects, low doses of antipsychotics have been found to increase REM sleep, and so dopamine autoreceptor antagonism could be involved in the unique effects of trimipramine in terms of REM sleep and sleep architecture.
+
+
+=== Pharmacokinetics ===
+The time to peak concentrations following a dose is 2 to 4 hours. The typical antidepressant therapeutic range of trimipramine concentrations is 150 to 300 ng/mL. The terminal half-life of trimipramine has been variously reported to be as little as 8 hours (in plasma) and as long as 24 hours. In any case, the terminal half-life of trimipramine is described as shorter than that of other TCAs, which makes it ideal for use in the treatment of insomnia.
+Trimipramine is a racemic compound with two enantiomers.[1] CYP2C19 is responsible for the demethylation of (D)- and (L)-trimipramine to (D)- (L)-desmethyltrimipramine, respectively, and CYP2D6 is responsible for the 2-hydroxylation of (D)- and (L)-desmethyltrimipramine to (D)- and (L)-2-hydroxydesmethyltrimipramine, respectively. CYP2D6 also metabolizes (L)-trimipramine into (L)-2-hydroxytrimipramine.
+
+
+== Chemistry ==
+Trimipramine is a tricyclic compound, specifically a dibenzazepine, and possesses three rings fused together with a side chain attached in its chemical structure. Other dibenzazepine TCAs include imipramine, desipramine, and clomipramine. Trimipramine is a derivative of imipramine with a methyl group added to its side chain and is also known as 2'-methylimipramine or β-methylimipramine. The tri- prefix in its name may allude to the fact that its side chain features three methyl groups. Trimipramine is a tertiary amine TCA, with its side chain-demethylated metabolite desmethyltrimipramine being a secondary amine. Other tertiary amine TCAs include amitriptyline, imipramine, clomipramine, dosulepin (dothiepin), and doxepin. The chemical name of trimipramine is 3-(10,11-dihydro-5H-dibenzo[b,f]azepin-5-yl)-N,N,2-trimethylpropan-1-amine and its free base form has a chemical formula of C20H26N2 with a molecular weight of 294.434 g/mol. The drug is used commercially as the maleate salt. The CAS Registry Number of the free base is 739-71-9 and of the maleate is 521-78-8.
+
+
+== History ==
+Trimipramine was developed by Rhône-Poulenc. It was patented in 1959 and first appeared in the literature in 1961. The drug was first introduced for medical use in 1966, in Europe. It was not introduced in the United States until later in 1979 or 1980.
+
+
+== Society and culture ==
+
+
+=== Generic names ===
+Trimipramine is the generic name of the drug and its INNTooltip International Nonproprietary Name, USANTooltip United States Adopted Name, BANTooltip British Approved Name, and DCFTooltip Dénomination Commune Française, while trimipramine maleate is its USANTooltip United States Adopted Name, USPTooltip United States Pharmacopeia, BANMTooltip British Approved Name, and JANTooltip Japanese Accepted Name. Its generic name in Latin is trimipraminum, in German is trimipramin, and in Spanish is trimipramina.
+
+
+=== Brand names ===
+Trimipramine is marketed throughout the world mainly under the brand name Surmontil. Other notable brand names of trimipramine have included Herphonal, Rhotrimine, Sapilent, Stangyl, and Tydamine.
+
+
+=== Availability ===
+Trimipramine is no longer marketed in Australia, though it was previously.
+
+
+=== In film ===
+The sedative effects of Trimipramine in off-prescription, recreational use are described in the 1987 film Withnail and I where the eponymous character declares "This is the plan. We get in there and get wrecked, then we'll eat a pork pie, then we'll drop a couple of Surmontil-50's each. That means we'll miss out Monday but come up smiling Tuesday morning."

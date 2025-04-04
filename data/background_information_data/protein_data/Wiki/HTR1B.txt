@@ -1,0 +1,33 @@
+5-hydroxytryptamine receptor 1B  also known as the 5-HT1B receptor is a protein that in humans is encoded by the HTR1B gene. The 5-HT1B receptor is a 5-HT receptor subtype.
+
+
+== Tissue distribution and function ==
+5-HT1B receptors are widely distributed throughout the central nervous system with the highest concentrations found in the frontal cortex, basal ganglia, striatum, and the hippocampus.
+The function of the 5-HT1B receptor differs depending upon its location.  In the frontal cortex, it is believed to act as a terminal receptor inhibiting the release of dopamine.  In the basal ganglia and the striatum, evidence suggests 5-HT signaling acts on an autoreceptor, inhibiting the release of serotonin and decreasing glutamatergic transmission by reducing miniature excitatory postsynaptic potential (mEPSP) frequency, respectively.  In the hippocampus, a recent study has demonstrated that activation of postsynaptic 5-HT1B heteroreceptors produces a facilitation in excitatory synaptic transmission which is altered in depression.
+When the expression of 5-HT1B in human cortex was traced throughout life, significant changes during adolescence were observed, in a way that is strongly correlated with the expression of 5-HT1E.
+Outside of the CNS, the 5-HT1B receptor is also expressed on the endothelium of blood vessels, particularly in the meninges. Activation of these receptors results in vasoconstriction. The high distribution of vasoconstrictive 5-HT1B and 5-HT1D receptors around the brain makes them a valuable drug target for the treatment of migraines.
+Blocking 5-HT1B receptor signalling also increases the number of osteoblasts, bone mass, and the bone formation rate.
+Knockout mice lacking the 5-HT1B gene have been reported to have a higher preference for alcohol, although later studies failed to replicate such abnormalities in alcohol consumption. These mice have also been reported to have a lower measure of anxiety (such as on the elevated plus maze test) and a higher measure of aggression. 
+Under basal conditions, knockout mice present with a "normal" phenotype and exhibit a sucrose preference (lack of sucrose preference is considered a measure of anhedonia). However, after undergoing chronic unpredictable stress treatment to induce a "depression-like" phenotype these animals do not benefit from administration of selective serotonin reuptake inhibitor (SSRIs).
+Activation of the serotonin 5-HT1B receptor appears to mediate the prosocial effects of entactogens acting as serotonin releasing agents like MDMA in animals. In addition, serotonin 5-HT1B receptor activation appears to mediate the locomotor hyperactivity of these agents. The serotonin 5-HT1B receptor also appears to be required for the persisting antidepressant- and anxiolytic-like effects as well as acute hypolocomotion of the serotonergic psychedelic and non-selective serotonin receptor agonist psilocybin in animals.
+
+
+== Ligands ==
+
+
+=== Agonists ===
+
+
+=== Partial agonists ===
+
+
+=== Antagonists and inverse agonists ===
+
+
+=== Unknown ===
+Dextromethorphan
+
+
+== Genetics ==
+In humans the protein is coded by the gene HTR1B.
+A genetic variant in the promoter region, A-161T, has been examined with respect to personality traits and showed no major effect.

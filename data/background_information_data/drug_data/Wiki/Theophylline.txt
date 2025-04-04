@@ -1,0 +1,85 @@
+Theophylline, also known as 1,3-dimethylxanthine, is a drug that inhibits phosphodiesterase and blocks adenosine receptors. It is used to treat chronic obstructive pulmonary disease (COPD) and asthma. Its pharmacology is similar to other methylxanthine drugs (e.g., theobromine and caffeine). Trace amounts of theophylline are naturally present in tea, coffee, chocolate, yerba maté, guarana, and kola nut.
+The name 'theophylline' derives from "Thea"—the former genus name for tea + Legacy Greek φύλλον (phúllon, "leaf") + -ine.
+
+
+== Medical uses ==
+The main actions of theophylline involve:
+
+relaxing bronchial smooth muscle
+increasing heart muscle contractility and efficiency (positive inotrope)
+increasing heart rate (positive chronotropic)
+increasing blood pressure
+increasing renal blood flow
+anti-inflammatory effects
+central nervous system stimulatory effect, mainly on the medullary respiratory center
+The main therapeutic uses of theophylline are for treating:
+
+Chronic obstructive pulmonary disease (COPD)
+Asthma
+infant apnea
+Blocks the action of adenosine; an inhibitory neurotransmitter that induces sleep, contracts the smooth muscles and relaxes the cardiac muscle.
+Treatment of post-dural puncture headache.
+
+
+== Performance enhancement in sports ==
+Theophylline and other methylxanthines are often used for their performance-enhancing effects in sports, as these drugs increase alertness, bronchodilation, and increase the rate and force of heart contraction. There is conflicting information about the value of theophylline and other methylxanthines as prophylaxis against  exercise-induced asthma.
+
+
+== Adverse effects ==
+The use of theophylline is complicated by its interaction with various drugs and by the fact that it has a narrow therapeutic window (<20 mcg/mL). Its use must be monitored by direct measurement of serum theophylline levels to avoid toxicity. It can also cause nausea, diarrhea, increase in heart rate, abnormal heart rhythms, and CNS excitation (headaches, insomnia, irritability, dizziness and lightheadedness). Seizures can also occur in severe cases of toxicity, and are considered to be a neurological emergency. 
+Its toxicity is increased by erythromycin, cimetidine, and fluoroquinolones, such as ciprofloxacin. Some lipid-based formulations of theophylline can result in toxic theophylline levels when taken with fatty meals, an effect called dose dumping, but this does not occur with most formulations of theophylline. Theophylline toxicity can be treated with beta blockers. In addition to seizures, tachyarrhythmias are a major concern. Theophylline should not be used in combination with the SSRI fluvoxamine.
+
+
+== Spectroscopy ==
+
+
+=== UV-visible ===
+Theophylline is soluble in 0.1N NaOH and absorbs maximally at 277 nm with an extinction coefficient of 10,200 (cm−1 M−1).
+
+
+=== Proton NMR ===
+The characteristic signals, distinguishing theophylline from related methylxanthines, are approximately 3.23δ and 3.41δ, corresponding to the unique methylation possessed by theophylline. The remaining proton signal, at 8.01δ, corresponds to the proton on the imidazole ring, not transferred between the nitrogen. The transferred proton between the nitrogen is a variable proton and only exhibits a signal under certain conditions.
+
+
+=== 13C-NMR ===
+The unique methylation of theophylline corresponds to the following signals: 27.7δ and 29.9δ. The remaining signals correspond to carbons characteristic of the xanthine backbone.
+
+
+== Natural occurrences ==
+Theophylline is naturally found in cocoa beans. Amounts as high as 3.7 mg/g have been reported in Criollo cocoa beans.
+Trace amounts of theophylline are also found in brewed tea, although brewed tea provides only about 1 mg/L, which is significantly less than a therapeutic dose.
+Trace amounts of theophylline are also found in guarana (Paullinia cupana) and in kola nuts.
+
+
+== Pharmacology ==
+
+
+=== Pharmacodynamics ===
+Like other methylated xanthine derivatives, theophylline is both a
+
+competitive nonselective phosphodiesterase inhibitor which increases intracellular levels of cAMP and cGMP, activates PKA, inhibits TNF-alpha and inhibits leukotriene synthesis, and reduces inflammation and innate immunity
+nonselective adenosine receptor antagonist, antagonizing A1, A2, and A3 receptors almost equally, which explains many of its cardiac effects. Theophylline activates histone deacetylases.
+
+
+=== Pharmacokinetics ===
+
+
+==== Absorption ====
+When theophylline is administered intravenously, bioavailability is 100%.
+
+
+==== Distribution ====
+Theophylline is distributed in the extracellular fluid, in the placenta, in the mother's milk and in the central nervous system. The volume of distribution is 0.5 L/kg. The protein binding is 40%.
+
+
+==== Metabolism ====
+Theophylline is metabolized extensively in the liver. It undergoes N-demethylation via cytochrome P450 1A2. It is metabolized by parallel first order and Michaelis-Menten pathways. Metabolism may become saturated (non-linear), even within the therapeutic range. Small dose increases may result in disproportionately large increases in serum concentration. Methylation to caffeine is also important in the infant population. Smokers and people with hepatic (liver) impairment metabolize it differently. Cigarette and marijuana smoking induces metabolism of theophylline, increasing the drug's metabolic clearance.
+
+
+==== Excretion ====
+Theophylline is excreted unchanged in the urine (up to 10%). Clearance of the drug is increased in children (age 1 to 12), teenagers (12 to 16), adult smokers, elderly smokers, as well as in cystic fibrosis, and hyperthyroidism. Clearance of the drug is decreased in these conditions: elderly, acute congestive heart failure, cirrhosis, hypothyroidism and febrile viral illnesses.
+The elimination half-life varies: 30 hours for premature neonates, 24 hours for neonates, 3.5 hours for children ages 1 to 9, 8 hours for adult non-smokers, 5 hours for adult smokers, 24 hours for those with hepatic impairment, 12 hours for those with congestive heart failure NYHA class I-II, 24 hours for those with congestive heart failure NYHA class III-IV, 12 hours for the elderly.
+
+
+== History ==
+Theophylline was first extracted from tea leaves and chemically identified around 1888 by the German biologist Albrecht Kossel. Seven years later, a chemical synthesis starting with 1,3-dimethyluric acid was described by Emil Fischer and Lorenz Ach. The Traube purine synthesis, an alternative method to synthesize theophylline, was introduced in 1900 by another German scientist, Wilhelm Traube. Theophylline's first clinical use came in 1902 as a diuretic. It took an additional 20 years until it was first reported as an asthma treatment. The drug was prescribed in a syrup up to the 1970s as Theostat 20 and Theostat 80, and by the early 1980s in a tablet form called Quibron.

@@ -1,0 +1,21 @@
+Glycogen synthase kinase-3 beta, (GSK-3 beta), is an enzyme that in humans is encoded by the GSK3B gene.  In mice, the enzyme is encoded by the Gsk3b gene. Abnormal regulation and expression of GSK-3 beta is associated with an increased susceptibility towards bipolar disorder.
+
+
+== Function ==
+Glycogen synthase kinase-3 (GSK-3) is a proline-directed serine-threonine kinase that was initially identified as a phosphorylating and an inactivating agent of glycogen synthase. Two isoforms, alpha (GSK3A) and beta, show a high degree of amino acid homology.  GSK3B is involved in energy metabolism, neuronal cell development, and body pattern formation. It might be a new therapeutic target for ischemic stroke.
+
+
+== Disease relevance ==
+Homozygous disruption of the Gsk3b locus in mice results in embryonic lethality during mid-gestation.  This lethality phenotype could be rescued by inhibition of tumor necrosis factor.
+Two SNPs at this gene, rs334558 (-50T/C) and rs3755557 (-1727A/T), are associated with efficacy of lithium treatment in bipolar disorder.
+
+
+== Signaling pathways ==
+Pharmacological inhibition of ERK1/2 restores GSK-3 beta activity and protein synthesis levels in a model of tuberous sclerosis.
+
+
+== Interactions ==
+GSK3B has been shown to interact with:
+
+KIAA1211L
+ATP2A2

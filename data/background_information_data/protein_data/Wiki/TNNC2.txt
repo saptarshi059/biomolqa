@@ -1,0 +1,2 @@
+Troponin C, skeletal muscle is a protein that in humans is encoded by the TNNC2 gene.
+Troponin (Tn), is a key protein complex in the regulation of striated muscle contraction,  composed of three subunits. The TnI subunit inhibits actomyosin ATPase, the TnT subunit binds tropomyosin and TnC, while the TnC subunit binds calcium and overcomes the inhibitory action of the troponin complex on actin thin filaments. The protein encoded by the TNNC2 gene is the TnC subunit.

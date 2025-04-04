@@ -1,0 +1,64 @@
+Midodrine, sold under the brand names ProAmatine and Orvaten among others, is an antihypotensive medication used to treat orthostatic hypotension (low blood pressure when standing) and urinary incontinence. It is taken by mouth.
+Side effects of midodrine include hypertension (high blood pressure), paresthesia, itching, goosebumps, chills, urinary urgency, urinary retention, and urinary frequency. Midodrine is a prodrug of its active metabolite desglymidodrine. This metabolite acts as a selective agonist of the α1-adrenergic receptor. This in turn results in vasoconstriction and increased blood pressure.
+Midodrine was discovered by 1971 and was introduced for medical use in the United States in 1996.
+
+
+== Medical uses ==
+Midodrine is indicated for the treatment of symptomatic orthostatic hypotension. It can reduce dizziness and faints by about a third, but can be limited by troublesome goose bumps, skin itch, gastrointestinal discomfort, chills, elevated blood pressure while lying down, and urinary retention. A meta-analysis of clinical trials of midodrine or droxidopa in patients with low blood pressure when standing found that midodrine increased standing blood pressure more than droxidopa but that midodrine but not droxidopa increased the risk of high blood pressure when lying down. Small studies have also shown that midodrine can be used to prevent excessive drops in blood pressure in people requiring dialysis.
+Midodrine has been used in the complications of cirrhosis. It is also used with octreotide for hepatorenal syndrome; the proposed mechanism is constriction of splanchnic vessels and dilation of renal vasculature. Studies have not been sufficiently well conducted to show a clear place for midodrine.
+Midodrine is used off-label to increase blood pressure in the treatment of postural orthostatic tachycardia syndrome (POTS) where increased transduction of venous alpha 1 adrenergic receptors increases venous return.
+
+
+=== Available forms ===
+Midodrine is available in the form of 2.5, 5, and 10 mg oral tablets.
+
+
+== Contraindications ==
+Midodrine is contraindicated in patients with severe organic heart disease, acute kidney disease, urinary retention, pheochromocytoma or thyrotoxicosis. Midodrine should not be used in patients with persistent and excessive supine hypertension.
+
+
+== Side effects ==
+Headache, feeling of pressure or fullness in the head, vasodilation or flushing face, scalp tingling, confusion or thinking abnormality, dry mouth, anxiety, and rash, among others.
+
+
+== Pharmacology ==
+
+
+=== Mechanism of action ===
+Midodrine is a prodrug which forms the active metabolite, desglymidodrine, which is an α1-adrenergic receptor agonist and exerts its actions via activation of α1-adrenergic receptors of the arteriolar and venous vasculature, producing an increase in vascular tone and elevation of blood pressure. Desglymidodrine does not stimulate cardiac β-adrenergic receptors.
+
+
+=== Pharmacokinetics ===
+After oral administration, midodrine is rapidly absorbed. The plasma levels of the prodrug peak after about half an hour, and decline with a half-life of approximately 25 minutes, while the metabolite reaches peak blood concentrations about 1 to 2 hours after a dose of midodrine and has a half-life of about 3 to 4 hours. The absolute bioavailability of midodrine (measured as desglymidodrine) is 93%.
+Midodrine and desglymidodrine diffuse poorly across the blood–brain barrier and are therefore peripherally selective and are not associated with effects in the central nervous system.
+Neither midodrine nor desglymidodrine are substrates of monoamine oxidase.
+
+
+== Chemistry ==
+Midodrine, also known as 3,6-dimethoxy-β-hydroxy-N-aminoethanonyl-2-phenylethylamine, is a substituted phenethylamine derivative.
+Midodrine is an odorless, white, crystalline powder, soluble in water and sparingly soluble in methanol.
+Midodrine's experimental log P is -0.5 and its predicted log P ranges from -0.49 to -0.95. The predicted log P of its active metabolite desglymidodrine ranges from -0.01 to 0.15.
+
+
+=== Stereochemistry ===
+Midodrine contains a stereocenter and consists of two enantiomers, making it a racemate; i.e., a 1:1 mixture of (R)- and (S)-forms:
+
+
+=== Synthesis ===
+Acylation of 1,4-dimethoxybenzene with chloroacetyl chloride gives the chloroketone 2. The halogen is then converted to the amine 3 by any set of standard schemes, and the ketone reduced to an alcohol with borohydride (4). Acylation of the amino group in this last intermediate with chloroacetyl chloride affords the amide 5. The halogen is then displaced with azide and the resulting product 6 reduced catalytically to the glycinamide, midodrine (7).
+
+
+== History ==
+Midodrine was discovered by 1971. It was approved in the United States by the Food and Drug Administration (FDA) in 1996 for the treatment of dysautonomia and orthostatic hypotension.
+In August 2010, the FDA proposed withdrawing this approval because the manufacturer, Shire plc, failed to complete required studies after the medicine reached the market. In September 2010, the FDA reversed its decision to remove midodrine from the market and allowed it to remain available to patients while Shire plc collected further data regarding the efficacy and safety of the drug. Shire announced on September 22, 2011, that it was withdrawing completely from supplying midodrine. Midodrine remains available as a generic drug.
+
+
+== Society and culture ==
+
+
+=== Names ===
+Midodrine is the generic name of the drug and its INNTooltip International Nonproprietary Name, BANTooltip British Approved Name, and DCFTooltip Dénomination Commune Française, while its DCITTooltip Denominazione Comune Italiana is midodrina. In the case of the hydrochloride salt, its generic name is midodrine hydrochloride and this is its USANTooltip United States Adopted Name, BANMTooltip British Approved Name, and JANTooltip Japanese Accepted Name. The drug is also known by its developmental code names ST-1085 and TS-701. Midodrine has been sold under brand names including Amatine, Gutron, Midamine, Midon, and ProAmatine, among others.
+
+
+== Research ==
+Midodrine was under development for the treatment of chronic fatigue syndrome, but no recent development for this indication has been reported.

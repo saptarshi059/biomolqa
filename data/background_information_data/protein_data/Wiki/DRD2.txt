@@ -1,0 +1,83 @@
+Dopamine receptor D2, also known as D2R, is a protein that, in humans, is encoded by the DRD2 gene. After work from Paul Greengard's lab had suggested that dopamine receptors were the site of action of antipsychotic drugs, several groups, including those of Solomon H. Snyder and Philip Seeman used a radiolabeled antipsychotic drug to identify what is now known as the dopamine D2 receptor. The dopamine D2 receptor is the main receptor for most antipsychotic drugs.  The structure of DRD2 in complex with the atypical antipsychotic risperidone has been determined.
+
+
+== Function ==
+D2 receptors are coupled to Gi subtype of G protein. This G protein-coupled receptor inhibits adenylyl cyclase activity.
+In mice, regulation of D2R surface expression by the neuronal calcium sensor-1 (NCS-1) in the dentate gyrus is involved in exploration, synaptic plasticity and memory formation. Studies have shown potential roles for D2R in retrieval of fear memories in the prelimbic cortex and in discrimination learning in the nucleus accumbens.
+In flies, activation of the D2 autoreceptor protected dopamine neurons from cell death induced by MPP+, a toxin mimicking Parkinson's disease pathology.
+While optimal dopamine levels favor D1R cognitive stabilization, it is the D2R that mediates the cognitive flexibility in humans.
+
+
+== Isoforms ==
+Alternative splicing of this gene results in three transcript variants encoding different isoforms.
+The long form (D2Lh) has the "canonical" sequence and functions as a classic post-synaptic receptor. The short form (D2Sh) is pre-synaptic and functions as an autoreceptor that regulates the levels of dopamine in the synaptic cleft. Agonism of D2sh receptors inhibits dopamine release; antagonism increases dopaminergic release. A third D2(Longer) form differs from the canonical sequence where 270V is replaced by VVQ.
+
+
+== Active and inactive forms ==
+D2R conformers are equilibrated between two full active (D2HighR) and inactive (D2LowR) states, while in complex with an agonist and antagonist ligand, respectively.
+The monomeric inactive conformer of D2R in binding with risperidone was reported in 2018 (PDB ID: 6CM4). However, the active form which is generally bound to an agonist, is not available yet and in most of the studies the homology modeling of the structure is implemented. The difference between the active and inactive of G protein-coupled receptor is mainly observed as conformational changes at the cytoplasmic half of the structure, particularly at the transmembrane domains (TM) 5 and 6. The conformational transitions occurred at the cytoplasmic ends are due to the coupling of G protein to the cytoplasmic loop between the TM 5 and 6.
+It was observed that either D2R agonist or antagonist ligands revealed better binding affinities inside the ligand-binding domain of the active D2R in comparison with the inactive state. It demonstrated that ligand-binding domain of D2R is affected by the conformational changes occurring at the cytoplasmic domains of the TM 5 and 6. In consequence, the D2R activation reflects a positive cooperation on the ligand-binding domain.
+In drug discovery studies in order to calculate the binding affinities of the D2R ligands inside the binding domain, it's important to work on which form of D2R. It's known that the full active and inactive states are recommended to be used for the agonist and antagonist studies, respectively.
+Any disordering in equilibration of D2R states, which causes problems in signal transferring between the nervous systems, may lead to diverse serious disorders, such as schizophrenia, autism and Parkinson's disease. In order to assist in the management of these conditions, equilibration between the D2R states is controlled by implementing of agonist and antagonist D2R ligands. In most cases, it was observed that the problems regarding the D2R states may have genetic roots and are controlled by drug therapies. So far, there is no certain treatment for these mental disorders.
+
+
+== Allosteric pocket and orthosteric pocket ==
+There is an orthosteric binding site (OBS), as well as a secondary binding pocket (SBP) on the dopamine 2 receptor, and interaction with the SBP is a requirement for allosteric pharmacology. The compound SB269652 is a negative allosteric modulator of the D2R.
+
+
+== Oligomerization of D2R ==
+It was observed that D2R exists in dimeric forms or higher order oligomers. There are some experimental and molecular modeling evidences that demonstrated the D2R monomers cross link from their TM 4 and TM 5 to form dimeric conformers.
+
+
+== Genetics ==
+Allelic variants:
+
+A-241G
+C132T, G423A, T765C, C939T, C957T, and G1101A
+Cys311Ser
+-141C insertion/deletion The polymorphisms have been investigated with respect to association with schizophrenia.
+Some researchers have previously associated the polymorphism Taq 1A (rs1800497) to the DRD2 gene.
+However, the polymorphism resides in exon 8 of the ANKK1 gene. DRD2 TaqIA polymorphism has been reported to be associated with an increased risk for developing motor
+fluctuations but not hallucinations in Parkinson's disease. A splice variant in Dopamine receptor D2(rs1076560) was found to be associated with limb truncal tardive dyskinesia and diminished expression factor of Positive and Negative Syndrome Scale (PANSS) in schizophrenia subjects.
+
+
+== Ligands ==
+Most of the older antipsychotic drugs such as chlorpromazine and haloperidol are antagonists for the dopamine D2 receptor, but are, in general, very unselective, at best selective only for the "D2-like family" receptors and so binding to D2, D3 and D4, and often also to many other receptors such as those for serotonin and histamine, resulting in a range of side-effects and making them poor agents for scientific research. In similar manner, older dopamine agonists used for Parkinson's disease such as bromocriptine and cabergoline are poorly selective for one dopamine receptor over another, and, although most of these agents do act as D2 agonists, they affect other subtypes as well. Several selective D2 ligands are, however, now available, and this number is likely to increase as further research progresses.
+
+
+=== Agonists ===
+
+
+=== Partial agonists ===
+
+
+=== Antagonists ===
+
+
+=== Allosteric modulators ===
+
+
+=== Heterobivalent ligands ===
+1-(6-(((R,S)-7-Hydroxychroman-2-yl)methylamino]hexyl)-3-((S)-1-methylpyrrolidin-2-yl)pyridinium bromide (compound 2, D2R agonist and nAChR antagonist)
+
+
+=== Dual D2AR/ A2AAR ligands ===
+Dual agonists for A2AAR and D2AR receptors have been developed.
+
+
+=== Functionally selective ligands ===
+UNC9994
+
+
+== Protein–protein interactions ==
+The dopamine receptor D2 has been shown to interact with EPB41L1, PPP1R9B and NCS-1.
+
+
+=== Receptor oligomers ===
+The D2 receptor forms receptor heterodimers in vivo (i.e., in living animals) with other G protein-coupled receptors; these include:
+
+D1–D2 dopamine receptor heteromer
+D2–adenosine A2A
+D2–ghrelin receptor
+D2sh–TAAR1
+The D2 receptor has been shown to form heterodimers in vitro (and possibly in vivo) with DRD3, DRD5, and 5-HT2A.

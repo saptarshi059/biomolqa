@@ -1,0 +1,71 @@
+Cetirizine is a second-generation antihistamine used to treat allergic rhinitis (hay fever), dermatitis, and urticaria (hives). It is taken by mouth. Effects generally begin within thirty minutes and last for about a day. The degree of benefit is similar to other antihistamines such as diphenhydramine, which is a first-generation antihistamine.
+Common side effects include sleepiness, dry mouth, headache, and abdominal pain. The degree of sleepiness that occurs is generally less than with first-generation antihistamines because second-generation antihistamines are more selective for the H1 receptor. Compared to other second-generation antihistamines, cetirizine can cause drowsiness. Among second-generation antihistamines, cetirizine is more likely than fexofenadine and loratadine to cause drowsiness.
+Use in pregnancy appears safe, but use during breastfeeding is not recommended. The medication works by blocking histamine H1 receptors, mostly outside the brain.
+Cetirizine can be used for paediatric patients. The main side effect to be cautious about is somnolence.
+It was patented in 1983 and came into medical use in 1987. It is on the World Health Organization's List of Essential Medicines. It is available as a generic medication. In 2022, it was the 43rd most commonly prescribed medication in the United States, with more than 13 million prescriptions.
+
+
+== Medical uses ==
+
+
+=== Allergies ===
+Cetirizine's primary indication is for hay fever and other allergies. Because the symptoms of itching and redness in these conditions are caused by histamine acting on the H1 receptor, blocking those receptors temporarily relieves those symptoms.
+Cetirizine is also commonly prescribed to treat acute and (in particular cases) chronic urticaria (hives), more efficiently than any other second-generation antihistamine.
+
+
+=== Available forms ===
+Cetirizine is available over-the-counter in the US in the form of 5 and 10 mg tablets. A 20 mg strength is available by prescription only. It is also available as a 1 mg/mL syrup for oral administration by prescription. In the UK, up to 30 tablets of 10 mg are on the general sales list (of pharmaceuticals) and can be purchased without a prescription and pharmacist supervision. The drug can be in the form of tablets, capsules or syrup.
+
+
+== Adverse effects ==
+Commonly reported side effects of cetirizine include headache, dry mouth, drowsiness, and fatigue, while more serious, but rare, adverse effects reported include tachycardia and edema.
+
+
+=== Pruritus after discontinuation of cetirizine ===
+Discontinuing cetirizine after prolonged use (typically, use beyond six months) may result in pruritus (generalized itchiness).
+The US Food and Drug Administration (FDA) analyzed cases of pruritus after stopping cetirizine in the FDA Adverse Event Reporting System (FAERS) database and medical literature through April 2017. Their report noted that some patients indicated the itchiness impacted their ability to work, sleep or perform normal daily activities.
+No specific schedule for weaning is provided in the drug information for cetirizine.
+
+
+== Pharmacology ==
+
+
+=== Pharmacodynamics ===
+Cetirizine acts as a highly selective antagonist of the histamine H1 receptor. The Ki values for the H1 receptor are approximately 6 nM for cetirizine, 3 nM for levocetirizine, and 100 nM for dextrocetirizine, indicating that the levorotatory enantiomer is the main active form. Cetirizine has 600-fold or greater selectivity for the H1 receptor over a wide variety of other sites, including muscarinic acetylcholine, serotonin, dopamine, and α-adrenergic receptors, among many others. The drug shows 20,000-fold or greater selectivity for the H1 receptor over the five muscarinic acetylcholine receptors, and hence does not exhibit anticholinergic effects. It shows negligible inhibition of the hERG channel (IC50Tooltip half-maximal inhibitory concentration > 30 μM) and no cardiotoxicity has been observed with cetirizine at doses of up to 60 mg/day, six times the normal recommended dose and the highest dose of cetirizine that has been studied in healthy subjects.
+Cetirizine crosses the blood–brain barrier only slightly, and for this reason, produces minimal sedation compared to many other antihistamines. A positron emission tomography (PET) study found that brain occupancy of the H1 receptor was 12.6% for 10 mg cetirizine, 25.2% for 20 mg cetirizine, and 67.6% for 30 mg hydroxyzine. (A 10 mg dose of cetirizine equals about a 30 mg dose of hydroxyzine in terms of peripheral antihistamine effect.) PET studies with antihistamines have found that brain H1 receptor occupancy of more than 50% is associated with a high prevalence of somnolence and cognitive decline, whereas brain H1 receptor occupancy of less than 20% is considered to be non-sedative. In accordance, H1 receptor occupancy correlated well with subjective sleepiness for 30 mg hydroxyzine but there was no correlation for 10 or 20 mg cetirizine. As such, brain penetration and brain H1 receptor occupancy by cetirizine are dose-dependent, and in accordance, while cetirizine at doses of 5 to 10 mg have been reported to be non-sedating or mildly sedating, a higher dose of 20 mg has been found to induce significant drowsiness in other studies.
+Cetirizine also shows anti-inflammatory properties independent of H1 receptors. The effect is exhibited through suppression of the NF-κB pathway, and by regulating the release of cytokines and chemokines, thereby regulating the recruitment of inflammatory cells. It has been shown to inhibit eosinophil chemotaxis and LTB4 release. At a dosage of 20 mg, Boone et al. found that it inhibited the expression of VCAM-1 in patients with atopic dermatitis.
+
+
+=== Pharmacokinetics ===
+
+
+==== Absorption ====
+Cetirizine is rapidly and extensively absorbed upon oral administration in tablet or syrup form. The oral bioavailability of cetirizine is at least 70% and of levocetirizine is at least 85%. The Tmax of cetirizine is approximately 1.0 hour regardless of formulation. The pharmacokinetics of cetirizine have been found to increase linearly with dose across a range of 5 to 60 mg. Its Cmax following a single dose has been found to be 257 ng/mL for 10 mg and 580 ng/mL for 20 mg. Food has no effect on the bioavailability of cetirizine but has been found to delay the Tmax by 1.7 hours (i.e., to approximately 2.7 hours) and to decrease the Cmax by 23%. Similar findings were reported for levocetirizine, which had its Tmax delayed by 1.25 hours and its Cmax decreased by about 36% when administered with a high-fat meal. Steady-state levels of cetirizine occur within 3 days and there is no accumulation of the drug with chronic administration. Following once-daily administration of 10 mg cetirizine for ten days, the mean Cmax was 311 ng/mL.
+
+
+==== Distribution ====
+The mean plasma protein binding of cetirizine has been found to be 93 to 96% across a range of 25 to 1,000 ng/mL independent of concentration. Plasma protein binding of 88 to 96% has also been reported across multiple studies. The drug is bound to albumin with high affinity, while α1-acid glycoprotein and lipoproteins contribute much less to total plasma protein binding. The unbound or free fraction of levocetirizine has been reported to be 8%. The true volume of distribution of cetirizine is unknown but is estimated to be 0.3 to 0.45 L/kg. Cetirizine poorly and slowly crosses the blood–brain barrier, which is thought to be due to its chemical properties and its activity as a P-glycoprotein substrate.
+
+
+==== Metabolism ====
+Cetirizine is notably not metabolized by the cytochrome P450 system. Because of this, it does not interact significantly with drugs that inhibit or induce cytochrome P450 enzymes such as theophylline, erythromycin, clarithromycin, cimetidine, or alcohol. Studies with cetirizine synthesized with radioactive carbon-14 show that 90% of excreted cetirizine is unchanged at 2 hours, 80% at 10 hours, and 70% at 24 hours, indicating limited and slow metabolism. While cetirizine does not undergo extensive metabolism or metabolism by the cytochrome P450 enzyme, it does undergo some metabolism by other means, the metabolic pathways of which include oxidation and conjugation. The precise enzymes responsible for transformation of cetirizine have not been identified.
+
+
+==== Elimination ====
+Cetirizine is eliminated approximately 70 to 85% in the urine and 10 to 13% in the feces. In total, about 60% of cetirizine eliminated in the urine is unchanged. It is eliminated in the urine via an active transport mechanism. The elimination half-life of cetirizine ranges from 6.5 to 10 hours in healthy adults, with a mean across studies of approximately 8.3 hours.  The elimination half-life of cetirizine is increased in the elderly (to 12 hours), in hepatic impairment (to 14 hours), and in renal impairment (to 20 hours). Concentrations of cetirizine in the skin decline much slower than concentrations in the blood plasma. Its duration of action is at least 24 hours.
+
+
+== Chemistry ==
+Cetirizine contains L- and D-stereoisomers. Chemically, levocetirizine is the active L-enantiomer of cetirizine. The drug is a member of the diphenylmethylpiperazine group of antihistamines. Analogues include cyclizine and hydroxyzine.
+
+
+=== Synthesis ===
+
+The 1-(4-chlorophenylmethyl)-piperazine is alkylated with methyl (2-chloroethoxy)-acetate in the presence of sodium carbonate and xylene solvent to produce the Sn2 substitution product in 28% yield. Saponification of the acetate ester is done by refluxing with potassium hydroxide in absolute ethanol to afford a 56% yield of the potassium salt intermediate. This is then hydrolyzed with aqueous HCl and extracted to give an 81% yield of the carboxylic acid product.
+
+
+== Availability ==
+
+Cetirizine is available without a prescription. In some countries, it is only available over-the-counter in packages containing seven or ten 10 mg doses.
+Cetirizine is available as a combination medication with pseudoephedrine, a decongestant. The combination is often marketed using the same brand name as the cetirizine with a "-D" suffix (for example, Zyrtec-D).
+Cetirizine is sold under various brand names including Alatrol, Alerid, Allacan, Allercet, Alzene, Cerchio, Cetirin, Cetizin, Cetriz, Cetzine, Cezin, Cetgel, Cirrus, Histec, Histazine, Humex, Letizen, Okacet (Cipla), Piriteze, Reactine, Razene, Rigix, Sensahist (Oethmann, South Africa), Triz, Zetop, Zirtec, Zirtek, Zodac, Zyllergy, Zynor, Zyrlek, and Zyrtec (Johnson & Johnson), inter alios.

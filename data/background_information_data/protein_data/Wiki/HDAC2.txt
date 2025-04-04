@@ -1,0 +1,40 @@
+Histone deacetylase 2 (HDAC2) is an enzyme that in humans is encoded by the HDAC2 gene.  It belongs to the histone deacetylase class of enzymes responsible for the removal of acetyl groups from lysine residues at the N-terminal region of the core histones (H2A, H2B, H3, and H4). As such, it plays an important role in gene expression by facilitating the formation of transcription repressor complexes and for this reason is often considered an important target for cancer therapy.
+Though the functional role of the class to which HDAC2 belongs has been carefully studied, the mechanism by which HDAC2 interacts with histone deacetylases of other classes has yet to be elucidated. HDAC2 is broadly regulated by protein kinase 2 (CK2) and protein phosphatase 1 (PP1), but biochemical analysis suggests its regulation is more complex (evinced by the coexistence of HDAC1 and HDAC2 in three distinct protein complexes). Essentially, the mechanism by which HDAC2 is regulated is still unclear by virtue of its various interactions, though a mechanism involving p300/CBP-associated factor and HDAC5 has been proposed in the context of cardiac reprogramming.
+Generally, HDAC2 is considered a putative target for the treatment for a variety of diseases, due to its involvement in cell cycle progression. Specifically, HDAC2 has been shown to play a role in cardiac hypertrophy, Alzheimer's disease, Parkinson's disease, acute myeloid leukemia (AML), osteosarcoma, and stomach cancer.
+
+
+== Structure and mechanism ==
+
+HDAC2 belongs to the first class of histone deactylases. The active site of HDAC2 contains a Zn2+ ion coordinated to the carbonyl group of a lysine substrate and a water molecule. The metallic ion facilitates the nucleophilic attack of the carbonyl group by a coordinated water molecule, leading to the formation of a tetrahedral intermediate. This intermediate is momentarily stabilized by hydrogen bond interactions and metal coordination, until it ultimately  collapses resulting in the deacetylation of the lysine residue.
+The HDAC2 active site consists of a lipophilic tube which leads from the surface to the catalytic center, and a 'foot pocket' containing mostly water molecules. The active site is connected to Gly154, Phe155, His183, Phe210, and Leu276. The footpocket is connected to Tyr29, Met35, Phe114, and Leu144.
+
+
+== Function ==
+This gene product belongs to the histone deacetylase family. Histone deacetylases act via the formation of large multiprotein complexes and are responsible for the deacetylation of lysine residues on the N-terminal region of the core histones (H2A, H2B, H3 and H4). This protein also forms transcriptional repressor complexes by associating with many different proteins, including YY1, a mammalian zinc-finger transcription factor. Thus, it plays an important role in transcriptional regulation, cell cycle progression and developmental events.
+
+
+== Disease relevance ==
+
+
+=== Cardiac hypertrophy ===
+HDAC2 has been shown to play a role in the regulatory pathway of cardiac hypertrophy. Deficiencies in HDAC2 were shown to mitigate cardiac hypertrophy in hearts exposed to hypertrophic stimuli. However, in HDAC2 transgenic mice with inactivated glycogen synthase kinase 3beta (Gsk3beta), hypertrophy was observed at a higher frequency. In mice with activated Gsk3beta enzymes and HDAC2 deficiencies, sensitivity to hypertrophic stimulus was observed at a higher rate. The results suggest regulatory roles of HDAC2 and GSk3beta.Mechanisms by which HDAC2 responds to hypertrophic stress have been proposed, though no general consensus has been met. One suggested mechanism puts forth casein kinase dependent phosphorylation of HDAC2, while a more recent mechanism suggests acetylation regulated by p300/CBP-associated factor and HDAC5.
+
+
+=== Alzheimer's disease ===
+It has been found that patients with Alzheimer's disease experience a decrease in the expression of neuronal genes. Furthermore, a recent study found that inhibition of HDAC2 via c-Abl by tyrosine phosphorylation prevented cognitive and behavioral impairments in mice with Alzheimer's disease. The results of the study support the role of c-Abl and HDAC2 in the signaling pathway of gene expression in patients with Alzheimer's disease.  Currently, efforts to synthesize an HDAC2 inhibitor for the treatment of Alzheimer's disease are based on a pharmacophore with four features: one hydrogen bond acceptor, one hydrogen bond donor, and two aromatic rings.
+
+
+=== Parkinson's disease ===
+HDAC inhibitors have been regarded as a potential treatment of neurodegenerative diseases, such as Parkinson's disease. Parkinson's disease is usually accompanied by an increase in the number of microglial proteins in the substantia nigra of the brain. In vivo evidence has shown a correlation between the number of microglial proteins and the upregulation of HDAC2. It is thought therefore that HDAC2 inhibitors could be effective in treating microglial-initiated loss of dopaminergic neurons in the brain.
+
+
+=== Cancer therapy ===
+The role of HDAC2 in various forms of cancer such as osteosarcoma, gastric cancer, and acute myeloid leukemia have been studied. A recent study discovered decreased metastasis formation in mouse models that develop pancreatic cancer when the murine ortholog Hdac2 was genetically depleted. Current research is focused on creating inhibitors that decrease the upregulation of HDAC2. 
+
+
+=== Anti-influenza virus factor ===
+HDAC2 plays a role in regulating the Signal Transducer and Activator of Transcription I (STAT1) and interferon-stimulated gene such as viperin. This shows that HDAC2 might be a component of cellular innate antiviral response. To circumvent the anti-viral potential, influenza A virus dysregulates HDAC2 by inducing its degradation by proteasomal degradation.
+
+
+== Interactions ==
+Histone deacetylase 2 has been shown to interact with:

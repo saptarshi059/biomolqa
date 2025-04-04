@@ -1,0 +1,43 @@
+Mannose-binding lectin (MBL), also called mannan-binding lectin or mannan-binding protein (MBP), is a lectin that is instrumental in innate immunity as an opsonin and via the lectin pathway.
+
+
+== Structure ==
+MBL has an oligomeric structure (400-700 kDa), built of subunits that contain three presumably identical peptide chains of about 30 kDa each.
+Although MBL can form several oligomeric forms, there are indications that dimers and trimers are biologically inactive as an opsonin and at least a tetramer form is needed for activation of complement.
+
+
+=== Genes and polymorphisms ===
+Human MBL2 gene is located on chromosome 10q11.2-q21. Mice have two homologous genes, but in human the first of them was lost. A low level expression of an MBL1 pseudogene 1 (MBL1P1) was detected in liver. The pseudogene encodes a truncated 51-amino acid protein that is homologous to the MBLA isoform in rodents and some primates.
+Structural mutations in exon 1 of the human MBL2 gene, at codon 52 (Arg to Cys, allele D), codon 54 (Gly to Asp, allele B) and codon 57 (Gly to Glu, allele C), also independently reduce the level of functional serum MBL by disrupting the collagenous structure of the protein. Furthermore, several nucleotide substitutions in the promoter region of the MBL2 gene at position −550 (H/L polymorphism), −221 (X/Y polymorphism) and −427, −349, −336, del (−324 to −329), −70 and +4 (P/Q polymorphisms) affect the MBL serum concentration. Both the frequency of structural mutations and the promoter polymorphisms that are in strong linkage disequilibrium vary among ethnic groups resulting in seven major haplotypes: HYPA, LYQA, LYPA, LXPA, LYPB, LYQC and HYPD. Differences in the distribution of these haplotypes are the major cause of interracial variations in MBL serum levels. Both HYPA and LYQA are high-producing haplotypes, LYPA intermediate-producing haplotype and LXPA low-producing haplotype, whereas LYPB, LYQC and HYPD are defective haplotypes, which cause a severe MBL deficiency. Such polymorphism also present in exon 4.
+Both MBL2 and MBL1P1 genes has been repeatedly hit throughout evolution of primates. The latter silenced eventually by mutations in the glycine residues of the collagen-like region. It has been selectively turned off during evolution through the same molecular mechanisms causing the MBL2 variant alleles in man, suggesting an evolutionary selection for low-producing MBL genes.
+
+
+=== Posttranslational modifications ===
+In rat hepatocytes, MBL is synthesized in the rough endoplasmic reticulum. While in Golgi, it undergoes two distinct posttranslational modifications and is assembled into high molecular weight multimeric complexes. The modifications produce MBL in multiple forms of slightly various molecular masses and pI from 5.7 to 6.2. Proteolytic cleavage also resulted in removal of the 20-aa N-terminal signal peptide, and hydroxylation and glycosylation were also detected. Some cysteine residues can be converted to dehydroalanin.
+
+
+== Function ==
+MBL belongs to the class of collectins in the C-type lectin superfamily, whose function appears to be pattern recognition in the first line of defense in the pre-immune host. MBL recognizes carbohydrate patterns found on the surface of a large number of pathogenic micro-organisms, including bacteria, viruses, protozoa and fungi. Binding of MBL to a micro-organism results in activation of the lectin pathway of the complement system.
+Another important function of MBL is that this molecule binds senescent and apoptotic cells and enhances engulfment of whole, intact apoptotic cells, as well as cell debris by phagocytes.
+
+
+=== Activation ===
+The complement system can be activated through three pathways: the classical pathway, the alternative pathway, and the lectin pathway. One way the most-recently discovered lectin pathway is activated is through mannose-binding lectin protein. MBL binds to carbohydrates (to be specific, D-mannose and L-fucose residues) found on the surfaces of many pathogens.
+For example, MBL has been shown to bind to:
+
+yeasts such as Candida albicans
+viruses such as HIV and influenza A
+many bacteria, including Salmonella  and Streptococci
+parasites like Leishmania
+SARS-CoV-2
+
+
+=== Complexes ===
+MBL in the blood is complexed with (bound to) a serine protease called MASP (MBL-associated serine protease). There are three MASPs: MASP-1, MASP-2 and MASP-3, which have protease domains.  There are also sMAP (also called MAp19) and MAp44, which do not have protease domains and are thought to be regulatory molecules of MASPs. MASPs also form complexes with ficolins, which are similar to MBL functionally and structurally with the exception that ficolins recognize their targets through fibrinogen-like domains, unlike MBL.
+In order to activate the complement system when MBL binds to its target (for example, mannose on the surface of a bacterium), the MASP protein functions to cleave the blood protein C4 into C4a and C4b. The C4b fragments can then bind to the surface of the bacterium, and initiate the formation of a C3-convertase.
+The subsequent complement cascade catalyzed by C3-convertase results in creating a membrane attack complex, which causes lysis of the pathogen as well as altered-self in the context of apoptotic and necrotic cells.
+MBL/MASP-1 complex also has thrombin-like activity (thrombin clots fibrin to initiate blood clots).  Mice that genetically lack MBL or MASP-1/3 (but not MASP-2/sMAP) have prolonged bleeding time in experimental injury models, although mice are seen to be normal if there is no insult to the body.
+
+
+== Clinical significance ==
+It is produced in the liver as a response to infection, and is part of many other factors termed acute phase proteins. Expression and function in other organs were also suggested. The three structural polymorphisms of exon 1 have been reported to cause susceptibility to various common infections, including meningococcal disease. However, evidence has been presented that suggests no harmful effect of these variants with regard to mengingococcal disease. MBL deficiency is very common in humans, with approximately 10% of individuals having this deficiency.

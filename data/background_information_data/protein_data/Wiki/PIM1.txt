@@ -1,0 +1,56 @@
+Proto-oncogene serine/threonine-protein kinase Pim-1 is an enzyme that in humans is encoded by the PIM1 gene.
+Pim-1 is a proto-oncogene which encodes for the serine/threonine kinase of the same name. The pim-1 oncogene was first described in relation to murine T-cell lymphomas, as it was the locus most frequently activated by the Moloney murine leukemia virus. Subsequently, the oncogene has been implicated in multiple human cancers, including prostate cancer, acute myeloid leukemia and other hematopoietic malignancies. Primarily expressed in spleen, thymus, bone marrow, prostate, oral epithelial, hippocampus and fetal liver cells, Pim-1 has also been found to be highly expressed in cell cultures isolated from human tumors. Pim-1 is mainly involved in cell cycle progression, apoptosis and transcriptional activation, as well as more general signal transduction pathways. Pim-1's role in oncogenic signalling has led to it becoming a widely studied target in cancer research, with numerous drug candidates under investigation which target it.
+
+
+== Gene ==
+Located on chromosome 6 (6p21.2), the gene encompasses 5Kb of DNA, including 6 exons and 5 introns. Expression of Pim-1 has been shown to be regulated by the JAK/STAT pathway. Direct binding of transcription factors STAT3 and STAT5 to the Pim-1 promoter results in the transcription of Pim-1. The Pim-1 gene has been found to be conserved in dogs, cows, mice, rats, zebrafish and C. elegans. Pim-1 deficient mice have been shown to be phenotypically normal, indicating that there is redundancy in the function of this kinase. In fact, sequence homology searches have shown that two other Pim-1-like kinases, Pim-2 and Pim-3, are structurally and functionally similar. The Pim-1 gene encodes has multiple translation initiation sites, resulting in two proteins of 34 and 44kD.
+
+
+== Protein structure ==
+Human, murine and rat Pim-1 contain 313 amino acids, and have a 94 – 97% amino acid identity. The active site of the protein, ranging from amino acids 38-290, is composed of several conserved motifs, including a glycine loop motif, a phosphate binding site and a proton acceptor site. Modification of the protein at amino acid 67 (lysine to methionine) results in the inactivation of the kinase.
+
+
+== Activation and stabilization ==
+Pim-1 is primarily involved in cytokine signaling, and has been implicated in many signal transduction pathways. Because Pim-1 transcription is initiated by STAT3 and STAT5, its production is regulated by the cytokines that regulate the STAT pathway, or STAT factors. These include interleukins (IL-2, IL-3, IL-5, IL-6, IL-7, IL12, IL-15), prolactin, TNFα, EGF and IFNγ, among others. Pim-1 itself can bind to negative regulators of the JAK/STAT pathway, resulting in a negative feedback loop.
+Although little is known about the post-transcriptional modifications of Pim-1, it has been hypothesized that Hsp90 is responsible for the folding and stabilization of Pim-1, although the exact mechanism has yet to be discovered. Furthermore, the serine/threonine phosphatase PP2 has been shown to degrade Pim-1.
+
+
+== Interactions ==
+PIM1 has been shown to interact with:
+
+CBX3,
+CDC25A,
+Heat shock protein 90kDa alpha (cytosolic), member A1,
+NFATC1,
+Nuclear mitotic apparatus protein 1,
+P21,
+SND1 and
+RELA.
+Other known substrates/binding partners of Pim-1 include proteins involved in transcription regulation (nuclear adaptor protein p100, HP-1, PAP-1 and TRAF2 / SNX6), and regulation of the JAK/STAT pathway (SOCS1 and SOCS3). Furthermore, Pim-1 has been shown to be a cofactor for c-Myc, a transcription factor believed to regulate 15% of all genes, and their synergy has been in prostate tumorigenesis.
+Pim-1 is able to phosphorylate many targets, including itself. Many of its targets are involved in cell cycle regulation.
+
+
+=== Activates ===
+Cdc25C (G1/S positive regulator): Activation results in increased G1 → S
+Cdc25C (G2/M positive regulator): Activation results in increased G2 → M
+
+
+=== Deactivates ===
+Bad (Pro-apoptotic protein): Deactivation results in increased cell survival
+CKI (G1/S negative regulator): Deactivation results in increased G1 → S
+C-TAK1 (Cdc25C inhibitor): Deactivation results in increased G2 → M
+
+
+== Clinical implications ==
+Pim-1 is directly involved in the regulation of cell cycle progression and apoptosis, and has been implicated in numerous cancers including prostate cancer, Burkitt's lymphoma and oral cancer, as well as numerous hematopoietic lymphomas. Single nucleotide polymorphisms in the Pim-1 gene have been associated with increased risk for lung cancer in Korean patients, and have also been found in diffuse large cell lymphomas. As well as showing useful activity against a range of cancers, PIM kinase inhibitors have also been suggested as possible treatments for Alzheimer's disease. PIM expression is sufficient to drive resistance to anti-angiogenic agents in prostate and colon cancer models, although the mechanism is not fully elucidated. It has been suggested that a co-targeted therapeutic approach to inhibition of Pim-1 in cancer may be preferable, with suggested co-targets including the PI3K pathway and more.
+PIM1 expression was found to be elevated during aging and to contribute to the development of pulmonary fibrosis.
+
+
+== Inhibitors ==
+A large number of small molecule inhibitors of PIM1 have been developed. Clinical trial results so far have shown promising anti-cancer activity, but side effects due to insufficient selectivity have proved problematic and research continues to find more potent and selective inhibitors for this target.
+
+Examples
+AZD1208
+LGH447
+SGI-1776,
+TP-3654

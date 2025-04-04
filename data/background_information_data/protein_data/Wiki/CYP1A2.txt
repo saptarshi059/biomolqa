@@ -1,0 +1,26 @@
+Cytochrome P450 1A2 (abbreviated CYP1A2), a member of the cytochrome P450 mixed-function oxidase system, is involved in the metabolism of xenobiotics in the human body. In humans, the CYP1A2 enzyme is encoded by the CYP1A2 gene.
+
+
+== Function ==
+CYP1A2 is a member of the cytochrome P450 superfamily of enzymes. The cytochrome P450 proteins are monooxygenases which catalyze many reactions involved in drug metabolism and synthesis of cholesterol, steroids and other lipids. CYP1A2 localizes to the endoplasmic reticulum and its expression is induced by some polycyclic aromatic hydrocarbons (PAHs), some of which are found in cigarette smoke. The enzyme's endogenous substrate is unknown; however, it is able to metabolize some PAHs to carcinogenic intermediates. Other xenobiotic substrates for this enzyme include caffeine, aflatoxin B1, and paracetamol (acetaminophen). The transcript from this gene contains four Alu sequences flanked by direct repeats in the 3' untranslated region.
+CYP1A2 also metabolizes polyunsaturated fatty acids into signaling molecules that have physiological as well as pathological activities. It has monoxygenase activity for certain of these fatty acids in that it metabolizes arachidonic acid to 19-hydroxyeicosatetraenoic acid (19-HETE) (see 20-Hydroxyeicosatetraenoic acid) but also has epoxygenase activity in that it metabolizes docosahexaenoic acid to epoxides, primarily 19R,20S-epoxyeicosapentaenoic acid and 19S,20R-epoxyeicosapentaenoic acid isomers (termed 19,20-EDP) and similarly metabolizes eicosapentaenoic acid to epoxides, primarily 17R,18S-eicosatetraenoic acid and 17S,18R-eicosatetraenoic acid isomers (termed 17,18-EEQ).
+19-HETE is an inhibitor of 20-HETE, a broadly active signaling molecule, e.g., it constricts arterioles, elevates blood pressure, promotes inflammation responses, and stimulates the growth of various types of tumor cells; however the in vivo ability and significance of 19-HETE in inhibiting 20-HETE has not been demonstrated. The EDP (epoxydocosapentaenoic acid) and EEQ (epoxyeicosatetraenoic acid) metabolites have a broad range of activities. In various animal models and in vitro studies on animal and human tissues, they decrease hypertension and pain perception; suppress inflammation; inhibit angiogenesis, endothelial cell migration and endothelial cell proliferation; and inhibit the growth and metastasis of human breast and prostate cancer cell lines. It is suggested that the EDP and EEQ metabolites function in humans as they do in animal models and that, as products of the omega-3 fatty acids, docosahexaenoic acid and eicosapentaenoic acid, the EDP and EEQ metabolites contribute to many of the beneficial effects attributed to dietary omega-3 fatty acids.  EDP and EEQ metabolites are short-lived, being inactivated within seconds or minutes of formation by epoxide hydrolases, particularly soluble epoxide hydrolase, and therefore act locally.
+CYP1A2 is not regarded as being a major contributor to forming the aforementioned epoxides but could act locally in certain tissues to do so.
+The authoritative list of star allele nomenclature for CYP1A2 along with activity scores is kept by PharmVar.
+
+
+== Effect of diet ==
+Expression of CYP1A2 appears to be induced by various dietary constituents. Vegetables such as cabbages, cauliflower and broccoli are known to increase levels of CYP1A2. Lower activity of CYP1A2 in South Asians appears to be due to cooking these vegetables in curries using ingredients such as cumin and turmeric, ingredients known to inhibit the enzyme.
+
+
+== Possible association with caffeine metabolisation ==
+A single 2006 paper found CYP1A2 to be involved in the metabolization of caffeine, and the presence of alleles that make this metabolization slow have been associated with an increased risk of nonfatal myocardial infarction for those who drink a lot of coffee (4 or more cups per day).
+
+
+== Ligands ==
+Following is a table of selected substrates, inducers and inhibitors of CYP1A2.
+Inhibitors of CYP1A2 can be classified by their potency, such as:
+
+Strong inhibitor being one that causes at least a 5-fold increase in the plasma AUC values of sensitive substrates metabolized through CYP1A2, or more than 80% decrease in clearance thereof.
+Moderate inhibitor being one that causes at least a 2-fold increase in the plasma AUC values of sensitive substrates metabolized through CYP1A2, or 50-80% decrease in clearance thereof.
+Weak inhibitor being one that causes at least a 1.25-fold but less than 2-fold increase in the plasma AUC values of sensitive substrates metabolized through CYP1A2, or 20-50% decrease in clearance thereof.

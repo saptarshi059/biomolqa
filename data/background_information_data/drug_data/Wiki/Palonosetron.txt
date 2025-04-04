@@ -1,0 +1,37 @@
+Palonosetron, sold under the brand name Aloxi, is a medication used for the prevention and treatment of chemotherapy-induced nausea and vomiting (CINV). It is a 5-HT3 antagonist.
+Palonosetron is administered intravenously, or as a single oral capsule. It has a longer duration of action than  other 5-HT3 antagonists. The oral formulation was approved on August 22, 2008, for prevention of acute CINV alone, as a large clinical trial did not show oral administration to be as effective as intravenous use against delayed CINV. It is on the World Health Organization's List of Essential Medicines.
+The oral combination netupitant/palonosetron is approved for both acute and delayed CINV.
+
+
+== Adverse effects ==
+The most common adverse effects are headache, which occurs in 4–11% of patients, and constipation in up to 6% of patients. In less than 1% of patients, other gastrointestinal disorders occur, as well as sleeplessness, first- and second-degree atrioventricular block, muscle pain and shortness of breath. Palonosetron is similarly well tolerated as other 5-HT3 antagonists, and slightly less than placebo.
+
+
+== Interactions ==
+Palonosetron does not relevantly inhibit or induce cytochrome P450 liver enzymes. There are case reports about serotonin syndrome when the drug is combined with serotonergic substances, such as selective serotonin reuptake inhibitors (SSRIs) and serotonin–norepinephrine reuptake inhibitors (SNRIs), two common types of antidepressants.
+
+
+== Pharmacology ==
+
+
+=== Mechanism of action ===
+Palonosetron is a 5-HT3 antagonist, commonly known as a setron. These drugs act by blocking serotonin from binding to the 5-HT3 receptor.
+
+
+=== Pharmacokinetics ===
+Orally taken palonosetron is absorbed well from the gut and has a bioavailability of 97%. Highest blood plasma levels are reached after 5.1±1.7 hours, independently of food intake, and plasma protein binding is 62%. 40% of the substance are eliminated in the unchanged form, and a further 45–50% are metabolized by the liver enzyme CYP2D6 and to a lesser extent by CYP3A4 and CYP1A2. The two main metabolites, the N-oxide and a hydroxy derivative, have less than 1% of palonosetron's antagonistic effect and are thus practically inactive.
+Palonosetron and its metabolites are mainly (to 80–93%) eliminated via the kidney. Biological half-life in healthy persons was 37±12 hours in a study, and 48±19 hours in cancer patients. In 10% of patients, half-life is over 100 hours. Most other marketed setrons have half-lives in the range of about two to 15 hours.
+
+
+== Chemistry ==
+The substance is solid at room temperature and melts at 87 to 88 °C (189 to 190 °F). The infusions and capsules contain palonosetron hydrochloride, which is also a solid. The hydrochloride is easily soluble in water, soluble in propylene glycol, and slightly soluble in ethanol and isopropyl alcohol.
+The molecule has two asymmetric carbon atoms. It is used in form of the pure (S,S)-stereoisomer.
+
+
+== Society and culture ==
+
+
+=== Economics ===
+Palonosetron was developed by Helsinn around 2001. In January 2003, Helsinn filed a provisional patent application on palonosetron. Over the next 10 years, Helsinn filed four patent applications that claimed priority to the January 2003 date. Relevant here, Helsinn filed its fourth patent application in 2013. That patent (the ’219 patent) covers a fixed dose of 0.25 mg of palonosetron in a 5 ml solution.  While developing the drug, Helsinn entered into a confidential licensing agreement with a company called MGI to sell palonosetron in the United States. This licensing agreement contained chemical information about palonosetron and dosage requirements. However, Helsinn did not file for a patent on palonosetron until two years after they had signed their agreement with MGI. [1]
+In 2011 Teva Pharmaceuticals - a generic drug manufacturer- challenged the validity of Helsinn's patent(s) by filing an application for a generic version of palonosetron with the FDA. Teva claimed that, because Helsinn disclosed/sold the 0.25 mg dose of palonosetron to MGI in 2003, which is more than a year (actually about 2 years) before the priority date of its '219 patent, this "secret" sale barred Helsinn from receiving a patent. This conclusion results from the language of the America Invents Act, which bars patents on inventions, which were  “in public use, on sale, or otherwise available to the public before the effective filing date of the claimed invention,” 35 U. S. C. §102(a)(1).
+The District Court held that the AIA's “on sale” provision did not apply, because the public disclosure of the agreements did not disclose the 0.25 mg dose. The Federal Circuit reversed, holding that the sale was publicly disclosed, regardless of whether the details of the invention were publicly disclosed in the terms of the sale agreements. The SCOTUS agreed with the Federal Circuit, that in this case a commercial sale to a third party, who is required to keep the invention confidential, nevertheless placed the invention “on sale” under USC §102(a).[2]

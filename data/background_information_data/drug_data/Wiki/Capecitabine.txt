@@ -1,0 +1,80 @@
+Capecitabine, sold under the brand name Xeloda among others, is a anticancer medication used to treat breast cancer, gastric cancer and colorectal cancer. For breast cancer it is often used together with docetaxel. It is taken by mouth.
+Common side effects include abdominal pain, vomiting, diarrhea, weakness, and rashes. Other severe side effects include blood clotting problems, allergic reactions, heart problems such as cardiomyopathy, and low blood cell counts. Use during pregnancy may result in harm to the fetus. Capecitabine, inside the body, is converted to 5-fluorouracil (5-FU) through which it acts. It belongs to the class of medications known as fluoropyrimidines, which also includes 5-FU and tegafur.
+Capecitabine was patented in 1992 and approved for medical use in 1998. It is on the World Health Organization's List of Essential Medicines.
+
+
+== Medical uses ==
+Capecitabine is indicated for
+
+adjuvant treatment of people with Stage III colon cancer as a single agent or as a component of a combination chemotherapy regimen;
+perioperative treatment of adults with locally advanced rectal cancer as a component of chemoradiotherapy;
+treatment of people with unresectable or metastatic colorectal cancer as a single agent or as a component of a combination chemotherapy regimen;
+treatment of people with advanced or metastatic breast cancer as a single agent if an anthracycline- or taxane-containing chemotherapy is not indicated;
+treatment of people with advanced or metastatic breast cancer in combination with docetaxel after disease progression on prior anthracycline-containing chemotherapy;
+treatment of adults with unresectable or metastatic gastric, esophageal, or gastroesophageal junction cancer as a component of a combination chemotherapy regimen;
+treatment of adults with HER2-overexpressing metastatic gastric or gastroesophageal junction adenocarcinoma who have not received prior treatment for metastatic disease as a component of a combination regimen;
+adjuvant treatment of adults with pancreatic adenocarcinoma as a component of a combination chemotherapy regimen.
+
+
+== Adverse effects ==
+Adverse effects by frequency:
+
+Very common (>10% frequency)
+
+Notes on adverse effects:
+
+
+== Contraindications ==
+Contraindications include:
+
+History of hypersensitivity to fluorouracil, capecitabine or any of its excipients
+DPD deficiency (see Pharmacogenetics)
+Pregnancy and lactation
+Severe leucopenia, neutropenia, or thrombocytopenia
+Severe hepatic impairment or severe renal impairment
+Treatment with sorivudine or its chemically related analogues, such as brivudine
+In 2020, the EU and UK license was updated to state that capecitabine was contra-indicated in patients that "have a known complete absence of dihydropyrimidine dehydrogenase (DPD) activity".  In US, as of 2024, there is no specific contraindication on the package inserts however, there is a cautionary warning: "Patients with certain homozygous or compound 
+heterozygous variants in the DPYD gene are at increased risk for acute 
+early-onset toxicity and serious, including fatal, adverse reactions due to 
+XELODA (e.g., mucositis, diarrhea, neutropenia, and neurotoxicity). 
+XELODA is not recommended for use in patients known to have certain 
+homozygous or compound heterozygous DPYD variants that result in 
+complete absence of DPD activity. Withhold or permanently discontinue 
+based on clinical assessment. No XELODA dose has been proven safe in 
+patients with complete absence of DPD activity. "
+Within the UK, DPYD testing to check for this contraindication is now routine practice, this is not the case in the US.
+
+
+== Drug interactions ==
+Drugs it is known to interact with include:
+
+Sorivudine or its analogues, such as, brivudine.
+CYP2C9 substrates, including, warfarin and other coumarin-derivatives anticoagulants
+Phenytoin, as it increases the plasma concentrations of phenytoin.
+Calcium folinate may enhance the therapeutic effects of capecitabine by means of synergising with its metabolite, 5-FU. It may also induce more severe diarrhoea by means of this synergy.
+
+
+== Pharmacogenetics ==
+The dihydropyrimidine dehydrogenase (DPD) enzyme is responsible for the detoxifying metabolism of fluoropyrimidines, a class of drugs that includes capecitabine, 5-fluorouracil and tegafur. Genetic variations within the DPD gene (DPYD) can lead to reduced or absent DPD activity, and individuals who are heterozygous or homozygous for these variations may have partial or complete DPD deficiency; an estimated 0.2% of individuals have complete DPD deficiency. Those with partial or complete DPD deficiency have a significantly increased risk of severe or even fatal drug toxicities when treated with fluoropyrimidines; examples of toxicities include myelosuppression, neurotoxicity and hand-foot syndrome.
+
+
+== Mechanism of action ==
+Click on genes, proteins and metabolites below to link to respective articles. 
+
+Capecitabine is metabolised to 5-FU which in turn is a thymidylate synthase inhibitor, hence inhibiting the synthesis of thymidine monophosphate (ThMP), the active form of thymidine which is required for the de novo synthesis of DNA.
+
+
+== Drug synthesis ==
+
+
+== Overdose ==
+Uridine Triacetate is a potential antidote for cases of suspected overdose.
+
+
+== Society and culture ==
+
+
+=== Brand names ===
+
+One of the brand names is Xeloda, marketed by Genentech.
+Others include Xitabin, Capcibin, Kapetral and Pecaset by Eurolab.

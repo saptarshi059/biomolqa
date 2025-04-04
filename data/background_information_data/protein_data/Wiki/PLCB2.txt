@@ -1,0 +1,9 @@
+1-Phosphatidylinositol-4,5-bisphosphate phosphodiesterase beta-2 is an enzyme that in humans is encoded by the PLCB2 gene.
+
+
+== Function ==
+The gene codes for the enzyme phospholipase C β2. The enzyme catalyzes the formation of inositol 1,4,5-trisphosphate and diacylglycerol from phosphatidylinositol 4,5-bisphosphate. This reaction uses calcium as a cofactor and plays an important role in the intracellular transduction of many extracellular signals. This gene is activated by two G-protein alpha subunits, alpha-q and alpha-11, as well as G-beta gamma subunits.
+
+
+== Interactions ==
+PLCB2 has been shown to interact with MAP2K3 and TRPM7.

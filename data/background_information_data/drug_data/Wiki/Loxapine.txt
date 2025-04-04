@@ -1,0 +1,32 @@
+Loxapine, sold under the brand names Loxitane and Adasuve (inhalation only) among others, is a tricyclic antipsychotic medication used primarily in the treatment of schizophrenia. The medicine is a member of the dibenzoxazepine class and structurally very similar to clozapine. Several researchers have argued that loxapine, initially classified as a typical antipsychotic, behaves as an atypical antipsychotic.
+Loxapine may be metabolized by N-demethylation to amoxapine, a tricyclic antidepressant.
+
+
+== Medical uses ==
+The US Food and Drug Administration (FDA) has approved loxapine inhalation powder for the acute treatment of agitation associated with schizophrenia or bipolar I disorder in adults.
+A brief review of loxapine found no conclusive evidence that it was particularly effective in patients with schizophrenia. A subsequent systematic review considered that the limited evidence did not indicate a clear difference in its effects from other antipsychotics.
+
+
+=== Available forms ===
+Loxapine can be taken by mouth. It is also available as an intramuscular injection and as a powder for inhalation.
+
+
+== Side effects ==
+Loxapine can cause side effects that are generally similar to that of other antipsychotic medications. These include, e.g., gastrointestinal problems (like constipation and abdominal pain), cardiovascular problems (like tachycardia), moderate likelihood of drowsiness (relative to other antipsychotics), and movement problems (i.e. extrapyramidal symptoms [EPS]). At lower dosages its propensity for causing EPS appears to be similar to that of atypical antipsychotics. Although it is structurally similar to clozapine, it has much lower risk of agranulocytosis (which, even with clozapine, is 0.8%); however, mild and temporary fluctuations in blood leukocyte levels can occur. Abuse of loxapine has been reported.
+The inhaled formulation of loxapine carries a low risk for a type of airway adverse reaction called bronchospasm that is not thought to occur when loxapine is taken by mouth.
+
+
+== Pharmacology ==
+
+
+=== Mechanism of action ===
+Some scientists say loxapine is a "mid-potency" typical antipsychotic. However, unlike most other typical antipsychotics, it has significant potency at the 5HT2A receptor (6.6 nM), which is similar to atypical antipsychotics like clozapine (5.35 nM). The higher likelihood of EPS with loxapine, compared to clozapine, may be due to its higher affinity for the D2 receptor compared to clozapine, which has one of the lowest binding affinities at the D2 receptor of any antipsychotic.
+
+
+=== Pharmacokinetics ===
+Loxapine is metabolized to amoxapine, as well as its 8-hydroxy metabolite (8-hydroxyloxapine). Amoxapine is further metabolized to its 8-hydroxy metabolite (8-hydroxyamoxapine), which is also found in the blood of people taking loxapine. At steady-state after taking loxapine by mouth, the relative amounts of loxapine and its metabolites in the blood is as follows: 8-hydroxyloxapine > 8-hydroxyamoxapine > loxapine. 
+The pharmacokinetics of loxapine change depending on how it is given. Intramuscular injections of loxapine lead to higher blood levels and area under the curve of loxapine than when it is taken by mouth.
+
+
+== Chemistry ==
+Loxapine is a dibenzoxazepine and is structurally very similar to clozapine, an atypical antipsychotic.

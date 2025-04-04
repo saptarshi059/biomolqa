@@ -1,0 +1,46 @@
+Desipramine, sold under the brand name Norpramin among others, is a tricyclic antidepressant (TCA) used in the treatment of depression. It acts as a relatively selective norepinephrine reuptake inhibitor, though it does also have other activities such as weak serotonin reuptake inhibitory, α1-blocking, antihistamine, and anticholinergic effects. The drug is not considered a first-line treatment for depression since the introduction of selective serotonin reuptake inhibitor (SSRI) antidepressants, which have fewer side effects and are safer in overdose.
+
+
+== Medical uses ==
+Desipramine is primarily used for the treatment of depression. It may also be useful to treat symptoms of attention-deficit hyperactivity disorder (ADHD). Evidence of benefit is only in the short term, and with concerns of side effects its overall usefulness is not clear. Desipramine at very low doses is also used to help reduce the pain associated with functional dyspepsia. It has also been tried, albeit with little evidence of effectiveness, in the treatment of cocaine dependence. Evidence for usefulness in neuropathic pain is also poor.
+
+
+== Side effects ==
+Desipramine tends to be less sedating than other TCAs and tends to produce fewer anticholinergic effects such as dry mouth, constipation, urinary retention, blurred vision, and cognitive or memory impairments.
+
+
+== Overdose ==
+
+Desipramine is particularly toxic in cases of overdose, compared to other antidepressants. Any overdose or suspected overdose of desipramine is considered to be a medical emergency and can result in death without prompt medical intervention.
+
+
+== Pharmacology ==
+
+
+=== Pharmacodynamics ===
+
+Desipramine is a very potent and relatively selective norepinephrine reuptake inhibitor (NRI), which is thought to enhance noradrenergic neurotransmission. Based on one study, it has the highest affinity for the norepinephrine transporter (NET) of any other TCA, and is said to be the most noradrenergic and the most selective for the NET of the TCAs. The observed effectiveness of desipramine in the treatment of ADHD was the basis for the development of the selective NRI atomoxetine and its use in ADHD.
+Desipramine has the weakest antihistamine and anticholinergic effects of the TCAs. It tends to be slightly activating/stimulating rather than sedating, unlike most others TCAs. Whereas other TCAs are useful for treating insomnia, desipramine can cause insomnia as a side effect due to its activating properties. The drug is also not associated with weight gain, in contrast to many other TCAs. Secondary amine TCAs like desipramine and nortriptyline have a lower risk of orthostatic hypotension than other TCAs, although desipramine can still cause moderate orthostatic hypotension.
+
+
+=== Pharmacokinetics ===
+Desipramine is the major metabolite of imipramine and lofepramine.
+
+
+== Chemistry ==
+Desipramine is a tricyclic compound, specifically a dibenzazepine, and possesses three rings fused together with a side chain attached in its chemical structure. Other dibenzazepine TCAs include imipramine (N-methyldesipramine), clomipramine, trimipramine, and lofepramine (N-(4-chlorobenzoylmethyl)desipramine). Desipramine is a secondary amine TCA, with its N-methylated parent imipramine being a tertiary amine. Other secondary amine TCAs include nortriptyline and protriptyline. The chemical name of desipramine is 3-(10,11-dihydro-5H-dibenzo[b,f]azepin-5-yl)-N-methylpropan-1-amine and its free base form has a chemical formula of C18H22N2 with a molecular weight of 266.381 g/mol. The drug is used commercially mostly as the hydrochloride salt; the dibudinate salt is or has been used for intramuscular injection in Argentina (brand name Nebril) and the free base form is not used. The CAS Registry Number of the free base is 50-47-5, of the hydrochloride is 58-28-6, and of the dibudinate is 62265-06-9.
+
+
+== History ==
+Desipramine was developed by Geigy. It first appeared in the literature in 1959 and was patented in 1962. The drug was first introduced for the treatment of depression in 1963 or 1964.
+
+
+== Society and culture ==
+
+
+=== Generic names ===
+Desipramine is the generic name of the drug and its INNTooltip International Nonproprietary Name and BANTooltip British Approved Name, while desipramine hydrochloride is its USANTooltip United States Adopted Name, USPTooltip United States Pharmacopeia, BANTooltip British Approved Name, and JANTooltip Japanese Accepted Name. Its generic name in French and its DCFTooltip Dénomination Commune Française are désipramine, in Spanish and Italian and its DCITTooltip Denominazione Comune Italiana are desipramina, in German is desipramin, and in Latin is desipraminum.
+
+
+=== Brand names ===
+Desipramine is or has been marketed throughout the world under a variety of brand names, including Irene, Nebril, Norpramin, Pertofran, Pertofrane, Pertrofran, and Petylyl among others.

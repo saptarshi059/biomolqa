@@ -1,0 +1,6 @@
+cAMP-dependent protein kinase catalytic subunit gamma is an enzyme that in humans is encoded by the PRKACG gene.
+Cyclic AMP-dependent protein kinase (PKA) consists of two catalytic subunits and a regulatory subunit dimer. This gene encodes the gamma form of its catalytic subunit. The gene is intronless and is thought to be a retrotransposon derived from the gene for the alpha form of the PKA catalytic subunit.
+
+
+== Interactions ==
+PRKACG has been shown to interact with Ryanodine receptor 2.

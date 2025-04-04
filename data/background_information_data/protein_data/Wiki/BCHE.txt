@@ -1,0 +1,54 @@
+Butyrylcholinesterase (HGNC symbol BCHE; EC 3.1.1.8), also known as BChE, BuChE, BuChase, pseudocholinesterase, or plasma (cholin)esterase, is a nonspecific cholinesterase enzyme that hydrolyses many different choline-based esters. In humans, it is made in the liver, found mainly in blood plasma, and encoded by the BCHE gene.
+It is very similar to the neuronal acetylcholinesterase, which is also known as RBC or erythrocyte cholinesterase. The term "serum cholinesterase" is generally used in reference to a clinical test that reflects levels of both of these enzymes in the blood. Assay of butyrylcholinesterase activity in plasma can be used as a liver function test as both hypercholinesterasemia and hypocholinesterasemia indicate pathological processes. The half-life of BCHE is approximately 10 to 14 days.
+Butyrylcholine is a synthetic compound that does not occur in the body naturally. It is used as a tool to distinguish between acetylcholinesterase and butyrylcholinesterase.
+
+
+== Potential physiological role ==
+Butyrylcholinesterase may be a physiological ghrelin regulator.
+
+
+== Clinical significance ==
+Pseudocholinesterase deficiency results in delayed metabolism of only a few compounds of clinical significance, including the following: succinylcholine, mivacurium, procaine, heroin, and cocaine. Of these, its most clinically important substrate is the depolarizing neuromuscular blocking agent, succinylcholine, which the pseudocholinesterase enzyme hydrolyzes to succinylmonocholine and then to succinic acid.
+In individuals with normal plasma levels of normally functioning pseudocholinesterase enzyme, hydrolysis and inactivation of approximately 90–95% of an intravenous dose of succinylcholine occurs before it reaches the neuromuscular junction. The remaining 5–10% of the succinylcholine dose acts as an acetylcholine receptor agonist at the neuromuscular junction, causing prolonged depolarization of the postsynaptic junction of the motor-end plate. This depolarization initially triggers fasciculation of skeletal muscle. As a result of prolonged depolarization, endogenous acetylcholine released from the presynaptic membrane of the motor neuron does not produce any additional change in membrane potential after binding to its receptor on the myocyte. Flaccid paralysis of skeletal muscles develops within one minute. In normal subjects, skeletal muscle function returns to normal approximately five minutes after a single bolus injection of succinylcholine as it passively diffuses away from the neuromuscular junction. Pseudocholinesterase deficiency can result in higher levels of intact succinylcholine molecules reaching receptors in the neuromuscular junction, causing the duration of paralytic effect to continue for as long as eight hours. This condition is recognized clinically when paralysis of the respiratory and other skeletal muscles fails to spontaneously resolve after succinylcholine is administered as an adjunctive paralytic agent during anesthesia procedures. In such cases respiratory assistance is required.
+Mutant alleles at the BCHE locus are responsible for suxamethonium sensitivity. Homozygous persons sustain prolonged apnea after administration of the muscle relaxant suxamethonium in connection with surgical anesthesia. The activity of pseudocholinesterase in the serum is low and its substrate behavior is atypical. In the absence of the relaxant, the homozygote is at no known disadvantage.
+Finally, pseudocholinesterase metabolism of procaine results in formation of paraaminobenzoic acid (PABA). If the patient receiving procaine is on sulfonamide antibiotics such as bactrim the antibiotic effect will be antagonized by providing a new source of PABA to the microbe for subsequent synthesis of folic acid.
+
+
+=== Prophylactic countermeasure against nerve agents ===
+Butyrylcholinesterase is a prophylactic countermeasure against organophosphate nerve agents. It binds nerve agent in the bloodstream before it can exert effects in the nervous system. Because it is a biological scavenger (and universal target), it is currently the only therapeutic agent effective in providing complete stoichiometric protection against the entire spectrum of organophosphate nerve agents.
+
+
+=== Prophylactic against cocaine addiction ===
+An experimental new drug was developed for the potential treatment of cocaine abuse and overdose based on the pseudocholinesterase structure (it was a human BChE mutant with improved catalytic efficiency). It was shown to remove cocaine from the body 2000 times as fast as the natural form of BChE. Studies in rats have shown that the drug prevented convulsions and death when administered cocaine overdoses.
+Transplantation of skin cells modified to express the enhanced form of butyrylcholinesterase into mice enables the long-term release of the enzyme and efficiently protects the mice from cocaine-seeking behavior and cocaine overdose.
+
+
+=== Marker for risk of SIDS ===
+Research published by the SIDS and Sleep Apnoea Research Group of The Children's Hospital in Westmead, New South Wales, Australia, in the May 6, 2022 edition of in The Lancet indicates that BChE may be a marker for babies that are at risk of sudden infant death syndrome (SIDS). That is, lower levels of BChE were associated with an increased risk of SIDS.
+
+
+== Interactive pathway map ==
+Click on genes, proteins and metabolites below to link to respective articles.  
+
+
+== Inhibitors ==
+
+Phytocannabinoids
+Cannabidiol
+Δ8-tetrahydrocannabinol
+Cannabigerol
+Cannabigerolic acid
+Cannabicitran
+Cannabidivarin
+Cannabichromene
+Cannabinol
+Cymserine and derivatives
+Profenamine
+Rivastigmine
+Tacrine
+(+)-ZINC-12613047: IC50 human BChE 13nM, high selectivity over AChE.
+Hybrid/bitopic ligands
+
+
+== Nomenclature ==
+The nomenclatural variations of BCHE and of cholinesterases generally are discussed at Cholinesterase § Types and nomenclature.

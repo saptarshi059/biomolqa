@@ -1,0 +1,94 @@
+Sibutramine, formerly sold under the brand name Meridia among others, is an appetite suppressant which has been discontinued in many countries. It works as a serotonin–norepinephrine reuptake inhibitor (SNRI) similar to certain antidepressants. Until 2010, it was widely marketed and prescribed as an adjunct in the treatment of obesity along with diet and exercise. It has been associated with increased cardiovascular diseases and strokes and has been withdrawn from the market in 2010 in several countries and regions including 
+Australia, Canada,
+China, the European Union, Hong Kong, India, Mexico, New Zealand, the Philippines, Thailand, the United Kingdom, and the United States. It was never approved in Japan. However, the drug remains available in some countries.
+Sibutramine was originally developed in 1988 by Boots in Nottingham, UK, and manufactured and marketed by Abbott Laboratories and sold under a variety of brand names including Reductil, Meridia, Siredia, and Sibutrex before its withdrawal 2010 from most markets. It was classified as a Schedule IV controlled substance in the United States.
+As of 2018, the US Food and Drug Administration (FDA) still found sibutramine in over 700 diet supplements marketed as "natural", "traditional", or "herbal remedies".
+
+
+== Medical uses ==
+Sibutramine has been used to produce appetite suppression for the purpose of attaining weight loss in the treatment of patients with obesity.
+
+
+== Contraindications ==
+Sibutramine is contraindicated in patients with:
+
+Psychiatric conditions as bulimia nervosa, anorexia nervosa, severe depression, or pre-existing mania
+Patients with a history of or a predisposition to drug or alcohol abuse
+Hypersensitivity to the drug or any of the inactive ingredients
+Patients below 18 and above 65 years of age
+Concomitant treatment with a monoamine oxidase inhibitor (MAOI), antidepressant, or other centrally active drugs, particularly other anoretics
+History of peripheral artery disease
+Hypertension that is not sufficiently controlled (e.g., >145/90 mmHg), caution in controlled hypertension
+Existing pulmonary hypertension
+Existing damage on heart valves, congestive heart failure, previous myocardial infarction (heart attack), tachycardia, arrhythmia, or cerebrovascular disease (e.g., stroke or transient ischemic attack [TIA])
+Hyperthyroidism (overactive thyroid gland)
+Closed-angle glaucoma
+Epilepsy
+Enlargement of the prostate gland with urinary retention (relative contraindication)
+Pheochromocytoma
+Pregnant and lactating women (relative contraindication)
+
+
+== Side effects ==
+A higher number of cardiovascular events has been observed in people taking sibutramine versus control (11.4% vs. 10.0%). In 2010, the FDA noted the concerns that sibutramine increases the risk of heart attacks and strokes in patients with a history of cardiovascular disease.
+Frequently encountered side effects include dry mouth, paradoxically increased appetite, nausea, strange taste in the mouth, abdominal pain, constipation, insomnia, dizziness, drowsiness, menstrual cramps, headache, flushing, or joint/muscle pain.
+In a 2016 Cochrane review, sibutramine was found to substantially increase blood pressure and heart rate in some patients, in the updated review in 2021 sibutramine was not included since the drug had been withdrawn from the market.  When used, regular blood pressure monitoring needed to be performed.
+The following side effects are infrequent but serious and require immediate medical attention: cardiac arrhythmias, paresthesia, mental changes (e.g., excitement, restlessness, confusion, depression, rare thoughts of suicide).
+Symptoms that require urgent medical attention are seizures, problems urinating, abnormal bruising or bleeding, melena, hematemesis, jaundice, fever and rigors, chest pain, hemiplegia, abnormal vision, dyspnea and edema.
+
+
+== Interactions ==
+Sibutramine has a number of clinically significant interactions. The concomitant use of sibutramine and monoamine oxidase inhibitors (MAOIs, such as selegiline) is not indicated, as it may increase the risk of serotonin syndrome, a somewhat rare but serious adverse drug reaction. Sibutramine should not be taken within two weeks of stopping or starting an MAOI. Taking both sibutramine and certain medications used in the treatment of migraines—such as ergolines and triptans—as well as opioids, may also increase the risk for serotonin syndrome, as may the use of more than one serotonin reuptake inhibitor at the same time.
+The concomitant use of sibutramine and drugs which inhibit CYP3A4, such as ketoconazole and erythromycin, may increase plasma levels of sibutramine.
+Sibutramine does not affect the efficacy of hormonal contraception.
+
+
+== Pharmacology ==
+
+
+=== Pharmacodynamics ===
+
+Sibutramine is a serotonin–norepinephrine reuptake inhibitor (SNRI) that, in humans, reduces the reuptake of norepinephrine (by ~73%), serotonin (by ~54%), and dopamine (by ~16%), thereby increasing the levels of these substances in synaptic clefts and helping enhance satiety; the serotonergic action, in particular, is thought to influence appetite. Older anorectic agents such as amphetamine and fenfluramine force the release of these neurotransmitters rather than affecting their reuptake.
+Sibutramine's mechanism of action is similar to tricyclic antidepressants, and it has demonstrated antidepressant effects in animal models of depression. It was approved by the US Food and Drug Administration (FDA) in November 1997 for the treatment of obesity.
+Sibutramine is reported to be a prodrug to two active metabolites, desmethylsibutramine (M1; BTS-54354) and didesmethylsibutramine (M2; BTS-54505), with much greater potency as monoamine reuptake inhibitors. Further studies have indicated that the (R)-enantiomers of each metabolite exert significantly stronger anorectic effects than the (S)-enantiomers.
+Unlike other serotonergic appetite suppressants like fenfluramine, sibutramine and its metabolites have only low and likely inconsequential affinity for the 5-HT2B receptor.
+
+
+=== Pharmacokinetics ===
+Sibutramine is well absorbed from the gastrointestinal tract (77%), but undergoes considerable first-pass metabolism, reducing its bioavailability. The drug itself reaches its peak plasma level after 1 hour and has also a half-life of 1 hour. Sibutramine is metabolized by cytochrome P450 isozyme CYP3A4 into two pharmacologically active primary and secondary amines (called active metabolites 1 and 2) with half-lives of 14 and 16 hours, respectively. Peak plasma concentrations of active metabolites 1 and 2 are reached after three to four hours. The following metabolic pathway mainly results in two inactive conjugated and hydroxylated metabolites (called metabolites 5 and 6). Metabolites 5 and 6 are mainly excreted in the urine.
+
+
+== Chemistry ==
+Sibutramine has usually been used in the form of the hydrochloride monohydrate salt.
+
+
+=== Detection in body fluids ===
+Sibutramine and its two active N-demethylated metabolites may be measured in biofluids by liquid chromatography-mass spectrometry. Plasma levels of these three species are usually in the 1–10 μg/L range in persons undergoing therapy with the drug. The parent compound and norsibutramine are often not detectable in urine, but dinorsibutramine is generally present at concentrations of >200 μg/L.
+
+
+== Society and culture ==
+
+
+=== Regulatory approval, 1997–2010 ===
+Sibutramine was originally developed in 1988 by Boots in Nottingham, UK,/ and marketed by Knoll Pharmaceuticals after BASF/Knoll AG purchased the Boots Research Division in 1995.  
+It was classified as a Schedule IV controlled substance in the United States.
+In 1997, the US Food and Drug Administration (FDA) approved it for weight loss and maintenance of weight loss in people with a BMI greater than or equal to 30 kg/m2 or for people with a BMI ≥27 kg/m2 who have other cardiovascular risk factors. It was manufactured and marketed by Abbott Laboratoriess.
+It was sold under a variety of brand names including Reductil, Meridia, Siredia, and Sibutrex.
+In 2002, studies looked into reports of sudden death, heart failure, renal failure and gastrointestinal problems. Despite a 2002 petition by Ralph Nader-founded NGO Public Citizen, the FDA made no attempts to withdraw the drug, but was part of a Senate hearing in 2005. Similarly, in 2004, David Graham, FDA "whistleblower", testified before a Senate Finance Committee hearing that sibutramine may be more dangerous than the conditions it is used for.
+Between January 2003 and November 2005, a large randomized-controlled "Sibutramine Cardiovascular OUTcomes" (SCOUT) study with 10,742 patients examined whether or not sibutramine administered within a weight management program reduces the risk for cardiovascular complications in people at high risk for heart disease and concluded that use of silbutramine had a RR 1.16 for the primary outcome (composit of nonfatal MI, nonfatal CVA, cardiac arrest, and CV death).
+In April 2010  David Haslam (chairman of the National Obesity Forum) said in a dissenting article, "Sibutramine: gone, but not forgotten", that the SCOUT study was flawed as it only covered high-risk patients and did not consider obese patients who did not have cardiovascular complications or similar contraindications.
+On January 21, 2010, the European Medicines Agency recommended suspension of marketing authorizations for sibutramine based on the SCOUT study results.
+In August 2010 the FDA added a new contraindication for patients over 65 years of age because clinical studies of sibutramine did not include sufficient numbers of such patients.
+On October 8, 2010, the FDA recommended against continued prescribing because of unnecessary cardiovascular risks to patients, asking Abbott Laboratories to voluntarily withdraw. Abbott announced the same day that it was withdrawing sibutramine from the US market, citing concerns over minimal efficacy coupled with increased risk of adverse cardiovascular events.
+
+
+=== Counterfeit weight-loss products, 2008–present ===
+On December 22, 2008, the FDA issued an alert to consumers naming 27 different products marketed as “dietary supplements” for weight loss, that illegally contain undisclosed amounts of sibutramine. In March 2009, Dieter Müller et al. published a study of sibutramine poisoning cases from similar Chinese "herbal supplements" sold in Europe, containing as much as twice the dosage of the legally licensed drug.
+An additional 34 products were recalled by the FDA on April 22, 2009, further underscoring the risks associated with unregulated "herbal supplements" to unsuspecting persons. This concern is especially relevant to those with underlying medical conditions incompatible with undeclared pharmaceutical adulterants. In January 2010, a similar alert was issued for counterfeit versions of the over-the-counter weight loss drug Alli sold over the Internet. Instead of the active ingredient orlistat, the counterfeit drugs contain sibutramine, and at concentrations at least twice the amount recommended for weight loss.
+In March 2010 Health Canada advised the public that illegal "Herbal Diet Natural" had been found on the market, containing sibutramine, which is a prescription drug in Canada, without listing sibutramine as an ingredient. In October 2010 FDA notified consumers that "Slimming Beauty Bitter Orange Slimming Capsules contain the active pharmaceutical ingredient sibutramine, a prescription-only drug which is a stimulant. Sibutramine is not listed on the product label."
+In October 2010 the MHRA in the UK issued a warning regarding "Payouji tea" and "Pai You Guo Slim Capsules" which were found to contain undeclared quantities of sibutramine.
+On December 30, 2010, the FDA released a warning regarding "Fruta Planta" dietary products, which were found to contain undeclared amounts of sibutramine. The recall stated that "there is NO SAFE formula on the US market and that all versions of Fruta Planta contain sibutramine. All versions of the formula are UNSAFE and should not be purchased from any source."
+In 2011, some illegal weight loss products imported into Ireland have been found to contain sibutramine. In 2012, similar concerns were raised in Australia, where illegal imported supplements have been found to contain sibutramine, resulting in public alerts from Australia's Therapeutic Goods Administration.
+In October 2011, the FDA warned that 20 brands of dietary supplements were tainted with sibutramine.
+In a 2018 study the FDA found synthetic additives including sibutramine in over 700 diet supplements marketed as "natural", "traditional" or "herbal remedies".
+On January 14, 2025, Tokyo metropolitan government issued a warning regarding "Toki Slimming Candy", which was found to contain sibutramine. There were also several cases in Japan where unapproved products containing sibutramine led to adverse outcomes.

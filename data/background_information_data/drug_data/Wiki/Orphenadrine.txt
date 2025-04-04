@@ -1,0 +1,43 @@
+Orphenadrine (sold under many brand names) is an anticholinergic drug of the ethanolamine antihistamine class; it is closely related to diphenhydramine. It is a muscle relaxant that is used to treat muscle pain and to help with motor control in Parkinson's disease, but has largely been superseded by newer drugs. It is considered a dirty drug due to its multiple mechanisms of action in different pathways. It was discovered and developed in the 1940s.
+
+
+== Medical use ==
+Orphenadrine is a skeletal muscle relaxant. It is used to relieve pain caused by muscle injuries such as strains and sprains, in combination with rest and physical therapy.  A 2004 review found fair evidence that orphenadrine is effective for acute back or neck pain, but found insufficient evidence to establish the relative efficacy of the drug in relation to other drugs in the study.
+Orphenadrine and other muscle relaxants are sometimes used to treat pain arising from rheumatoid arthritis but there is no evidence they are effective for that purpose.
+In 2003, a Cochrane Review of the use of anticholinergic drugs to improve motor function in Parkinson's disease found that as a class, the drugs are useful for that purpose; it identified one single-site randomised, cross-over study of orphenadrine vs placebo. Although orphenadrine and other anticholinergics have largely been superseded by other drugs; they have a use in alleviating motor function symptoms, and appear to help about 20% of people with Parkinson's.
+
+
+== Side effects ==
+Orphenadrine has the side effects of the other common antihistamines in large part. Stimulation is somewhat more common than with other related antihistamines, and is especially common in the elderly. Common side effects include dry mouth, dizziness, drowsiness, constipation, urine retention, blurred vision, and headache.   Its use in Parkinson's is especially limited by these factors.
+Orphenadrine is contraindicated in patients with glaucoma, myasthenia gravis, sphincter relaxation disorders, digestive problems such as peptic ulcers, bowel obstruction, or with enlarged prostate, bladder disorders; that is, they should not consume this drug.
+Continuous and/or cumulative use of anticholinergic medications, including first-generation antihistamines, is associated with higher risk of cognitive decline and dementia in older people.
+
+
+== Pharmacology ==
+Orphenadrine is known to have these pharmacological properties:
+
+Nonselective mACh receptor antagonist (anticholinergic, 58% as potent as atropine)  Various monographs and package inserts, nursing manuals, journal articles and so forth have proposed the theory that this anticholinergic (atropine-like) activity, NMDA antagonism and possible local anaesthetic and miscellaneous analgesic effects may be the reason for orphenadrine's efficacy against muscle and other pain. These reasons are behind the use of orphenadrine and other drugs of a number of types which are used with paracetamol, aspirin, naproxen, and similar agents with or without opioid analgesics to more effectively manage pain of various types.
+H1 receptor antagonist (antihistamine)
+NMDA receptor antagonist (Ki value of 6.0 ± 0.7 μM, one hundred times less potent than phencyclidine, which binds with a Ki of 59 nM)
+NDRI (norepinephrine and dopamine reuptake inhibitor)
+Nav1.7, Nav1.8, and Nav1.9 sodium channel blocker
+HERG potassium channel blocker
+
+
+== History ==
+George Rieveschl was a professor of chemistry at the University of Cincinnati and led a research program working on antihistamines.  In 1943, one of his students, Fred Huber, synthesized diphenhydramine.  Rieveschl worked with Parke-Davis to test the compound, and the company licensed the patent from him.  In 1947 Parke-Davis hired him as their Director of Research.  While he was there, he led the development of orphenadrine, an analog of diphenhydramine.
+Prior to the development of amantadine in the late 1960s and then other drugs, anticholinergics like orphenadrine were the mainstay of Parkinson's treatment.
+
+
+== Formulation ==
+Orphenadrine has been available as a citrate salt and a hydrochloride salt; in the US as of February 2016 the citrate form was available in tablets, extended release tablets, compounding powder and by injection for acute use in a hospital setting.
+Orphenadrine is often available mixed with aspirin, paracetamol/acetaminophen, ibuprofen, caffeine, and/or codeine.
+The brand names Norflex and Norgesic are formulations of the citrate salt of orphenadrine and Disipal is the hydrochloride salt.
+
+
+== Chemistry ==
+Orphenadrine is a derivative of diphenhydramine with a methyl group added to one of the phenyl rings.
+
+
+=== Stereochemistry ===
+Orphenadrine has a chiral center and two enantiomers. When employed as a therapeutic agent, it is typically supplied as the racemate.

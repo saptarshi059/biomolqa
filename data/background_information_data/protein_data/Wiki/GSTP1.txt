@@ -1,0 +1,14 @@
+Glutathione S-transferase P is an enzyme that in humans is encoded by the GSTP1 gene.
+
+
+== Function ==
+Glutathione S-transferases (GSTs) are a family of enzymes that play an important role in detoxification by catalyzing the conjugation of many hydrophobic and electrophilic compounds with reduced glutathione.  Based on their biochemical, immunologic, and structural properties, the soluble GSTs are categorized into four main classes: alpha, mu, pi, and theta.  The glutathione S-transferase pi gene (GSTP1) is a polymorphic gene encoding active, functionally different GSTP1 variant proteins that are thought to function in xenobiotic metabolism and play a role in susceptibility to cancer, and other diseases.
+
+
+== Interactions ==
+GSTP1 has been shown to interact with Fanconi anemia, complementation group C and MAPK8.
+GST-Pi is expressed in many human tissues, particularly in the biliary tree, renal distal convoluted tubules and lungs.
+
+
+== Possible drug target ==
+Triple-negative breast cancer cells rely on glutathione-S-transferase Pi1, and inhibitors are being studied.  Piperlongumine has been found to silence the gene.

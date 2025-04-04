@@ -1,0 +1,50 @@
+Chlorambucil, sold under the brand name Leukeran among others, is a chemotherapy medication used to treat chronic lymphocytic leukemia (CLL), Hodgkin lymphoma, and non-Hodgkin lymphoma. For CLL it is a preferred treatment. It is given by mouth.
+Common side effects include bone marrow suppression. Other serious side effects include an increased long term risk of further cancer, infertility, and allergic reactions. Use during pregnancy often results in harm to the baby. Chlorambucil is in the alkylating agent family of medications. It works by blocking the formation of DNA and RNA.
+Chlorambucil was approved for medical use in the United States in 1957. It is on the World Health Organization's List of Essential Medicines. It was originally made from nitrogen mustard.
+
+
+== Medical uses ==
+Chlorambucil's current use is mainly in chronic lymphocytic leukemia, as it is well tolerated by most patients, though chlorambucil has been largely replaced by fludarabine as first-line treatment in younger patients. It can be used for treating some types of non-Hodgkin lymphoma, Waldenström macroglobulinemia, polycythemia vera, trophoblastic neoplasms, and ovarian carcinoma. Moreover, it also has been used as an immunosuppressive drug for various autoimmune and inflammatory conditions, such as nephrotic syndrome.
+
+
+== Side effects ==
+Bone marrow suppression (anemia, neutropenia, thrombocytopenia) is the most commonly occurring side effect of chlorambucil. Withdrawn from the drug, this side effect is typically reversible. Like many alkylating agents, chlorambucil has been associated with the development of other forms of cancer.
+Less commonly occurring side effects include:
+
+Gastrointestinal Distress (nausea, vomiting, diarrhea, and oral ulcerations).
+Central Nervous System: Seizures, tremors, muscular twitching, confusion, agitation, ataxia, and hallucinations.
+Skin reactions
+Hepatotoxicity
+Infertility
+Hair Loss
+
+
+== Pharmacology ==
+
+
+=== Mechanism of action ===
+Chlorambucil produces its anti-cancer effects by interfering with DNA replication and damaging the DNA in a cell. The DNA damage induces cell cycle arrest and cellular apoptosis via the accumulation of cytosolic p53 and subsequent activation of Bcl-2-associated X protein, an apoptosis promoter.
+Chlorambucil alkylates and cross-links DNA during all phases of the cell cycle, inducing DNA damage via three different methods of covalent adduct generation with double-helical DNA:
+
+Attachment of alkyl groups to DNA bases, resulting in the DNA being fragmented by repair enzymes in their attempts to replace the alkylated bases, preventing DNA synthesis and RNA transcription from the affected DNA.
+DNA damage via the formation of cross-links which prevents DNA from being separated for synthesis or transcription.
+Induction of mispairing of the nucleotides leading to mutations.
+The precise mechanisms by which chlorambucil acts to kill tumor cells are not yet completely understood.
+
+
+=== Limitations to bioavailability ===
+A recent study has shown Chlorambucil to be detoxified by human glutathione transferase Pi (GST P1-1), an enzyme that is often found over-expressed in cancer tissues.
+This is important since Chlorambucil, as an electrophile, is made less reactive by conjugation with glutathione, thereby making the drug less toxic to the cell.
+
+Shown above, Chlorambucil reacts with glutathione as catalyzed by hGSTA 1-1 leading to the formation of the monoglutathionyl derivative of Chlorambucil.
+
+
+== Chemistry ==
+Chlorambucil is a white to pale beige crystalline or granular powder with a slight odor. When heated to decomposition it emits very toxic fumes of hydrogen chloride and nitrogen oxides
+
+
+== History ==
+Nitrogen mustards arose from the derivatization of sulphur mustard gas after military personnel exposed to it during World War I were observed to have decreased white blood cell counts. Since the sulphur mustard gas was too toxic to be used in humans, Gilman hypothesized that by reducing the electrophilicity of the agent, which made it highly chemically reactive towards electron-rich groups, then less toxic drugs could be obtained. To this end, he made analogues that were less electrophilic by exchanging the sulphur with a nitrogen, leading to the nitrogen mustards.
+With an acceptable therapeutic index in humans, nitrogen mustards were first introduced in the clinic in 1946. Aliphatic mustards were developed first, such as mechlorethamine hydrochloride (mustine hydrochloride), which is still used in the clinic today.
+In the 1950s, aromatic mustards like chlorambucil were introduced as less toxic alkylating agents than the aliphatic nitrogen mustards, proving to be less electrophilic and react with DNA more slowly. Additionally, these agent can be administered orally, a significant advantage.
+Chlorambucil was first synthesized by Everett et al.

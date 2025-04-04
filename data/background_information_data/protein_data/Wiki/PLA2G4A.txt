@@ -1,0 +1,13 @@
+Cytosolic phospholipase A2 is an enzyme that in humans is encoded by the PLA2G4A gene.
+
+
+== Function ==
+This gene encodes a member of the cytosolic phospholipase A2 group IV family. The enzyme catalyzes the hydrolysis of membrane phospholipids to release arachidonic acid which is subsequently metabolized into eicosanoids. Eicosanoids, including prostaglandins and leukotrienes, are lipid-based cellular hormones that regulate hemodynamics, inflammatory responses, and other intracellular pathways. The hydrolysis reaction also produces lysophospholipids that are converted into platelet-activating factor. The enzyme is activated by increased intracellular Ca2+ levels and phosphorylation, resulting in its translocation from the cytosol and nucleus to perinuclear membrane vesicles.
+
+
+== Interactions ==
+PLA2G4A has been shown to interact with histone acetyltransferase KAT5.
+
+
+== Clinical significance ==
+Mutations in this gene have been associated with multifocal stenosing ulceration of the small intestine.

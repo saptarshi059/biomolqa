@@ -1,0 +1,32 @@
+Levobunolol (trade names AKBeta, Betagan, Vistagan, among others) is a non-selective beta blocker. It is used topically in the form of eye drops to manage ocular hypertension (high pressure in the eye) and open-angle glaucoma.
+
+
+== Contraindications ==
+Like other non-selective beta blockers, levobunolol is contraindicated in patients with airway diseases such as asthma and severe chronic obstructive pulmonary disease (COPD), as well as heart problems such as sinus bradycardia, second- or third-degree atrioventricular block, sick sinus syndrome, and cardiogenic shock. Combination with MAO-A inhibitors is also contraindicated because it could cause a dangerous rise in blood pressure.
+Levobunolol is not useful for the treatment of closed-angle glaucoma.
+
+
+== Side effects ==
+
+The most common side effect is eye irritation felt as stinging or burning, which occurs in up to a third of patients. Blepharoconjunctivitis occurs in up to 5% of patients. Rarer adverse effects include keratitis, edema and increased lacrimation. Allergies are rare, but seem to be more common than under the related drug timolol.
+If the substance reaches the nasal mucosa via the tear duct, it can be absorbed into the bloodstream and cause systemic side effects. These include orthostatic hypotension (low blood pressure) and other effects on the heart and circulatory system, breathing problems in people with asthma, and skin symptoms such as itching and aggravation of psoriasis.
+
+
+== Interactions ==
+Even in the form of eye drops, levebunolol may cause hypotension when combined with alpha blockers, calcium channel blockers, tricyclic antidepressants, and other drugs that lower blood pressure. It can also cause severe hypertension (high blood pressure) when combined with sympathomimetic drugs or MAO-A inhibitors, bradycardia (low heart rate) when combined with antiarrhythmics or mefloquine, and hypoglycemia (low blood sugar) when combined with antidiabetic drugs such as insulin.
+
+
+== Pharmacology ==
+
+
+=== Mechanism of action ===
+Levobunolol is a non-cardioselective beta blocker, that is, it blocks beta-1 receptors as well as beta-2 receptors. The latter type dominates in the ciliary body, where it controls aqueous humour production. Blocking this type of receptor reduces aqueous humour production, lowering intraocular pressure. The substance has no relevant membrane stabilizing effect or intrinsic sympathomimetic activity. Like other beta blockers, and unlike the anti-glaucoma medication pilocarpine, levobunolol has no effect on accommodation and pupil size.
+
+
+=== Pharmacokinetics ===
+
+The substance quickly penetrates the cornea and reaches the aqueous humour. It is reduced to dihydrolevobunolol, which is equally active, in the eye's tissues. The drug starts to lower intraocular pressure within an hour, reaches its maximum effect after two to six hours, and remains effective for up to 16 hours. It has an elimination half-life of six hours and is mainly excreted via the kidney.
+
+
+== Chemistry ==
+Levobunolol is the pure L-enantiomer of bunolol and has more than 60 times the pharmacological activity of D-bunolol. It is used as the hydrochloride, which melts at 209 to 211 °C (408 to 412 °F) and is soluble in water and methanol and slightly soluble in ethanol.

@@ -1,0 +1,1 @@
+Alpha-1D adrenergic receptor; This alpha-adrenergic receptor mediates its effect through the influx of extracellular calcium; Belongs to the G-protein coupled receptor 1 family. Adrenergic receptor subfamily. ADRA1D sub-subfamily.

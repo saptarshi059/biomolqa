@@ -1,0 +1,31 @@
+Carbonic anhydrase 12 is an enzyme that in humans is encoded by the CA12 gene.
+
+
+== Function ==
+Carbonic anhydrases (CAs) are a large family of zinc metalloenzymes that catalyze the reversible hydration of carbon dioxide. They participate in various biological processes, including respiration, calcification, acid-base balance, bone resorption, and the formation of aqueous humor, cerebrospinal fluid, saliva, and gastric acid. This gene product is a type I membrane protein highly expressed in normal tissues, such as kidney, colon and pancreas, and has been overexpressed in 10% of clear cell renal carcinomas. Two transcript variants encoding different isoforms have been identified for this gene.
+
+
+== Pathology ==
+Loss of function mutations in the CAXII gene result in defects in fluids and carbonate secretions in the following diseases:
+1) Cystic fibrosis-like syndrome with normal cystic fibrosis transmembrane conductance regulator (CFTR) protein levels 
+2) Pancreatitis
+3) Sjögren's syndrome
+4) Xerostomia or dry mouth syndrome
+
+
+== Molecular Basis of Cystic Fibrosis-like Syndrome ==
+CAXII, with either the His121Gln or Glu143Lys mutation, localizes to basolateral membranes of polarized MDCK cells similar to the wild type enzyme, indicating no deleterious effect on subcellular location. 
+The Glu143Lys (E143K) loss-of-function variant of the CAXII gene is associated with a rare autosomal recessive condition named isolated hyperchlorhidrosis (carbonic anhydrase XII deficiency). Typically, this variant results in excessive sodium chloride loss, usually through sweating, and presents pathologically as episodic hyponatremic dehydration with bouts of vomiting and/or diarrhoea.
+Generally, CAXII mutant enzymes show reduced activity. These observations make it difficult to explain the mechanism for the autosomal recessive disorder of hyponatremia, causing salt wasting in sweat due to mutant CAXII.
+In a separate study, researchers observed that mutant enzyme activity is completely reduced at physiological concentrations of sodium chloride. Thus, loss of the function of CAXII in sweat glands and lungs is the molecular basis for cystic fibrosis patients with normal CFTR levels.
+
+
+== High Impact Information on CAXII ==
+Differential modulation of the active site environment of CAXII by cationic quantum dots and polylysine helps design CAXII specific activators and inhibitors of the enzyme. CAXII specific inhibition provides a tool to interfere with cell proliferation, resulting in cell apoptosis in T-cell lymphomas.
+
+
+== Analytical, Diagnostic, and Therapeutic Context of CAXII ==
+Serum CAXII levels should be applicable as a sero-diagnostic marker for lung cancer.
+
+
+== Notes ==

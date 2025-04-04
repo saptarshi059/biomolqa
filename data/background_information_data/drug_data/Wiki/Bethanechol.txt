@@ -1,0 +1,11 @@
+Bethanechol is a parasympathomimetic choline carbamate that selectively stimulates muscarinic receptors without any effect on nicotinic receptors. Unlike acetylcholine, bethanechol is not hydrolyzed by cholinesterase and will therefore have a long duration of action. Bethanechol is sold under the brand names Duvoid (Roberts), Myotonachol (Glenwood), Urecholine (Merck Frosst), and Urocarb (Hamilton). The name bethanechol refers to its structure as the urethane of beta-methylcholine.
+
+
+== Medical uses ==
+Bethanechol alleviates dry mouth and is sometimes given orally or subcutaneously to treat urinary retention resulting from general anesthetic, diabetic neuropathy of the bladder, or a side effect of antidepressants; or to treat gastrointestinal lack of muscular tone. The muscarinic receptors in the bladder and gastrointestinal tract stimulate contraction of the bladder and expulsion of urine, and increased gastrointestinal motility, respectively. Bethanechol should be used to treat these disorders only after mechanical obstruction is ruled out as a possible cause.
+Its potential benefit in the treatment of cerebral palsy has been investigated.
+Atropine is given preoperatively to prevent voiding of the bowel/bladder during surgery; then, bethanechol is given postoperatively to revert this action.
+
+
+== Contraindications ==
+Use of bethanechol, as well as all other muscarinic receptor agonists, is contraindicated in patients with asthma, coronary insufficiency, peptic ulcers, intestinal obstruction and hyperthyroidism. The parasympathomimetic action of this drug will exacerbate the symptoms of these disorders.

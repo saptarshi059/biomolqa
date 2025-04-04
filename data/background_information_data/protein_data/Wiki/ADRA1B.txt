@@ -1,0 +1,20 @@
+The alpha-1B adrenergic receptor (α1B-adrenoreceptor), also known as ADRA1B, is an alpha-1 adrenergic receptor, and also denotes the human gene encoding it. The crystal structure of the α1B-adrenergic receptor has been determined in complex with the inverse agonist (+)-cyclazosin.
+
+
+== Receptor ==
+There are 3 alpha-1 adrenergic receptor subtypes: alpha-1A, -1B and -1D, all of which signal through the Gq/11 family of G-proteins and different subtypes show different patterns of activation. They activate mitogenic responses and regulate growth and proliferation of many cells.
+
+
+== Gene ==
+This gene encodes alpha-1B-adrenergic receptor, which induces neoplastic transformation when transfected into NIH 3T3 fibroblasts and other cell lines. Thus, this normal cellular gene is identified as a protooncogene. This gene comprises 2 exons and a single large intron of at least 20 kb that interrupts the coding region.
+
+
+== Ligands ==
+Antagonists
+L-765,314
+Risperidone
+Brexpiprazole
+
+
+== Interactions ==
+Alpha-1B adrenergic receptor has been shown to interact with AP2M1. A role in regulation of dopaminergic neurotransmission has also been suggested.

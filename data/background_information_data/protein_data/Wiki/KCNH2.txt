@@ -1,0 +1,42 @@
+hERG (the human  Ether-à-go-go-Related Gene) is a gene (KCNH2) that codes for a protein known as Kv11.1, the alpha subunit of a potassium ion channel. This ion channel (sometimes simply denoted as 'hERG') is best known for its contribution to the electrical activity of the heart: the hERG channel mediates the repolarizing IKr current in the cardiac action potential, which helps coordinate the heart's beating.
+When this channel's ability to conduct electrical current across the cell membrane is inhibited or compromised, either by application of drugs or by rare mutations in some families, it can result in a potentially fatal disorder called long QT syndrome. Conversely, genetic mutations that increase the current through these channels can lead to the related inherited heart rhythm disorder short QT syndrome. A number of clinically successful drugs in the market have had the tendency to inhibit hERG, lengthening the QT and potentially leading to a fatal irregularity of the heartbeat (a ventricular tachyarrhythmia called torsades de pointes). This has made hERG inhibition an important antitarget that must be avoided during drug development.
+hERG has also been associated with modulating the functions of some cells of the nervous system and with establishing and maintaining cancer-like features in leukemic cells.
+
+
+== Function ==
+hERG forms the major portion of one of the ion channel proteins (the 'rapid' delayed rectifier current (IKr)) that conducts potassium (K+) ions out of the muscle cells of the heart (cardiac myocytes), and this current is critical in correctly timing the return to the resting state (repolarization) of the cell membrane during the cardiac action potential.  Sometimes, when referring to the pharmacological effects of drugs, the terms "hERG channels" and IKr are used interchangeably, but, in the technical sense, "hERG channels" can be made only by scientists in the laboratory; in formal terms, the naturally occurring channels in the body that include hERG are referred to by the name of the electrical current that has been measured in that cell type, so, for example, in the heart, the correct name is IKr.  This difference in nomenclature becomes clearer in the controversy as to whether the channels conducting IKr include other subunits (e.g., beta subunits) or whether the channels include a mixture of different types (isoforms) of hERG, but, when the originally-discovered form of hERG is experimentally transferred into cells that previously lacked hERG (i.e., heterologous expression), a potassium ion channel is formed, and this channel has many signature features of the cardiac 'rapid' delayed rectifier current (IKr), including IKr's inward rectification that results in the channel producing a 'paradoxical resurgent current' in response to repolarization of the membrane.
+
+
+== Structure ==
+A detailed atomic structure for hERG based on X-ray crystallography is not yet available, but structures have recently been solved by electron microscopy.  In the laboratory the heterologously expressed hERG potassium channel comprises four identical alpha subunits, which form the channel's pore through the plasma membrane.  Each hERG subunit consists of 6 transmembrane alpha helices, numbered S1-S6, a pore helix situated between S5 and S6, and cytoplasmically located N- and C-termini. The S4 helix contains a positively charged arginine or lysine amino acid residue at every 3rd position and is thought to act as a voltage-sensitive sensor, which allows the channel to respond to voltage changes by changing conformations between conducting and non-conducting states (called 'gating'). Between the S5 and S6 helices, there is an extracellular loop (known as 'the turret') and 'the pore loop', which begins and ends extracellularly but loops into the plasma membrane; the pore loop for each of the hERG subunits in one channel faces into the ion-conducting pore and is adjacent to the corresponding loops of the three other subunits, and together they form the selectivity filter region of the channel pore.  The selectivity sequence, SVGFG, is very similar to that contained in bacterial KcsA channels.  Although a full crystal structure for hERG is not yet available, a structure has been found for the cytoplasmic N-terminus, which was shown to contain a PAS domain (aminoacid 26–135) that slows the rate of deactivation.
+
+
+== Genetics ==
+Loss-of-function mutations in this channel may lead to long QT syndrome (LQT2), while gain-of-function mutations may lead to short QT syndrome. Both clinical disorders stem from ion channel dysfunction (so-called channelopathies) that can lead to the risk of potentially fatal cardiac arrhythmias (e.g., torsades de pointes), due to repolarization disturbances of the cardiac action potential.  There are far more hERG mutations described for long QT syndrome than for short QT syndrome.
+
+
+== Drug interactions ==
+This channel is also sensitive to drug binding, as well as decreased extracellular potassium levels, both of which can result in decreased channel function and drug-induced (acquired) long QT syndrome. Among the drugs that can cause QT prolongation, the more common ones include antiarrhythmics (especially Class 1A and Class III), anti-psychotic agents, and certain antibiotics (including quinolones and macrolides).
+Although there exist other potential targets for cardiac adverse effects, the vast majority of drugs associated with acquired QT prolongation are known to interact with the hERG potassium channel. One of the main reasons for this phenomenon is the larger inner vestibule of the hERG channel, thus providing more space for many different drug classes to bind and block this potassium channel.
+hERG containing channels are blocked by amiodarone, and it does prolong the QT interval, but its multiple other antiarrhythmic effects prevent this from causing torsades de pointes.
+Thioridazine causes peculiarly severe QTc prolongation by blocking hERG and was withdrawn by the manufacturer for this reason.
+
+
+== Drug development considerations ==
+Due to the documented potential of QT-interval-prolonging drugs, the United States Food and Drug Administration issued recommendations for the establishment of a cardiac safety profile during pre-clinical drug development: ICH S7B. The nonclinical evaluation of the potential for delayed ventricular repolarization (QT interval prolongation) by human pharmaceuticals, issued as CHMP/ICH/423/02, adopted by CHMP in May 2005. Preclinical hERG studies should be accomplished in GLP environment.
+
+
+== Naming ==
+The hERG gene was first named and described in a paper by Jeff Warmke and Barry Ganetzky, then both at the University of Wisconsin–Madison. The hERG gene is the human homolog of the Ether-à-go-go gene found in the Drosophila fly;  Ether-à-go-go was named in the 1960s by William D. Kaplan and William E. Trout, III, while at the City of Hope Hospital in Duarte, California. When flies with mutations in the Ether-à-go-go gene are anaesthetised with ether, their legs start to shake, like the dancing at the then popular Whisky a Go Go nightclub in West Hollywood, California.
+
+
+== Interactions ==
+HERG has been shown to interact with the 14-3-3 epsilon protein, encoded by YWHAE.
+
+
+== Inhibitors ==
+Astemizole
+Domperidone
+Sertindole
+Terfenadine
+Vanoxerine (GBR-12909)

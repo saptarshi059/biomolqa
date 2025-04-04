@@ -1,0 +1,26 @@
+Alfuzosin, sold under the brand name Uroxatral among others, is a medication of the α1 blocker class. It is used to treat benign prostatic hyperplasia (BPH).
+As an antagonist of the α1-adrenergic receptor, it works by relaxing the muscles in the prostate and bladder neck, making urination easier. 
+Alfuzosin was patented in 1978 and approved for medical use in 1988. It was approved in the US for benign prostatic hyperplasia in 2003. In 2020, it was the 336th-most commonly prescribed medication in the United States, with more than 700 thousand prescriptions.
+
+
+== Side effects ==
+The most common side effects are dizziness (due to postural hypotension), upper respiratory tract infection, headache, fatigue, and abdominal disturbances. Side effects include stomach pain, heartburn, and congested nose. Adverse effects of alfuzosin are similar to that of tamsulosin, but with 70% lower rate of retrograde ejaculation.
+
+
+== Chemistry ==
+Alfuzosin contains a stereocenter, so is chiral, with two enantiomeric forms, (R)- and (S)-alfuzosin. The drug is used as a racemate, (RS)-alfuzosin, a 1:1 mixture of the (R)- and (S)- forms.
+
+It is provided as the hydrochloride salt.
+
+
+== Society and culture ==
+
+
+=== Brand names ===
+It is sold under the brand names Alfosoft, Uroxatral, Xatral, Prostetrol, and Alfural.
+
+
+== Synthesis ==
+The nitration of veratraldehyde [120-14-9] (1) gives 6-Nitroveratraldehyde [20357-25-9] (2). Oxidation of the aldehyde to the acid, halogenation with thionyl chloride and amide formation with ammonia gives 4,5-dimethoxy-2-nitrobenzamide [4959-60-8] (3). Béchamp reduction of the nitro group gives 2-amino-4,5-dimethoxybenzamide [5004-88-6] (4). Reaction with urea leads to 6,7-Dimethoxyquinazoline-2,4-dione [28888-44-0] (5). Halogenation with phosphoryl chloride gives 2,4-Dichloro-6,7-dimethoxyquinazoline [27631-29-4] (6). Treatment with one equivalent of ammonia yields 4-Amino-2-chloro-6,7-dimethoxyquinazoline [23680-84-4] (7).
+
+The reaction of 2-Tetrahydrofuroic Acid [16874-33-2] (8) with Ethyl chloroformate [541-41-3] (9) gives Ethoxycarbonyl oxolane-2-carboxylate, PC10997775 (10). Treatment of the mixed anhydride with 3-Methylaminopropionitrile [693-05-0] (11) gives N-(2-Cyanoethyl)tetrahydro-N-methyl-2-furancarboxamide [72104-44-0] (12). Catalytic hydrogenation gives N-(3-Aminopropyl)tetrahydro-N-methyl-2-furancarboxamide [72104-45-1] (13). Migration of the amide methyl group to the terminal position gives N-[3-(methylamino)propyl]oxolane-2-carboxamide [81403-67-0] (14). Convergent synthesis between the two coutnerparts completed the synthesis of Alfuzosin (15).

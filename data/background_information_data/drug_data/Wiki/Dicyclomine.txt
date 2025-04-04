@@ -1,0 +1,44 @@
+Dicycloverine, also known as dicyclomine, sold under the brand name Bentyl among others, is a medication that is used to treat spasms of the intestines such as those that occur in irritable bowel syndrome (IBS). It is taken by mouth or by injection into a muscle. While it has been used in baby colic and enterocolitis, evidence does not support these uses.
+Common side effects include dry mouth, blurred vision, weakness, sleepiness, and lightheadedness. Serious side effects may include psychosis and breathing problems in babies. Use in pregnancy appears to be safe while use during breastfeeding is not recommended. How it works is not entirely clear.
+Dicycloverine was approved for medical use in the United States in 1950. It is available as a generic medication. In 2022, it was the 176th most commonly prescribed medication in the United States, with more than 2 million prescriptions.
+
+
+== Medical uses ==
+
+
+=== Irritable bowel syndrome ===
+Dicycloverine is used to treat the symptoms of irritable bowel syndrome, specifically hypermotility, in adults. As of 2016, clinical guidelines recommended dicycloverine and other antispasmodics for IBS with diarrhea as a first line treatment.
+
+
+=== Anxiety ===
+Dicycloverine can also be helpful for the treatment of anxiety, but this is an off-label use.
+
+
+== Contraindications ==
+This medicine should not be used for people who have an obstructive GI or urinary condition, severe ulcerative colitis, reflux, any unstable cardiac condition, glaucoma, myasthenia gravis, and anyone who is acutely bleeding.
+It should not be given to children or infants with colic due to the risks of convulsions, difficult breathing, irritability, and restlessness, and there is little evidence to support the efficacy in such use in any case.
+Dicycloverine is known to impair thinking and coordination.
+The effect on the baby during pregnancy or breastfeeding is not well understood.
+
+
+== Adverse effects ==
+Dicycloverine can cause a range of anticholinergic side effects such as dry mouth, nausea, blurred vision, dizziness, confusion, severe constipation, stomach pain, heart palpitations, difficulty urinating, and seizures.
+
+
+== Pharmacology ==
+
+
+=== Pharmacodynamics ===
+Dicycloverine is a selective muscarinic acetylcholine M1 receptor antagonist. It blocks the action of acetylcholine on muscarinic receptors on smooth muscles in the gastrointestinal tract, relaxing the smooth muscle.
+
+
+== History ==
+
+Dicycloverine was first synthesized chemically in the United States circa 1945 by scientists at William S. Merrell Company.
+It was first marketed in 1952 for gastrointestinal disorders, including colic in infants. The INN name "dicycloverine" was recommended in 1959. It was included in the combination drug for morning sickness called Bendectin, along with doxylamine and vitamin B6 which was launched in the US in 1956; dicycloverine was removed from the formulation in 1976 after Merrell determined that it added no value. Bendectin became the subject of many lawsuits due to allegations that it had caused birth defects similar to thalidomide, which Merrell had also marketed in the US and Canada.
+In the 1980s, several governments restricted its use in infants due to reports of convulsions, difficult breathing, irritability, and restlessness in infants given the drug.
+In 1994, the US Federal Trade Commission ordered Marion Merrell Dow, which had acquired Rugby Darby—the only generic manufacturer of dicycloverine in the US—to promise to grant licenses to its intellectual property on the drug to any company that wanted it, based on antitrust concerns. The US market for the medication at that time was around $8 million; Dow had 60% of it and Rugby had 40%. The next year, Hoechst Marion Roussel, which by that time had acquired the business, granted a license to Endo Pharmaceuticals. By 2000 several other generic competitors had started selling the medication. The case was part of the reshaping of the US pharmaceutical market that occurred in the 1990s, to favor generic entry.
+
+
+== Society and culture ==
+Rarely, there have been reports of dicycloverine abuse. Dicycloverine is an antagonist at σ1 and 5-HT2A receptor sites, though its affinities for these targets are roughly one-fifth to one-tenth as strong as its affinities for CHRM1 and CHRM4 (its clinical targets). It is also a relatively non-polar tertiary amine, able to cross the blood–brain barrier, leading to delirium at high concentrations.
