@@ -1,25 +1,3 @@
 Torasemide, also known as torsemide, is a diuretic medication used to treat fluid overload due to heart failure, kidney disease, and liver disease. It is a less preferred treatment for high blood pressure. It is taken by mouth or by injection into a vein.
 Common side effects include headache, increased urination, diarrhea, cough, and dizziness. Other side effects may include hearing loss and low blood potassium. Torasemide is a sulfonamide and loop diuretic. Use is not recommended in pregnancy or breastfeeding. It works by decreasing the reabsorption of sodium by the kidneys.
 Torasemide was patented in 1974 and came into medical use in 1993. It is on the World Health Organization's List of Essential Medicines. It is available as a generic medication. In 2022, it was the 184th most commonly prescribed medication in the United States, with more than 2 million prescriptions.
-
-
-== Medical uses ==
-It is used to treat fluid overload due to heart failure. It is sometimes used to treat high blood pressure. Compared with furosemide, torasemide is associated with a lower risk of rehospitalization for heart failure and an improvement in New York Heart Association class of heart failure. In heart failure it may be safer and more effective than furosemide. Long-term outcomes with torasemide may be better than with furosemide in patients with heart failure.
-
-
-== Adverse effects ==
-No evidence of torasemide-induced ototoxicity has been demonstrated in humans.
-Loop diuretics, including torsemide, may decrease total body thiamine, particularly in people with poor thiamine intake, and this depletion may worsen heart failure. It is therefore reasonable to either also give thiamine supplements or to check blood thiamine levels in those being treated with chronic loop diuretics.
-
-
-== Chemistry ==
-Compared with other loop diuretics, torasemide has a more prolonged diuretic effect than equipotent doses of furosemide and relatively decreased potassium loss.
-
-
-== Names ==
-
-Torasemide is the recommended name of the drug (rINN) according to the (INN), which is the drug naming system coordinated by the World Health Organization. Torsemide is the official name of the drug according to the (USAN), which is the drug naming system coordinated by the USAN Council, which is co-sponsored by the American Medical Association (AMA), the United States Pharmacopeial Convention (USP), and the American Pharmacists Association (APhA).
-
-
-== Veterinary uses ==
-In May 2024, the US FDA conditionally approved the first torsemide animal medication for dogs. UpCard-CA1 (torsemide oral solution) was conditionally approved for use with concurrent therapy with pimobendan, spironolactone, and an angiotensin-converting enzyme (ACE) inhibitor for the management of pulmonary edema (fluid build-up in lungs) in dogs with congestive heart failure caused by myxomatous mitral valve disease (MMVD).

@@ -1,5 +1,0 @@
-Retinoid X receptor gamma (RXR-gamma), also known as NR2B3 (nuclear receptor subfamily 2, group B, member 3) is a nuclear receptor that in humans is encoded by the RXRG gene.
-
-
-== Function ==
-This gene encodes a member of the retinoid X receptor (RXR) family of nuclear receptors which are involved in mediating the antiproliferative effects of retinoic acid (RA). This receptor forms heterodimers with the retinoic acid, thyroid hormone, and vitamin D receptors, increasing both DNA binding and transcriptional function on their respective response elements. This gene is expressed at significantly lower levels in non-small cell lung cancer cells. Alternate transcriptional splice variants, encoding different isoforms, have been characterized.

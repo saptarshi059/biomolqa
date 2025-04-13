@@ -1,6 +1,2 @@
 Solute carrier family 22 member 7 is a protein that in humans is encoded by the gene SLC22A7.
 The protein encoded by this gene is involved in the sodium-independent transport and excretion of organic anions, some of which are potentially toxic. The encoded protein is an integral membrane protein and appears to be localized to the basolateral membrane of the kidney. Alternatively spliced transcript variants encoding different isoforms have been described.
-
-
-== Interactive pathway map ==
-Click on genes, proteins and metabolites below to link to respective articles.

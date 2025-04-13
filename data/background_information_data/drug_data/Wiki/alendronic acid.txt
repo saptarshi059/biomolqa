@@ -1,27 +1,3 @@
 Alendronic acid, sold under the brand name Fosamax among others, is a bisphosphonate medication used to treat osteoporosis and Paget's disease of bone. It is taken by mouth. Use is often recommended together with vitamin D, calcium supplementation, and lifestyle changes.
 Common side effects (1 to 10% of patients) include constipation, abdominal pain, nausea, and acid reflux. Use is not recommended during pregnancy or in those with poor kidney function. Alendronic acid works by decreasing the activity of cells that break down bone.
 Alendronic acid was first described in 1978 and approved for medical use in the United States in 1995. It is available as a generic medication. In 2022, it was the 103rd most commonly prescribed medication in the United States, with more than 6 million prescriptions.
-
-
-== Medical uses ==
-Alendronic acid is indicated for the treatment and prevention of osteoporosis in postmenopausal women; the treatment to increase bone mass in men with osteoporosis; the treatment of glucocorticoid-induced osteoporosis; and the treatment of Paget's disease of bone.
-
-
-== Side effects ==
-Gastrointestinal tract:
-Ulceration and possible rupture of the esophagus; this may require hospitalization and intensive treatment. Gastric and duodenal ulceration may also occur.
-Esophageal cancer, a meta-analysis concluded that bisphosphonate treatment is NOT associated with excess risk of esophageal cancer.
-General: infrequent cases of skin rash, rarely manifesting as Stevens–Johnson syndrome and toxic epidermal necrolysis, eye problems (uveitis, scleritis) and generalized muscle, joint, and bone pain (rarely severe) have been reported.
-Osteonecrosis of the jaw may occur while on this drug, if dental work of any kind is carried out. The risk is considerably higher for extractions in the mandible (lower jaw) than other areas of the mouth, and the risk increases if you have been taking it for four or more years  Although this side effect is uncommon (0.4-1.6% for oral alendronic acid), it occurs primarily in patients being administered intravenous bisphosphonates, with most cases being reported in cancer patients.
-Bone: alendronate has been linked in long-term users to the development of low-impact femoral fractures.  Further, studies suggest that users of alendronate have an increase in the numbers of osteoclasts and develop giant, more multinucleated osteoclasts; the significance of this development is unclear.  Fosamax has been linked to a rare type of leg fracture that cuts straight across the upper thigh bone after little or no trauma (subtrochanteric fractures).
-
-
-== Pharmacology ==
-
-
-=== Mechanism of action ===
-Nitrogen containing bisphosphonates, which include ibandronate, pamidronate and alendronate exert their effects on osteoclasts mainly by inhibiting the synthesis of isoprenoid lipids such as isopentenyl diphosphate (IPP), farnesyl diphosphate (FPP), and geranylgeranyl diphosphate (GGPP) via the mevalonate pathway. These isoprenoids are used in posttranslational modification(prenylation) of small GTPases such as Ras, Rho, and Rac. These prenylated GTPases are necessary for various cellular processes including osteoclast morphology, endosome trafficking, and apoptosis. Alendronate has also been shown to impair the function of osteclast lysosomes.
-
-
-=== Pharmacokinetics ===
-The fraction of the drug that reaches the circulatory system intact (systemic bioavailability) after oral dosing is low, averaging only 0.6–0.7% in women and in men under fasting conditions. Intake together with meals and beverages other than water further reduces the bioavailability. The absorbed drug rapidly partitions, with approximately 50% binding to the exposed bone surface; the remainder is excreted unchanged by the kidneys. Unlike with most drugs, the strong negative charge on the two phosphonate moieties limits oral bioavailability, and, in turn, the exposure to tissues other than bone is very low. After absorption in the bone, alendronate has an estimated terminal elimination half-life of 10 years.

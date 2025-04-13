@@ -1,5 +1,1 @@
 Adenylyl cyclase type 4 is an enzyme that in humans is encoded by the ADCY4 gene.
-
-
-== Function ==
-This gene encodes a member of the family of adenylyl cyclases, which are membrane-associated enzymes that catalyze the formation of the secondary messenger cyclic adenosine monophosphate (cAMP). Mouse studies show that adenylyl cyclase 4, along with adenylyl cyclases 2 and 3, is expressed in olfactory cilia, suggesting that several different adenylyl cyclases may couple to olfactory receptors and that there may be multiple receptor-mediated mechanisms for the generation of cAMP signals.

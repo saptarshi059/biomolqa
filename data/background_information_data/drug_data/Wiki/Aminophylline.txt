@@ -1,27 +1,2 @@
 Aminophylline is a compound of the bronchodilator theophylline with ethylenediamine in 2:1 ratio. The ethylenediamine improves solubility, and the aminophylline is usually found as a dihydrate.
 Aminophylline is less potent and shorter-acting than theophylline. Its most common use is in the treatment of airway obstruction from asthma or COPD. Aminophylline is a nonselective adenosine receptor antagonist and phosphodiesterase inhibitor.
-
-
-== Medical uses ==
-Intravenous aminophylline can be used for acute exacerbation of symptoms and reversible airway obstruction in asthma and other chronic lung disease such as COPD, emphysema and chronic bronchitis. It is used as an adjunct to inhaled beta-2 selective agonists and systemically administered corticosteroids.
-Aminophylline is used to reverse regadenoson, dipyridamole or adenosine based infusions during nuclear cardiology stress testing. Aminophylline has also been reported to be effective in preventing slow heart rates during complex cardiovascular interventions (atherectomy of the right coronary artery). It is also used in the treatment of heart block due to acute inferior myocardial infarction. It can also cause cardiac arrest.
-Aminophylline has shown some promise as a bodyfat reducer when used as a topical cream. Aminophylline is also a treatment option for anaphylactic shock.
-While it has been suggested for use in cardiac arrest evidence does not support a benefit.
-
-
-== Side effects ==
-Aminophylline can lead to theophylline toxicity. Aminophylline has been found to decrease the sedative effects of propofol  and decrease topiramate antiseizure action.
-
-
-== Properties ==
-It is more soluble in water than theophylline. White or slightly yellowish granules or powder, having a slight ammoniacal odor and a bitter taste. Upon exposure to air, it gradually loses ethylenediamine and absorbs carbon dioxide with the liberation of free theophylline. Its solutions are alkaline. 1 g dissolves in 25 mL of water to give a clear solution; 1 g dissolved in 5 mL of water crystallizes upon standing, but redissolves when a small amount of ethylenediamine is added. Insoluble in alcohol and in ether.
-
-
-== Pharmacology ==
-Like other methylated xanthine derivatives, aminophylline is both a
-
-competitive nonselective phosphodiesterase inhibitor which raises intracellular cAMP, activates PKA, inhibits TNF-alpha and leukotriene synthesis, and reduces inflammation and innate immunity and
-nonselective adenosine receptor antagonist.
-Aminophylline causes bronchodilation, diuresis†, central nervous system and cardiac stimulation, and gastric acid secretion by blocking phosphodiesterase which increases tissue concentrations of cyclic adenosine monophosphate (cAMP) which in turn promotes catecholamine stimulation of lipolysis, glycogenolysis, and gluconeogenesis, and induces release of epinephrine from adrenal medulla cells.
-†Diuresis is caused by an increase in cAMP which acts in the CNS to inhibit the release of antidiuretic hormone (arginine-vasopressin).
-Adenosine is an endogenous extracellular messenger that can regulate myocardial oxygen needs. It acts through cellular surface receptors which effect intracellular signalling pathways to increase coronary artery blood flow, slow heart rate, block atrioventricular node conduction, suppress cardiac automaticity, and decrease β-adrenergic effects on contractility. Adenosine also antagonizes chronotropic and ionotropic effects of circulating catecholamines. Overall, adenosine decreases the heart’s rate and force of contraction, which increases blood supply to the cardiac muscle. Given specific circumstances this mechanism (which is intended to protect the heart) may cause atropine-resistant refractory bradyasystole. Adenosine's effects are concentration-dependent. Adenosine’s receptors are competitively antagonized by methylxanthines such as aminophylline. Aminophylline competitively antagonizes the cardiac actions of adenosine at the cell surface receptors. Thus, it increases heart rate and contractility.

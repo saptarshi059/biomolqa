@@ -1,5 +1,1 @@
 Adenylyl cyclase type 8 is an enzyme that in humans is encoded by the ADCY8 gene.
-
-
-== Function ==
-Adenylyl cyclase is a membrane bound enzyme that catalyses the formation of cyclic AMP from ATP. The enzymatic activity is under the control of several hormones, and different polypeptides participate in the transduction of the signal from the receptor to the catalytic moiety. Stimulatory or inhibitory receptors (Rs and Ri) interact with G proteins (Gs and Gi) that exhibit GTPase activity and they modulate the activity of the catalytic subunit of the adenylyl cyclase.

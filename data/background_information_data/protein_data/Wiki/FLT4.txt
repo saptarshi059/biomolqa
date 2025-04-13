@@ -1,6 +1,2 @@
 Fms-related tyrosine kinase 4, also known as FLT4, is a protein which in  humans is encoded by the FLT4 gene.
 This gene encodes a tyrosine kinase receptor for vascular endothelial growth factors C and D. The protein is thought to be involved in lymphangiogenesis and maintenance of the lymphatic endothelium. Mutations in this gene cause hereditary lymphedema type IA.
-
-
-== Interactions ==
-FLT4 has been shown to interact with SHC1.

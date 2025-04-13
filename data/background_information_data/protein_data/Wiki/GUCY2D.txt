@@ -1,10 +1,1 @@
 Retinal guanylyl cyclase 1 also known as guanylate cyclase 2D, retinal is an enzyme that in humans is encoded by the GUCY2D (guanylate cyclase 2D) gene.
-
-
-== Function ==
-This gene encodes a retina-specific guanylate cyclase, which is a member of the membrane guanylyl cyclase family. Like other membrane guanylyl cyclases, this enzyme has a hydrophobic amino-terminal signal sequence followed by a large extracellular domain, a single membrane spanning domain, a kinase homology domain, and a guanylyl cyclase catalytic domain. In contrast to other membrane guanylyl cyclases, this enzyme is not activated by natriuretic peptides.
-The nomenclature for members of the Gucy2 gene family is not consistent across species. In many mammals, including mice and rats, the Gucy2d gene encodes a related protein – GC-D – that is specifically expressed in a subpopulation of olfactory sensory neurons. This gene is a pseudogene in humans and most other primates. In rodents, the corresponding (orthologous) gene to human GUCY2D is Gucy2e. 
-
-
-== Clinical significance ==
-Mutations in this gene result in Leber's congenital amaurosis and cone-rod dystrophy-6 diseases.

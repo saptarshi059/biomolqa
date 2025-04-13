@@ -1,9 +1,1 @@
 Retinal guanylyl cyclase 2 also known as guanylate cyclase F (GUCY2F) is a protein that in humans is encoded by the GUCY2F gene.
-
-
-== Function ==
-The protein encoded by this gene is a guanylyl cyclase found predominantly in photoreceptors in the retina. The encoded protein is thought to be involved in resynthesis of cGMP after light activation of the visual signal transduction cascade, allowing a return to the dark state. This protein is a single-pass type I membrane protein.
-
-
-== Clinical significance ==
-Defects in this gene may be a cause of X-linked retinitis pigmentosa.

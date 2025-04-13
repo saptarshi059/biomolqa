@@ -1,9 +1,1 @@
 cAMP-dependent protein kinase type II-alpha regulatory subunit is an enzyme that in humans is encoded by the PRKAR2A gene.
-
-
-== Function ==
-cAMP is a signaling molecule important for a variety of cellular functions. cAMP exerts its effects by activating the cAMP-dependent Protein Kinase, more commonly called Protein Kinase A (PKA), which transduces the signal through phosphorylation of different target proteins. The inactive holoenzyme of PKA is a tetramer composed of two regulatory and two catalytic subunits. cAMP causes the dissociation of the inactive holoenzyme into a dimer of regulatory subunits bound to four cAMP and two free monomeric catalytic subunits. Four different regulatory subunits and three catalytic subunits of PKA have been identified in humans. The protein encoded by this gene is one of the regulatory subunits. This subunit can be phosphorylated by the activated catalytic subunit. It may interact with various A-kinase anchoring proteins (AKAPs) and determine the subcellular localization of PKA. This subunit has been shown to regulate protein transport from endosomes to the Golgi apparatus and further to the endoplasmic reticulum (ER).
-
-
-== Interactions ==
-PRKAR2A has been shown to interact with:

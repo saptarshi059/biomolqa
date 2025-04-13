@@ -1,11 +1,3 @@
 Acitretin, sold under the brand names Neotigason and Soriatane, is a second-generation retinoid. It is taken orally, and is typically used for psoriasis.
 Acitretin is an oral retinoid used in the treatment of severe resistant psoriasis. Because of the potential for problems and severe side effects it is generally used in only very severe cases of psoriasis that have been unresponsive to other treatments.  It binds to nuclear receptors that regulates gene transcription.  They induce keratinocyte differentiation and reduce epidermal hyperplasia, leading to the slowing of cell reproduction.  Acitretin is readily absorbed and widely distributed after oral administration.  A therapeutic effect occurs after two to four weeks or longer.
 Patients who have received the medication are advised against giving blood for at least three years due to the risk of birth defects.
-
-
-== Adverse effects ==
-Acitretin is highly teratogenic and noted for the possibility of severe birth defects. It should not be used by pregnant women or women planning to get pregnant within 3 years following the use of acitretin. Sexually active women of childbearing age who use acitretin should also use at least two forms of birth control concurrently. Men and women who use it should not donate blood for three years after using it, because of the possibility that the blood might be used in a pregnant patient and cause birth defects.  In addition, it may cause nausea, headache, itching, dry, red or flaky skin, dry or red eyes, dry or chapped lips, swollen lips, dry mouth, thirst, cystic acne or hair loss.
-
-
-== Pharmacokinetics ==
-Acitretin is a metabolite of etretinate, which was used prior to the introduction of acitretin. Etretinate was discontinued because it had a narrow therapeutic index as well as a long elimination half-life (t1/2 = 120 days), making dosing difficult.  In contrast, acitretin's half-life is approximately 2 days. However, because acitretin can be reverse metabolised into etretinate which has an extremely long half-life, women must avoid becoming pregnant for at least three years after discontinuing acitretin. Therefore, acitretin is generally not recommended for women of child-bearing age with a risk of becoming pregnant.

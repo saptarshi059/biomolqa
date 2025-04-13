@@ -1,27 +1,2 @@
 Anagrelide (Agrylin/Xagrid, Shire and Thromboreductin, AOP Orphan Pharmaceuticals AG) is a drug used for the treatment of essential thrombocytosis (also known as essential thrombocythemia), or overproduction of blood platelets. It also has been used in the treatment of chronic myeloid leukemia.
 Anagrelide controlled release (GALE-401) is in phase III clinical trials by Galena Biopharma for the treatment of essential thrombocytosis.
-
-
-== Medical uses ==
-Anagrelide is used to treat essential thrombocytosis, especially when the current treatment of the patient is insufficient. Essential thrombocytosis patients who are suitable for anagrelide often meet one or more of the following factors:
-
-age over 60 years
-platelet count over 1000×109/L
-a history of thrombosis
-According to a 2005 Medical Research Council randomized trial, the combination of hydroxyurea with aspirin is superior to the combination of anagrelide and aspirin for the initial management of essential thrombocytosis.  The hydroxyurea arm had a lower likelihood of myelofibrosis, arterial thrombosis, and bleeding, but it had a slightly higher rate of venous thrombosis.  Anagrelide can be useful in times when hydroxyurea proves ineffective.
-
-
-== Side-effects ==
-Common side effects are headache, diarrhea, unusual weakness/fatigue, hair loss, nausea.
-The same MRC trial mentioned above also analyzed the effects of anagrelide on bone marrow fibrosis, a common feature in patients with myelofibrosis. The use of anagrelide was associated with a rapid increase in the degree of reticulin deposition (the mechanism by which fibrosis occurs), when compared to those in whom hydroxyurea was used. Patients with myeloproliferative conditions are known to have a very slow and somewhat variable course of marrow fibrosis increase. This trend may be accelerated by anagrelide. This increase in fibrosis appeared to be linked to a drop in hemoglobin as it progressed. Stopping anagrelide (and switching patients to hydroxyurea) appeared to reverse the degree of marrow fibrosis. Thus, patients on anagrelide may need to be monitored on a periodic basis for marrow reticulin scores, especially if anemia develops, or becomes more pronounced if present initially.
-Less common side effects include: congestive heart failure, myocardial infarction, cardiomyopathy, cardiomegaly, complete heart block, atrial fibrillation, cerebrovascular accident, pericarditis, pulmonary infiltrates, pulmonary fibrosis, pulmonary hypertension, pancreatitis, gastric/duodenal ulceration, renal impairment/failure and seizure.
-Due to these issues, anagrelide should not generally be considered for first line therapy for essential thrombocytosis.
-
-
-== Mechanism of action ==
-Anagrelide works by inhibiting the maturation of platelets from megakaryocytes. The exact mechanism of action is unclear, although it is known to be a phosphodiesterase inhibitor. It is a potent (IC50 = 36nM) inhibitor of phosphodiesterase-II. It inhibits PDE-3 and phospholipase A2.
-
-
-== Synthesis ==
-
-Condensation of benzyl chloride 1 with ethyl ester of glycine gives alkylated product 2. Reduction of the nitro group leads to the aniline and reaction of this with cyanogen bromide possibly gives cyanamide 3 as the initial intermediate. Addition of the aliphatic would then lead to formation of the quinazoline ring (4). Amide formation between the newly formed imide and the ester would then serve to form the imidazolone ring, whatever the details of the sequence, there is obtained anagrelide (5).

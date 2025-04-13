@@ -1,9 +1,1 @@
 Gamma-aminobutyric acid (GABA) B receptor, 2 (GABAB2) is a G-protein coupled receptor subunit encoded by the GABBR2 gene in humans.
-
-
-== Function ==
-B-type receptors for the neurotransmitter GABA (gamma-aminobutyric acid) inhibit neuronal activity through G protein-coupled second-messenger systems, which regulate the release of neurotransmitters and the activity of ion channels and adenylyl cyclase. See GABBR1 (MIM 603540) for additional background information on GABA-B receptors.[supplied by OMIM]
-
-
-== Interactions ==
-GABBR2 has been shown to interact with GABBR1.

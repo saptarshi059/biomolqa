@@ -1,17 +1,1 @@
 Inositol-trisphosphate 3-kinase A is an enzyme that in humans is encoded by the ITPKA gene.
-
-
-== Structure ==
-ITPKA is one of three inositol-trisphosphate 3-kinase (ITP3K) genes in humans. ITP3K proteins regulate inositol phosphate metabolism by phosphorylation of the second messenger inositol 1,4,5-trisphosphate to produce Ins(1,3,4,5)P4, which is sometimes abbreviated as IP4. Structurally, ITPKA belongs to the inositol polyphosphate kinase (IPK) family. The activity of the inositol 1,4,5-trisphosphate 3-kinase is responsible for regulating the levels of a large number of inositol polyphosphates that are important in cellular signaling, most notably, inositol trisphosphate, which is the enzyme's only substrate. Both calcium/calmodulin and protein phosphorylation mechanisms control its activity. It is also a substrate for the cyclic AMP-dependent protein kinase, calcium/calmodulin- dependent protein kinase II, and protein kinase C in vitro. ITPKA and ITPKB are 68% identical in the C-terminus region The amino- terminal region of ITPKA binds filamentous actin. This property localizes the ITPKA to dendritic spines in principal neurons. ITPKA is expressed physiologically in neurons, but it is sometimes expressed in cancer cells and may contribute to processes of metastasis.
-
-
-== Physiological function ==
-ITPKA participates in learning and memory processes in neurons.
-
-
-== Roles in human disease ==
-Although ITPKA is expressed physiologically in neurons and testis, it sometimes becomes expressed in cancer cells, and the expression usually makes the cancer more aggressive.
-
-
-== Relationship to F-tractin ==
-F-tractin is amino acids 9-52 of rat ITPKA. It was later determined that amino acids 9-40 were sufficient for binding filamentous actin. When fused to a reporter, such as green fluorescent protein, It is useful for the visualization of actin dynamics in living cells.

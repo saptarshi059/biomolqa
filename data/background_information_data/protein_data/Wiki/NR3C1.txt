@@ -2,39 +2,3 @@ The glucocorticoid receptor (GR or GCR) also known by its gene name NR3C1 (nucle
 The GR is expressed in almost every cell in the body and regulates genes controlling the development, metabolism, inflammation, and immune response.  Because the receptor gene is expressed in several forms, it has many different (pleiotropic) effects in different parts of the body and in the context of different diseases.
 GR is a steroid receptor and thus it's cannonical action is similar to other steroid receptors. The unbound receptor resides in the cytosol of the cell. When glucocorticoids bind to the receptor, GR translocates to the nucleus of the cell where it acts as a transcription factor. The activated GR complex up-regulates the expression of anti-inflammatory proteins in the nucleus or represses the expression of pro-inflammatory proteins in the cytosol (by preventing the translocation of other transcription factors from the cytosol into the nucleus). 
 In humans, the GR protein is encoded by NR3C1  gene which is located on chromosome 5 (5q31).
-
-
-== Structure ==
-Like the other steroid receptors, GR is modular in structure and contains the following domains (labeled A - F):
-
-A/B - N-terminal regulatory domain
-C - DNA-binding domain (DBD)
-D - hinge region
-E - ligand-binding domain (LBD)
-F - C-terminal domain
-
-
-== Ligand binding and response ==
-In the absence of hormone, the glucocorticoid receptor (GR) resides in the cytosol complexed with a variety of proteins including heat shock protein 90 (hsp90), the heat shock protein 70 (hsp70) and the protein FKBP4 (FK506-binding protein 4).  The endogenous glucocorticoid hormone cortisol diffuses through the cell membrane into the cytoplasm and binds to the glucocorticoid receptor (GR) resulting in the release of the heat shock proteins.  The resulting activated form GR has two principal mechanisms of action, transactivation, and transrepression, described below.
-
-
-=== Transactivation ===
-A direct mechanism of action involves homodimerization of the receptor, translocation via active transport into the nucleus, and binding to specific DNA response elements activating gene transcription. This mechanism of action is referred to as transactivation.  The biological response depends on the cell type.
-
-
-=== Transrepression ===
-In the absence of activated GR, other transcription factors such as NF-κB or AP-1 themselves are able to transactivate target genes.  However activated GR can complex with these other transcription factors and prevent them from binding their target genes and hence repress the expression of genes that are normally upregulated by NF-κB or AP-1. This indirect mechanism of action is referred to as transrepression. GR transrepression via NF-κB and AP-1 is restricted only to certain cell types, and is not considered the universal mechanism for IκBα repression. 
-
-
-== Clinical significance ==
-The GR is abnormal in familial glucocorticoid resistance.
-In central nervous system structures, the glucocorticoid receptor is gaining interest as a novel representative of neuroendocrine integration, functioning as a major component of endocrine influence — specifically the stress response — upon the brain. The receptor is now implicated in both short and long-term adaptations seen in response to stressors and may be critical to the understanding of psychological disorders, including some or all subtypes of depression and post-traumatic stress disorder (PTSD). Indeed, long-standing observations such as the mood dysregulations typical of Cushing's disease demonstrate the role of corticosteroids in regulating psychologic state; recent advances have demonstrated interactions with norepinephrine and serotonin at the neural level.
-In preeclampsia (a hypertensive disorder commonly occurring in pregnant women), the level of a miRNA sequence possibly targeting this protein is elevated in the blood of the mother. Rather, the placenta elevates the level of exosomes containing this miRNA, which can result in inhibition of translation of molecule. Clinical significance of this information is not yet clarified.
-
-
-== Agonists and antagonists ==
-Dexamethasone and other corticosteroids are agonists, while mifepristone and ketoconazole are antagonists of GR. Anabolic steroids also prevent cortisol from binding to the glucocorticoid receptor.
-
-
-== Interactions ==
-Glucocorticoid receptor has been shown to interact with:

@@ -1,24 +1,2 @@
 Indapamide is a thiazide-like diuretic drug used in the treatment of hypertension, as well as decompensated heart failure. Combination preparations with perindopril (an ACE inhibitor antihypertensive) are available. The thiazide-like diuretics (indapamide and chlorthalidone) reduce risk of major cardiovascular events and heart failure in hypertensive patients compared with hydrochlorothiazide with a comparable incidence of adverse events. Both thiazide diuretics and thiazide-like diuretics are effective in reducing risk of stroke. Both drug classes appear to have comparable rates of adverse effects as other antihypertensives such as angiotensin II receptor blockers and dihydropyridine calcium channel blockers and lesser prevalence of side-effects when compared to ACE-inhibitors and non-dihydropyridine calcium channel blockers.
 It was patented in 1968 and approved for medical use in 1977. It is on the World Health Organization's List of Essential Medicines.
-
-
-== Medical uses ==
-Its indications include hypertension and edema due to congestive heart failure. Indapamide has been shown to reduce stroke rates in people with high blood pressure. Studies have shown that the blood pressure lowering effects of indapamide in combination with perindopril reduce the rate of stroke in high risk patients (those with a history of high blood pressure, stroke or type two diabetes). HYVET study showed that indapamide (sustained release), with or without perindopril as antihypertensive treatment in persons 80 years of age or older with sustained systolic blood pressure of 160 mmHg or higher, demonstrated significant reduction in all-cause mortality when treated to a target of 150/80 mmHg, but there was found to be no significant reduction in risk of death from cardiac causes. Two systematic reviews identified that indapamide with or without perindopril significantly reduced all cause mortality in young-elderly patients with a history of stroke, cardiovascular disease and type 2 diabetes mellitus, when greater reductions in mean office blood pressure are achieved, significant cardiovascular benefit was only observed when trials including the >75 years old cohort was included.
-
-
-== Contraindications ==
-Indapamide is contraindicated in known hypersensitivity to sulfonamides, severe kidney failure, hepatic encephalopathy or severe liver failure, and a low blood potassium level.
-There is insufficient safety data to recommend indapamide use in pregnancy or breastfeeding.
-
-
-== Adverse effects ==
-Commonly reported adverse events are low potassium levels, fatigue, orthostatic hypotension (an exaggerated decrease in blood pressure upon standing, often associated with syncope), and allergic manifestations.
-Monitoring the serum levels of potassium and uric acid is recommended, especially in subjects with a predisposition to low levels of potassium in the blood and gout.
-
-
-== Interactions ==
-Caution is advised in the combination of indapamide with lithium and drugs causing prolonged QT interval (on EKG) or wave-burst arrhythmia (i.e.: astemizole, bepridil, IV erythromycin, halofantrine, pentamidine, sultopride, terfenadine, and vincamine).
-
-
-== Overdose ==
-Symptoms of over dosage would be those associated with a diuretic effect (i.e. electrolyte disturbances), low blood pressure, and muscular weakness. Treatment should be symptomatic, directed at correcting electrolyte abnormalities.

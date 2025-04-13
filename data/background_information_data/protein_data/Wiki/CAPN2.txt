@@ -1,9 +1,1 @@
 Calpain-2 catalytic subunit is a protein that in humans is encoded by the CAPN2 gene.
-
-
-== Function ==
-The calpains, calcium-activated neutral proteases, are nonlysosomal, intracellular cysteine proteases. The mammalian calpains include ubiquitous, stomach-specific, and muscle-specific proteins. The ubiquitous enzymes consist of heterodimers with distinct large, catalytic subunits associated with a common small, regulatory subunit. This gene encodes the large subunit of the ubiquitous enzyme, calpain 2. Multiple heterogeneous transcriptional start sites in the 5' UTR have been reported.
-
-
-== Interactions ==
-CAPN2 has been shown to interact with Bcl-2.

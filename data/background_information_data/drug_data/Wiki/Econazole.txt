@@ -1,24 +1,2 @@
 Econazole is an antifungal medication of the imidazole class.
 It was patented in 1968, and approved for medical use in 1974.
-
-
-== Medical uses ==
-Econazole is used as a cream to treat skin infections such as athlete's foot, tinea, pityriasis versicolor, ringworm, and jock itch. It is also sold in Canada under the brand name Ecostatin as vaginal ovules to treat vaginal thrush.
-Econazole nitrate exhibits strong anti-feeding properties against the keratin-digesting common clothes moth Tineola bisselliella.
-
-
-== Adverse effects ==
-About  3% of patients treated with econazole nitrate cream reported side effects.  The most common symptoms were burning, itching, redness (erythema), and one outbreak of a pruritic rash.
-
-
-== Synthesis ==
-Imidazoles devoid of the nitro group no longer have any antiprotozoal activity, however, such drugs are effective antifungal agents.
-
-Alkylation of imidazole (2) with bromoketone (1) prepared from o,p-dichloroacetophenone affords the displacement product (3). Reduction of the ketone with sodium borohydride gives the corresponding alcohol (4). Alkylation of the alkoxide from that alcohol with p-chlorobenzyl chloride leads to econazole (5); alkylation with o,p-dichlorobenzyl chloride gives miconazole.
-
-
-== Society and culture ==
-
-
-=== Brand names ===
-It is sold under the brand names Spectrazole (United States) and Ecostatin (Canada), among others. It is a component of Pevisone, Ecoderm-TA and ECOSONE (econazole/triamcinolone).

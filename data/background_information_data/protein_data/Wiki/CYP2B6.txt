@@ -1,18 +1,1 @@
 Cytochrome P450 2B6 is an enzyme that in humans is encoded by the CYP2B6 gene. CYP2B6 is a member of the cytochrome P450 group of enzymes. Along with CYP2A6, it is involved with metabolizing nicotine, along with many other substances.
-
-
-== Function ==
-This gene, CYP2B6, encodes a member of the cytochrome P450 superfamily of enzymes. The cytochrome P450 proteins are monooxygenases which catalyze many reactions involved in drug metabolism and synthesis of cholesterol, steroids and other lipids. This protein localizes to the endoplasmic reticulum and its expression is induced by phenobarbital. The enzyme is known to metabolize some xenobiotics, such as the anti-cancer drugs cyclophosphamide and ifosphamide.
-
-
-== Gene ==
-Transcript variants for this gene have been described; however, it has not been resolved whether these transcripts are in fact produced by this gene or by a closely related pseudogene, CYP2B7. Both the gene and the pseudogene are located in the middle of a CYP2A pseudogene found in a large cluster of cytochrome P450 genes from the CYP2A, CYP2B and CYP2F subfamilies on chromosome 19q.
-
-
-== CYP2B6 ligands ==
-Following is a table of selected substrates, inducers and inhibitors of CYP2B6.
-Inhibitors of CYP2B6 can be classified by their potency, such as:
-
-Strong inhibitor being one that causes at least a 5-fold increase in the plasma AUC values, or more than 80% decrease in clearance.
-Moderate inhibitor being one that causes at least a 2-fold increase in the plasma AUC values, or 50-80% decrease in clearance.
-Weak inhibitor being one that causes at least a 1.25-fold but less than 2-fold increase in the plasma AUC values, or 20-50% decrease in clearance.

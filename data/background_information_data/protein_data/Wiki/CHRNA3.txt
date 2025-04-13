@@ -1,4 +1,1 @@
 Neuronal acetylcholine receptor subunit alpha-3, also known as nAChRα3, is a protein that in humans is encoded by the CHRNA3 gene. The protein encoded by this gene is a subunit of certain nicotinic acetylcholine receptors (nAchR).  Research with mecamylamine in animals has implicated alpha-3-containing nAChRs in the abusive and addictive properties of ethanol.
-
-
-== Interactive pathway map ==

@@ -1,9 +1,1 @@
 Calcium channel, voltage-dependent, T type, alpha 1G subunit, also known as CACNA1G or Cav3.1 is a protein which in humans is encoded by the CACNA1G gene. It is one of the primary targets in the pharmacology of absence seizure.
-
-
-== Function ==
-Cav3.1 is a type of low-voltage-activated calcium channel, also known as "T-type" for its transient on and off. It is expressed in thalamocortical relay nucleus, and is responsible for the slow-wave sleep and absence seizure. During a slow-wave sleep, Cav3.1 is put into burst mode, and a self-sustaining synchronous cycle between cortex and thalamus is formed, sensory inputs are isolated from cortex; while awake the thalamus should instead relay sensory inputs from outside the central nervous system. The mechanism of absence seizure has a lot in common with slow-wave sleep. Therefore, a blocker that inhibits the burst mode activation of Cav3.1 is effective in treating absence seizures. Common drugs including ethosuximide, as well as trimethadione.
-
-
-== Interactive pathway map ==
-Click on genes, proteins and metabolites below to link to respective Wikipedia articles.

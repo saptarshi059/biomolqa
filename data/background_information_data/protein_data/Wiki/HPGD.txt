@@ -1,16 +1,2 @@
 Hydroxyprostaglandin dehydrogenase 15-(NAD) (the HUGO-approved official symbol = HPGD; HGNC ID, HGNC:5154), also called 15-hydroxyprostaglandin dehydrogenase [NAD+], is an enzyme that in humans is encoded by the HPGD gene.
 In melanocytic cells HPGD gene expression may be regulated by MITF.
-
-
-== Functions ==
-15-hydroxy prostaglandin dehydrogenase (HPGD) is an enzyme belongs to the family of oxidoreductases, specifically the short chain dehydrogenase/reductase family 36C member 1. This protein coding gene encodes a member of the short chain alcohol dehydrogenase protein family. HPGD catalyzes the first step in the catabolic pathway of prostaglandins and is therefore responsible for the metabolic/catabolic inactivation of prostaglandins. This inactivation process will oxidize the 15-hydroxyl group of prostaglandins and yield the corresponding 15-keto (oxo) metabolite.
-Prostaglandins have a critical role in the signaling pathways that are involved in reproduction (establishment of pregnancy, maintenance of pregnancy, and initiation of labor), blood pressure homeostasis (vasoconstriction and vasodilation), sexual dimorphism, and the immune system (inflammation). HPGD has a critical role in the regulation of prostaglandin expression. 
-
-
-== Expression ==
-HPGD RNA-seq was performed in tissue samples from 95 human individuals representing 27 different tissues to determine tissue-specificity of all protein-coding genes. HPGD was expressed in the adrenal, appendix, bone marrow, brain, colon, duodenum, endometrium, esophagus, fat, gall bladder, heart, kidney, liver, lung, lymph node, ovary, pancreas, placenta, prostate, salivary gland, skin, small intestine, spleen, stomach, testis, thyroid, urinary bladder [1]
-
-
-== Defects in 15-HPGD ==
-15-HPGD has an unappreciated role in the maintenance of pregnancy. In mice, 15-HPDG has been shown to have essential roles in prevention of early termination of pregnancy and maternal morbidity. In 15-HPGD knockout mice, early pregnancy termination was detected. 15-HPGD KO mice that were able to establish pregnancy, lost pregnancy by gestation day ~8.5. At time of pregnancy loss, 15-HPGD KO mice have normal levels of PGE2, increased levels of PGF2α and decreasing levels of serum progesterone.
-A hypomorphic mutation of 15-HPGD causes mice to enter labor ~ a full day earlier when compared to their wild-type littermates, due to elevated circulating PGF2α concentrations. Furthermore, it was concluded that 15-HPGD has a critical role in determining the timing of labor

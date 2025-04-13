@@ -1,1 +1,0 @@
-CDP-diacylglycerol--inositol 3-phosphatidyltransferase; Catalyzes the biosynthesis of phosphatidylinositol (PtdIns) as well as PtdIns:inositol exchange reaction. May thus act to reduce an excessive cellular PtdIns content. The exchange activity is due to the reverse reaction of PtdIns synthase and is dependent on CMP, which is tightly bound to the enzyme.

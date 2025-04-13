@@ -1,23 +1,2 @@
 Fosphenytoin, also known as fosphenytoin sodium, and sold under the brand name Cerebyx among others, is a water-soluble phenytoin prodrug that is administered intravenously to deliver phenytoin, potentially more safely than intravenous phenytoin. It is used in the acute treatment of convulsive status epilepticus.
 Fosphenytoin was developed in 1996.
-
-
-== Medical uses ==
-Fosphenytoin is approved in the United States for the short-term (five days or fewer) treatment of epilepsy when more widely used means of phenytoin administration are not possible or are ill-advised, such as endotracheal intubation, status epilepticus or some other type of repeated seizures; cluster seizure, vomiting, and/or the patient is unalert or not awake or both.
-
-
-=== Other ===
-In 2003, it was reported that even though anticonvulsants are often very effective in mania, and acute mania requires rapid treatment, fosphenytoin had no antimanic effect.
-
-
-== Metabolism ==
-One millimole of phenytoin is produced for every millimole of fosphenytoin administered; the hydrolysis of fosphenytoin also yields phosphate and formaldehyde, the latter of which is subsequently metabolized to formate, which is in turn metabolized by a folate dependent mechanism.
-
-
-== Side effects ==
-Side effects are similar to intravenous phenytoin and include hypotension, cardiac arrhythmias, CNS adverse events (nystagmus, dizziness, sedation/somnolence, ataxia and stupor), and local dermatological reactions. Purple glove syndrome probably occurs with fosphenytoin but possibly at lower frequency than with intravenous phenytoin. Fosphenytoin can cause hyperphosphatemia in end-stage renal failure patients.
-
-
-== History ==
-Phenytoin, in both its acidic and sodium salt forms, is erratically bioavailable whether it is injected or taken orally due to its high melting point, weak acidity, and its being only sparingly soluble in water. Simply putting patients on other drugs is not always an option; this was especially true before 1993, when the number of anticonvulsants available was much more limited. One solution was to develop a prodrug that did not have these drawbacks.
-Fosphenytoin was approved by the US Food and Drug Administration (FDA) in August 1996, for use in epilepsy.

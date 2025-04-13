@@ -1,6 +1,2 @@
 Protein kinase C gamma type is an enzyme that in humans is encoded by the PRKCG gene.
 Protein kinase C (PKC) is a family of serine- and threonine-specific protein kinases that can be activated by calcium and second messenger diacylglycerol. PKC family members phosphorylate a wide variety of protein targets and are known to be involved in diverse cellular signaling pathways. PKC also serve as major receptors for phorbol esters, a class of tumor promoters. Each member of the PKC family has a specific expression profile and is believed to play distinct roles in cells. The protein encoded by this gene is one of the PKC family members. This protein kinase is expressed solely in the brain and spinal cord and its localization is restricted to neurons. It has been demonstrated that several neuronal functions, including long term potentiation (LTP) and long term depression (LTD), specifically require this kinase. Knockout studies in mice also suggest that this kinase may be involved in neuropathic pain development. Defects in this protein have been associated with neurodegenerative disorder spinocerebellar ataxia-14 (SCA14).
-
-
-== Interactions ==
-PRKCG has been shown to interact with GRIA4.

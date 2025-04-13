@@ -1,10 +1,2 @@
 Balsalazide is an anti-inflammatory drug used in the treatment of inflammatory bowel disease. It is sold under the brand names Giazo, Colazal in the US and Colazide in the UK. It is also sold in generic form in the US by several generic manufacturers.
 It is usually administered as the disodium salt. Balsalazide releases mesalazine, also known as 5-aminosalicylic acid, or 5-ASA, in the large intestine. Its advantage over that drug in the treatment of ulcerative colitis is believed to be the delivery of the active agent past the small intestine to the large intestine, the active site of ulcerative colitis. It is in the category of disease-modifying antirheumatic drugs (DMARDs) family of medications. It is unclear exactly how it works.
-
-
-== Synthesis ==
-Ex 3 is actually for Ipsalazide. See Ex 4 for Balsalazide proper. Same protocol but uses β-Alanine.
-
-Starting material is 4-aminohippuric acid, obtained by coupling para-aminobenzoic acid and glycine.
-That product is then treated with nitrous acid to give the diazonium salt.
-Reaction of this species with salicylic acid proceeds at the position para to the phenol to give balsalazide.

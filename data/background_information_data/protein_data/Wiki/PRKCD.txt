@@ -1,9 +1,1 @@
 Protein kinase C delta type (or PKC-δ) is an enzyme that in humans is encoded by the PRKCD gene.
-
-
-== Function ==
-Protein kinase C (PKC) is a family of serine- and threonine-specific protein kinases that can be activated by the second messenger diacylglycerol. PKC family members phosphorylate a wide variety of protein targets and are known to be involved in diverse cellular signaling pathways. PKC family members also serve as major receptors for phorbol esters, a class of tumor promoters. Each member of the PKC family has a specific expression profile and is believed to play distinct roles in cells. The protein encoded by this gene is one of the PKC family members. Studies both in human and mice demonstrate that this kinase is involved in B cell signaling and in the regulation of growth, apoptosis, and differentiation of a variety of cell types. Protein kinase C delta is also regulated by phosphorylation on various serine/threonine (e.g. T50, T141, S304, T451, T505, S506, T507, S643, S664) and tyrosine residues including Y311 (by SRC).
-
-
-== Interactions ==
-PRKCD has been shown to interact with:

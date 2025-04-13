@@ -1,0 +1,13 @@
+The enzyme S-formylglutathione hydrolase (EC 3.1.2.12) catalyzes the reaction
+
+S-formylglutathione + H2O 
+  
+    
+      
+        ⇌
+      
+    
+    {\displaystyle \rightleftharpoons }
+  
+ glutathione + formate
+This enzyme belongs to the family of hydrolases, specifically those acting on thioester bonds.  The systematic name  is S-formylglutathione hydrolase. It participates in Methane Metabolism.

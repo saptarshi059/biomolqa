@@ -1,18 +1,3 @@
 Activated CDC42 kinase 1, also known as ACK1, is an enzyme that in humans is encoded by the TNK2 gene.
 
 TNK2 gene encodes a non-receptor tyrosine kinase, ACK1, that binds to multiple receptor tyrosine kinases e.g. EGFR, MERTK, AXL, HER2 and insulin receptor (IR). ACK1 also interacts with Cdc42Hs in its GTP-bound form and inhibits both the intrinsic and GTPase-activating protein (GAP)-stimulated GTPase activity of Cdc42Hs. This binding is mediated by a unique sequence of 47 amino acids C-terminal to an SH3 domain. The protein may be involved in a regulatory mechanism that sustains the GTP-bound active form of Cdc42Hs and which is directly linked to a tyrosine phosphorylation signal transduction pathway. Several alternatively spliced transcript variants have been identified from this gene, but the full-length nature of only two transcript variants has been determined.
-
-
-== Interactions ==
-ACK1 or TNK2 has been shown to interact with AKT, Androgen receptor or AR, a tumor suppressor WWOX, FYN and Grb2. ACK1 interaction with its substrates resulted in their phosphorylation at specific tyrosine residues. ACK1 has been shown to directly phosphorylate AKT at tyrosine 176, AR at Tyrosine 267 and 363, and WWOX at tyrosine 287 residues, respectively. ACK1-AR signaling has also been reported to regulate ATM levels,
-
-
-== Clinical relevance ==
-ACK1 is a survival kinase and shown to be associated with tumor cell survival, proliferation, hormone-resistance and radiation resistance. The activation of ACK1 has been observed in prostate, breast, pancreatic, lung and ovarian cancer cells. ACK1 transgenic mice, expressing activated ACK1 specifically in prostate gland has been reported; these mice develop prostatic intraepithelial neoplasia (PINs).
-
-
-== ACK1 inhibitors ==
-Ack1 has emerged as a new cancer target and multiple small molecule inhibitors have been reported.
- All of these inhibitors are currently in the pre-clinical stage.
-Mahajan, K., Malla, P., Lawrence, H. R., Chen, Z., Kumar-Sinha, C., Malik, R., … Mahajan, N. P. (2017). ACK1/TNK2 Regulates Histone H4 Tyr88-phosphorylation and AR Gene Expression in Castration-Resistant Prostate Cancer. Cancer Cell, 31(6), 790-803.e8. https://doi.org/10.1016/j.ccell.2017.05.003
-‌

@@ -2,27 +2,3 @@ Desflurane (1,2,2,2-tetrafluoroethyl difluoromethyl ether) is a highly fluorinat
 Some drawbacks of desflurane are its low potency, its pungency and its high cost (though at low flow fresh gas rates, the cost difference between desflurane and isoflurane appears to be insignificant). It may cause tachycardia and airway irritability when administered at concentrations greater than 10% by volume.  Due to this airway irritability, desflurane is infrequently used to induce anesthesia via inhalation techniques.
 Though it vaporizes very readily, it is a liquid at room temperature. Anaesthetic machines are fitted with a specialized anaesthetic vaporiser unit that heats liquid desflurane to a constant temperature.  This enables the agent to be available at a constant vapor pressure, negating the effects fluctuating ambient temperatures would otherwise have on its concentration imparted into the fresh gas flow of the anesthesia machine.
 Desflurane, along with enflurane and to a lesser extent isoflurane, has been shown to react with the carbon dioxide absorbent in anesthesia circuits to produce detectable levels of carbon monoxide through degradation of the anesthetic agent.  The CO2 absorbent Baralyme, when dried, is most culpable for the production of carbon monoxide from desflurane degradation, although it is also seen with soda lime absorbent as well. Dry conditions in the carbon dioxide absorbent are conducive to this phenomenon, such as those resulting from high fresh gas flows.
-
-
-== Pharmacology ==
-As of 2005 the exact mechanism of the action of general anaesthetics has not been delineated. Desflurane is known to act as a positive allosteric modulator of the GABAA and glycine receptors, and as a negative allosteric modulator of the nicotinic acetylcholine receptor, as well as affecting other ligand-gated ion channels.
-
-
-== Stereochemistry ==
-Desflurane medications are a racemate of two enantiomers.
-
-
-== Physical properties ==
-
-
-== Physiologic effects ==
-Desflurane induces a dose dependent reduction in blood pressure due to reduced systemic vascular resistance. However, rapid increases in desflurane may induce a transient sympathetic response secondary to catecholamine release. Even though it is highly pungent, it is still a bronchodilator. It reduces the ventilatory response to hypoxia and hypercapnia. Like sevoflurane, desflurane vasodilatory properties also cause it to increase intracranial pressure and cerebral blood flow. However, it reduces cerebral metabolic rate. It also promotes muscle relaxation and potentiate neuromuscular blockade at a greater level than sevoflurane. 
-
-
-== Contraindications ==
-It is contraindicated for induction of general anesthesia in the non-intubated pediatric population due to the high risk of laryngospasm. It should not be used in patients with known or suspected susceptibility to malignant hyperthermia. It is also contraindicated in patients with elevated intracranial pressure. 
-
-
-== Global-warming potential ==
-Desflurane is a greenhouse gas. The twenty-year global-warming potential, GWP(20), for desflurane is 3714, meaning that one tonne of desflurane emitted is equivalent to 3714 tonnes of carbon dioxide in the atmosphere, much higher than sevoflurane or isoflurane. In addition to global warming potentials, drug potency and fresh gas flow rates must be considered for meaningful comparisons between anesthetic gases.  When a steady state hourly amount of anesthetic necessary for 1 minimum alveolar concentration (MAC) at 2 liters per minute (LPM) for Sevoflurane, and 1 LPM for Desflurane and Isoflurane is weighted by the GWP, the clinically relevant quantities of each anesthetic can then be compared. On a per-MAC-hour basis, the total life cycle GHG impact of desflurane is more than 20 times higher than Isoflurane and Sevoflurane (1 minimal alveolar concentration-hour). One paper finds anesthesia gases used globally contribute the equivalent of 1 million cars to global warming. This estimate is commonly cited as a reason to neglect pollution prevention by anesthesiologists. However, this is problematic. This estimate is extrapolated from only one U.S. institution's anesthetic practices, and this institution uses virtually no Desflurane. Researchers neglected to include nitrous oxide in their calculations, and reported an erroneous average of 17 kg CO2e per anesthetic. However, institutions that utilize some Desflurane and account for nitrous oxide have reported an average of 175–220 kg CO2e per anesthetic. Sulbaek-Anderson's group therefore likely underestimated the total worldwide contribution of inhaled anesthetics, and yet still advocates for inhaled anesthetic emissions prevention.
-In March 2023, Scotland became the first country to ban its use due to its environmental impact.

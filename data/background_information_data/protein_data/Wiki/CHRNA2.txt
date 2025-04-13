@@ -1,6 +1,1 @@
 Neuronal acetylcholine receptor subunit alpha-2, also known as nAChRα2, is a protein that in humans is encoded by the CHRNA2 gene. The protein encoded by this gene is a subunit of certain nicotinic acetylcholine receptors (nAchR).
-
-
-== Function ==
-Knockout of this gene in mice potentiates nicotine-modulated behaviors.
-Using two different genetically modified mutant mouse lines (Chrna2L9'S/L9'S and Chrna2KO), findings highlight that α2* nAChRs influence hippocampus-dependent learning and memory and CA1 synaptic plasticity in adolescent mice.

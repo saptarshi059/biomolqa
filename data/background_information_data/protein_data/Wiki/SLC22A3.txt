@@ -1,11 +1,2 @@
 Solute carrier family 22 member 3 (SLC22A3) also known as the organic cation transporter 3 (OCT3) or extraneuronal monoamine transporter (EMT) is a protein that in humans is encoded by the SLC22A3 gene.
 Polyspecific organic cation transporters in the liver, kidney, intestine, and other organs are critical for elimination of many endogenous small organic cations as well as a wide array of drugs and environmental toxins. This gene is one of three similar cation transporter genes located in a cluster on chromosome 6. The encoded protein contains twelve putative transmembrane domains and is a plasma integral membrane protein.
-
-
-== Distribution ==
-OCT3 is widely distributed in brain tissue. It is not yet completely clear whether its location is primarily neuronal or glial. Areas of the brain in which it has been reported include: hippocampus, retrosplenial cortex, visual cortex, hypothalamus, amygdala, nucleus accumbens, thalamus, raphe nucleus, subiculum, superior and inferior colliculi, and islands of Calleja.
-
-
-== Pharmacology ==
-Organic cation transporter 3 is a polyspecific transporter whose transport is independent of sodium. Known substrates for transport include: histamine, serotonin, norepinephrine, dopamine and MPP+. Capacity for transport and affinity for these substrates may vary between rat and human isoforms however.
-Transport activity of OCT3 is inhibited by recreational and pharmaceutical drugs, including MDMA, phencyclidine (PCP), MK-801, amphetamine, methamphetamine and cocaine. Transport is also inhibited by the chemical decynium-22 and physiological concentrations of corticosterone and cortisol. Ki values for decynium-22 and corticosterone inhibition of OCT3 transport are respectively 10 and 100 times lower than Ki values of OCT1 and OCT2.  This effect of glucocorticoids is believed to explain the phenomenon of stress-induced relapse in recovering addicts, where dopamine transport inhibition causes reactivation of hypersensitive dopamine pathways involved in drug-seeking behavior and incentive salience.

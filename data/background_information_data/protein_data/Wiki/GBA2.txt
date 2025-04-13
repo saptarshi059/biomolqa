@@ -1,5 +1,1 @@
 GBA2 is the gene that encodes the enzyme non-lysosomal glucosylceramidase in humans. It has glucosylceramidase (EC 3.2.1.45) activity.
-
-
-== Function ==
-This gene encodes a microsomal beta-glucosidase that catalyzes the hydrolysis of bile acid 3-O-glucosides as endogenous compounds. Studies to determine subcellular localization of this protein in the liver indicated that the enzyme was mainly enriched in the microsomal fraction where it appeared to be confined to the endoplasmic reticulum. This putative transmembrane protein is thought to play a role in carbohydrate transport and metabolism.

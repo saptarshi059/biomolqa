@@ -1,10 +1,1 @@
 Potassium intermediate/small conductance calcium-activated channel, subfamily N, member 2, also known as KCNN2, is a protein which in humans is encoded by the KCNN2 gene. KCNN2 is an ion channel protein also known as KCa2.2.
-
-
-== Function ==
-Action potentials in vertebrate neurons are followed by an afterhyperpolarization (AHP) that may persist for several seconds and may have profound consequences for the firing pattern of the neuron. Each component of the AHP is kinetically distinct and is mediated by different calcium-activated potassium channels. The KCa2.2 protein is activated before membrane hyperpolarization and is thought to regulate neuronal excitability by contributing to the slow component of synaptic AHP. KCa2.2 is an integral membrane protein that forms a voltage-independent calcium-activated channel with three other calmodulin-binding subunits. This protein is a member of the calcium-activated potassium channel family. Two transcript variants encoding different isoforms have been found for the KCNN2 gene.
-In a 2009 study, SK2 (KCNN2) potassium channel was overexpressed in the basolateral amygdala using a herpes simplex viral system. This reduced anxiety and stress-induced corticosterone secretion at a systemic level. SK2 overexpression also reduced dendritic arborization of the amygdala neurons. In a 2015 study, it was found that UBE3A, the protein maternally deleted in Angelman syndrome, marks KCNN2 for degradation in the hippocampus, and that UBE3A deficiency is associated with an increase in KCNN2 levels. KCNN2 operates through a negative feedback loop to reduce glutamatergic NMDA receptor activation when it itself is activated by that same receptor. Angelman syndrome therefore leads to a reduction in glutamatergic NMDA receptor activation, which impairs long-term potentiation of hippocampal neurons and thus fear conditioning.
-
-
-== Target of acaricide ==
-The corresponding KCa2 channel in the spider mite tetranychus urticae is the target of the acaricide acynonapyr in IRAC group 33.

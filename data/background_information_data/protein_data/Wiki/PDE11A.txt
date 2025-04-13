@@ -1,6 +1,2 @@
 Dual 3',5'-cyclic-AMP and -GMP phosphodiesterase 11A is an enzyme that in humans is encoded by the PDE11A gene.
 The 3',5'-cyclic nucleotides cAMP and cGMP function as second messengers in a wide variety of signal transduction pathways. 3',5'-cyclic nucleotide phosphodiesterases (PDEs) catalyze the hydrolysis of cAMP and cGMP to the corresponding 5'-monophosphates and provide a mechanism to downregulate cAMP and cGMP signaling. This gene encodes a member of the PDE protein superfamily. Mutations in this gene are a cause of Cushing's disease and adrenocortical hyperplasia. Multiple transcript variants encoding different isoforms have been found for this gene.
-
-
-== Inhibitors ==
-BC11-38
