@@ -1,3 +1,5 @@
+# Complexification Prompts
+
 WIKI_COMPLEXIFY_DEVELOPER_PROMPT = """You are an expert in drug biology. Given source material on a specific drug, please rewrite it in one paragraph suitable for an expert audience.
 
 TASK GUIDELINES:
@@ -8,6 +10,8 @@ TASK GUIDELINES:
 
 WIKI_COMPLEXIFY_USER_PROMPT = """DRUG NAME: {}
 DRUG INFORMATION: {}"""
+
+# Molecular Relationship Extraction Prompts
 
 MOLECULAR_INTERACTIONS_DEVELOPER_PROMPT = """You are an expert in molecular chemistry and pharmacology. Given the molecular structures of two drugs, represented by their SMILES strings, identify one specific molecular interaction between them using only the structural information provided.
 
@@ -27,32 +31,46 @@ SEVERITY: [Low / Moderate / High - based on likely pharmacological impact]"""
 MOLECULAR_INTERACTIONS_USER_PROMPT = """SMILES 1: {}
 SMILES 2: {}"""
 
+# DDI Prompts
 
+## Biological relationships
 
+DDI_BIO_ONE_HOP_DEVELOPER_PROMPT = """You are a helpful AI assistant tasked with generating one question about a drug-drug interaction (DDI) based on background information about two drugs and a knowledge-graph triple describing their interaction (subject-predicate-object format).
 
-DDI_SINGLE_HOP_PROMPT = """TASK: You are a helpful AI assistant who writes questions about DRUG-DRUG INTERACTIONS. You are provided with background information about two drug and how they are related by a knowledge-graph triple (in subject-predicate-object format). Please write 1 question by incorporating the background knowledge of each drug and their relationship such that the answer to the question is either drug 1 or drug 2. You are at complete liberty to make the question as complex as possible but still keeping it answerable.
+TASK REQUIREMENTS:
+1. Write exactly one question integrating the background knowledge of both drugs and their relationship. The answer must be either Drug 1 or Drug 2.
+2. The question may be as complex as desired, but it must be answerable.
+3. Do NOT mention the drugs by name in the question; use only their background descriptions.
+4. The question should **specifically test knowledge of the triple-described relationship or interaction, not just isolated facts about either drug.**
+5. The answer should be only the name of the correct drug.
+6. Output in the following format:
 
-Avoid including unnecessary text such as "Here are the key points" or other filler language. Please structure your output as,
 Question:
-Answer:
+Answer:"""
 
-DRUG 1 NAME: {}
+DDI_BIO_ONE_HOP_USER_PROMPT = """DRUG 1 NAME: {}
 DRUG 1 BACKGROUND INFORMATION: {}
 
 DRUG 2 NAME: {}
 DRUG 2 BACKGROUND INFORMATION: {}
 
-DRUG-DRUG INTERACTION TRIPLE: {}"""
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): {}"""
 
-DDI_TWO_HOP_PROMPT = """TASK: You are a helpful AI assistant who writes questions about DRUG-DRUG INTERACTIONS. You are given background information on three drugs and their interaction triples (in subject-predicate-object format), which describe the side effects or outcomes of taking two drugs together. 
+DDI_BIO_TWO_HOP_DEVELOPER_PROMPT = """You are a helpful AI assistant who writes questions about DRUG-DRUG INTERACTIONS. You are given background information on three drugs and their interaction triples (in subject-predicate-object format), which describe the side effects or outcomes of taking two drugs together. 
 
-Your task is to write **one question** that incorporates the background knowledge of each drug and their interactions such that the answer is Drug 3.
+TASK REQUIREMENTS:
 
-Please structure your output as follows:
+1. Write exactly one question integrating the background knowledge of each drug and its relationships. The answer must be Drug 3.
+2. The question may be as complex as desired, but it must be answerable.
+3. Do NOT mention the drugs by name in the question; use only their background descriptions.
+4. The question should **specifically test knowledge of the triple-described relationship or interaction, not just isolated facts about the provided drugs.**
+5. The answer should be only the name of the correct drug.
+6. Output in the following format:
+
 Question:
-Answer:
+Answer:"""
 
-DRUG 1 NAME: {}
+DDI_BIO_TWO_HOP_USER_PROMPT = """DRUG 1 NAME: {}
 DRUG 1 BACKGROUND INFORMATION: {}
 
 DRUG 2 NAME: {}
@@ -62,5 +80,199 @@ DRUG 3 NAME: {}
 DRUG 3 BACKGROUND INFORMATION: {}
 
 DRUG 1 - DRUG 2 INTERACTION TRIPLE (subject-predicate-object): {}
+DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): {}"""
+
+DDI_BIO_THREE_HOP_DEVELOPER_PROMPT = """You are a helpful AI assistant who writes questions about DRUG-DRUG INTERACTIONS. You are given background information on four drugs and their interaction triples (in subject-predicate-object format), which describe the side effects or outcomes of taking two drugs together.
+
+TASK REQUIREMENTS:
+
+1. Write exactly one question integrating the background knowledge of each drug and its relationships. The answer must be Drug 4.
+2. The question may be as complex as desired, but it must be answerable.
+3. Do NOT mention the drugs by name in the question; use only their background descriptions.
+4. The question should **specifically test knowledge of the triple-described relationship or interaction, not just isolated facts about the provided drugs.**
+5. The answer should be only the name of the correct drug.
+6. Output in the following format:
+
+Question:
+Answer:"""
+
+DDI_BIO_THREE_HOP_USER_PROMPT = """DRUG 1 NAME: {}
+DRUG 1 BACKGROUND INFORMATION: {}
+
+DRUG 2 NAME: {}
+DRUG 2 BACKGROUND INFORMATION: {}
+
+DRUG 3 NAME: {}
+DRUG 3 BACKGROUND INFORMATION: {}
+
+DRUG 4 NAME: {}
+DRUG 4 BACKGROUND INFORMATION: {}
+
+DRUG 1 - DRUG 2 INTERACTION TRIPLE (subject-predicate-object): {}
 DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): {}
-"""
+DRUG 3 - DRUG 4 INTERACTION TRIPLE (subject-predicate-object): {}"""
+
+## Molecular Relationships
+
+DDI_MOL_ONE_HOP_DEVELOPER_PROMPT = """You are a helpful AI assistant tasked with generating one question about a drug-drug interaction (DDI) based on the molecular structure of two drugs (given as SMILES strings) and a knowledge-graph triple describing their interaction (subject-predicate-object format).
+
+TASK REQUIREMENTS:
+1. Write exactly one question integrating the molecular structure of both drugs and their relationship. The answer must be either Drug 1 or Drug 2.
+2. The question may be as complex as desired, but must be answerable.
+3. Do NOT mention the drugs by name in the question; describe them by their molecular structure.
+4. The question should **specifically test knowledge of the triple-described relationship or interaction, not just isolated facts about either drug.**
+5. The answer should be only the name of the correct drug.
+6. Do not repeat the provided data or add any filler language.
+7. Output in the following format:
+
+Question:
+Answer:"""
+
+DDI_MOL_ONE_HOP_USER_PROMPT = """DRUG 1 NAME: {}
+DRUG 1 SMILES: {}
+
+DRUG 2 NAME: {}
+DRUG 2 SMILES: {}
+
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): {}"""
+
+DDI_MOL_TWO_HOP_DEVELOPER_PROMPT = """You are a helpful AI assistant who writes questions about DRUG-DRUG INTERACTIONS. You are given background information on three drugs and their interaction triples (in subject-predicate-object format), which describe how the drugs interact with each other at the molecular level.
+
+TASK REQUIREMENTS:
+1. Write exactly one question integrating the molecular structure of each drug and their relationships. The answer must be Drug 3.
+2. The question may be as complex as desired, but must be answerable.
+3. Do NOT mention the drugs by name in the question; describe them by their molecular structure.
+4. The question should **specifically test knowledge of the triple-described relationship or interaction, not just isolated facts about the provided drugs.**
+5. The answer should be only the name of the correct drug.
+6. Do not repeat the provided data or add any filler language.
+7. Output in the following format:
+
+Question:
+Answer:"""
+
+DDI_MOL_TWO_HOP_USER_PROMPT = """DRUG 1 NAME: {}
+DRUG 1 BACKGROUND INFORMATION: {}
+
+DRUG 2 NAME: {}
+DRUG 2 BACKGROUND INFORMATION: {}
+
+DRUG 3 NAME: {}
+DRUG 3 BACKGROUND INFORMATION: {}
+
+DRUG 1 - DRUG 2 INTERACTION TRIPLE (subject-predicate-object): {}
+DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): {}"""
+
+DDI_MOL_THREE_HOP_DEVELOPER_PROMPT = """You are a helpful AI assistant who writes questions about DRUG-DRUG INTERACTIONS. You are given background information on four drugs and their interaction triples (in subject-predicate-object format), which describe how the drugs interact with each other at the molecular level.
+
+TASK REQUIREMENTS:
+1. Write exactly one question integrating the molecular structure of each drug and their relationships. The answer must be Drug 4.
+2. The question may be as complex as desired, but must be answerable.
+3. Do NOT mention the drugs by name in the question; describe them by their molecular structure.
+4. The question should **specifically test knowledge of the triple-described relationship or interaction, not just isolated facts about the provided drugs.**
+5. The answer should be only the name of the correct drug.
+6. Do not repeat the provided data or add any filler language.
+7. Output in the following format:
+
+Question:
+Answer:"""
+
+DDI_MOL_THREE_HOP_USER_PROMPT = """DRUG 1 NAME: {}
+DRUG 1 BACKGROUND INFORMATION: {}
+
+DRUG 2 NAME: {}
+DRUG 2 BACKGROUND INFORMATION: {}
+
+DRUG 3 NAME: {}
+DRUG 3 BACKGROUND INFORMATION: {}
+
+DRUG 4 NAME: {}
+DRUG 4 BACKGROUND INFORMATION: {}
+
+DRUG 1 - DRUG 2 INTERACTION TRIPLE (subject-predicate-object): {}
+DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): {}
+DRUG 3 - DRUG 4 INTERACTION TRIPLE (subject-predicate-object): {}"""
+
+# DPI Prompts
+
+DPI_ONE_HOP_DEVELOPER_PROMPT = """You are a helpful AI assistant tasked with generating one question about a drug-protein interaction (DPI) based on background information about a drug, protein and a knowledge-graph triple describing their interaction (subject-predicate-object format).
+
+TASK REQUIREMENTS:
+1. Write exactly one question integrating the background knowledge of the drug, protein and their relationship. The answer must be the protein.
+2. The question may be as complex as desired, but it must be answerable.
+3. Do NOT mention the drug or protein by name in the question; use only their background descriptions.
+4. The question should **specifically test knowledge of the triple-described relationship or interaction, not just isolated facts about the drug or protein.**
+5. The answer should be only the name of the protein.
+6. Output in the following format:
+
+Question:
+Answer:"""
+
+DPI_ONE_HOP_USER_PROMPT = """DRUG NAME: {}
+DRUG BACKGROUND INFORMATION: {}
+
+PROTEIN NAME: {}
+PROTEIN BACKGROUND INFORMATION: {}
+
+DRUG-PROTEIN INTERACTION TRIPLE (subject-predicate-object): {}"""
+
+DPI_TWO_HOP_DEVELOPER_PROMPT = """You are a helpful AI assistant who writes questions about DRUG-PROTEIN INTERACTIONS. You are given background information on two drugs, one protein and their interaction triples (in subject-predicate-object format). 
+
+You will see 2 types of relations,
+1. DRUG-DRUG INTERACTION: This is the side effect of taking the two drugs together.
+2. DRUG-PROTEIN INTERACTION: This explains how the drug behaves with the protein.
+
+TASK REQUIREMENTS:
+1. Write exactly one question integrating the background knowledge of each drug, protein and their relationship. The answer must be the protein.
+2. The question may be as complex as desired, but it must be answerable.
+3. Do NOT mention the drugs or protein by name in the question; use only their background descriptions.
+4. The question should **specifically test knowledge of the triple-described relationships or interactions, not just isolated facts about the drugs or protein.**
+5. The answer should be only the name of the protein.
+6. Output in the following format:
+
+Question:
+Answer:"""
+
+DPI_TWO_HOP_USER_PROMPT = """DRUG 1 NAME: {}
+DRUG 1 BACKGROUND INFORMATION: {}
+
+DRUG 2 NAME: {}
+DRUG 2 BACKGROUND INFORMATION: {}
+
+PROTEIN NAME: {}
+PROTEIN BACKGROUND INFORMATION: {}
+
+DRUG 1 - DRUG 2 INTERACTION TRIPLE (subject-predicate-object): {}
+DRUG 2 - PROTEIN INTERACTION TRIPLE (subject-predicate-object): {}"""
+
+DPI_THREE_HOP_DEVELOPER_PROMPT = """You are a helpful AI assistant who writes questions about DRUG-PROTEIN INTERACTIONS. You are given background information on three drugs, one protein and their interaction triples (in subject-predicate-object format). 
+
+You will see 2 types of relations,
+1. DRUG-DRUG INTERACTION: This is the side effect of taking the two drugs together.
+2. DRUG-PROTEIN INTERACTION: This explains how the drug behaves with the protein.
+
+TASK REQUIREMENTS:
+1. Write exactly one question integrating the background knowledge of each drug, protein and their relationship. The answer must be the protein.
+2. The question may be as complex as desired, but it must be answerable.
+3. Do NOT mention the drugs or protein by name in the question; use only their background descriptions.
+4. The question should **specifically test knowledge of the triple-described relationships or interactions, not just isolated facts about the drugs or protein.**
+5. The answer should be only the name of the protein.
+6. Output in the following format:
+
+Question:
+Answer:"""
+
+DPI_THREE_HOP_USER_PROMPT = """DRUG 1 NAME: {}
+DRUG 1 BACKGROUND INFORMATION: {}
+
+DRUG 2 NAME: {}
+DRUG 2 BACKGROUND INFORMATION: {}
+
+DRUG 3 NAME: {}
+DRUG 3 BACKGROUND INFORMATION: {}
+
+PROTEIN NAME: {}
+PROTEIN BACKGROUND INFORMATION: {}
+
+DRUG 1 - DRUG 2 INTERACTION TRIPLE (subject-predicate-object): {}
+DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): {}
+DRUG 3 - PROTEIN INTERACTION TRIPLE (subject-predicate-object): {}"""
