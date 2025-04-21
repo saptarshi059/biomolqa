@@ -1,15 +1,15 @@
 Entities,Question_Background,Question,Answer,Label
 Amlodipine-Pamidronic acid-thiotepa,"DRUG 1 NAME: Amlodipine
-DRUG 1 BACKGROUND INFORMATION: CCOC(=O)C1=C(NC(=C(C1C2=CC=CC=C2Cl)C(=O)OC)C)COCCN
+DRUG 1 SMILES: CCOC(=O)C1=C(NC(=C(C1C2=CC=CC=C2Cl)C(=O)OC)C)COCCN
 
 DRUG 2 NAME: Pamidronic acid
-DRUG 2 BACKGROUND INFORMATION: C(CN)C(O)(P(=O)(O)O)P(=O)(O)O
+DRUG 2 SMILES: C(CN)C(O)(P(=O)(O)O)P(=O)(O)O
 
 DRUG 3 NAME: thiotepa
-DRUG 3 BACKGROUND INFORMATION: C1CN1P(=S)(N2CC2)N3CC3
+DRUG 3 SMILES: C1CN1P(=S)(N2CC2)N3CC3
 
 DRUG 1 - DRUG 2 INTERACTION TRIPLE (subject-predicate-object): Amlodipine-Hydrogen Bonding-Pamidronic acid
-DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): Pamidronic acid-Hydrogen Bonding-thiotepa","Which drug, characterized by a cyclic ethyleneimine structure bonded to a thiophosphoramide group and two aziridine moieties, forms a hydrogen bond with a molecule possessing two phosphonic acid groups and a hydroxylated central carbon?",thiotepa,4
+DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): Pamidronic acid-Hydrogen Bonding-thiotepa","Which drug, featuring a triaziridinylphosphine sulfide core, forms a hydrogen bond with a compound containing both an aminomethyl group and bisphosphonic acid functionalities, the latter of which in turn interacts via hydrogen bonding with a dihydropyridine-based ester?",thiotepa,4
 alendronic acid-Efavirenz-oxybutynin,"DRUG 1 NAME: alendronic acid
 DRUG 1 BACKGROUND INFORMATION: Alendronic acid, sold under the brand name Fosamax among others, is a bisphosphonate medication used to treat osteoporosis and Paget's disease of bone. It is taken by mouth. Use is often recommended together with vitamin D, calcium supplementation, and lifestyle changes.
 Common side effects (1 to 10% of patients) include constipation, abdominal pain, nausea, and acid reflux. Use is not recommended during pregnancy or in those with poor kidney function. Alendronic acid works by decreasing the activity of cells that break down bone.
@@ -25,38 +25,38 @@ DRUG 1 - DRUG 2 INTERACTION TRIPLE (subject-predicate-object): alendronic acid-A
 DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): Efavirenz-constipated-oxybutynin
 ","A bisphosphonate used for osteoporosis can cause adenopathy when combined with a non-nucleoside reverse transcriptase inhibitor that is a cornerstone in HIV regimens. This antiretroviral agent, when taken together with which potent antimuscarinic therapy for overactive bladder, can lead to constipation as an interaction outcome?",oxybutynin,1
 indometacin-oxybutynin-Zaleplon,"DRUG 1 NAME: indometacin
-DRUG 1 BACKGROUND INFORMATION: CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O
+DRUG 1 SMILES: CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O
 
 DRUG 2 NAME: oxybutynin
-DRUG 2 BACKGROUND INFORMATION: CCN(CC)CC#CCOC(=O)C(C1CCCCC1)(C2=CC=CC=C2)O
+DRUG 2 SMILES: CCN(CC)CC#CCOC(=O)C(C1CCCCC1)(C2=CC=CC=C2)O
 
 DRUG 3 NAME: Zaleplon
-DRUG 3 BACKGROUND INFORMATION: CCN(C1=CC=CC(=C1)C2=CC=NC3=C(C=NN23)C#N)C(=O)C
+DRUG 3 SMILES: CCN(C1=CC=CC(=C1)C2=CC=NC3=C(C=NN23)C#N)C(=O)C
 
 DRUG 1 - DRUG 2 INTERACTION TRIPLE (subject-predicate-object): indometacin-Hydrogen Bonding-oxybutynin
-DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): oxybutynin-Pi-Pi Stacking-Zaleplon","Which compound, containing a pyrazolopyrimidine ring fused with a cyanide group and a terminal N-ethylacetamide moiety, is capable of Pi-Pi stacking interactions with a molecule that features a cyclohexyl group and an ester-linked diphenyl component, the latter of which also forms hydrogen bonds with a chlorinated indole acetic acid derivative?",Zaleplon,4
+DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): oxybutynin-Pi-Pi Stacking-Zaleplon","Which drug containing a fused pyrazolopyrimidine core and a nitrile group is capable of engaging in pi-pi stacking interactions with a molecule featuring a cyclohexyl group and phenyl ring separated by an ester moiety, the latter of which in turn can hydrogen bond with an indole-derived aromatic acid?",Zaleplon,4
 Duloxetine-Acamprosate,"DRUG 1 NAME: Duloxetine
 DRUG 1 SMILES: CNCCC(C1=CC=CS1)OC2=CC=CC3=CC=CC=C32
 
 DRUG 2 NAME: Acamprosate
 DRUG 2 SMILES: CC(=O)NCCCS(=O)(=O)O
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Duloxetine-Hydrogen Bonding-Acamprosate","Which drug, represented by the SMILES string CC(=O)NCCCS(=O)(=O)O, is capable of forming hydrogen bonds with the drug represented by the SMILES string CNCCC(C1=CC=CS1)OC2=CC=CC3=CC=CC=C32, as indicated by their known interaction?",Acamprosate,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Duloxetine-Hydrogen Bonding-Acamprosate","Between the compound featuring an ethylamine chain linked to a bicyclic naphthofuran system and the compound containing both a sulfonic acid and an acetamido group within a short carbon chain, which acts as the hydrogen bond acceptor in their interaction?",Acamprosate,3
 Gabapentin-Lamivudine-Metoprolol-Fulvestrant,"DRUG 1 NAME: Gabapentin
-DRUG 1 BACKGROUND INFORMATION: C1CCC(CC1)(CC(=O)O)CN
+DRUG 1 SMILES: C1CCC(CC1)(CC(=O)O)CN
 
 DRUG 2 NAME: Lamivudine
-DRUG 2 BACKGROUND INFORMATION: C1C(OC(S1)CO)N2C=CC(=NC2=O)N
+DRUG 2 SMILES: C1C(OC(S1)CO)N2C=CC(=NC2=O)N
 
 DRUG 3 NAME: Metoprolol
-DRUG 3 BACKGROUND INFORMATION: CC(C)NCC(COC1=CC=C(C=C1)CCOC)O
+DRUG 3 SMILES: CC(C)NCC(COC1=CC=C(C=C1)CCOC)O
 
 DRUG 4 NAME: Fulvestrant
-DRUG 4 BACKGROUND INFORMATION: CC12CCC3C(C1CCC2O)C(CC4=C3C=CC(=C4)O)CCCCCCCCCS(=O)CCCC(C(F)(F)F)(F)F
+DRUG 4 SMILES: CC12CCC3C(C1CCC2O)C(CC4=C3C=CC(=C4)O)CCCCCCCCCS(=O)CCCC(C(F)(F)F)(F)F
 
 DRUG 1 - DRUG 2 INTERACTION TRIPLE (subject-predicate-object): Gabapentin-Hydrogen Bonding-Lamivudine
 DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): Lamivudine-Hydrogen Bonding-Metoprolol
-DRUG 3 - DRUG 4 INTERACTION TRIPLE (subject-predicate-object): Metoprolol-Hydrogen Bonding-Fulvestrant","Which drug, characterized by a steroidal core with a long alkyl chain bearing a sulfinyl group, a trifluoromethyl moiety, and a phenolic ring, engages in a hydrogen bonding interaction with the compound containing a secondary alcohol, an ether-linked aromatic ring, and an isopropylamino side chain?",Fulvestrant,5
+DRUG 3 - DRUG 4 INTERACTION TRIPLE (subject-predicate-object): Metoprolol-Hydrogen Bonding-Fulvestrant","Which drug, characterized by a fused cyclopentane and phenolic steroid core with a long aliphatic chain ending in a sulfoxide-substituted tail, forms a hydrogen bond interaction with a compound that contains a secondary alcohol, isopropylamino side chain, and aryloxypropanol moiety?",Fulvestrant,5
 Celecoxib-chlortalidone-Sildenafil-Zaleplon,"DRUG 1 NAME: Celecoxib
 DRUG 1 BACKGROUND INFORMATION: Celecoxib, a selective cyclooxygenase-2 (COX-2) inhibitor, functions as a nonsteroidal anti-inflammatory drug (NSAID) utilized primarily for its analgesic and anti-inflammatory efficacy in osteoarthritis, rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis, dysmenorrhea, acute pain management, and juvenile rheumatoid arthritis. Additionally, celecoxib has prophylactic applications in reducing colorectal adenomatous formations in familial adenomatous polyposis due to its COX-2 inhibition, which mitigates pro-inflammatory prostaglandin synthesis while sparing COX-1, ostensibly minimizing gastrointestinal mucosal damage relative to non-selective NSAIDs. The pharmacokinetics permit oral administration, with pharmacodynamic effects commencing typically within one hour post-ingestion. Notable adverse reactions span gastrointestinal disturbances such as abdominal pain, nausea, and diarrhea, with severe risk profiles including cardiovascular thrombotic events, gastrointestinal perforation, renal impairment, and hypersensitivity reactions like anaphylaxis, contraindicating its use in populations with significant cardiovascular risk profiles. The risk profile parallels that of other NSAIDs like ibuprofen and naproxen, and caution is advised during late-stage gestation and lactation. Celecoxib's generic availability and widespread prescription underscore its clinical significance, albeit with requisite consideration of its potential side-effect burden.
 
@@ -93,14 +93,14 @@ DRUG 1 SMILES: C1CN2C(=CC=C2C(=O)C3=CC=CC=C3)C1C(=O)O
 DRUG 2 NAME: Duloxetine
 DRUG 2 SMILES: CNCCC(C1=CC=CS1)OC2=CC=CC3=CC=CC=C32
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Ketorolac-π-π Stacking-Duloxetine","Which drug, identified by the SMILES string C1CN2C(=CC=C2C(=O)C3=CC=CC=C3)C1C(=O)O, is capable of forming a π-π stacking interaction with another compound characterized by the SMILES CNCCC(C1=CC=CS1)OC2=CC=CC3=CC=CC=C32?",Ketorolac,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Ketorolac-π-π Stacking-Duloxetine","Between the two drugs, one containing a bicyclic fused ring with a pyrrolizine core and a carboxylic acid functional group, and another featuring a thiophene ring linked via an ether to a naphthalene system, which drug acts as the π-π stacking partner to the bicyclic compound?",Duloxetine,3
 Ketoprofen-Perindopril,"DRUG 1 NAME: Ketoprofen
 DRUG 1 SMILES: CC(C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O
 
 DRUG 2 NAME: Perindopril
 DRUG 2 SMILES: CCCC(C(=O)OCC)NC(C)C(=O)N1C2CCCCC2CC1C(=O)O
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Ketoprofen-Hydrogen Bonding-Perindopril","Which drug, identified by the SMILES string CC(C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O, participates in hydrogen bonding with the compound represented by CCCC(C(=O)OCC)NC(C)C(=O)N1C2CCCCC2CC1C(=O)O?",Ketoprofen,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Ketoprofen-Hydrogen Bonding-Perindopril","Considering one molecule that contains a biphenyl moiety with both a carboxylic acid functional group and a methyl group adjacent to a carbonyl, and another molecule featuring an ethyl ester attached to a proline-derived bicyclic system and an alkyl side chain, which of these is more likely to donate a hydrogen bond to the other in their reported interaction?",Ketoprofen,3
 Fentanyl-Loxapine-HRH2,"DRUG 1 NAME: Fentanyl
 DRUG 1 BACKGROUND INFORMATION: Fentanyl, a synthetic piperidine opioid agonist, demonstrates exceptional analgesic efficacy, with μ-opioid receptor affinity rendering it 50-100 times more potent than morphine. Clinically, it is indispensable for managing severe pain in oncologic contexts and post-operative recovery, administered under brand names such as Actiq, Duragesic, and Sublimaze. The pharmacokinetic profile facilitates rapid onset across administration routes, thus posing significant overdose risk even at minimal doses. Adverse pharmacodynamics encompass addiction potential, central nervous system depression leading to respiratory compromise, and a range of neuropsychiatric disturbances, including narcotic delirium and hypotensive coma, exacerbated synergistically by concurrent alcohol or co-ingestants like cocaine and heroin. Although opioid antagonists such as naloxone are efficacious in overdose scenarios, fentanyl’s high receptor occupancy and potency often necessitate multiple reversal attempts. Epidemiologically, fentanyl supersedes other synthetic opioids, catalyzing an overdose epidemic exacerbated by clandestine synthesis and poly-drug formulations, complicating therapeutic interventions and forensic investigations. Proactive measures, including test kits and advanced analytical protocols, are critical in mitigating rampant illicit distribution, underpinned by fentanyl’s streamlined synthesis and distribution adaptability.
 
@@ -127,14 +127,14 @@ DRUG 1 SMILES: C1CCC(CC1)(CC(=O)O)CN
 DRUG 2 NAME: Thalidomide
 DRUG 2 SMILES: C1CC(=O)NC(=O)C1N2C(=O)C3=CC=CC=C3C2=O
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Gabapentin-Hydrogen Bonding-Thalidomide","Which drug, identified by the SMILES string C1CCC(CC1)(CC(=O)O)CN, is capable of forming hydrogen bonds with the compound represented by C1CC(=O)NC(=O)C1N2C(=O)C3=CC=CC=C3C2=O according to their known interaction?",Gabapentin,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Gabapentin-Hydrogen Bonding-Thalidomide","Considering a compound featuring a cyclohexane ring bonded to an aminomethyl group and a gamma-carboxylic acid, and another compound characterized by a glutarimide moiety fused to a phthalimide structure, which molecule serves as the primary hydrogen bond donor in their documented hydrogen bonding interaction?",Gabapentin,3
 alendronic acid-Moexipril,"DRUG 1 NAME: alendronic acid
 DRUG 1 SMILES: C(CC(O)(P(=O)(O)O)P(=O)(O)O)CN
 
 DRUG 2 NAME: Moexipril
 DRUG 2 SMILES: CCOC(=O)C(CCC1=CC=CC=C1)NC(C)C(=O)N2CC3=CC(=C(C=C3CC2C(=O)O)OC)OC
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): alendronic acid-Hydrogen Bonding-Moexipril","Which drug, identified by the structure C(CC(O)(P(=O)(O)O)P(=O)(O)O)CN, can form hydrogen bonds with the compound described by the structure CCOC(=O)C(CCC1=CC=CC=C1)NC(C)C(=O)N2CC3=CC(=C(C=C3CC2C(=O)O)OC)OC, through their mutual interaction?",alendronic acid,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): alendronic acid-Hydrogen Bonding-Moexipril","Considering that one drug contains two phosphonic acid groups and a primary amine attached to a linear carbon backbone, and the other drug features a methoxy-substituted benzene ring, ester and amide linkages, as well as a proline-derived bicyclic structure, which drug acts as the hydrogen bond donor in their reported hydrogen bonding interaction?",alendronic acid,3
 acetazolamide-Diazepam-Formoterol-ADRB1,"DRUG 1 NAME: acetazolamide
 DRUG 1 BACKGROUND INFORMATION: Acetazolamide, marketed under the trade name Diamox, serves as a versatile pharmaceutical agent within the realm of carbonic anhydrase inhibitors, effectively modulating intraocular pressure via the diminution of aqueous humor production and osmolality. Its clinical utility spans across conditions such as glaucoma—both open-angle and acute angle closure—epilepsy, acute mountain sickness, periodic paralysis, idiopathic intracranial hypertension, and heart failure, with an ancillary role in urinary alkalinization. Therapeutic administration is achievable through oral and intravenous modalities. Mechanistically, acetazolamide exerts its effects by disrupting the equilibria of carbon dioxide hydration and subsequent bicarbonate ion production, thereby reducing intracellular hydrogen ion availability. The pharmacodynamic profile encompasses neuro-sensory side effects like paresthesia and tinnitus, alongside anorexia, emesis, and somnolence. Contraindications are notable in individuals with renal or hepatic impairment, and those with hypersensitivity to sulfonamide derivatives. As a diuretic and enzymatic inhibitor, it holds a position on the WHO's List of Essential Medicines, emphasizing its critical global accessibility as a generic formulation.
 
@@ -163,18 +163,18 @@ DRUG 1 SMILES: CC(=O)NC1=NN=C(S1)S(=O)(=O)N
 DRUG 2 NAME: Lamotrigine
 DRUG 2 SMILES: C1=CC(=C(C(=C1)Cl)Cl)C2=C(N=C(N=N2)N)N
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): acetazolamide-Hydrogen Bonding-Lamotrigine","Which compound, based on its structure, acts as the hydrogen bond acceptor through its sulfonamide oxygens in the interaction described by its hydrogen bonding with the aromatic diamine-containing molecule?",acetazolamide,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): acetazolamide-Hydrogen Bonding-Lamotrigine","Between the two compounds, one features a sulfonamide group attached to a five-membered ring containing thione and amide functionalities, while the other contains a dichlorophenyl ring fused to a triazine core with multiple NH groups. Based on their structural features and their interaction via hydrogen bonding, which compound is more likely to serve as a hydrogen bond acceptor due to its sulfonamide and carbonyl functionalities in this interaction?",acetazolamide,3
 Naproxen-Risedronic acid-mercaptopurine,"DRUG 1 NAME: Naproxen
-DRUG 1 BACKGROUND INFORMATION: CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O
+DRUG 1 SMILES: CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O
 
 DRUG 2 NAME: Risedronic acid
-DRUG 2 BACKGROUND INFORMATION: C1=CC(=CN=C1)CC(O)(P(=O)(O)O)P(=O)(O)O
+DRUG 2 SMILES: C1=CC(=CN=C1)CC(O)(P(=O)(O)O)P(=O)(O)O
 
 DRUG 3 NAME: mercaptopurine
-DRUG 3 BACKGROUND INFORMATION: C1=NC2=C(N1)C(=S)N=CN2
+DRUG 3 SMILES: C1=NC2=C(N1)C(=S)N=CN2
 
 DRUG 1 - DRUG 2 INTERACTION TRIPLE (subject-predicate-object): Naproxen-Hydrogen Bonding-Risedronic acid
-DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): Risedronic acid-Hydrogen Bonding-mercaptopurine","Which drug, containing a purine ring structure with a thione (C=S) group and forming hydrogen bonds with another molecule that features a pyridine ring bonded to two phosphonic acid moieties, is involved in these molecular interactions?",mercaptopurine,4
+DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): Risedronic acid-Hydrogen Bonding-mercaptopurine","Which compound, containing a purine ring substituted with a thiol group and forming hydrogen bonds with a bisphosphonate derivative featuring a pyridine ring, is involved in a hydrogen bonding interaction described in the above context?",mercaptopurine,4
 Diazepam-Perindopril,"DRUG 1 NAME: Diazepam
 DRUG 1 BACKGROUND INFORMATION: Diazepam, a prototypical member of the benzodiazepine pharmacological class, functions primarily as an anxiolytic by potentiation of GABAergic neurotransmission, enhancing the binding affinity of gamma-aminobutyric acid (GABA) at the GABA_A receptor complex. It is employed in the management of a diverse array of conditions, including, but not limited to, generalized anxiety disorder, status epilepticus, alcohol withdrawal delirium, spasticity, insomnia, and restless legs syndrome, with additional utility in procedural amnesia induction. Diazepam exhibits versatile administration routes—oral, rectal, intramuscular, intravenous, and intranasal, with IV administration eliciting rapid onset of action within 1-5 minutes and demonstrating a relatively short duration of clinical efficacy. Oral administration results in peak plasma concentrations within 15 to 60 minutes. While generally well-tolerated, its adverse effect profile includes CNS depression manifesting as sedation and impaired motor coordination, with rare, yet severe risks like respiratory depression, paradoxical excitation, and seizure exacerbation with chronic use. Chronic administration raises the risk of tolerance, physical dependence, and a withdrawal syndrome upon abrupt cessation; cognitive impairments post-discontinuation are well-documented. It is contraindicated in pregnancy and lactation due to teratogenic and neonatal withdrawal potential. Diazepam continues to be a mainstay therapeutic agent on the World Health Organization’s List of Essential Medicines, despite its risk for abuse and dependency, underscoring the necessity for judicious prescribing practice.
 
@@ -202,21 +202,21 @@ DRUG 1 SMILES: C1=CC(=C(C(=C1)Cl)Cl)C2=C(N=C(N=N2)N)N
 DRUG 2 NAME: oxybutynin
 DRUG 2 SMILES: CCN(CC)CC#CCOC(=O)C(C1CCCCC1)(C2=CC=CC=C2)O
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Lamotrigine-Hydrogen Bonding-oxybutynin","Considering the drug with a dichlorophenyl and triazine ring and the drug containing a cyclohexylphenyl ester with an alkyne group, which one acts as a hydrogen bond donor in their described hydrogen bonding interaction?",Lamotrigine,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Lamotrigine-Hydrogen Bonding-oxybutynin","Considering their molecular structures, which drug, between the dichlorinated phenyltriazine with two terminal amino groups and the piperidinyl ester featuring an alkyne linker and benzylic tertiary alcohol, is more likely to act as a hydrogen bond donor in their mutual interaction?",Lamotrigine,3
 Cimetidine-Citalopram,"DRUG 1 NAME: Cimetidine
 DRUG 1 SMILES: CC1=C(N=CN1)CSCCNC(=NC)NC#N
 
 DRUG 2 NAME: Citalopram
 DRUG 2 SMILES: CN(C)CCCC1(C2=C(CO1)C=C(C=C2)C#N)C3=CC=C(C=C3)F
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Cimetidine-Hydrogen Bond-Citalopram","Which compound, characterized by a five-membered ring containing both sulfur and nitrogen and a nitrile functional group (as indicated by ""NC#N"" in its SMILES), is predicted to form a hydrogen bond with another molecule bearing both a fluorophenyl and a nitrile-substituted isoindole moiety?",Cimetidine,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Cimetidine-Hydrogen Bond-Citalopram","Which drug, featuring a triazole ring substituted with a methyl group and containing both cyano and guanidine functionalities, is capable of forming a hydrogen bond with a compound that has a phthalane backbone, a nitrile substituent on an aromatic ring, and a fluorine atom attached to a phenyl ring?",Cimetidine,3
 Aciclovir-Lidocaine,"DRUG 1 NAME: Aciclovir
 DRUG 1 SMILES: C1=NC2=C(N1COCCO)NC(=NC2=O)N
 
 DRUG 2 NAME: Lidocaine
 DRUG 2 SMILES: CCN(CC)CC(=O)NC1=C(C=CC=C1C)C
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Aciclovir-Hydrogen Bonding-Lidocaine","Between the molecule containing a diazine ring fused to an imidazole ring with a side chain terminating in an alcohol (SMILES: C1=NC2=C(N1COCCO)NC(=NC2=O)N) and the molecule with a tertiary amine ethyl chain and an amide attached to a methylated benzene ring (SMILES: CCN(CC)CC(=O)NC1=C(C=CC=C1C)C), which one acts as a hydrogen bond donor to the other in their documented molecular interaction?",Aciclovir,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Aciclovir-Hydrogen Bonding-Lidocaine","Which drug, characterized by a bicyclic purine core fused to an acyclic sugar-like side chain, is capable of forming significant hydrogen bonds with a compound that contains an aromatic amide linked to a diethylamino group?",Aciclovir,3
 Celecoxib-chlortalidone-Sildenafil-Acamprosate,"DRUG 1 NAME: Celecoxib
 DRUG 1 BACKGROUND INFORMATION: Celecoxib, a selective cyclooxygenase-2 (COX-2) inhibitor, functions as a nonsteroidal anti-inflammatory drug (NSAID) utilized primarily for its analgesic and anti-inflammatory efficacy in osteoarthritis, rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis, dysmenorrhea, acute pain management, and juvenile rheumatoid arthritis. Additionally, celecoxib has prophylactic applications in reducing colorectal adenomatous formations in familial adenomatous polyposis due to its COX-2 inhibition, which mitigates pro-inflammatory prostaglandin synthesis while sparing COX-1, ostensibly minimizing gastrointestinal mucosal damage relative to non-selective NSAIDs. The pharmacokinetics permit oral administration, with pharmacodynamic effects commencing typically within one hour post-ingestion. Notable adverse reactions span gastrointestinal disturbances such as abdominal pain, nausea, and diarrhea, with severe risk profiles including cardiovascular thrombotic events, gastrointestinal perforation, renal impairment, and hypersensitivity reactions like anaphylaxis, contraindicating its use in populations with significant cardiovascular risk profiles. The risk profile parallels that of other NSAIDs like ibuprofen and naproxen, and caution is advised during late-stage gestation and lactation. Celecoxib's generic availability and widespread prescription underscore its clinical significance, albeit with requisite consideration of its potential side-effect burden.
 
@@ -248,7 +248,7 @@ DRUG 1 SMILES: CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O
 DRUG 2 NAME: alendronic acid
 DRUG 2 SMILES: C(CC(O)(P(=O)(O)O)P(=O)(O)O)CN
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Naproxen-Hydrogen Bonding-alendronic acid","Between the molecule with a carboxylic acid and methoxy-substituted naphthalene ring (CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O) and the molecule featuring two phosphonic acid groups and a terminal amine (C(CC(O)(P(=O)(O)O)P(=O)(O)O)CN), which one acts as the hydrogen bond donor in their interaction?",alendronic acid,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Naproxen-Hydrogen Bonding-alendronic acid","Which of the following two drugs—one with a carboxylic acid attached to a naphthalene ring substituted with a methoxy group, and the other featuring two phosphonic acid groups and a terminal amine on an aliphatic chain—can participate as a hydrogen bond acceptor and donor with the other in a manner that contributes to their documented interaction?",alendronic acid,3
 Lamivudine-Metoprolol-GRPR,"DRUG 1 NAME: Lamivudine
 DRUG 1 BACKGROUND INFORMATION: Lamivudine, or 3TC, is a nucleoside reverse transcriptase inhibitor with efficacy against HIV-1, HIV-2, and chronic hepatitis B virus. It functions by competitive inhibition of HIV reverse transcriptase and hepatitis B virus polymerase, disrupting viral DNA synthesis. Clinically, lamivudine is integral to combination antiretroviral therapy, often co-administered with agents such as zidovudine, dolutegravir, and abacavir, and forms part of post-exposure prophylactic regimens. It is available for oral administration as liquid or tablet formulations, maintaining therapeutic flexibility through its dosing independence from food intake. While generally well-tolerated, adverse effects can include gastrointestinal disturbances, cephalalgia, asthenia, and respiratory symptoms; however, clinicians must vigilantly monitor for hepatotoxicity, lactic acidosis, and hepatitis B exacerbations. Suitable for patients over three months and deemed safe in pregnancy, lamivudine is recognized as an essential medicine, underscoring its pivotal role in antiretroviral pharmacotherapy despite potential genotypic resistance mutations.
 
@@ -290,36 +290,36 @@ DRUG 1 SMILES: C1=NC2=C(N1COCCO)NC(=NC2=O)N
 DRUG 2 NAME: Dapsone
 DRUG 2 SMILES: C1=CC(=CC=C1N)S(=O)(=O)C2=CC=C(C=C2)N
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Aciclovir-Hydrogen Bonding-Dapsone","Which molecule, containing a purine ring system attached to a side chain with two ether groups, acts as a hydrogen bond donor or acceptor in its interaction with the aromatic amine sulfone compound described by two aniline rings connected by a sulfonyl group?",Aciclovir,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Aciclovir-Hydrogen Bonding-Dapsone","Which drug, the one featuring a fused imidazole and purine ring system with a side chain containing an ether and a terminal alcohol, is likely to act as a hydrogen bond acceptor or donor in its interaction with the aromatic sulfonamide-containing molecule with amino substituents on each benzene ring?",Aciclovir,3
 Citalopram-Fenofibrate-Modafinil-Pamidronic acid,"DRUG 1 NAME: Citalopram
-DRUG 1 BACKGROUND INFORMATION: CN(C)CCCC1(C2=C(CO1)C=C(C=C2)C#N)C3=CC=C(C=C3)F
+DRUG 1 SMILES: CN(C)CCCC1(C2=C(CO1)C=C(C=C2)C#N)C3=CC=C(C=C3)F
 
 DRUG 2 NAME: Fenofibrate
-DRUG 2 BACKGROUND INFORMATION: CC(C)OC(=O)C(C)(C)OC1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)Cl
+DRUG 2 SMILES: CC(C)OC(=O)C(C)(C)OC1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)Cl
 
 DRUG 3 NAME: Modafinil
-DRUG 3 BACKGROUND INFORMATION: C1=CC=C(C=C1)C(C2=CC=CC=C2)S(=O)CC(=O)N
+DRUG 3 SMILES: C1=CC=C(C=C1)C(C2=CC=CC=C2)S(=O)CC(=O)N
 
 DRUG 4 NAME: Pamidronic acid
-DRUG 4 BACKGROUND INFORMATION: C(CN)C(O)(P(=O)(O)O)P(=O)(O)O
+DRUG 4 SMILES: C(CN)C(O)(P(=O)(O)O)P(=O)(O)O
 
 DRUG 1 - DRUG 2 INTERACTION TRIPLE (subject-predicate-object): Citalopram-π-π Stacking-Fenofibrate
 DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): Fenofibrate-Aromatic π-π Stacking-Modafinil
-DRUG 3 - DRUG 4 INTERACTION TRIPLE (subject-predicate-object): Modafinil-Hydrogen Bonding-Pamidronic acid","Which drug, characterized by a structure containing two phosphonic acid groups and a central carbon bonded to both an amine and a hydroxyl group, forms a hydrogen bond interaction with a compound featuring a sulfoxide between two aromatic systems and an amide functional group?",Pamidronic acid,5
+DRUG 3 - DRUG 4 INTERACTION TRIPLE (subject-predicate-object): Modafinil-Hydrogen Bonding-Pamidronic acid","Which drug, characterized by two phosphonic acid groups, a primary amine on the central carbon, and no aromatic rings, forms a hydrogen bond interaction with a sulfoxide-containing compound that itself interacts with two different aromatic drugs via π-π stacking?",Pamidronic acid,5
 Carvedilol-Famotidine,"DRUG 1 NAME: Carvedilol
 DRUG 1 SMILES: COC1=CC=CC=C1OCCNCC(COC2=CC=CC3=C2C4=CC=CC=C4N3)O
 
 DRUG 2 NAME: Famotidine
 DRUG 2 SMILES: C1=C(N=C(S1)N=C(N)N)CSCCC(=NS(=O)(=O)N)N
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Carvedilol-Hydrogen bonding-Famotidine","Between the compound featuring a methoxyphenoxypropanolamine moiety and a carbazole structure, and the compound containing a thiazole ring with a sulfonamide and guanidine functionality, which one can form hydrogen bonds with the other according to their reported interaction?",Famotidine,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Carvedilol-Hydrogen bonding-Famotidine","Which drug, between the one containing a carbazole moiety and the one featuring a thiazole ring with multiple amino substituents, acts as a hydrogen bond partner to the other according to their interaction?",Famotidine,3
 Alprazolam-Terazosin,"DRUG 1 NAME: Alprazolam
 DRUG 1 SMILES: CC1=NN=C2N1C3=C(C=C(C=C3)Cl)C(=NC2)C4=CC=CC=C4
 
 DRUG 2 NAME: Terazosin
 DRUG 2 SMILES: COC1=C(C=C2C(=C1)C(=NC(=N2)N3CCN(CC3)C(=O)C4CCCO4)N)OC
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Alprazolam-Hydrogen Bonding-Terazosin","Between the benzodiazepine featuring a chloro-substituted phenyl ring fused with a diazepine structure (represented by the SMILES CC1=NN=C2N1C3=C(C=C(C=C3)Cl)C(=NC2)C4=CC=CC=C4) and the quinazoline-based compound containing a piperazine ring and a morpholine-4-one side chain (SMILES COC1=C(C=C2C(=C1)C(=NC(=N2)N3CCN(CC3)C(=O)C4CCCO4)N)OC), which drug serves as a potential hydrogen bond acceptor in their documented interaction?",Terazosin,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Alprazolam-Hydrogen Bonding-Terazosin","Considering one compound contains a triazolobenzodiazepine core with a chlorinated aromatic ring and lacks primary or secondary amine groups, while the other features a quinazoline ring substituted with a piperazine moiety and multiple methoxy groups accompanied by a terminal amide and ether functionalities, which compound is most likely to serve as the hydrogen bond donor in their interaction?",Terazosin,3
 Perphenazine-ADRA2C,"DRUG NAME: Perphenazine
 DRUG BACKGROUND INFORMATION: Perphenazine is a typical antipsychotic drug.  Chemically, it is classified as a piperazinyl phenothiazine. Originally marketed in the United States as Trilafon, it has been in clinical use for decades.
 Perphenazine is roughly ten times as potent as chlorpromazine at the dopamine-2 (D2) receptor; thus perphenazine is considered a medium-potency antipsychotic.
@@ -334,7 +334,7 @@ DRUG 1 SMILES: C1CCN(CC1)C2=NC(=NC3=C2N=C(N=C3N4CCCCC4)N(CCO)CCO)N(CCO)CCO
 DRUG 2 NAME: Sildenafil
 DRUG 2 SMILES: CCCC1=NN(C2=C1NC(=NC2=O)C3=C(C=CC(=C3)S(=O)(=O)N4CCN(CC4)C)OCC)C
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Dipyridamole-Hydrogen Bonding-Sildenafil","Which compound, identified by the SMILES string C1CCN(CC1)C2=NC(=NC3=C2N=C(N=C3N4CCCCC4)N(CCO)CCO)N(CCO)CCO, forms hydrogen bonds with the compound represented by CCCC1=NN(C2=C1NC(=NC2=O)C3=C(C=CC(=C3)S(=O)(=O)N4CCN(CC4)C)OCC)C?",Dipyridamole,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Dipyridamole-Hydrogen Bonding-Sildenafil","Which drug, the one containing a piperazine ring fused to a triazolopyrimidinone core and a sulfonamide group, acts as a hydrogen bond acceptor when interacting with another compound that features multiple terminal hydroxyethyl side chains on an imidazopyrimidine ring system?",Sildenafil,3
 Celecoxib-Labetalol-ADRA2A,"DRUG 1 NAME: Celecoxib
 DRUG 1 BACKGROUND INFORMATION: Celecoxib, a selective cyclooxygenase-2 (COX-2) inhibitor, functions as a nonsteroidal anti-inflammatory drug (NSAID) utilized primarily for its analgesic and anti-inflammatory efficacy in osteoarthritis, rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis, dysmenorrhea, acute pain management, and juvenile rheumatoid arthritis. Additionally, celecoxib has prophylactic applications in reducing colorectal adenomatous formations in familial adenomatous polyposis due to its COX-2 inhibition, which mitigates pro-inflammatory prostaglandin synthesis while sparing COX-1, ostensibly minimizing gastrointestinal mucosal damage relative to non-selective NSAIDs. The pharmacokinetics permit oral administration, with pharmacodynamic effects commencing typically within one hour post-ingestion. Notable adverse reactions span gastrointestinal disturbances such as abdominal pain, nausea, and diarrhea, with severe risk profiles including cardiovascular thrombotic events, gastrointestinal perforation, renal impairment, and hypersensitivity reactions like anaphylaxis, contraindicating its use in populations with significant cardiovascular risk profiles. The risk profile parallels that of other NSAIDs like ibuprofen and naproxen, and caution is advised during late-stage gestation and lactation. Celecoxib's generic availability and widespread prescription underscore its clinical significance, albeit with requisite consideration of its potential side-effect burden.
 
@@ -354,7 +354,7 @@ DRUG 1 SMILES: CCOC1=NC2=CC=CC(=C2N1CC3=CC=C(C=C3)C4=CC=CC=C4C5=NNN=N5)C(=O)O
 DRUG 2 NAME: Thalidomide
 DRUG 2 SMILES: C1CC(=O)NC(=O)C1N2C(=O)C3=CC=CC=C3C2=O
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Candesartan-Hydrogen Bonding-Thalidomide","Which drug, represented by the SMILES ""CCOC1=NC2=CC=CC(=C2N1CC3=CC=C(C=C3)C4=CC=CC=C4C5=NNN=N5)C(=O)O"", forms hydrogen bonds with the drug whose SMILES is ""C1CC(=O)NC(=O)C1N2C(=O)C3=CC=CC=C3C2=O""?",Candesartan,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Candesartan-Hydrogen Bonding-Thalidomide","Considering the two drugs where one contains a bicyclic aromatic system fused to a tetrazole ring and an ethoxycarboxylic acid group, and the other features a glutarimide ring fused to a phthalimide moiety, which drug is most likely to act as a hydrogen bond acceptor due to its carboxyl functional group in their reported hydrogen bonding interaction?",Candesartan,3
 acetazolamide-Propofol,"DRUG 1 NAME: acetazolamide
 DRUG 1 BACKGROUND INFORMATION: Acetazolamide, marketed under the trade name Diamox, serves as a versatile pharmaceutical agent within the realm of carbonic anhydrase inhibitors, effectively modulating intraocular pressure via the diminution of aqueous humor production and osmolality. Its clinical utility spans across conditions such as glaucoma—both open-angle and acute angle closure—epilepsy, acute mountain sickness, periodic paralysis, idiopathic intracranial hypertension, and heart failure, with an ancillary role in urinary alkalinization. Therapeutic administration is achievable through oral and intravenous modalities. Mechanistically, acetazolamide exerts its effects by disrupting the equilibria of carbon dioxide hydration and subsequent bicarbonate ion production, thereby reducing intracellular hydrogen ion availability. The pharmacodynamic profile encompasses neuro-sensory side effects like paresthesia and tinnitus, alongside anorexia, emesis, and somnolence. Contraindications are notable in individuals with renal or hepatic impairment, and those with hypersensitivity to sulfonamide derivatives. As a diuretic and enzymatic inhibitor, it holds a position on the WHO's List of Essential Medicines, emphasizing its critical global accessibility as a generic formulation.
 
@@ -392,14 +392,14 @@ DRUG 1 SMILES: C1=CC(=CN=C1)CC(O)(P(=O)(O)O)P(=O)(O)O
 DRUG 2 NAME: mercaptopurine
 DRUG 2 SMILES: C1=NC2=C(N1)C(=S)N=CN2
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Risedronic acid-Hydrogen Bonding-mercaptopurine","Between the compound containing two phosphonic acid groups attached to a pyridine ring and the compound with a thioimidazole fused to a purine ring system, which acts as the hydrogen bond acceptor in their documented molecular interaction?",mercaptopurine,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Risedronic acid-Hydrogen Bonding-mercaptopurine","Which drug, based on its molecular structure containing multiple phosphonic acid groups and a central hydroxyl substituent bonded to a pyridinyl-ethyl framework, acts as the hydrogen bond donor or acceptor in a hydrogen bonding interaction with a purine analog featuring a thiocarbonyl group?",Risedronic acid,3
 Naproxen-Pyridostigmine,"DRUG 1 NAME: Naproxen
 DRUG 1 SMILES: CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O
 
 DRUG 2 NAME: Pyridostigmine
 DRUG 2 SMILES: C[N+]1=CC=CC(=C1)OC(=O)N(C)C
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Naproxen-Ionic Interaction-Pyridostigmine","Which drug, represented by the SMILES string CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O, is capable of forming an ionic interaction with a compound containing a quaternary nitrogen and a carbamate group, as described in the SMILES C[N+]1=CC=CC(=C1)OC(=O)N(C)C?",Naproxen,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Naproxen-Ionic Interaction-Pyridostigmine","Between the two compounds—one being a nonsteroidal anti-inflammatory acid with a naphthalene core and carboxylic acid group, and the other featuring a quaternary ammonium pyridine ring with an attached carbamate—which is likely to participate in an ionic interaction with the acidic functional group of the other drug due to its permanent positive charge?",Pyridostigmine,3
 Aciclovir-Citalopram-Ranolazine,"DRUG 1 NAME: Aciclovir
 DRUG 1 BACKGROUND INFORMATION: Aciclovir, an antiviral guanosine analogue, exhibits its therapeutic efficacy predominantly by inhibiting viral DNA polymerase through its metabolization to aciclovir triphosphate, resulting in the cessation of herpesvirus DNA elongation across Herpes Simplex Virus, varicella-zoster, and CMV prophylaxis post-transplantation. Administerable orally, topically, or intravenously, its pharmacokinetic profile necessitates careful consideration in patients with compromised renal or hepatic function due to potential nephrotoxicity and thrombocytopenia. While demonstrating an acceptable safety margin during gestation and lactation, adverse events such as gastrointestinal discomfort and diarrhea are common. Its inclusion in the WHO's Essential Medicines list underscores its global pivotal role in antiviral therapy, with its generic accessibility enhancing universal healthcare implementation.
 
@@ -436,32 +436,32 @@ DRUG 1 SMILES: CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O
 DRUG 2 NAME: Sildenafil
 DRUG 2 SMILES: CCCC1=NN(C2=C1NC(=NC2=O)C3=C(C=CC(=C3)S(=O)(=O)N4CCN(CC4)C)OCC)C
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): indometacin-Hydrogen Bonding-Sildenafil","Which of the following molecules, represented by their SMILES strings, acts as a hydrogen bond acceptor in its interaction with a second molecule containing a chloro-benzoyl-indoleacetic acid core, as described by the triple (subject-predicate-object): molecule 1-Hydrogen Bonding-molecule 2?",Sildenafil,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): indometacin-Hydrogen Bonding-Sildenafil","Between the molecule containing a methoxy-substituted indole ring system fused to a chlorobenzoyl group and a carboxylic acid, and the molecule featuring a pyrazolopyrimidinone core with a sulfonamide-linked piperazine and an ethoxyphenyl substituent, which one acts as a hydrogen bond donor in their interaction?",indometacin,3
 Lamotrigine-Salmeterol,"DRUG 1 NAME: Lamotrigine
 DRUG 1 SMILES: C1=CC(=C(C(=C1)Cl)Cl)C2=C(N=C(N=N2)N)N
 
 DRUG 2 NAME: Salmeterol
 DRUG 2 SMILES: C1=CC=C(C=C1)CCCCOCCCCCCNCC(C2=CC(=C(C=C2)O)CO)O
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Lamotrigine-Hydrogen Bond-Salmeterol","Which drug, identified by the presence of a phenyl ring substituted with two chlorine atoms and a triazine ring bearing amino groups, acts as the hydrogen bond donor or acceptor in its interaction with the compound that features an alkyl chain terminated by a phenolic group and multiple ether linkages?",Lamotrigine,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Lamotrigine-Hydrogen Bond-Salmeterol","Between the drug containing a dichlorophenyl ring fused to a triazine ring with multiple amine substituents, and the drug featuring a long alkoxyalkyl chain terminated by a hydroxyphenyl-ethanolamine moiety, which one can act as a hydrogen bond donor in their reported interaction?",Salmeterol,3
 acetazolamide-Famotidine-Exemestane,"DRUG 1 NAME: acetazolamide
-DRUG 1 BACKGROUND INFORMATION: CC(=O)NC1=NN=C(S1)S(=O)(=O)N
+DRUG 1 SMILES: CC(=O)NC1=NN=C(S1)S(=O)(=O)N
 
 DRUG 2 NAME: Famotidine
-DRUG 2 BACKGROUND INFORMATION: C1=C(N=C(S1)N=C(N)N)CSCCC(=NS(=O)(=O)N)N
+DRUG 2 SMILES: C1=C(N=C(S1)N=C(N)N)CSCCC(=NS(=O)(=O)N)N
 
 DRUG 3 NAME: Exemestane
-DRUG 3 BACKGROUND INFORMATION: CC12CCC3C(C1CCC2=O)CC(=C)C4=CC(=O)C=CC34C
+DRUG 3 SMILES: CC12CCC3C(C1CCC2=O)CC(=C)C4=CC(=O)C=CC34C
 
 DRUG 1 - DRUG 2 INTERACTION TRIPLE (subject-predicate-object): acetazolamide-Hydrogen Bonding-Famotidine
-DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): Famotidine-Hydrogen Bonding-Exemestane","Which drug, characterized by a fused tetracyclic core with multiple ketone groups and an unsaturated bond, forms hydrogen bonds with a molecule containing a thiazole ring substituted with both guanidine and sulfonamide functionalities?",Exemestane,4
+DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): Famotidine-Hydrogen Bonding-Exemestane","Which drug, characterized by a fused tetracyclic ring system with a methylidene group and two keto functionalities, can form hydrogen bonds with a molecule containing a thiazole and guanidine moiety, where that molecule itself is known to hydrogen bond with a sulfonamide-containing heterocycle?",Exemestane,4
 Amlodipine-Furosemide,"DRUG 1 NAME: Amlodipine
 DRUG 1 SMILES: CCOC(=O)C1=C(NC(=C(C1C2=CC=CC=C2Cl)C(=O)OC)C)COCCN
 
 DRUG 2 NAME: Furosemide
 DRUG 2 SMILES: C1=COC(=C1)CNC2=CC(=C(C=C2C(=O)O)S(=O)(=O)N)Cl
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Amlodipine-Hydrogen Bonding-Furosemide","Considering their molecular structures, which drug, characterized by an ethoxycarbonyl group and a long side chain containing an amino group, is more likely to donate a hydrogen bond to the other drug during their interaction?",Amlodipine,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Amlodipine-Hydrogen Bonding-Furosemide","Between the compound containing an ethyl ester group attached to a chlorophenyl-substituted dihydropyridine ring and the compound featuring a furan ring linked via a methylene bridge to a sulfonamide-substituted chlorobenzoic acid, which one can serve as a hydrogen bond donor specifically toward the carbonyl or sulfonamide functional groups of the other in their drug-drug interaction?",Amlodipine,3
 Ofloxacin-Imatinib,"DRUG 1 NAME: Ofloxacin
 DRUG 1 BACKGROUND INFORMATION: Ofloxacin, a member of the fluoroquinolone class, functions as a DNA synthesis inhibitor by targeting bacterial DNA gyrase and topoisomerase IV, making it efficacious against an array of bacterial pathogens. Clinically, ofloxacin is administered orally or intravenously for conditions such as pneumonia, cellulitis, urinary tract infections, prostatitis, and plague, with combination protocols extending its utility to multidrug-resistant tuberculosis. Furthermore, ophthalmic formulations address superficial ocular infections, while otic solutions are effective for otitis media complicated by tympanic membrane perforation. However, its pharmacotherapeutic profile is burdened by adverse effects like gastrointestinal disturbances, CNS involvement manifesting as headaches or psychosis, and peripheral neuropathy leading to limb paresthesia or tendon rupture, making it contraindicated during pregnancy. Despite these side effects, ofloxacin maintains a pivotal role in antimicrobial therapy, underscored by its inclusion in the World Health Organization's List of Essential Medicines amid widespread prescription as a generic formulation.
 
@@ -475,22 +475,22 @@ DRUG 1 SMILES: CN(C)CCCC1(C2=C(CO1)C=C(C=C2)C#N)C3=CC=C(C=C3)F
 DRUG 2 NAME: Thalidomide
 DRUG 2 SMILES: C1CC(=O)NC(=O)C1N2C(=O)C3=CC=CC=C3C2=O
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Citalopram-Hydrogen Bonding-Thalidomide","Between the compound containing a fluorophenyl group attached to a phthalane skeleton with a nitrile substituent and tertiary amine (as shown in its SMILES: CN(C)CCCC1(C2=C(CO1)C=C(C=C2)C#N)C3=CC=C(C=C3)F), and the compound featuring a glutarimide ring fused to a phthalimide moiety (with SMILES: C1CC(=O)NC(=O)C1N2C(=O)C3=CC=CC=C3C2=O), which molecule acts as the hydrogen bond donor in their mutual hydrogen bonding interaction?",Thalidomide,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Citalopram-Hydrogen Bonding-Thalidomide","Considering the structures of the two drugs, where one contains a phthalimide moiety and multiple carbonyl groups, while the other features a tertiary amine connected to a fluorophenyl ring and a nitrile group, which drug in this pair provides more hydrogen bond acceptor groups that might facilitate hydrogen bonding in their interaction?",Thalidomide,3
 Gabapentin-Ziprasidone-Desloratadine-solifenacin,"DRUG 1 NAME: Gabapentin
-DRUG 1 BACKGROUND INFORMATION: C1CCC(CC1)(CC(=O)O)CN
+DRUG 1 SMILES: C1CCC(CC1)(CC(=O)O)CN
 
 DRUG 2 NAME: Ziprasidone
-DRUG 2 BACKGROUND INFORMATION: C1CN(CCN1CCC2=C(C=C3C(=C2)CC(=O)N3)Cl)C4=NSC5=CC=CC=C54
+DRUG 2 SMILES: C1CN(CCN1CCC2=C(C=C3C(=C2)CC(=O)N3)Cl)C4=NSC5=CC=CC=C54
 
 DRUG 3 NAME: Desloratadine
-DRUG 3 BACKGROUND INFORMATION: C1CC2=C(C=CC(=C2)Cl)C(=C3CCNCC3)C4=C1C=CC=N4
+DRUG 3 SMILES: C1CC2=C(C=CC(=C2)Cl)C(=C3CCNCC3)C4=C1C=CC=N4
 
 DRUG 4 NAME: solifenacin
-DRUG 4 BACKGROUND INFORMATION: C1CN2CCC1C(C2)OC(=O)N3CCC4=CC=CC=C4C3C5=CC=CC=C5
+DRUG 4 SMILES: C1CN2CCC1C(C2)OC(=O)N3CCC4=CC=CC=C4C3C5=CC=CC=C5
 
 DRUG 1 - DRUG 2 INTERACTION TRIPLE (subject-predicate-object): Gabapentin-Hydrogen Bonding-Ziprasidone
 DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): Ziprasidone-π-π Stacking-Desloratadine
-DRUG 3 - DRUG 4 INTERACTION TRIPLE (subject-predicate-object): Desloratadine-π-π Stacking-solifenacin","Which drug, characterized by a piperidine ring connected via an ester linkage to a triaryl system and a quinuclidine moiety, participates in a π-π stacking interaction with the compound featuring a tricyclic framework with a piperidine substituent and a chlorine atom, according to the specified interaction triples?",solifenacin,5
+DRUG 3 - DRUG 4 INTERACTION TRIPLE (subject-predicate-object): Desloratadine-π-π Stacking-solifenacin","Which drug, distinguished by containing a quinuclidine ring esterified to a biphenyl system, forms a π-π stacking interaction with the tricyclic antihistamine that itself engages in π-π stacking with a benzisothiazole antipsychotic?",solifenacin,5
 Naproxen-Pirbuterol,"DRUG 1 NAME: Naproxen
 DRUG 1 BACKGROUND INFORMATION: Naproxen, a nonsteroidal anti-inflammatory drug (NSAID), exerts its pharmacological effects by non-selectively inhibiting cyclooxygenase (COX) enzymes, thereby attenuating the synthesis of pro-inflammatory prostaglandins, which are pivotal in the pathophysiology of pain, menstrual dysmenorrhea, and inflammatory diseases such as rheumatoid arthritis and gout. Administered orally in both immediate and delayed-release formulations, naproxen reaches therapeutic plasma concentrations within one hour, with a duration of action extending up to twelve hours, facilitating its utility in both acute and chronic settings. The sodium salt variant enhances oral solubility and absorption kinetics. While commonly associated with adverse effects including gastrointestinal discomfort, dizziness, and hypersensitivity reactions, more severe risks include cardiovascular thrombotic events and gastrointestinal bleeding, albeit with potentially a lower myocardial infarction risk relative to other NSAIDs. Its use is contraindicated in the presence of renal impairment and during the third trimester of pregnancy. Metabolic clearance occurs hepatically via biotransformation to inactive metabolites, with excretion primarily renal. Naproxen's widespread prescription, evident from over 7 million prescriptions in 2022 in the U.S., underscores its established therapeutic role, despite the potential for adverse event profiles.
 
@@ -517,16 +517,16 @@ DRUG 1 - DRUG 2 INTERACTION TRIPLE (subject-predicate-object): alendronic acid-c
 DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): Alprazolam-haemorrhage rectum-Fluorouracil
 DRUG 3 - DRUG 4 INTERACTION TRIPLE (subject-predicate-object): Fluorouracil-Bleeding-vincristine","Among the four medications described, identify the one that, when used in conjunction with a pyrimidine analog chemotherapy agent known to inhibit thymidylate synthase and indicated for colorectal and other carcinomas, has been associated with increased risk of bleeding as described in their interaction profile.",vincristine,2
 Naproxen-Pyridostigmine-Telithromycin,"DRUG 1 NAME: Naproxen
-DRUG 1 BACKGROUND INFORMATION: CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O
+DRUG 1 SMILES: CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O
 
 DRUG 2 NAME: Pyridostigmine
-DRUG 2 BACKGROUND INFORMATION: C[N+]1=CC=CC(=C1)OC(=O)N(C)C
+DRUG 2 SMILES: C[N+]1=CC=CC(=C1)OC(=O)N(C)C
 
 DRUG 3 NAME: Telithromycin
-DRUG 3 BACKGROUND INFORMATION: CCC1C2(C(C(C(=O)C(CC(C(C(C(=O)C(C(=O)O1)C)C)OC3C(C(CC(O3)C)N(C)C)O)(C)OC)C)C)N(C(=O)O2)CCCCN4C=C(N=C4)C5=CN=CC=C5)C
+DRUG 3 SMILES: CCC1C2(C(C(C(=O)C(CC(C(C(C(=O)C(C(=O)O1)C)C)OC3C(C(CC(O3)C)N(C)C)O)(C)OC)C)C)N(C(=O)O2)CCCCN4C=C(N=C4)C5=CN=CC=C5)C
 
 DRUG 1 - DRUG 2 INTERACTION TRIPLE (subject-predicate-object): Naproxen-Ionic Interaction-Pyridostigmine
-DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): Pyridostigmine-Hydrogen Bonding-Telithromycin","Which drug, characterized by a macrolide core with multiple oxygen and nitrogen heteroatoms, forms hydrogen bonds with a compound containing a methylated pyridinium ring and a carbamate group?",Telithromycin,4
+DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): Pyridostigmine-Hydrogen Bonding-Telithromycin","Which compound, characterized by a macrolide structure with an extended cyclic ester backbone, multiple methyl and methoxy substitutions, a carbamate-linked imidazolyl group, and a pyridyl side chain, forms a hydrogen bond with a carbamoyl-substituted pyridinium aromatic ring system that itself has ionic interactions with a methylated naphthalene-based nonsteroidal scaffold?",Telithromycin,4
 Carvedilol-Tirofiban,"DRUG 1 NAME: Carvedilol
 DRUG 1 BACKGROUND INFORMATION: Carvedilol, a nonselective beta-adrenergic blocker with alpha-1 adrenergic receptor antagonism, is clinically utilized for managing hypertension and chronic heart failure with reduced ejection fraction (HFrEF), often despite beta-blockers not being preferred first-line antihypertensives due to inferior cardiovascular outcomes and safety profiles relative to alternative hypertensives. While its pharmacodynamic mechanisms contributing to therapeutic efficacy in HFrEF remain incompletely elucidated, vasodilation resultant from alpha-1 blockade may play a role. Adverse reactions encompass orthostatic hypotension, asthenia, arthralgia, nausea, and dyspnea, with bronchospasm as a potential severe manifestation. The drug's pharmacokinetics necessitate cautious use during gestation and lactation and contraindicate administration in hepatic impairment cases. Despite exhibiting a broad safety spectrum, carvedilol's utilization extends to over 17 million annual prescriptions in the U.S., affirming its presence on the WHO's List of Essential Medicines and availability in generic formulations.
 
@@ -541,18 +541,18 @@ DRUG 1 SMILES: CC(C)CC1=CC=C(C=C1)C(C)C(=O)O
 DRUG 2 NAME: Midodrine
 DRUG 2 SMILES: COC1=CC(=C(C=C1)OC)C(CNC(=O)CN)O
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Ibuprofen-Hydrogen Bonding-Midodrine","Which drug, identified by the SMILES string CC(C)CC1=CC=C(C=C1)C(C)C(=O)O, is capable of forming hydrogen bonds with the compound COC1=CC(=C(C=C1)OC)C(CNC(=O)CN)O as described in their drug-drug interaction relationship?",Ibuprofen,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Ibuprofen-Hydrogen Bonding-Midodrine","Which of these two drugs—a molecule with a central benzene ring substituted with two methoxy groups and a hydroxyaminoacetamide side chain, or a molecule featuring an isobutyl group attached to a benzene ring with a propionic acid moiety—acts as the hydrogen bond acceptor from the other in their direct interaction?",Midodrine,3
 Haloperidol-Rosiglitazone-Bimatoprost,"DRUG 1 NAME: Haloperidol
-DRUG 1 BACKGROUND INFORMATION: C1CN(CCC1(C2=CC=C(C=C2)Cl)O)CCCC(=O)C3=CC=C(C=C3)F
+DRUG 1 SMILES: C1CN(CCC1(C2=CC=C(C=C2)Cl)O)CCCC(=O)C3=CC=C(C=C3)F
 
 DRUG 2 NAME: Rosiglitazone
-DRUG 2 BACKGROUND INFORMATION: CN(CCOC1=CC=C(C=C1)CC2C(=O)NC(=O)S2)C3=CC=CC=N3
+DRUG 2 SMILES: CN(CCOC1=CC=C(C=C1)CC2C(=O)NC(=O)S2)C3=CC=CC=N3
 
 DRUG 3 NAME: Bimatoprost
-DRUG 3 BACKGROUND INFORMATION: CCNC(=O)CCCC=CCC1C(CC(C1C=CC(CCC2=CC=CC=C2)O)O)O
+DRUG 3 SMILES: CCNC(=O)CCCC=CCC1C(CC(C1C=CC(CCC2=CC=CC=C2)O)O)O
 
 DRUG 1 - DRUG 2 INTERACTION TRIPLE (subject-predicate-object): Haloperidol-Hydrogen Bonding-Rosiglitazone
-DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): Rosiglitazone-Hydrogen Bonding-Bimatoprost","Which compound, characterized by an amide group attached to a long, unsaturated chain and a cyclopentyl structure bearing multiple hydroxyl substituents, forms a hydrogen bond with the molecule containing a thiazolidinedione ring fused to a pyridine side chain that itself can hydrogen bond with a fluorinated phenyl-containing piperidine derivative?",Bimatoprost,4
+DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): Rosiglitazone-Hydrogen Bonding-Bimatoprost","Which drug, characterized by a cyclopentane core with multiple hydroxyl groups, a long aliphatic chain containing both amide and aromatic moieties, and an omega-chain terminated by a phenyl group, can form hydrogen bonds with a molecule containing a thiazolidinedione ring that itself forms hydrogen bonds with a piperidine-containing tricyclic compound featuring chloro- and fluoro-substituted aromatic rings?",Bimatoprost,4
 Carvedilol-Pilocarpine-CHRM1,"DRUG 1 NAME: Carvedilol
 DRUG 1 BACKGROUND INFORMATION: Carvedilol, a nonselective beta-adrenergic blocker with alpha-1 adrenergic receptor antagonism, is clinically utilized for managing hypertension and chronic heart failure with reduced ejection fraction (HFrEF), often despite beta-blockers not being preferred first-line antihypertensives due to inferior cardiovascular outcomes and safety profiles relative to alternative hypertensives. While its pharmacodynamic mechanisms contributing to therapeutic efficacy in HFrEF remain incompletely elucidated, vasodilation resultant from alpha-1 blockade may play a role. Adverse reactions encompass orthostatic hypotension, asthenia, arthralgia, nausea, and dyspnea, with bronchospasm as a potential severe manifestation. The drug's pharmacokinetics necessitate cautious use during gestation and lactation and contraindicate administration in hepatic impairment cases. Despite exhibiting a broad safety spectrum, carvedilol's utilization extends to over 17 million annual prescriptions in the U.S., affirming its presence on the WHO's List of Essential Medicines and availability in generic formulations.
 
@@ -572,29 +572,29 @@ DRUG 1 SMILES: CN(CCCNC(=O)C1CCCO1)C2=NC3=CC(=C(C=C3C(=N2)N)OC)OC
 DRUG 2 NAME: Benazepril
 DRUG 2 SMILES: CCOC(=O)C(CCC1=CC=CC=C1)NC2CCC3=CC=CC=C3N(C2=O)CC(=O)O
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Alfuzosin-Hydrogen Bonding-Benazepril","Which drug, identified by the SMILES string containing the morpholine ring (C1CCCO1) and a dimethoxy substituted purine system, acts as a hydrogen bond donor or acceptor in its interaction with the drug whose SMILES features an ethoxycarbonyl group (CCOC(=O)) and a phthalazine core, according to their hydrogen bonding relationship?",Alfuzosin,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Alfuzosin-Hydrogen Bonding-Benazepril","Between the two drugs—one containing a furan ring fused to an amide and a dimethoxyquinazoline moiety, and another featuring an ethoxycarbonyl group attached to a benzylated proline-like system with a lactam and carboxyl group—which is the hydrogen bond acceptor in their direct interaction?",Benazepril,3
 Repaglinide-Perindopril,"DRUG 1 NAME: Repaglinide
 DRUG 1 SMILES: CCOC1=C(C=CC(=C1)CC(=O)NC(CC(C)C)C2=CC=CC=C2N3CCCCC3)C(=O)O
 
 DRUG 2 NAME: Perindopril
 DRUG 2 SMILES: CCCC(C(=O)OCC)NC(C)C(=O)N1C2CCCCC2CC1C(=O)O
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Repaglinide-Hydrogen Bond Formation-Perindopril","Which compound, based on its SMILES structure, acts as the hydrogen bond acceptor in the interaction where the molecule containing the CCOC1=... moiety forms a hydrogen bond with the compound containing the CCCC(C(=O)OCC)N... moiety?",Perindopril,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Repaglinide-Hydrogen Bond Formation-Perindopril","Considering the molecular structures of these two drugs, where one contains a benzene ring substituted with an ester and amide side chains, and the other features a piperidine ring and multiple carboxylic acid groups, which drug is more likely to act as the hydrogen bond donor in their hydrogen bond formation interaction?",Perindopril,3
 Amlodipine-Dexpramipexole-Ticlopidine-Tirofiban,"DRUG 1 NAME: Amlodipine
-DRUG 1 BACKGROUND INFORMATION: CCOC(=O)C1=C(NC(=C(C1C2=CC=CC=C2Cl)C(=O)OC)C)COCCN
+DRUG 1 SMILES: CCOC(=O)C1=C(NC(=C(C1C2=CC=CC=C2Cl)C(=O)OC)C)COCCN
 
 DRUG 2 NAME: Dexpramipexole
-DRUG 2 BACKGROUND INFORMATION: CCCNC1CCC2=C(C1)SC(=N2)N
+DRUG 2 SMILES: CCCNC1CCC2=C(C1)SC(=N2)N
 
 DRUG 3 NAME: Ticlopidine
-DRUG 3 BACKGROUND INFORMATION: C1CN(CC2=C1SC=C2)CC3=CC=CC=C3Cl
+DRUG 3 SMILES: C1CN(CC2=C1SC=C2)CC3=CC=CC=C3Cl
 
 DRUG 4 NAME: Tirofiban
-DRUG 4 BACKGROUND INFORMATION: CCCCS(=O)(=O)NC(CC1=CC=C(C=C1)OCCCCC2CCNCC2)C(=O)O
+DRUG 4 SMILES: CCCCS(=O)(=O)NC(CC1=CC=C(C=C1)OCCCCC2CCNCC2)C(=O)O
 
 DRUG 1 - DRUG 2 INTERACTION TRIPLE (subject-predicate-object): Amlodipine-Hydrogen Bonding-Dexpramipexole
 DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): Dexpramipexole-Hydrogen Bonding-Ticlopidine
-DRUG 3 - DRUG 4 INTERACTION TRIPLE (subject-predicate-object): Ticlopidine-Hydrogen bonding-Tirofiban","Which drug, containing both a sulfonamide group and a piperidine ring in its structure, forms a hydrogen bonding interaction with the molecule that features a chlorinated phenyl ring attached to a thienopyridine moiety?",Tirofiban,5
+DRUG 3 - DRUG 4 INTERACTION TRIPLE (subject-predicate-object): Ticlopidine-Hydrogen bonding-Tirofiban","Which drug, featuring a sulfonamide group attached to a butyl chain and a phenyl ring linked via an ether to a piperidine, is able to participate in hydrogen bonding with a compound whose structure includes a thienopyridine fused ring and a chlorophenyl substituent?",Tirofiban,5
 Naproxen-Capecitabine-Desloratadine-Telithromycin,"DRUG 1 NAME: Naproxen
 DRUG 1 BACKGROUND INFORMATION: Naproxen, a nonsteroidal anti-inflammatory drug (NSAID), exerts its pharmacological effects by non-selectively inhibiting cyclooxygenase (COX) enzymes, thereby attenuating the synthesis of pro-inflammatory prostaglandins, which are pivotal in the pathophysiology of pain, menstrual dysmenorrhea, and inflammatory diseases such as rheumatoid arthritis and gout. Administered orally in both immediate and delayed-release formulations, naproxen reaches therapeutic plasma concentrations within one hour, with a duration of action extending up to twelve hours, facilitating its utility in both acute and chronic settings. The sodium salt variant enhances oral solubility and absorption kinetics. While commonly associated with adverse effects including gastrointestinal discomfort, dizziness, and hypersensitivity reactions, more severe risks include cardiovascular thrombotic events and gastrointestinal bleeding, albeit with potentially a lower myocardial infarction risk relative to other NSAIDs. Its use is contraindicated in the presence of renal impairment and during the third trimester of pregnancy. Metabolic clearance occurs hepatically via biotransformation to inactive metabolites, with excretion primarily renal. Naproxen's widespread prescription, evident from over 7 million prescriptions in 2022 in the U.S., underscores its established therapeutic role, despite the potential for adverse event profiles.
 
@@ -628,14 +628,14 @@ DRUG 1 SMILES: CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O
 DRUG 2 NAME: Amoxapine
 DRUG 2 SMILES: C1CN(CCN1)C2=NC3=CC=CC=C3OC4=C2C=C(C=C4)Cl
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Naproxen-Pi-Pi Stacking-Amoxapine","Which drug, represented by the SMILES string ""C1CN(CCN1)C2=NC3=CC=CC=C3OC4=C2C=C(C=C4)Cl"", is involved in a Pi-Pi stacking interaction with the molecule ""CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O""?",Amoxapine,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Naproxen-Pi-Pi Stacking-Amoxapine","Which drug, characterized by a fused bicyclic aromatic ring system with a carboxylic acid and methoxy substituents, is capable of engaging in π-π stacking interactions with a compound containing a tricyclic structure incorporating a piperazine ring and a chloro-substituted aromatic moiety?",Naproxen,3
 Ibuprofen-Propofol,"DRUG 1 NAME: Ibuprofen
 DRUG 1 SMILES: CC(C)CC1=CC=C(C=C1)C(C)C(=O)O
 
 DRUG 2 NAME: Propofol
 DRUG 2 SMILES: CC(C)C1=C(C(=CC=C1)C(C)C)O
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Ibuprofen-Hydrogen Bonding-Propofol","Which drug, identified by the SMILES string CC(C)C1=C(C(=CC=C1)C(C)C)O, is capable of forming a hydrogen bond with the carboxylic acid group of the drug represented by CC(C)CC1=CC=C(C=C1)C(C)C(=O)O in their interaction?",Propofol,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Ibuprofen-Hydrogen Bonding-Propofol","Considering the molecular structures where one compound possesses a carboxylic acid group (-C(=O)OH) and the other contains a phenolic hydroxyl group (-OH) attached directly to an aromatic ring, which of these two molecules is more likely to act as a hydrogen bond donor towards the other in their described interaction?",Propofol,3
 Carvedilol-Pilocarpine,"DRUG 1 NAME: Carvedilol
 DRUG 1 BACKGROUND INFORMATION: Carvedilol, a nonselective beta-adrenergic blocker with alpha-1 adrenergic receptor antagonism, is clinically utilized for managing hypertension and chronic heart failure with reduced ejection fraction (HFrEF), often despite beta-blockers not being preferred first-line antihypertensives due to inferior cardiovascular outcomes and safety profiles relative to alternative hypertensives. While its pharmacodynamic mechanisms contributing to therapeutic efficacy in HFrEF remain incompletely elucidated, vasodilation resultant from alpha-1 blockade may play a role. Adverse reactions encompass orthostatic hypotension, asthenia, arthralgia, nausea, and dyspnea, with bronchospasm as a potential severe manifestation. The drug's pharmacokinetics necessitate cautious use during gestation and lactation and contraindicate administration in hepatic impairment cases. Despite exhibiting a broad safety spectrum, carvedilol's utilization extends to over 17 million annual prescriptions in the U.S., affirming its presence on the WHO's List of Essential Medicines and availability in generic formulations.
 
@@ -666,27 +666,27 @@ PROTEIN BACKGROUND INFORMATION: H2 receptors are a type of histamine receptor fo
 
 DRUG-PROTEIN INTERACTION TRIPLE (subject-predicate-object): Loxapine-binding and inhibition-HRH2","Which protein, known for being a histamine receptor that stimulates cAMP production and is targeted by drugs like betazole, is bound and inhibited by a tricyclic antipsychotic medication used primarily for schizophrenia that is structurally similar to clozapine?",HRH2,6
 Cimetidine-Ibuprofen-Repaglinide-Perindopril,"DRUG 1 NAME: Cimetidine
-DRUG 1 BACKGROUND INFORMATION: CC1=C(N=CN1)CSCCNC(=NC)NC#N
+DRUG 1 SMILES: CC1=C(N=CN1)CSCCNC(=NC)NC#N
 
 DRUG 2 NAME: Ibuprofen
-DRUG 2 BACKGROUND INFORMATION: CC(C)CC1=CC=C(C=C1)C(C)C(=O)O
+DRUG 2 SMILES: CC(C)CC1=CC=C(C=C1)C(C)C(=O)O
 
 DRUG 3 NAME: Repaglinide
-DRUG 3 BACKGROUND INFORMATION: CCOC1=C(C=CC(=C1)CC(=O)NC(CC(C)C)C2=CC=CC=C2N3CCCCC3)C(=O)O
+DRUG 3 SMILES: CCOC1=C(C=CC(=C1)CC(=O)NC(CC(C)C)C2=CC=CC=C2N3CCCCC3)C(=O)O
 
 DRUG 4 NAME: Perindopril
-DRUG 4 BACKGROUND INFORMATION: CCCC(C(=O)OCC)NC(C)C(=O)N1C2CCCCC2CC1C(=O)O
+DRUG 4 SMILES: CCCC(C(=O)OCC)NC(C)C(=O)N1C2CCCCC2CC1C(=O)O
 
 DRUG 1 - DRUG 2 INTERACTION TRIPLE (subject-predicate-object): Cimetidine-Hydrogen bonding-Ibuprofen
 DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): Ibuprofen-Hydrogen Bonding-Repaglinide
-DRUG 3 - DRUG 4 INTERACTION TRIPLE (subject-predicate-object): Repaglinide-Hydrogen Bond Formation-Perindopril","Which drug, characterized by an ethyl ester attached to a butanoic acid chain further linked to a piperidine-fused bicyclic structure, forms a hydrogen bond with a molecule possessing a benzene ring joined to a carboxylic acid via a secondary amide and a morpholine ring?",Perindopril,5
+DRUG 3 - DRUG 4 INTERACTION TRIPLE (subject-predicate-object): Repaglinide-Hydrogen Bond Formation-Perindopril","Which drug, containing both a carboxylic acid ester and a secondary amine within a polycyclic lactam structure, can form a hydrogen bond with the molecule that features a piperidine-linked benzene and carboxylic acid, as described in their interaction?",Perindopril,5
 Fentanyl-Nimodipine,"DRUG 1 NAME: Fentanyl
 DRUG 1 SMILES: CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3
 
 DRUG 2 NAME: Nimodipine
 DRUG 2 SMILES: CC1=C(C(C(=C(N1)C)C(=O)OC(C)C)C2=CC(=CC=C2)[N+](=O)[O-])C(=O)OCCOC
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Fentanyl-π-π stacking-Nimodipine","Between the compound containing a piperidine ring attached to a phenethyl group and an amide (with structure CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3), and the compound featuring a substituted 1,4-dihydropyridine ring system with multiple methoxycarbonyl and nitrophenyl substitutions (with structure CC1=C(C(C(=C(N1)C)C(=O)OC(C)C)C2=CC(=CC=C2)[N+](=O)[O-])C(=O)OCCOC), which one can engage in π-π stacking interactions with the other according to their drug-drug interaction relationship?",Fentanyl,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Fentanyl-π-π stacking-Nimodipine","Between the compound featuring a piperidine ring connected via an amide bond to two separate phenyl rings, and the molecule containing a highly substituted dihydropyridine ring with both aromatic nitro and ester functionalities, which compound acts as the π-π stacking partner to the other in their molecular interaction?",Nimodipine,3
 Diazepam-melphalan,"DRUG 1 NAME: Diazepam
 DRUG 1 BACKGROUND INFORMATION: Diazepam, a prototypical member of the benzodiazepine pharmacological class, functions primarily as an anxiolytic by potentiation of GABAergic neurotransmission, enhancing the binding affinity of gamma-aminobutyric acid (GABA) at the GABA_A receptor complex. It is employed in the management of a diverse array of conditions, including, but not limited to, generalized anxiety disorder, status epilepticus, alcohol withdrawal delirium, spasticity, insomnia, and restless legs syndrome, with additional utility in procedural amnesia induction. Diazepam exhibits versatile administration routes—oral, rectal, intramuscular, intravenous, and intranasal, with IV administration eliciting rapid onset of action within 1-5 minutes and demonstrating a relatively short duration of clinical efficacy. Oral administration results in peak plasma concentrations within 15 to 60 minutes. While generally well-tolerated, its adverse effect profile includes CNS depression manifesting as sedation and impaired motor coordination, with rare, yet severe risks like respiratory depression, paradoxical excitation, and seizure exacerbation with chronic use. Chronic administration raises the risk of tolerance, physical dependence, and a withdrawal syndrome upon abrupt cessation; cognitive impairments post-discontinuation are well-documented. It is contraindicated in pregnancy and lactation due to teratogenic and neonatal withdrawal potential. Diazepam continues to be a mainstay therapeutic agent on the World Health Organization’s List of Essential Medicines, despite its risk for abuse and dependency, underscoring the necessity for judicious prescribing practice.
 
@@ -710,7 +710,7 @@ DRUG 1 SMILES: CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=CC=C3
 DRUG 2 NAME: desvenlafaxine
 DRUG 2 SMILES: CN(C)CC(C1=CC=C(C=C1)O)C2(CCCCC2)O
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Diazepam-Hydrogen Bonding-desvenlafaxine","Which compound, characterized by a chlorinated benzodiazepine scaffold with a lactam group, acts as the hydrogen bond acceptor when interacting with a molecule containing both phenolic and aliphatic alcohol functionalities?",Diazepam,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Diazepam-Hydrogen Bonding-desvenlafaxine","Which drug, identified by the presence of a secondary amine and a dichlorobenzene moiety fused to a diazepine ring, is capable of participating in hydrogen bonding with a molecule characterized by a cyclohexanol group and a phenolic hydroxyl connected to an N,N-dimethylaminoethyl side chain?",Diazepam,3
 Dapsone-Pyrimethamine,"DRUG 1 NAME: Dapsone
 DRUG 1 BACKGROUND INFORMATION: Dapsone, chemically delineated as 4,4'-sulfonyldianiline or diaminodiphenyl sulfone, operates as a bacteriostatic antimicrobial agent within the sulfone class, frequently co-administered with rifampicin and clofazimine in leprosy management. It serves as an adjunctive therapeutic in pneumocystis pneumonia prophylaxis and toxoplasmosis prevention within immunocompromised cohorts, as well as for dermatological conditions such as acne and dermatitis herpetiformis, available in both oral and topical formulations. Pharmacodynamically, dapsone's modes of action encompass inhibition of bacterial dihydropteroate synthetase, although it is associated with grave hematological adverse effects, notably hemolytic anemia exacerbated by glucose-6-phosphate dehydrogenase deficiency and agranulocytosis, alongside potential hepatotoxicity manifested as hepatic inflammation. Methemoglobinemia and dermatological hypersensitivity reactions, encompassing a variety of rash presentations, constitute additional risk factors. The teratogenic profile remains equivocal; however, continuation during gestation is advised in leprosy cases. Economically accessible as a generic formulation, dapsone retains its inclusion on the WHO Essential Medicines List, underscoring its clinical utility and indispensable status in global health pharmacopeias.
 
@@ -724,7 +724,7 @@ DRUG 1 SMILES: C1CN(CCN1CCOCC(=O)O)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl
 DRUG 2 NAME: Pyridostigmine
 DRUG 2 SMILES: C[N+]1=CC=CC(=C1)OC(=O)N(C)C
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Cetirizine-Pi-Pi Stacking-Pyridostigmine","Based on their molecular structures, which drug, the one featuring a chlorinated phenyl ring linked to a piperazine moiety or the one containing a trimethylated pyridinium ring with a carbamate group, acts as the aromatic partner accepting a Pi-Pi stacking interaction in this drug pair?",Cetirizine,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Cetirizine-Pi-Pi Stacking-Pyridostigmine","Between the two molecules, one contains a substituted piperazine ring linked to a carboxylic acid chain and two aromatic rings (one chlorinated), while the other is a methylpyridinium derivative with a carbamate moiety. Which of these is the aromatic-rich compound that can participate in a Pi-Pi stacking interaction with the other drug?",Cetirizine,3
 Citalopram-Fluphenazine-ADRA1B,"DRUG 1 NAME: Citalopram
 DRUG 1 BACKGROUND INFORMATION: Citalopram, a chiral bicyclic phthalane derivative and selective serotonin reuptake inhibitor (SSRI), is primarily employed in the pharmacotherapy of major depressive disorder, obsessive-compulsive disorder, panic disorder, and social phobia through modulation of serotonergic neurotransmission. The therapeutic latency ranges from one to four weeks post-administration. It is predominantly administered orally, though parenteral administration via intravenous injection is utilized in specific regions to expedite therapeutic onset. The pharmacokinetic profile of citalopram encompasses hepatic metabolism predominantly via CYP2C19, CYP3A4, and CYP2D6, yielding demethylated metabolites. It is imperative to monitor for adverse reactions, including, but not limited to, gastrointestinal disturbances, insomnia, sexual dysfunction, tremors, somnolence, hyperhidrosis, serotonin toxicity, and cardiotoxicity as manifested by QT interval prolongation. Contraindications entail concurrent MAO inhibitor therapy due to risk of serotonin syndrome and potential teratogenicity warrants cautious use in pregnancy. The potential for exacerbating suicidality in individuals under 25 necessitates vigilant monitoring. Citalopram's clinical prominence is evidenced by its inclusion in the WHO's List of Essential Medicines and its extensive prescribing frequency in the United States, underscoring its integral role in psychiatric treatment regimens.
 
@@ -779,7 +779,7 @@ DRUG 1 SMILES: C1CCC(CC1)(CC(=O)O)CN
 DRUG 2 NAME: Ibuprofen
 DRUG 2 SMILES: CC(C)CC1=CC=C(C=C1)C(C)C(=O)O
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Gabapentin-Hydrogen Bond-Ibuprofen","Which drug, represented by the SMILES string CC(C)CC1=CC=C(C=C1)C(C)C(=O)O, is capable of accepting a hydrogen bond from the primary amine group present in the other molecule according to their described interaction?",Ibuprofen,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Gabapentin-Hydrogen Bond-Ibuprofen","Which drug, the one containing a cyclohexane ring substituted with a carboxylic acid and an aminomethyl group, or the one featuring an isobutylbenzene core with a carboxylic acid, is capable of forming a hydrogen bond with the other according to their interaction?",Gabapentin,3
 Rofecoxib-Balsalazide,"DRUG 1 NAME: Rofecoxib
 DRUG 1 BACKGROUND INFORMATION: Rofecoxib, a COX-2-selective NSAID, was originally indicated for various arthritic conditions, acute pain, migraines, and dysmenorrhea, until its market withdrawal in 2004 due to augmented cardiovascular (CV) risks, particularly myocardial infarction and cerebrovascular accidents, linked to prolonged high-dosage utilization. The drug's comparative pharmacodynamic profile achieved specificity towards cyclooxygenase-2 isoform inhibition, theoretically minimizing gastrointestinal mucosal compromise yet correlating with increased thromboembolic events, a risk shared by nonselective NSAIDs per longitudinal clinical evaluation. Despite its market retraction, an orphan drug designation was granted to Tremeau Pharmaceuticals in 2017 for rofecoxib (TRM-201) targeting hemophilic arthropathy (HA), a condition necessitating analgesic intervention devoid of NSAID-induced platelet inhibition or opioid dependency, thereby providing a unique therapeutic niche given the absence of other approved agents for HA in the U.S., a population at risk due to recurrent hemarthroses and its degenerative sequelae.
 
@@ -794,7 +794,7 @@ DRUG 1 SMILES: CC1=C(N=CN1)CSCCNC(=NC)NC#N
 DRUG 2 NAME: Labetalol
 DRUG 2 SMILES: CC(CCC1=CC=CC=C1)NCC(C2=CC(=C(C=C2)O)C(=O)N)O
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Cimetidine-Hydrogen bonding-Labetalol","Which drug, characterized by a structure containing an imidazole ring attached to a nitrile group and a methylated guanidine moiety, engages in hydrogen bonding with a molecule featuring a hydroxyphenyl group and a secondary alcohol substituent?",Labetalol,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Cimetidine-Hydrogen bonding-Labetalol","Between the two drugs, one features an imidazole ring attached to a thiourea group, while the other possesses a secondary amine linked to a hydroxyphenylacetamide moiety. Which drug is more likely to act as a hydrogen bond donor to facilitate the specific hydrogen bonding interaction described between the pair?",Labetalol,3
 Furosemide-Lamotrigine-Fosphenytoin,"DRUG 1 NAME: Furosemide
 DRUG 1 BACKGROUND INFORMATION: Furosemide, a potent loop diuretic, exerts its pharmacological action by inhibiting the Na-K-2Cl symporter in the thick ascending limb of the loop of Henle, thus profoundly augmenting natriuresis and diuresis, which alleviates conditions of edema secondary to cardiac, hepatic, or renal insufficiencies. Additionally utilized in the management of hypertension, furosemide yields rapid onset of action with intravenous administration effectuating within five minutes, whereas oral ingestion manifests systemic absorption and efficacy within an hour. Adverse effects encompass orthostatic hypotension, tinnitus, and photosensitivity, with severe risks including electrolyte imbalances such as hypokalemia, along with potential nephrotoxicity and ototoxicity. Clinicians are advised to diligently monitor serum electrolytes (notably potassium), bicarbonate, renal indices (creatinine, BUN), and hepatic function parameters. Despite its inclusion on the World Health Organization's List of Essential Medicines, furosemide's utility is tempered by its status on the World Anti-Doping Agency's list of prohibited substances, attributed to its potential misuse for concealing illicit performance-enhancing drug usage, alongside its veterinary application for managing exercise-induced pulmonary hemorrhage in equines.
 
@@ -866,7 +866,7 @@ DRUG 1 SMILES: C1=C(N=C(S1)N=C(N)N)CSCCC(=NS(=O)(=O)N)N
 DRUG 2 NAME: melphalan
 DRUG 2 SMILES: C1=CC(=CC=C1CC(C(=O)O)N)N(CCCl)CCCl
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Famotidine-Hydrogen Bonding-melphalan","Which molecule, based on its structure containing both a thiazole ring with multiple amino substituents and a sulfonamide group, can engage in hydrogen bonding with the molecule bearing bis(2-chloroethyl)amino phenylalanine moiety, and serves as the hydrogen bond donor or acceptor in their interaction?",Famotidine,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Famotidine-Hydrogen Bonding-melphalan","Between the compound featuring a thiazole ring with multiple guanidine-like amino groups and a sulfamoyl group, and the compound composed of a substituted benzene ring bearing two bis(2-chloroethyl)amino side chains and a carboxylic acid function, which one is most likely to act as a hydrogen bond donor in a hydrogen bonding interaction with the other?",Famotidine,3
 Naproxen-Capecitabine-Desloratadine-HRH1,"DRUG 1 NAME: Naproxen
 DRUG 1 BACKGROUND INFORMATION: Naproxen, a nonsteroidal anti-inflammatory drug (NSAID), exerts its pharmacological effects by non-selectively inhibiting cyclooxygenase (COX) enzymes, thereby attenuating the synthesis of pro-inflammatory prostaglandins, which are pivotal in the pathophysiology of pain, menstrual dysmenorrhea, and inflammatory diseases such as rheumatoid arthritis and gout. Administered orally in both immediate and delayed-release formulations, naproxen reaches therapeutic plasma concentrations within one hour, with a duration of action extending up to twelve hours, facilitating its utility in both acute and chronic settings. The sodium salt variant enhances oral solubility and absorption kinetics. While commonly associated with adverse effects including gastrointestinal discomfort, dizziness, and hypersensitivity reactions, more severe risks include cardiovascular thrombotic events and gastrointestinal bleeding, albeit with potentially a lower myocardial infarction risk relative to other NSAIDs. Its use is contraindicated in the presence of renal impairment and during the third trimester of pregnancy. Metabolic clearance occurs hepatically via biotransformation to inactive metabolites, with excretion primarily renal. Naproxen's widespread prescription, evident from over 7 million prescriptions in 2022 in the U.S., underscores its established therapeutic role, despite the potential for adverse event profiles.
 
@@ -937,16 +937,16 @@ Gemfibrozil was patented in 1968, and came into medical use in 1982. It is avail
 
 DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Alprazolam-gastric inflammation-Gemfibrozil","Which medication, the one used primarily as an anxiolytic agent with strong affinity for the GABA_A receptor, or the one from the fibrates class used to treat abnormal blood lipid levels, is associated with causing gastric inflammation when interacting with the other?",Gemfibrozil,0
 Amlodipine-Pyridostigmine-Telithromycin,"DRUG 1 NAME: Amlodipine
-DRUG 1 BACKGROUND INFORMATION: CCOC(=O)C1=C(NC(=C(C1C2=CC=CC=C2Cl)C(=O)OC)C)COCCN
+DRUG 1 SMILES: CCOC(=O)C1=C(NC(=C(C1C2=CC=CC=C2Cl)C(=O)OC)C)COCCN
 
 DRUG 2 NAME: Pyridostigmine
-DRUG 2 BACKGROUND INFORMATION: C[N+]1=CC=CC(=C1)OC(=O)N(C)C
+DRUG 2 SMILES: C[N+]1=CC=CC(=C1)OC(=O)N(C)C
 
 DRUG 3 NAME: Telithromycin
-DRUG 3 BACKGROUND INFORMATION: CCC1C2(C(C(C(=O)C(CC(C(C(C(=O)C(C(=O)O1)C)C)OC3C(C(CC(O3)C)N(C)C)O)(C)OC)C)C)N(C(=O)O2)CCCCN4C=C(N=C4)C5=CN=CC=C5)C
+DRUG 3 SMILES: CCC1C2(C(C(C(=O)C(CC(C(C(C(=O)C(C(=O)O1)C)C)OC3C(C(CC(O3)C)N(C)C)O)(C)OC)C)C)N(C(=O)O2)CCCCN4C=C(N=C4)C5=CN=CC=C5)C
 
 DRUG 1 - DRUG 2 INTERACTION TRIPLE (subject-predicate-object): Amlodipine-Hydrogen Bonding-Pyridostigmine
-DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): Pyridostigmine-Hydrogen Bonding-Telithromycin","Which compound, characterized by a macrolide ring containing a pyridine group fused to an imidazole ring, forms a hydrogen bond with a molecule possessing a methylpyridinium carbamate structure?",Telithromycin,4
+DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): Pyridostigmine-Hydrogen Bonding-Telithromycin","Which drug, whose macrocyclic structure features both a desosamine and a 3-keto-cladinose sugar moiety attached to a ketolide core, forms a hydrogen bond with the methylcarbamate-bearing pyridine derivative?",Telithromycin,4
 Labetalol-ADRA2A,"DRUG NAME: Labetalol
 DRUG BACKGROUND INFORMATION: Labetalol is a medication used to treat high blood pressure and in long term management of angina. This includes essential hypertension, hypertensive emergencies, and hypertension of pregnancy. In essential hypertension it is generally less preferred than a number of other blood pressure medications. It can be given by mouth or by injection into a vein.
 Common side effects include low blood pressure with standing, dizziness, feeling tired, and nausea. Serious side effects may include low blood pressure, liver problems, heart failure, and bronchospasm. Use appears safe in the latter part of pregnancy and it is not expected to cause problems during breastfeeding. It works by blocking the activation of β- and α-adrenergic receptors.
@@ -962,7 +962,7 @@ DRUG 1 SMILES: CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O
 DRUG 2 NAME: Furosemide
 DRUG 2 SMILES: C1=COC(=C1)CNC2=CC(=C(C=C2C(=O)O)S(=O)(=O)N)Cl
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Naproxen-Hydrogen Bonding-Furosemide","Between the two molecules, one containing a fused aromatic system with a methoxy group and a propionic acid side chain, and the other featuring a chlorinated benzene ring substituted with a sulfonamide and a furanyl moiety, which acts as the hydrogen bond acceptor in their mutual hydrogen bonding interaction?",Furosemide,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Naproxen-Hydrogen Bonding-Furosemide","Which drug, the one containing a fused aromatic ring system with a methoxy group and a carboxylic acid, or the one featuring a chlorinated benzene ring substituted with a sulfonamide and a furanyl-methylamino side chain, can serve as the hydrogen bond acceptor in their interaction described as ""Hydrogen Bonding""?",Furosemide,3
 Doxazosin-ADRA1D,"DRUG NAME: Doxazosin
 DRUG BACKGROUND INFORMATION: Doxazosin, sold under the brand name Cardura among others, is a medication used to treat symptoms of benign prostatic hyperplasia (enlarged prostate), hypertension (high blood pressure), and post-traumatic stress disorder (PTSD). For high blood pressure, it is a less preferred option. It is taken by mouth.
 Common side effects include dizziness, sleepiness, swelling, nausea, shortness of breath, and abdominal pain. Severe side effects may include low blood pressure with standing, an irregular heart beat, and priapism. It is a selective α1-adrenergic blocker in the quinazoline class of compounds.
@@ -978,7 +978,7 @@ DRUG 1 SMILES: CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O
 DRUG 2 NAME: vincristine
 DRUG 2 SMILES: CCC1(CC2CC(C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)C78CCN9C7C(C=CC9)(C(C(C8N6C=O)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): indometacin-Hydrogen Bonding-vincristine","Which drug, represented by the SMILES string CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O, can act as a hydrogen bonding partner with the drug represented by the SMILES CCC1(CC2CC(C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)C78CCN9C7C(C=CC9)(C(C(C8N6C=O)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O due to an interaction between their functional groups?",indometacin,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): indometacin-Hydrogen Bonding-vincristine","Between the two drugs—one characterized by a fused indole-acetic acid core with a chlorobenzene ring and methoxy group, and the other featuring a large polycyclic structure with multiple ester and carbamate groups, which acts as the hydrogen bond donor in their molecular interaction described by hydrogen bonding?",vincristine,3
 Rofecoxib-Etiracetam,"DRUG 1 NAME: Rofecoxib
 DRUG 1 BACKGROUND INFORMATION: Rofecoxib, a COX-2-selective NSAID, was originally indicated for various arthritic conditions, acute pain, migraines, and dysmenorrhea, until its market withdrawal in 2004 due to augmented cardiovascular (CV) risks, particularly myocardial infarction and cerebrovascular accidents, linked to prolonged high-dosage utilization. The drug's comparative pharmacodynamic profile achieved specificity towards cyclooxygenase-2 isoform inhibition, theoretically minimizing gastrointestinal mucosal compromise yet correlating with increased thromboembolic events, a risk shared by nonselective NSAIDs per longitudinal clinical evaluation. Despite its market retraction, an orphan drug designation was granted to Tremeau Pharmaceuticals in 2017 for rofecoxib (TRM-201) targeting hemophilic arthropathy (HA), a condition necessitating analgesic intervention devoid of NSAID-induced platelet inhibition or opioid dependency, thereby providing a unique therapeutic niche given the absence of other approved agents for HA in the U.S., a population at risk due to recurrent hemarthroses and its degenerative sequelae.
 
@@ -992,7 +992,7 @@ DRUG 1 SMILES: C1CN2C(=CC=C2C(=O)C3=CC=CC=C3)C1C(=O)O
 DRUG 2 NAME: Oxaprozin
 DRUG 2 SMILES: C1=CC=C(C=C1)C2=C(OC(=N2)CCC(=O)O)C3=CC=CC=C3
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Ketorolac-π-π Stacking-Oxaprozin","Which molecule, containing a fused pyrrole ring and presenting the SMILES string C1CN2C(=CC=C2C(=O)C3=CC=CC=C3)C1C(=O)O, is predicted to participate in a π-π stacking interaction with the compound possessing an oxazole ring as described by C1=CC=C(C=C1)C2=C(OC(=N2)CCC(=O)O)C3=CC=CC=C3?",Ketorolac,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Ketorolac-π-π Stacking-Oxaprozin","Which of the two drugs, the one featuring a fused pyrrole and benzene ring system with a carboxylic acid side chain, acts as the π-π stacking partner with the compound containing an oxazole ring fused to a biphenyl structure?",Ketorolac,3
 Gabapentin-Ketorolac,"DRUG 1 NAME: Gabapentin
 DRUG 1 BACKGROUND INFORMATION: Gabapentin, a prototypical member of the gabapentinoid class, is extensively utilized in the management of neuropathic pain syndromes, including diabetic neuropathy and postherpetic neuralgia, as well as partial epileptic seizures. Its mechanism of action predominantly involves high-affinity binding to the α2δ-1 subunit of voltage-gated calcium channels, encoded by the CACNA2D1 gene, thereby attenuating the synaptic release of glutamate and consequent hyperexcitability within central neuronal circuits. Although effective in approximately 30-40% of patients with neuropathic pain, the pharmacodynamic profile necessitates cautious administration, particularly in patients with renal impairment, due to its propensity to induce sedation, dizziness, potential for respiratory depression, and a heightened suicidality risk as classified by the FDA. Gabapentin's pharmacokinetic traits and adverse event profile require vigilant therapeutic monitoring to mitigate risks and optimize clinical outcomes. It continues to be a staple in therapeutic regimens, as evidenced by its status as one of the most prescribed medications in the United States, albeit historical controversies concerning its marketing strategies by the originating pharmaceutical entities.
 
@@ -1013,7 +1013,7 @@ DRUG 1 SMILES: CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O
 DRUG 2 NAME: Pirbuterol
 DRUG 2 SMILES: CC(C)(C)NCC(C1=NC(=C(C=C1)O)CO)O
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Naproxen-Hydrogen bonding-Pirbuterol","Based on their molecular structures, which drug with a carboxylic acid functional group is capable of forming hydrogen bonds with the secondary amine and phenolic hydroxyl groups of the other molecule as described by their interaction?",Naproxen,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Naproxen-Hydrogen bonding-Pirbuterol","Between the two drugs, one possesses a methoxy-substituted naphthalene carboxylic acid core, while the other contains a pyridine ring with hydroxyl and secondary alcohol functionalities as well as a t-butylamino group. Based on their structural features and the potential for intermolecular hydrogen bonding, which drug is most likely to act as a hydrogen bond donor in their interaction?",Pirbuterol,3
 Celecoxib-Midodrine,"DRUG 1 NAME: Celecoxib
 DRUG 1 BACKGROUND INFORMATION: Celecoxib, a selective cyclooxygenase-2 (COX-2) inhibitor, functions as a nonsteroidal anti-inflammatory drug (NSAID) utilized primarily for its analgesic and anti-inflammatory efficacy in osteoarthritis, rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis, dysmenorrhea, acute pain management, and juvenile rheumatoid arthritis. Additionally, celecoxib has prophylactic applications in reducing colorectal adenomatous formations in familial adenomatous polyposis due to its COX-2 inhibition, which mitigates pro-inflammatory prostaglandin synthesis while sparing COX-1, ostensibly minimizing gastrointestinal mucosal damage relative to non-selective NSAIDs. The pharmacokinetics permit oral administration, with pharmacodynamic effects commencing typically within one hour post-ingestion. Notable adverse reactions span gastrointestinal disturbances such as abdominal pain, nausea, and diarrhea, with severe risk profiles including cardiovascular thrombotic events, gastrointestinal perforation, renal impairment, and hypersensitivity reactions like anaphylaxis, contraindicating its use in populations with significant cardiovascular risk profiles. The risk profile parallels that of other NSAIDs like ibuprofen and naproxen, and caution is advised during late-stage gestation and lactation. Celecoxib's generic availability and widespread prescription underscore its clinical significance, albeit with requisite consideration of its potential side-effect burden.
 
@@ -1033,16 +1033,16 @@ Terazosin was patented in 1975 and came into medical use in 1985. It is availabl
 
 DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Citalopram-gastric inflammation-Terazosin","Which medication, known for its role as an alpha-1 blocker in the management of prostatic hyperplasia and hypertension, has been associated with cases of gastric inflammation when used in combination with a selective serotonin reuptake inhibitor that modulates serotonergic neurotransmission and is notable for potential QT interval prolongation?",Terazosin,0
 Citalopram-Gemfibrozil-Sildenafil,"DRUG 1 NAME: Citalopram
-DRUG 1 BACKGROUND INFORMATION: CN(C)CCCC1(C2=C(CO1)C=C(C=C2)C#N)C3=CC=C(C=C3)F
+DRUG 1 SMILES: CN(C)CCCC1(C2=C(CO1)C=C(C=C2)C#N)C3=CC=C(C=C3)F
 
 DRUG 2 NAME: Gemfibrozil
-DRUG 2 BACKGROUND INFORMATION: CC1=CC(=C(C=C1)C)OCCCC(C)(C)C(=O)O
+DRUG 2 SMILES: CC1=CC(=C(C=C1)C)OCCCC(C)(C)C(=O)O
 
 DRUG 3 NAME: Sildenafil
-DRUG 3 BACKGROUND INFORMATION: CCCC1=NN(C2=C1NC(=NC2=O)C3=C(C=CC(=C3)S(=O)(=O)N4CCN(CC4)C)OCC)C
+DRUG 3 SMILES: CCCC1=NN(C2=C1NC(=NC2=O)C3=C(C=CC(=C3)S(=O)(=O)N4CCN(CC4)C)OCC)C
 
 DRUG 1 - DRUG 2 INTERACTION TRIPLE (subject-predicate-object): Citalopram-Hydrogen Bonding-Gemfibrozil
-DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): Gemfibrozil-Hydrogen bonding-Sildenafil","Which drug, characterized by a tetrazole-containing bicyclic ring attached to a sulfonamide-substituted aromatic system with an N-ethylpiperazine side chain, can accept hydrogen bonds from the compound that features a para-hydroxy-isopropylaryl hexanoic acid moiety, which itself forms hydrogen bonds with a molecule containing a nitrile group and a trifluoromethyl-phenyl substituted phthalane skeleton?",Sildenafil,4
+DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): Gemfibrozil-Hydrogen bonding-Sildenafil","Among the following drugs: one featuring a phthalane-based bicyclic core with a cyanophenyl and fluorophenyl substituent, another with a phenoxyvaleric acid structure bearing a tert-butyl group and alkyl-ether linkage, and a third possessing a pyrazolopyrimidinone skeleton fused to a sulfonamide and piperazine-ethyl side chain, which is the compound capable of forming a hydrogen bond with the molecule that itself engages in hydrogen bonding with a bicyclic phthalane derivative as described?",Sildenafil,4
 Haloperidol-ADRA1B,"DRUG NAME: Haloperidol
 DRUG BACKGROUND INFORMATION: Haloperidol, a butyrophenone derivative, exerts its therapeutic efficacy as a typical antipsychotic primarily through potent antagonism of central dopaminergic D2 receptors, ameliorating positive psychotic symptoms in conditions such as schizophrenia, Tourette syndrome, acute mania in bipolar disorder, delirium, and alcohol withdrawal-related hallucinations. Exhibiting rapid onset post-oral or parenteral administration, haloperidol can be deployed via bi-weekly intramuscular depot injections for long-term management of schizophrenia spectrum disorders in non-compliant patients. While efficacious, haloperidol is implicated in extrapyramidal side effects, notably irreversible tardive dyskinesia and akathisia, along with the rare but severe neuroleptic malignant syndrome and dose-dependent QT interval prolongation, the latter significantly observed with intravenous routes. Its contraindication in patients with Parkinson's disease and increased mortality risk in dementia-related psychosis underscore the necessity for judicious application. Adverse fetal outcomes restrict its use during pregnancy. Despite these safety concerns, haloperidol maintains its status as an essential medication per the World Health Organization's compendium, continually ranking among the most prescribed antipsychotics in clinical practice.
 
@@ -1082,7 +1082,7 @@ DRUG 1 SMILES: CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3
 DRUG 2 NAME: Ticlopidine
 DRUG 2 SMILES: C1CN(CC2=C1SC=C2)CC3=CC=CC=C3Cl
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Fentanyl-Pi-Pi Stacking-Ticlopidine","Which drug, whose structure includes a thiophene ring fused to a piperidine and carries a chlorophenyl group, is capable of participating in a Pi-Pi stacking interaction with the drug whose structure contains a propanamide group and a phenethylpiperidine moiety?",Ticlopidine,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Fentanyl-Pi-Pi Stacking-Ticlopidine","Between the two compounds, one featuring an acetanilide core bound to a piperidine ring with a propionyl amide linkage, and the other containing a thienopyridine scaffold with a 2-chlorobenzyl substituent, which is capable of engaging in a pi-pi stacking interaction with the other according to their known relationship?",Ticlopidine,3
 Carvedilol-Pirbuterol,"DRUG 1 NAME: Carvedilol
 DRUG 1 BACKGROUND INFORMATION: Carvedilol, a nonselective beta-adrenergic blocker with alpha-1 adrenergic receptor antagonism, is clinically utilized for managing hypertension and chronic heart failure with reduced ejection fraction (HFrEF), often despite beta-blockers not being preferred first-line antihypertensives due to inferior cardiovascular outcomes and safety profiles relative to alternative hypertensives. While its pharmacodynamic mechanisms contributing to therapeutic efficacy in HFrEF remain incompletely elucidated, vasodilation resultant from alpha-1 blockade may play a role. Adverse reactions encompass orthostatic hypotension, asthenia, arthralgia, nausea, and dyspnea, with bronchospasm as a potential severe manifestation. The drug's pharmacokinetics necessitate cautious use during gestation and lactation and contraindicate administration in hepatic impairment cases. Despite exhibiting a broad safety spectrum, carvedilol's utilization extends to over 17 million annual prescriptions in the U.S., affirming its presence on the WHO's List of Essential Medicines and availability in generic formulations.
 
@@ -1136,29 +1136,29 @@ DRUG 1 SMILES: CC(=O)NC1=NN=C(S1)S(=O)(=O)N
 DRUG 2 NAME: Diazepam
 DRUG 2 SMILES: CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=CC=C3
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): acetazolamide-Hydrogen Bonding-Diazepam","Between the compound containing a sulfonamide group attached to a thiadiazole ring and the compound featuring a benzodiazepine core chlorinated on one aromatic ring, which one can act as a hydrogen bond donor in their mutual interaction?",acetazolamide,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): acetazolamide-Hydrogen Bonding-Diazepam","Between the compound containing a sulfonamide group attached to a thiadiazole ring (with an acetylamino substituent) and the benzodiazepine derivative featuring a diazepine ring fused to a chlorinated benzene ring, which molecule is more likely to act as a hydrogen bond donor in a direct hydrogen bonding interaction with the other?",acetazolamide,3
 Bumetanide-vincristine,"DRUG 1 NAME: Bumetanide
 DRUG 1 SMILES: CCCCNC1=C(C(=CC(=C1)C(=O)O)S(=O)(=O)N)OC2=CC=CC=C2
 
 DRUG 2 NAME: vincristine
 DRUG 2 SMILES: CCC1(CC2CC(C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)C78CCN9C7C(C=CC9)(C(C(C8N6C=O)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Bumetanide-Hydrogen bonding-vincristine","Between the compound with a butylamino-substituted benzene ring containing a sulfonamide group and a benzyloxy substituent, and the complex multiringed molecule featuring multiple indole and dihydroindole units and methoxycarbonyl groups, which one acts as a hydrogen bond acceptor in their interaction as described?",vincristine,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Bumetanide-Hydrogen bonding-vincristine","Which drug, the one featuring a butylamino-substituted benzenesulfonamide ring bearing a carboxylic acid and phenoxy group, or the complex indole alkaloid with multiple fused rings and methoxycarbonyl functions, acts as the hydrogen bond donor in their documented molecular hydrogen bonding interaction?",Bumetanide,3
 alendronic acid-Ibuprofen-Modafinil-Pamidronic acid,"DRUG 1 NAME: alendronic acid
-DRUG 1 BACKGROUND INFORMATION: C(CC(O)(P(=O)(O)O)P(=O)(O)O)CN
+DRUG 1 SMILES: C(CC(O)(P(=O)(O)O)P(=O)(O)O)CN
 
 DRUG 2 NAME: Ibuprofen
-DRUG 2 BACKGROUND INFORMATION: CC(C)CC1=CC=C(C=C1)C(C)C(=O)O
+DRUG 2 SMILES: CC(C)CC1=CC=C(C=C1)C(C)C(=O)O
 
 DRUG 3 NAME: Modafinil
-DRUG 3 BACKGROUND INFORMATION: C1=CC=C(C=C1)C(C2=CC=CC=C2)S(=O)CC(=O)N
+DRUG 3 SMILES: C1=CC=C(C=C1)C(C2=CC=CC=C2)S(=O)CC(=O)N
 
 DRUG 4 NAME: Pamidronic acid
-DRUG 4 BACKGROUND INFORMATION: C(CN)C(O)(P(=O)(O)O)P(=O)(O)O
+DRUG 4 SMILES: C(CN)C(O)(P(=O)(O)O)P(=O)(O)O
 
 DRUG 1 - DRUG 2 INTERACTION TRIPLE (subject-predicate-object): alendronic acid-Hydrogen bonding-Ibuprofen
 DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): Ibuprofen-Hydrogen Bonding-Modafinil
-DRUG 3 - DRUG 4 INTERACTION TRIPLE (subject-predicate-object): Modafinil-Hydrogen Bonding-Pamidronic acid","Which drug, characterized by a central carbon bonded to a hydroxyl group, an aminomethyl group, and two phosphonic acid groups, forms a hydrogen bond with a sulfinylacetamide structure substituted with two aromatic rings?",Pamidronic acid,5
+DRUG 3 - DRUG 4 INTERACTION TRIPLE (subject-predicate-object): Modafinil-Hydrogen Bonding-Pamidronic acid","Which compound, structurally characterized by an aminoethyl group attached to a central carbon that bears both a hydroxyl group and two phosphonic acid moieties, engages in hydrogen bonding with the sulfoxide-bearing diphenylacetamide agent according to their interaction network?",Pamidronic acid,5
 acetazolamide-Celecoxib-Desloratadine-HRH1,"DRUG 1 NAME: acetazolamide
 DRUG 1 BACKGROUND INFORMATION: Acetazolamide, marketed under the trade name Diamox, serves as a versatile pharmaceutical agent within the realm of carbonic anhydrase inhibitors, effectively modulating intraocular pressure via the diminution of aqueous humor production and osmolality. Its clinical utility spans across conditions such as glaucoma—both open-angle and acute angle closure—epilepsy, acute mountain sickness, periodic paralysis, idiopathic intracranial hypertension, and heart failure, with an ancillary role in urinary alkalinization. Therapeutic administration is achievable through oral and intravenous modalities. Mechanistically, acetazolamide exerts its effects by disrupting the equilibria of carbon dioxide hydration and subsequent bicarbonate ion production, thereby reducing intracellular hydrogen ion availability. The pharmacodynamic profile encompasses neuro-sensory side effects like paresthesia and tinnitus, alongside anorexia, emesis, and somnolence. Contraindications are notable in individuals with renal or hepatic impairment, and those with hypersensitivity to sulfonamide derivatives. As a diuretic and enzymatic inhibitor, it holds a position on the WHO's List of Essential Medicines, emphasizing its critical global accessibility as a generic formulation.
 
@@ -1181,7 +1181,7 @@ DRUG 1 SMILES: C1C(OC(S1)CO)N2C=CC(=NC2=O)N
 DRUG 2 NAME: Metoprolol
 DRUG 2 SMILES: CC(C)NCC(COC1=CC=C(C=C1)CCOC)O
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Lamivudine-Hydrogen Bonding-Metoprolol","Which compound, one with a bicyclic nucleoside structure containing a thiolane ring (OC(S1)), and the other with an isopropylamino-propanol ether motif (CC(C)NCC(COC1...)O), acts as the hydrogen bond donor in their documented hydrogen bonding interaction?",Lamivudine,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Lamivudine-Hydrogen Bonding-Metoprolol","Which drug, the nucleoside analog featuring a thiolane ring attached to a cytosine base or the phenol ether with an isopropylamino-propanol side chain, is the primary hydrogen bond donor in their direct molecular interaction as described by their hydrogen bonding relationship?",Lamivudine,3
 Aciclovir-Efavirenz-Lamivudine-Metoprolol,"DRUG 1 NAME: Aciclovir
 DRUG 1 BACKGROUND INFORMATION: Aciclovir, an antiviral guanosine analogue, exhibits its therapeutic efficacy predominantly by inhibiting viral DNA polymerase through its metabolization to aciclovir triphosphate, resulting in the cessation of herpesvirus DNA elongation across Herpes Simplex Virus, varicella-zoster, and CMV prophylaxis post-transplantation. Administerable orally, topically, or intravenously, its pharmacokinetic profile necessitates careful consideration in patients with compromised renal or hepatic function due to potential nephrotoxicity and thrombocytopenia. While demonstrating an acceptable safety margin during gestation and lactation, adverse events such as gastrointestinal discomfort and diarrhea are common. Its inclusion in the WHO's Essential Medicines list underscores its global pivotal role in antiviral therapy, with its generic accessibility enhancing universal healthcare implementation.
 
@@ -1198,16 +1198,16 @@ DRUG 1 - DRUG 2 INTERACTION TRIPLE (subject-predicate-object): Aciclovir-cholecy
 DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): Efavirenz-gastric inflammation-Lamivudine
 DRUG 3 - DRUG 4 INTERACTION TRIPLE (subject-predicate-object): Lamivudine-dysarthria-Metoprolol","A patient currently being treated for chronic hepatitis B and HIV infection with a nucleoside reverse transcriptase inhibitor, known for potential risks of lactic acidosis and hepatitis B flare, begins therapy for migraine prophylaxis and hypertension with a cardioselective β1-adrenergic antagonist that requires individualized dosing due to CYP2D6 metabolic variability. Based on documented drug-drug interaction profiles, which new medication is associated with the emergence of dysarthria when combined with the patient's existing antiretroviral regimen?",Metoprolol,2
 Efavirenz-oxybutynin-Pirbuterol,"DRUG 1 NAME: Efavirenz
-DRUG 1 BACKGROUND INFORMATION: C1CC1C#CC2(C3=C(C=CC(=C3)Cl)NC(=O)O2)C(F)(F)F
+DRUG 1 SMILES: C1CC1C#CC2(C3=C(C=CC(=C3)Cl)NC(=O)O2)C(F)(F)F
 
 DRUG 2 NAME: oxybutynin
-DRUG 2 BACKGROUND INFORMATION: CCN(CC)CC#CCOC(=O)C(C1CCCCC1)(C2=CC=CC=C2)O
+DRUG 2 SMILES: CCN(CC)CC#CCOC(=O)C(C1CCCCC1)(C2=CC=CC=C2)O
 
 DRUG 3 NAME: Pirbuterol
-DRUG 3 BACKGROUND INFORMATION: CC(C)(C)NCC(C1=NC(=C(C=C1)O)CO)O
+DRUG 3 SMILES: CC(C)(C)NCC(C1=NC(=C(C=C1)O)CO)O
 
 DRUG 1 - DRUG 2 INTERACTION TRIPLE (subject-predicate-object): Efavirenz-Steric Clash-oxybutynin
-DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): oxybutynin-Hydrogen bonding-Pirbuterol","Which compound, featuring a tert-butylaminoethyl side chain attached to a pyridine ring substituted with both hydroxy and hydroxymethyl groups, forms hydrogen bonds with a molecule that possesses a piperidyl ester linked to a phenyl and cyclohexyl group, but does not participate in a steric clash with a trifluoromethylated benzoxazinone derivative?",Pirbuterol,4
+DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): oxybutynin-Hydrogen bonding-Pirbuterol","Among the following: a cyclopropyl-containing trifluoromethyl-substituted diaryl compound, a tertiary amine with both cyclohexyl and phenyl groups as well as an ester, and a t-butyl-substituted aminomethylpyridine derivative with catechol and alcohol functionalities, which one forms hydrogen bonds with the esterified tertiary amine featuring both cyclohexyl and phenyl rings?",Pirbuterol,4
 Temazepam-Trazodone,"DRUG 1 NAME: Temazepam
 DRUG 1 BACKGROUND INFORMATION: Temazepam is a benzodiazepine class hypnotic agent indicated primarily for the management of severe insomnia, characterized by its rapid oral absorption with clinically significant hypnotic and anxiolytic actions initiating within 30 minutes and persisting for approximately eight hours. The pharmacodynamic efficacy is mediated via positive allosteric modulation of the GABA-A receptor, enhancing GABAergic neurotransmission and inducing sedative-hypnotic outcomes. Despite its historical utilization, the prescription prevalence has diminished, supplanted by z-drugs and certain atypical antidepressants due to a more favorable side effect profile. Temazepam’s pharmacokinetic and safety concerns include side effects such as ataxia, cognitive dysfunction, and in severe cases, can escalate to hallucinations, hypotension, and potential respiratory depression, particularly when co-administered with CNS depressants like alcohol or opioids. The withdrawal syndrome poses a significant risk upon rapid cessation following prolonged use. Teratogenic concerns contraindicate use during pregnancy and lactation. Despite its historical ubiquity as evidenced by over two million prescriptions in 2021, the clinical positioning of temazepam now leans towards refractory insomnia cases where alternative pharmacotherapy has been deemed inadequate.
 
@@ -1282,20 +1282,20 @@ DRUG 2 BACKGROUND INFORMATION: Hydroxychloroquine, chemically classified within 
 
 DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Gabapentin-erythema-hydroxychloroquine","In a patient concurrently using a medication that acts by binding the α2δ-1 subunit of voltage-gated calcium channels for neuropathic pain and seizures, and another agent with immunomodulatory effects often prescribed for autoimmune diseases and malaria, which drug is more likely to be associated with reports of erythema when the two are used together?",hydroxychloroquine,0
 Famotidine-Metolazone-Pamidronic acid-thiotepa,"DRUG 1 NAME: Famotidine
-DRUG 1 BACKGROUND INFORMATION: C1=C(N=C(S1)N=C(N)N)CSCCC(=NS(=O)(=O)N)N
+DRUG 1 SMILES: C1=C(N=C(S1)N=C(N)N)CSCCC(=NS(=O)(=O)N)N
 
 DRUG 2 NAME: Metolazone
-DRUG 2 BACKGROUND INFORMATION: CC1NC2=CC(=C(C=C2C(=O)N1C3=CC=CC=C3C)S(=O)(=O)N)Cl
+DRUG 2 SMILES: CC1NC2=CC(=C(C=C2C(=O)N1C3=CC=CC=C3C)S(=O)(=O)N)Cl
 
 DRUG 3 NAME: Pamidronic acid
-DRUG 3 BACKGROUND INFORMATION: C(CN)C(O)(P(=O)(O)O)P(=O)(O)O
+DRUG 3 SMILES: C(CN)C(O)(P(=O)(O)O)P(=O)(O)O
 
 DRUG 4 NAME: thiotepa
-DRUG 4 BACKGROUND INFORMATION: C1CN1P(=S)(N2CC2)N3CC3
+DRUG 4 SMILES: C1CN1P(=S)(N2CC2)N3CC3
 
 DRUG 1 - DRUG 2 INTERACTION TRIPLE (subject-predicate-object): Famotidine-Hydrogen Bonding-Metolazone
 DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): Metolazone-Hydrogen Bonding-Pamidronic acid
-DRUG 3 - DRUG 4 INTERACTION TRIPLE (subject-predicate-object): Pamidronic acid-Hydrogen Bonding-thiotepa","Which compound, characterized by an aziridine ring, a phosphorothioate core, and a network of nitrogen-containing three-membered rings, accepts a hydrogen bond from a molecule containing two phosphonic acid groups and a primary amine, forming the final step in a sequential hydrogen bonding pathway starting from a thiazole sulfonamide derivative?",thiotepa,5
+DRUG 3 - DRUG 4 INTERACTION TRIPLE (subject-predicate-object): Pamidronic acid-Hydrogen Bonding-thiotepa","Which compound containing three aziridine rings bonded to a central thiophosphoramide group is able to form hydrogen bonds with a bisphosphonate molecule that itself forms hydrogen bonds with a thiazide-like diuretic, which in turn interacts with a histamine H2-receptor antagonist through hydrogen bonding?",thiotepa,5
 Ranitidine-gadoversetamide,"DRUG 1 NAME: Ranitidine
 DRUG 1 BACKGROUND INFORMATION: Ranitidine, an H2 histamine receptor antagonist, functions by inhibiting histamine stimulation of gastric parietal cells, thereby attenuating gastric acid secretion; this pharmacological blockade has historically positioned it as a therapeutic agent for acid-related disorders such as peptic ulcer disease, gastroesophageal reflux disease, and Zollinger-Ellison syndrome. Available in oral, intramuscular, and intravenous formulations, ranitidine's clinical utility was overshadowed by the detection of N-nitrosodimethylamine (NDMA), a potential carcinogen, within its preparations, leading to global concerns and market withdrawal. Subsequent epidemiological investigations, including a comprehensive Taiwanese cohort analysis, underscore a statistically significant dose-response correlation between ranitidine exposure and hepatocarcinogenesis, alongside elevated oncogenic risks across gastric, pancreatic, osseous, and pulmonary systems. While its adverse effect profile ranges from common occurrences such as cephalalgia to severe pathologies including carcinogenicity, hepatic dysfunction, bradycardia, and infection propensity, the risk of concealing neoplasms like gastric carcinoma has prompted heightened scrutiny. The agent's association with Clostridioides difficile colitis further complicates its safety landscape, ultimately resulting in its removal from essential medicine lists and cessation of its availability in principal healthcare markets.
 
@@ -1373,44 +1373,44 @@ DRUG 1 SMILES: CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O
 DRUG 2 NAME: Temazepam
 DRUG 2 SMILES: CN1C2=C(C=C(C=C2)Cl)C(=NC(C1=O)O)C3=CC=CC=C3
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Naproxen-Hydrogen Bonding-Temazepam","Considering their molecular structures, which drug containing a carboxylic acid group is capable of forming a hydrogen bond with the drug that contains both amide and carbonyl groups as described by their interaction?",Naproxen,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Naproxen-Hydrogen Bonding-Temazepam","Which drug, the one with a naphthalene ring substituted with a methoxy group and a propionic acid side chain or the one featuring a diazepine ring fused to a chlorinated benzene and bearing a methylamino group, acts as the hydrogen bond acceptor in its interaction due to having a carbonyl group adjacent to a carboxyl group?",Naproxen,3
 Alprazolam-Sibutramine-Zolpidem-Bimatoprost,"DRUG 1 NAME: Alprazolam
-DRUG 1 BACKGROUND INFORMATION: CC1=NN=C2N1C3=C(C=C(C=C3)Cl)C(=NC2)C4=CC=CC=C4
+DRUG 1 SMILES: CC1=NN=C2N1C3=C(C=C(C=C3)Cl)C(=NC2)C4=CC=CC=C4
 
 DRUG 2 NAME: Sibutramine
-DRUG 2 BACKGROUND INFORMATION: CC(C)CC(C1(CCC1)C2=CC=C(C=C2)Cl)N(C)C
+DRUG 2 SMILES: CC(C)CC(C1(CCC1)C2=CC=C(C=C2)Cl)N(C)C
 
 DRUG 3 NAME: Zolpidem
-DRUG 3 BACKGROUND INFORMATION: CC1=CC=C(C=C1)C2=C(N3C=C(C=CC3=N2)C)CC(=O)N(C)C
+DRUG 3 SMILES: CC1=CC=C(C=C1)C2=C(N3C=C(C=CC3=N2)C)CC(=O)N(C)C
 
 DRUG 4 NAME: Bimatoprost
-DRUG 4 BACKGROUND INFORMATION: CCNC(=O)CCCC=CCC1C(CC(C1C=CC(CCC2=CC=CC=C2)O)O)O
+DRUG 4 SMILES: CCNC(=O)CCCC=CCC1C(CC(C1C=CC(CCC2=CC=CC=C2)O)O)O
 
 DRUG 1 - DRUG 2 INTERACTION TRIPLE (subject-predicate-object): Alprazolam-Steric Clashes-Sibutramine
 DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): Sibutramine-π-π Stacking-Zolpidem
-DRUG 3 - DRUG 4 INTERACTION TRIPLE (subject-predicate-object): Zolpidem-Hydrogen Bonding-Bimatoprost","Which compound, characterized structurally by a terminal amide (CCNC(=O)) attached to a long, unsaturated hydrocarbon chain that incorporates a cyclopentane ring bearing multiple hydroxyl groups and an aromatic phenyl substituent, is involved in a hydrogen bonding interaction with a molecule featuring an imidazopyridine scaffold substituted with a phenyl and a methyl group?",Bimatoprost,5
+DRUG 3 - DRUG 4 INTERACTION TRIPLE (subject-predicate-object): Zolpidem-Hydrogen Bonding-Bimatoprost","Which drug, characterized by a long aliphatic chain ending in an amide functional group and a cyclopentane ring fused to an aromatic moiety, forms hydrogen bonds with a drug that possesses a methylated imidazo[1,2-a]pyridine skeleton and an N,N-dimethylacetamide side chain?",Bimatoprost,5
 Metronidazole-vincristine,"DRUG 1 NAME: Metronidazole
 DRUG 1 SMILES: CC1=NC=C(N1CCO)[N+](=O)[O-]
 
 DRUG 2 NAME: vincristine
 DRUG 2 SMILES: CCC1(CC2CC(C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)C78CCN9C7C(C=CC9)(C(C(C8N6C=O)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Metronidazole-Hydrogen bonding-vincristine","Which drug, identified by the structure CC1=NC=C(N1CCO)[N+](=O)[O-], acts as a hydrogen bond acceptor when interacting with the compound represented by CCC1(CC2CC(C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)C78CCN9C7C(C=CC9)(C(C(C8N6C=O)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O through the hydrogen bonding relationship?",Metronidazole,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Metronidazole-Hydrogen bonding-vincristine","Between the drug featuring a five-membered imidazole ring substituted with a nitro group and an ethanol side chain, and the drug characterized by a complex multiple-ring alkaloid framework with numerous methoxy, carbonyl, and indole moieties, which one is more likely to serve as a hydrogen bond donor to the other in their documented interaction?",Metronidazole,3
 Carvedilol-Efavirenz-oxybutynin-Zaleplon,"DRUG 1 NAME: Carvedilol
-DRUG 1 BACKGROUND INFORMATION: COC1=CC=CC=C1OCCNCC(COC2=CC=CC3=C2C4=CC=CC=C4N3)O
+DRUG 1 SMILES: COC1=CC=CC=C1OCCNCC(COC2=CC=CC3=C2C4=CC=CC=C4N3)O
 
 DRUG 2 NAME: Efavirenz
-DRUG 2 BACKGROUND INFORMATION: C1CC1C#CC2(C3=C(C=CC(=C3)Cl)NC(=O)O2)C(F)(F)F
+DRUG 2 SMILES: C1CC1C#CC2(C3=C(C=CC(=C3)Cl)NC(=O)O2)C(F)(F)F
 
 DRUG 3 NAME: oxybutynin
-DRUG 3 BACKGROUND INFORMATION: CCN(CC)CC#CCOC(=O)C(C1CCCCC1)(C2=CC=CC=C2)O
+DRUG 3 SMILES: CCN(CC)CC#CCOC(=O)C(C1CCCCC1)(C2=CC=CC=C2)O
 
 DRUG 4 NAME: Zaleplon
-DRUG 4 BACKGROUND INFORMATION: CCN(C1=CC=CC(=C1)C2=CC=NC3=C(C=NN23)C#N)C(=O)C
+DRUG 4 SMILES: CCN(C1=CC=CC(=C1)C2=CC=NC3=C(C=NN23)C#N)C(=O)C
 
 DRUG 1 - DRUG 2 INTERACTION TRIPLE (subject-predicate-object): Carvedilol-π-π Stacking-Efavirenz
 DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): Efavirenz-Steric Clash-oxybutynin
-DRUG 3 - DRUG 4 INTERACTION TRIPLE (subject-predicate-object): oxybutynin-Pi-Pi Stacking-Zaleplon","Which drug, characterized by a structure containing both a pyrazolopyrimidine core with a cyano substituent and an N-ethylacetamide side chain, participates in a π-π stacking interaction with the compound that features a cyclohexyl group, terminal alkyne, and ester moiety?",Zaleplon,5
+DRUG 3 - DRUG 4 INTERACTION TRIPLE (subject-predicate-object): oxybutynin-Pi-Pi Stacking-Zaleplon","Which drug, characterized by a nitrile-bearing pyrazolopyrimidine ring and a di-substituted amide with an N-ethyl-N-methyl group, is able to form a pi-pi stacking interaction with a muscarinic antagonist that possesses a terminal cyclohexyl and phenyl group as well as an ester and triple bond, according to the described molecular interactions?",Zaleplon,5
 Lamivudine-Metoprolol-Perphenazine-ADRA2A,"DRUG 1 NAME: Lamivudine
 DRUG 1 BACKGROUND INFORMATION: Lamivudine, or 3TC, is a nucleoside reverse transcriptase inhibitor with efficacy against HIV-1, HIV-2, and chronic hepatitis B virus. It functions by competitive inhibition of HIV reverse transcriptase and hepatitis B virus polymerase, disrupting viral DNA synthesis. Clinically, lamivudine is integral to combination antiretroviral therapy, often co-administered with agents such as zidovudine, dolutegravir, and abacavir, and forms part of post-exposure prophylactic regimens. It is available for oral administration as liquid or tablet formulations, maintaining therapeutic flexibility through its dosing independence from food intake. While generally well-tolerated, adverse effects can include gastrointestinal disturbances, cephalalgia, asthenia, and respiratory symptoms; however, clinicians must vigilantly monitor for hepatotoxicity, lactic acidosis, and hepatitis B exacerbations. Suitable for patients over three months and deemed safe in pregnancy, lamivudine is recognized as an essential medicine, underscoring its pivotal role in antiretroviral pharmacotherapy despite potential genotypic resistance mutations.
 
@@ -1484,7 +1484,7 @@ DRUG 1 SMILES: C1=CC(=C(C(=C1)Cl)Cl)C2=C(N=C(N=N2)N)N
 DRUG 2 NAME: Metolazone
 DRUG 2 SMILES: CC1NC2=CC(=C(C=C2C(=O)N1C3=CC=CC=C3C)S(=O)(=O)N)Cl
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Lamotrigine-Hydrogen Bonding-Metolazone","Which molecule, the one with a dichlorophenyl triazine moiety or the one with a quinazolinone sulfonamide core, can act as a hydrogen bond donor or acceptor in an intermolecular interaction with the other according to their known interaction?",Lamotrigine,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Lamotrigine-Hydrogen Bonding-Metolazone","Between the compound featuring a 3,5-dichlorophenyl ring fused to a triazine ring with terminal amino groups, and the molecule comprising a quinazolinone core with a methylsulfonamide and para-methylphenyl substituent, which one acts as the hydrogen bond acceptor in their molecular interaction?",Metolazone,3
 Desipramine-CHRM4,"DRUG NAME: Desipramine
 DRUG BACKGROUND INFORMATION: Desipramine, sold under the brand name Norpramin among others, is a tricyclic antidepressant (TCA) used in the treatment of depression. It acts as a relatively selective norepinephrine reuptake inhibitor, though it does also have other activities such as weak serotonin reuptake inhibitory, α1-blocking, antihistamine, and anticholinergic effects. The drug is not considered a first-line treatment for depression since the introduction of selective serotonin reuptake inhibitor (SSRI) antidepressants, which have fewer side effects and are safer in overdose.
 
@@ -1505,7 +1505,7 @@ DRUG 1 SMILES: CC(C)CC1=CC=C(C=C1)C(C)C(=O)O
 DRUG 2 NAME: Balsalazide
 DRUG 2 SMILES: C1=CC(=CC=C1C(=O)NCCC(=O)O)NN=C2C=CC(=O)C(=C2)C(=O)O
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Ibuprofen-Hydrogen Bonding-Balsalazide","Which of the two drugs, one featuring an isobutylbenzene moiety with a carboxylic acid group and the other containing both azo and hydrazide groups linked to multiple aromatic rings, is more likely to act as a hydrogen bond acceptor in their documented hydrogen bonding interaction?",Balsalazide,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Ibuprofen-Hydrogen Bonding-Balsalazide","Which drug, the one with a carboxylic acid attached to an aromatic ring and an isobutyl side chain, or the one featuring both azo and carboxamide functionalities connecting two benzene rings, could serve as a hydrogen bond acceptor for the other in their described interaction?",Balsalazide,3
 Temazepam-Bosentan,"DRUG 1 NAME: Temazepam
 DRUG 1 BACKGROUND INFORMATION: Temazepam is a benzodiazepine class hypnotic agent indicated primarily for the management of severe insomnia, characterized by its rapid oral absorption with clinically significant hypnotic and anxiolytic actions initiating within 30 minutes and persisting for approximately eight hours. The pharmacodynamic efficacy is mediated via positive allosteric modulation of the GABA-A receptor, enhancing GABAergic neurotransmission and inducing sedative-hypnotic outcomes. Despite its historical utilization, the prescription prevalence has diminished, supplanted by z-drugs and certain atypical antidepressants due to a more favorable side effect profile. Temazepam’s pharmacokinetic and safety concerns include side effects such as ataxia, cognitive dysfunction, and in severe cases, can escalate to hallucinations, hypotension, and potential respiratory depression, particularly when co-administered with CNS depressants like alcohol or opioids. The withdrawal syndrome poses a significant risk upon rapid cessation following prolonged use. Teratogenic concerns contraindicate use during pregnancy and lactation. Despite its historical ubiquity as evidenced by over two million prescriptions in 2021, the clinical positioning of temazepam now leans towards refractory insomnia cases where alternative pharmacotherapy has been deemed inadequate.
 
@@ -1578,43 +1578,43 @@ DRUG 1 SMILES: CCCCNC1=C(C(=CC(=C1)C(=O)O)S(=O)(=O)N)OC2=CC=CC=C2
 DRUG 2 NAME: Fenofibrate
 DRUG 2 SMILES: CC(C)OC(=O)C(C)(C)OC1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)Cl
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Bumetanide-Pi-Pi stacking interaction-Fenofibrate","Between the compound containing a chloro-substituted phenyl ring attached to an isopropyl ester group and the compound featuring a benzenesulfonamide moiety linked to a butylamino chain, which is the subject in a documented Pi-Pi stacking interaction with the other?",Bumetanide,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Bumetanide-Pi-Pi stacking interaction-Fenofibrate","Which of the two drugs, the one with a sulfonamide group attached to a butyl-substituted aromatic ring or the one featuring two aromatic rings connected via a carbonyl-terminated linker and containing a chlorine atom, can engage in a Pi-Pi stacking interaction with the other?",Fenofibrate,3
 Cetirizine-Dipyridamole-oxybutynin-Pirbuterol,"DRUG 1 NAME: Cetirizine
-DRUG 1 BACKGROUND INFORMATION: C1CN(CCN1CCOCC(=O)O)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl
+DRUG 1 SMILES: C1CN(CCN1CCOCC(=O)O)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl
 
 DRUG 2 NAME: Dipyridamole
-DRUG 2 BACKGROUND INFORMATION: C1CCN(CC1)C2=NC(=NC3=C2N=C(N=C3N4CCCCC4)N(CCO)CCO)N(CCO)CCO
+DRUG 2 SMILES: C1CCN(CC1)C2=NC(=NC3=C2N=C(N=C3N4CCCCC4)N(CCO)CCO)N(CCO)CCO
 
 DRUG 3 NAME: oxybutynin
-DRUG 3 BACKGROUND INFORMATION: CCN(CC)CC#CCOC(=O)C(C1CCCCC1)(C2=CC=CC=C2)O
+DRUG 3 SMILES: CCN(CC)CC#CCOC(=O)C(C1CCCCC1)(C2=CC=CC=C2)O
 
 DRUG 4 NAME: Pirbuterol
-DRUG 4 BACKGROUND INFORMATION: CC(C)(C)NCC(C1=NC(=C(C=C1)O)CO)O
+DRUG 4 SMILES: CC(C)(C)NCC(C1=NC(=C(C=C1)O)CO)O
 
 DRUG 1 - DRUG 2 INTERACTION TRIPLE (subject-predicate-object): Cetirizine-Electrostatic Interaction (Potential π-cation interaction)-Dipyridamole
 DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): Dipyridamole-Hydrogen bonding-oxybutynin
-DRUG 3 - DRUG 4 INTERACTION TRIPLE (subject-predicate-object): oxybutynin-Hydrogen bonding-Pirbuterol","Which drug, characterized by a tert-butylamino group attached to a phenolic, hydroxyethylated pyridine ring, is involved in a hydrogen bonding interaction with a drug containing an ester-linked cyclohexyl group and phenyl ring branching?",Pirbuterol,5
+DRUG 3 - DRUG 4 INTERACTION TRIPLE (subject-predicate-object): oxybutynin-Hydrogen bonding-Pirbuterol","Which drug, characterized by a tert-butylamino group attached to a benzene ring with both hydroxyl and hydroxyethyl substituents, forms a hydrogen-bonding interaction with a compound that features a cyclohexyl ester and a triple bond in its structure?",Pirbuterol,5
 Cetirizine-Terazosin,"DRUG 1 NAME: Cetirizine
 DRUG 1 SMILES: C1CN(CCN1CCOCC(=O)O)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl
 
 DRUG 2 NAME: Terazosin
 DRUG 2 SMILES: COC1=C(C=C2C(=C1)C(=NC(=N2)N3CCN(CC3)C(=O)C4CCCO4)N)OC
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Cetirizine-Hydrogen Bonding-Terazosin","Between the compound with a piperazine ring substituted with a chlorophenyl and a phenyl group, and the compound featuring a quinazoline core with two methoxy substituents and a tetrahydrofuran-2-carbonyl group, which one can act as a hydrogen bond donor or acceptor to participate in hydrogen bonding with the other according to their described interaction?",Terazosin,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Cetirizine-Hydrogen Bonding-Terazosin","Between the two drugs, one contains a dioxolane ring fused to a chlorophenyl-substituted piperazine, while the other features a quinazoline core with two methoxy groups and a tetrahydrofuran-2-one side chain. Which drug is most likely to form hydrogen bonds with the other, based on their interaction?",Terazosin,3
 folinic acid-Thalidomide,"DRUG 1 NAME: folinic acid
 DRUG 1 SMILES: C1C(N(C2=C(N1)NC(=NC2=O)N)C=O)CNC3=CC=C(C=C3)C(=O)NC(CCC(=O)O)C(=O)O
 
 DRUG 2 NAME: Thalidomide
 DRUG 2 SMILES: C1CC(=O)NC(=O)C1N2C(=O)C3=CC=CC=C3C2=O
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): folinic acid-Hydrogen Bonding-Thalidomide","Between the compound featuring a glutamate moiety and a pteridine ring attached to a benzene ring (described by the SMILES C1C(N(C2=C(N1)NC(=NC2=O)N)C=O)CNC3=CC=C(C=C3)C(=O)NC(CCC(=O)O)C(=O)O) and the phthalimide-glutarimide ring system molecule (with the SMILES C1CC(=O)NC(=O)C1N2C(=O)C3=CC=CC=C3C2=O), which compound can act as a hydrogen bond donor in their direct interaction?",folinic acid,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): folinic acid-Hydrogen Bonding-Thalidomide","Between the compound featuring a tetrahydropteridine ring fused to a substituted pyrimidine (with multiple carboxyl groups), and the compound containing a phthalimide ring fused to a glutarimide moiety, which one is the hydrogen bond acceptor in their interaction?",Thalidomide,3
 Diazepam-Formoterol,"DRUG 1 NAME: Diazepam
 DRUG 1 SMILES: CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=CC=C3
 
 DRUG 2 NAME: Formoterol
 DRUG 2 SMILES: CC(CC1=CC=C(C=C1)OC)NCC(C2=CC(=C(C=C2)O)NC=O)O
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Diazepam-Hydrogen Bonding-Formoterol","Between the compound containing a chloro-substituted benzene fused to a diazepine ring and the compound featuring a methoxyphenyl group connected to a secondary amine and a phenol moiety, which one acts as the hydrogen bond acceptor in their interaction described by a hydrogen bonding relationship?",Diazepam,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Diazepam-Hydrogen Bonding-Formoterol","Considering a drug with a chlorinated benzodiazepine core fused to a diazepine ring and a secondary amide group, and another drug featuring a phenylethanolamine structure with multiple aromatic rings, a methoxy group, and two hydroxyl substituents, which of these two molecules is more likely to serve as a hydrogen bond donor in the interaction described by 'Hydrogen Bonding' between them?",Formoterol,3
 Citalopram-Salmeterol,"DRUG 1 NAME: Citalopram
 DRUG 1 BACKGROUND INFORMATION: Citalopram, a chiral bicyclic phthalane derivative and selective serotonin reuptake inhibitor (SSRI), is primarily employed in the pharmacotherapy of major depressive disorder, obsessive-compulsive disorder, panic disorder, and social phobia through modulation of serotonergic neurotransmission. The therapeutic latency ranges from one to four weeks post-administration. It is predominantly administered orally, though parenteral administration via intravenous injection is utilized in specific regions to expedite therapeutic onset. The pharmacokinetic profile of citalopram encompasses hepatic metabolism predominantly via CYP2C19, CYP3A4, and CYP2D6, yielding demethylated metabolites. It is imperative to monitor for adverse reactions, including, but not limited to, gastrointestinal disturbances, insomnia, sexual dysfunction, tremors, somnolence, hyperhidrosis, serotonin toxicity, and cardiotoxicity as manifested by QT interval prolongation. Contraindications entail concurrent MAO inhibitor therapy due to risk of serotonin syndrome and potential teratogenicity warrants cautious use in pregnancy. The potential for exacerbating suicidality in individuals under 25 necessitates vigilant monitoring. Citalopram's clinical prominence is evidenced by its inclusion in the WHO's List of Essential Medicines and its extensive prescribing frequency in the United States, underscoring its integral role in psychiatric treatment regimens.
 
@@ -1642,7 +1642,7 @@ DRUG 1 SMILES: CN(C)CCCC1(C2=C(CO1)C=C(C=C2)C#N)C3=CC=C(C=C3)F
 DRUG 2 NAME: Darunavir
 DRUG 2 SMILES: CC(C)CN(CC(C(CC1=CC=CC=C1)NC(=O)OC2COC3C2CCO3)O)S(=O)(=O)C4=CC=C(C=C4)N
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Citalopram-Hydrogen Bond Donor-Acceptor Interaction-Darunavir","Between the molecule featuring a dimethylaminopropyl group attached to a fluorophenyl ring fused with a cyanobenzofuran (whose SMILES is CN(C)CCCC1(C2=C(CO1)C=C(C=C2)C#N)C3=CC=C(C=C3)F), and the compound containing a sulfonamide moiety and multiple cyclic ethers (SMILES: CC(C)CN(CC(C(CC1=CC=CC=C1)NC(=O)OC2COC3C2CCO3)O)S(=O)(=O)C4=CC=C(C=C4)N), which acts as the hydrogen bond acceptor in their interaction?",Darunavir,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Citalopram-Hydrogen Bond Donor-Acceptor Interaction-Darunavir","Which drug, the one containing a nitrile group attached to an aromatic ring (serving as a hydrogen bond acceptor) or the one featuring a sulfonamide functional group and multiple secondary amine groups (serving as a hydrogen bond donor), is acting as the hydrogen bond donor in their mutual interaction?",Darunavir,3
 Ranitidine-Thalidomide,"DRUG 1 NAME: Ranitidine
 DRUG 1 BACKGROUND INFORMATION: Ranitidine, an H2 histamine receptor antagonist, functions by inhibiting histamine stimulation of gastric parietal cells, thereby attenuating gastric acid secretion; this pharmacological blockade has historically positioned it as a therapeutic agent for acid-related disorders such as peptic ulcer disease, gastroesophageal reflux disease, and Zollinger-Ellison syndrome. Available in oral, intramuscular, and intravenous formulations, ranitidine's clinical utility was overshadowed by the detection of N-nitrosodimethylamine (NDMA), a potential carcinogen, within its preparations, leading to global concerns and market withdrawal. Subsequent epidemiological investigations, including a comprehensive Taiwanese cohort analysis, underscore a statistically significant dose-response correlation between ranitidine exposure and hepatocarcinogenesis, alongside elevated oncogenic risks across gastric, pancreatic, osseous, and pulmonary systems. While its adverse effect profile ranges from common occurrences such as cephalalgia to severe pathologies including carcinogenicity, hepatic dysfunction, bradycardia, and infection propensity, the risk of concealing neoplasms like gastric carcinoma has prompted heightened scrutiny. The agent's association with Clostridioides difficile colitis further complicates its safety landscape, ultimately resulting in its removal from essential medicine lists and cessation of its availability in principal healthcare markets.
 
@@ -1651,20 +1651,20 @@ DRUG 2 BACKGROUND INFORMATION: Thalidomide is an orally administered immunomodul
 
 DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Ranitidine-cholecystitis-Thalidomide","Which drug, known for its teratogenic effects and immunomodulatory actions in hematologic malignancies and leprosy, is associated with cholecystitis as an adverse interaction outcome when combined with an H2 antagonist historically used for acid-related disorders but withdrawn due to carcinogenic concerns?",Thalidomide,0
 Candesartan-Sildenafil-Acamprosate,"DRUG 1 NAME: Candesartan
-DRUG 1 BACKGROUND INFORMATION: CCOC1=NC2=CC=CC(=C2N1CC3=CC=C(C=C3)C4=CC=CC=C4C5=NNN=N5)C(=O)O
+DRUG 1 SMILES: CCOC1=NC2=CC=CC(=C2N1CC3=CC=C(C=C3)C4=CC=CC=C4C5=NNN=N5)C(=O)O
 
 DRUG 2 NAME: Sildenafil
-DRUG 2 BACKGROUND INFORMATION: CCCC1=NN(C2=C1NC(=NC2=O)C3=C(C=CC(=C3)S(=O)(=O)N4CCN(CC4)C)OCC)C
+DRUG 2 SMILES: CCCC1=NN(C2=C1NC(=NC2=O)C3=C(C=CC(=C3)S(=O)(=O)N4CCN(CC4)C)OCC)C
 
 DRUG 3 NAME: Acamprosate
-DRUG 3 BACKGROUND INFORMATION: CC(=O)NCCCS(=O)(=O)O
+DRUG 3 SMILES: CC(=O)NCCCS(=O)(=O)O
 
 DRUG 1 - DRUG 2 INTERACTION TRIPLE (subject-predicate-object): Candesartan-Hydrogen Bonding-Sildenafil
-DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): Sildenafil-Hydrogen bonding-Acamprosate","Which compound, characterized by an acetylated amino group linked to a propyl sulfonic acid moiety, can form hydrogen bonds with another molecule containing a piperazine sulfonamide structure and participates in a molecular interaction network initiated by a tetrazole-bearing biphenyl carboxylic acid derivative?",Acamprosate,4
+DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): Sildenafil-Hydrogen bonding-Acamprosate","Which drug, featuring both a sulfonic acid group and an acetamidoethyl side chain, is capable of forming hydrogen bonds specifically with the compound that possesses a pyrazolo[4,3-d]pyrimidin-7-one core fused to a sulfonamide moiety, where this latter compound is itself a hydrogen bond partner to a biphenyl-tetrazole derivative aromatic carboxylic acid?",Acamprosate,4
 Ketorolac-oxybutynin,"DRUG 1 NAME: Ketorolac
 DRUG 1 SMILES: C1CN2C(=CC=C2C(=O)C3=CC=CC=C3)C1C(=O)O
 
 DRUG 2 NAME: oxybutynin
 DRUG 2 SMILES: CCN(CC)CC#CCOC(=O)C(C1CCCCC1)(C2=CC=CC=C2)O
 
-DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Ketorolac-Hydrogen Bonding-oxybutynin","Which drug, identified by the SMILES string C1CN2C(=CC=C2C(=O)C3=CC=CC=C3)C1C(=O)O, is capable of engaging in hydrogen bonding interactions with the drug represented by CCN(CC)CC#CCOC(=O)C(C1CCCCC1)(C2=CC=CC=C2)O, as described by their knowledge-graph relationship?",Ketorolac,3
+DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Ketorolac-Hydrogen Bonding-oxybutynin","Which drug, the bicyclic aromatic compound containing both a carboxylic acid and a pyrrolizine ring, or the tertiary amine with an ester-linked cyclohexyl and phenyl-substituted tertiary alcohol, can function as a hydrogen bond donor in its interaction with the other?",Ketorolac,3
