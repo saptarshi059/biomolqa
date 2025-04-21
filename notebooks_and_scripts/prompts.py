@@ -119,7 +119,7 @@ DDI_MOL_ONE_HOP_DEVELOPER_PROMPT = """You are a helpful AI assistant tasked with
 TASK REQUIREMENTS:
 1. Write exactly one question integrating the molecular structure of both drugs and their relationship. The answer must be either Drug 1 or Drug 2.
 2. The question may be as complex as desired, but must be answerable.
-3. Do NOT mention the drugs by name in the question; describe them by their molecular structure.
+3. Do NOT mention the drugs by name or use their SMILES directly in the question; describe them by their molecular structure.
 4. The question should **specifically test knowledge of the triple-described relationship or interaction, not just isolated facts about either drug.**
 5. The answer should be only the name of the correct drug.
 6. Do not repeat the provided data or add any filler language.
@@ -141,7 +141,7 @@ DDI_MOL_TWO_HOP_DEVELOPER_PROMPT = """You are a helpful AI assistant who writes 
 TASK REQUIREMENTS:
 1. Write exactly one question integrating the molecular structure of each drug and their relationships. The answer must be Drug 3.
 2. The question may be as complex as desired, but must be answerable.
-3. Do NOT mention the drugs by name in the question; describe them by their molecular structure.
+3. Do NOT mention the drugs by name or use their SMILES directly in the question; describe them by their molecular structure.
 4. The question should **specifically test knowledge of the triple-described relationship or interaction, not just isolated facts about the provided drugs.**
 5. The answer should be only the name of the correct drug.
 6. Do not repeat the provided data or add any filler language.
@@ -151,13 +151,13 @@ Question:
 Answer:"""
 
 DDI_MOL_TWO_HOP_USER_PROMPT = """DRUG 1 NAME: {}
-DRUG 1 BACKGROUND INFORMATION: {}
+DRUG 1 SMILES: {}
 
 DRUG 2 NAME: {}
-DRUG 2 BACKGROUND INFORMATION: {}
+DRUG 2 SMILES: {}
 
 DRUG 3 NAME: {}
-DRUG 3 BACKGROUND INFORMATION: {}
+DRUG 3 SMILES: {}
 
 DRUG 1 - DRUG 2 INTERACTION TRIPLE (subject-predicate-object): {}
 DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): {}"""
@@ -167,7 +167,7 @@ DDI_MOL_THREE_HOP_DEVELOPER_PROMPT = """You are a helpful AI assistant who write
 TASK REQUIREMENTS:
 1. Write exactly one question integrating the molecular structure of each drug and their relationships. The answer must be Drug 4.
 2. The question may be as complex as desired, but must be answerable.
-3. Do NOT mention the drugs by name in the question; describe them by their molecular structure.
+3. Do NOT mention the drugs by name or use their SMILES directly in the question; describe them by their molecular structure.
 4. The question should **specifically test knowledge of the triple-described relationship or interaction, not just isolated facts about the provided drugs.**
 5. The answer should be only the name of the correct drug.
 6. Do not repeat the provided data or add any filler language.
@@ -177,16 +177,16 @@ Question:
 Answer:"""
 
 DDI_MOL_THREE_HOP_USER_PROMPT = """DRUG 1 NAME: {}
-DRUG 1 BACKGROUND INFORMATION: {}
+DRUG 1 SMILES: {}
 
 DRUG 2 NAME: {}
-DRUG 2 BACKGROUND INFORMATION: {}
+DRUG 2 SMILES: {}
 
 DRUG 3 NAME: {}
-DRUG 3 BACKGROUND INFORMATION: {}
+DRUG 3 SMILES: {}
 
 DRUG 4 NAME: {}
-DRUG 4 BACKGROUND INFORMATION: {}
+DRUG 4 SMILES: {}
 
 DRUG 1 - DRUG 2 INTERACTION TRIPLE (subject-predicate-object): {}
 DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): {}
