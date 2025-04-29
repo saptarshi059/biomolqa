@@ -1,1 +1,0 @@
-Sodium channel protein type 8 subunit alpha also known as Nav1.6  is a membrane protein encoded by the SCN8A gene. Nav1.6 is one sodium channel isoform and is the primary voltage-gated sodium channel at each node of Ranvier. The channels are highly concentrated in sensory and motor axons in the peripheral nervous system and cluster at the nodes in the central nervous system.

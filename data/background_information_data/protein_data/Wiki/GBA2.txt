@@ -1,1 +1,0 @@
-GBA2 is the gene that encodes the enzyme non-lysosomal glucosylceramidase in humans. It has glucosylceramidase (EC 3.2.1.45) activity.

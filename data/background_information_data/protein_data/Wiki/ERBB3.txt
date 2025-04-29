@@ -1,2 +1,0 @@
-Receptor tyrosine-protein kinase erbB-3, also known as HER3 (human epidermal growth factor receptor 3), is a membrane bound protein that in humans is encoded by the ERBB3 gene.
-ErbB3 is a member of the epidermal growth factor receptor (EGFR/ERBB) family of receptor tyrosine kinases. The kinase-impaired ErbB3 is known to form active heterodimers with other members of the ErbB family, most notably the ligand binding-impaired ErbB2.

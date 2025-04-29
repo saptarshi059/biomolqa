@@ -1,315 +1,315 @@
 drug_name,relationship,protein_name
-158747-02-5,binding and activation,HTR1B
-Calcium(II) ion,binding and activation,ADCY2
-Calcium(II) ion,binding and activation,ADCY1
-Calcium(II) ion,binding and inhibition,GUCY2F
-Calcium(II) ion,binding and inhibition,ESD
-Calcium(II) ion,binding and inhibition,GUCY2D
-Calcium(II) ion,binding and inhibition,NANP
-Calcium(II) ion,binding and activation,ITPKA
-Calcium(II) ion,binding and activation,ADCY9
-Calcium(II) ion,binding and activation,ADCY8
-Calcium(II) ion,binding and activation,ADCY5
-Calcium(II) ion,binding and activation,ADCY6
-Calcium(II) ion,binding and activation,ADCY4
-Calcium(II) ion,binding and inhibition,CDIPT
-Calcium(II) ion,binding and activation,PLCB2
-Calcium(II) ion,binding and activation,PLCD1
-Azelastine,binding and inhibition,HRH1
-Loxapine,binding and inhibition,CHRM1
-Loxapine,binding and inhibition,HRH2
-Loxapine,binding and inhibition,DRD2
-Loxapine,binding and inhibition,CHRM4
-Loxapine,binding and inhibition,CHRM3
-Loxapine,binding and inhibition,HTR1B
-Loxapine,binding and inhibition,HRH1
-Loxapine,binding and inhibition,ADRA2C
-Loxapine,binding and inhibition,HTR7
-Loxapine,binding and inhibition,ADRA2A
-Loxapine,binding and inhibition,DRD5
-Loxapine,binding and inhibition,ADRA1B
-Loxapine,binding and inhibition,CHRM5
-Loxapine,binding and inhibition,ADRA1A
-Loxapine,binding and inhibition,DRD3
-Metoprolol,binding and activation,ADORA2B
-Metoprolol,binding and inhibition,ADORA2B
-Metoprolol,binding and activation,HTR1E
-Metoprolol,binding and activation,HTR1B
-Metoprolol,binding and activation,HTR1A
-Metoprolol,binding and inhibition,ADRB1
-Metoprolol,binding and inhibition,ADRA2C
-Metoprolol,binding and activation,NMBR
-Metoprolol,binding and activation,HTR5A
-Metoprolol,binding and activation,HTR6
-Metoprolol,binding and activation,HTR7
-Metoprolol,binding and activation,GRPR
-Metoprolol,binding and activation,SSTR2
-Metoprolol,binding and inhibition,ADRA2A
-Metoprolol,binding and activation,HTR1F
-Metoprolol,binding and activation,HTR2B
-Metoprolol,binding and inhibition,HTR2B
-Metoprolol,binding and activation,PTGIR
-Metoprolol,binding and activation,HTR2C
-Metoprolol,binding and activation,HRH3
-Brimonidine,binding and activation,ADRA2C
-Brimonidine,binding and activation,ADRA2A
-Carvedilol,binding and inhibition,ADRB1
-Carvedilol,binding and inhibition,ADRB3
-Carvedilol,binding and inhibition,ADRA1A
-indometacin,binding and inhibition,PTGER2
-indometacin,binding and activation,PTGDR2
-50-48-6,binding and inhibition,CHRM1
-50-48-6,binding and inhibition,CHRM5
-50-48-6,binding and inhibition,CHRM4
-50-48-6,binding and inhibition,CHRM3
-50-48-6,binding and inhibition,HRH1
-50-48-6,binding and inhibition,HTR6
-50-48-6,binding and inhibition,HRH4
-50-48-6,binding and inhibition,HTR1A
-DL-Atenolol,binding and inhibition,ADRB1
-Formoterol,binding and activation,ADRB1
-Formoterol,binding and activation,ADRB3
-Trimipramine,binding and inhibition,HRH1
-Pyrimethamine,binding and inhibition,CHRM1
-50-53-3,binding and inhibition,CHRM1
-50-53-3,binding and inhibition,HRH2
-50-53-3,binding and inhibition,DRD2
-50-53-3,binding and inhibition,CHRM4
-50-53-3,binding and inhibition,CHRM3
-50-53-3,binding and inhibition,HRH1
-50-53-3,binding and inhibition,ADRA2C
-50-53-3,binding and inhibition,ADRA2A
-50-53-3,binding and inhibition,HRH4
-50-53-3,binding and activation,DRD5
-50-53-3,binding and inhibition,ADRA1B
-50-53-3,binding and inhibition,CHRM5
-50-53-3,binding and inhibition,ADRA1A
-50-53-3,binding and inhibition,HTR1E
-50-53-3,binding and inhibition,HTR1A
-50-53-3,binding and inhibition,HTR2C
-50-53-3,binding and inhibition,DRD3
-364-62-5,binding and inhibition,DRD2
-364-62-5,binding and inhibition,DRD3
-Amoxapine,binding and inhibition,DRD2
-Amoxapine,binding and inhibition,HTR6
-Amoxapine,binding and inhibition,DRD3
-"2-{4-[(2-Butyl-1-benzofuran-3-yl)carbonyl]-2,6-diiodophenoxy}-N,N-diethylethanaminium",binding and inhibition,ADRB1
-Dobutamine,binding and activation,ADRB1
-tolcapone,binding and inhibition,COMT
-Desloratadine,binding and inhibition,HRH1
-Carbachol,binding and activation,CHRM4
-Carbachol,binding and activation,CHRM3
-Carbachol,binding and activation,CHRM5
-Carbachol,binding and activation,CHRM1
-Bethanechol,binding and activation,CHRM1
-Bethanechol,binding and activation,CHRM4
-Bethanechol,binding and activation,CHRM3
-Nicotinate,binding and activation,HCAR2
-chlorphenamine,binding and inhibition,HRH1
-91374-21-9,binding and activation,DRD2
-91374-21-9,binding and inhibition,DRD2
-91374-21-9,binding and inhibition,HTR1A
-91374-21-9,binding and inhibition,DRD3
-Rofecoxib,binding and inhibition,PTGER2
-Doxazosin,binding and inhibition,ADRA1D
-Doxazosin,binding and inhibition,ADRA1B
-Doxazosin,binding and inhibition,ADRA1A
-303-49-1,binding and inhibition,DRD2
-303-49-1,binding and inhibition,ADRA2A
-303-49-1,binding and inhibition,ADRA1A
-303-49-1,binding and inhibition,HTR2C
-303-49-1,binding and inhibition,DRD3
-121679-13-8,binding and activation,HTR1B
-121679-13-8,binding and activation,HTR1A
-"2-{1-[2-(2,3-Dihydro-1-benzofuran-5-yl)ethyl]pyrrolidin-3-yl}-2,2-diphenylacetamide",binding and inhibition,CHRM1
-"2-{1-[2-(2,3-Dihydro-1-benzofuran-5-yl)ethyl]pyrrolidin-3-yl}-2,2-diphenylacetamide",binding and inhibition,CHRM5
-"2-{1-[2-(2,3-Dihydro-1-benzofuran-5-yl)ethyl]pyrrolidin-3-yl}-2,2-diphenylacetamide",binding and inhibition,CHRM4
-"2-{1-[2-(2,3-Dihydro-1-benzofuran-5-yl)ethyl]pyrrolidin-3-yl}-2,2-diphenylacetamide",binding and inhibition,CHRM3
-(±)-Rotigotine,binding and activation,DRD2
-Dicyclomine,binding and inhibition,CHRM1
-"5′-Benzyl-12′-hydroxy-2′-methyl-3′,6′,18-trioxo-9,10-dihydroergotaman",binding and activation,HTR1E
-"5′-Benzyl-12′-hydroxy-2′-methyl-3′,6′,18-trioxo-9,10-dihydroergotaman",binding and activation,HTR1B
-"5′-Benzyl-12′-hydroxy-2′-methyl-3′,6′,18-trioxo-9,10-dihydroergotaman",binding and inhibition,HTR7
-"5′-Benzyl-12′-hydroxy-2′-methyl-3′,6′,18-trioxo-9,10-dihydroergotaman",binding and activation,HTR1F
-71195-58-9,binding and activation,OPRM1
-85650-52-8,binding and inhibition,HRH1
-85650-52-8,binding and inhibition,HTR7
-85650-52-8,binding and inhibition,ADRA2A
-85650-52-8,binding and inhibition,ADRA2C
-85650-52-8,binding and inhibition,HTR2C
-Terazosin,binding and inhibition,ADRA1D
-Terazosin,binding and inhibition,ADRA1B
-Terazosin,binding and inhibition,ADRA1A
-Trazodone,binding and inhibition,HRH1
-Trazodone,binding and inhibition,ADRA2A
-Trazodone,binding and inhibition,ADRA2C
-Trazodone,binding and inhibition,ADRA1A
-Trazodone,binding and inhibition,HTR2B
-Trazodone,binding and inhibition,HTR1A
-Trazodone,binding and inhibition,HTR2C
-Sumatriptan,binding and activation,HTR1E
-Sumatriptan,binding and activation,HTR1B
-Sumatriptan,binding and activation,HTR1A
-Sumatriptan,binding and activation,HTR5A
-Sumatriptan,binding and inhibition,HTR6
-Sumatriptan,binding and inhibition,HTR7
-Sumatriptan,binding and activation,HTR1F
-Pilocarpine,binding and activation,CHRM1
-83799-24-0,binding and inhibition,HRH1
-Fentanyl,binding and activation,OPRD1
-Fentanyl,binding and activation,OPRM1
-111974-69-7,binding and inhibition,DRD2
-111974-69-7,binding and activation,HTR1E
-111974-69-7,binding and inhibition,HRH1
-111974-69-7,binding and activation,HTR1F
-111974-69-7,binding and inhibition,HTR2B
-111974-69-7,binding and activation,HTR1A
-111974-69-7,binding and inhibition,HTR2C
-(-)-Scopolamine,binding and inhibition,CHRM1
-(-)-Scopolamine,binding and inhibition,CHRM4
-(-)-Scopolamine,binding and inhibition,CHRM3
-Fluphenazine,binding and inhibition,HRH2
-Fluphenazine,binding and inhibition,DRD2
-Fluphenazine,binding and inhibition,HTR1E
-Fluphenazine,binding and inhibition,HTR1B
-Fluphenazine,binding and inhibition,HTR1A
-Fluphenazine,binding and inhibition,HRH1
-Fluphenazine,binding and inhibition,ADRA2C
-Fluphenazine,binding and inhibition,ADRA2A
-Fluphenazine,binding and activation,DRD5
-Fluphenazine,binding and inhibition,ADRA1B
-Fluphenazine,binding and inhibition,ADRA1A
-Fluphenazine,binding and inhibition,HTR2C
-Fluphenazine,binding and inhibition,DRD3
-"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and activation,HTR1A
-"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and inhibition,CHRM1
-"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and inhibition,HRH2
-"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and inhibition,CHRM4
-"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and inhibition,DRD2
-"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and inhibition,CHRM3
-"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and activation,HTR1E
-"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and activation,HTR1B
-"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and inhibition,HRH1
-"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and inhibition,ADRA2C
-"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and inhibition,HTR7
-"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and inhibition,ADRA2A
-"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and inhibition,DRD5
-"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and inhibition,ADRA1B
-"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and inhibition,CHRM5
-"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and inhibition,ADRA1A
-"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and activation,HTR1F
-"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and inhibition,HTR2B
-"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and inhibition,DRD3
-144034-80-0,binding and activation,HTR1E
-144034-80-0,binding and activation,HTR1B
-144034-80-0,binding and activation,HTR1A
-144034-80-0,binding and activation,HTR1F
-34580-13-7,binding and inhibition,HRH1
-Droperidol,binding and inhibition,DRD2
-b-Propranolol,binding and inhibition,HTR1B
-b-Propranolol,binding and inhibition,HTR1A
-b-Propranolol,binding and inhibition,ADRB1
-b-Propranolol,binding and inhibition,ADRB3
-b-Propranolol,binding and inhibition,HTR5A
-144598-75-4,binding and inhibition,HTR1E
-144598-75-4,binding and inhibition,HTR1B
-144598-75-4,binding and inhibition,HTR1A
-144598-75-4,binding and inhibition,HRH1
-Cimetidine,binding and inhibition,HRH2
-"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and inhibition,CHRM1
-"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and inhibition,HRH2
-"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and inhibition,CHRM4
-"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and inhibition,DRD2
-"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and inhibition,CHRM3
-"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and activation,HTR1E
-"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and activation,HTR1B
-"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and inhibition,HRH1
-"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and inhibition,HTR5A
-"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and inhibition,ADRA2A
-"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and inhibition,HRH4
-"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and inhibition,ADRA2C
-"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and activation,DRD5
-"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and inhibition,ADRA1D
-"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and inhibition,ADRA1B
-"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and inhibition,CHRM5
-"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and inhibition,ADRA1A
-"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and activation,HTR1F
-"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and inhibition,HTR2B
-"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and activation,HTR1A
-"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and inhibition,DRD3
-79794-75-5,binding and inhibition,HRH1
-Glycopyrrolate,binding and inhibition,CHRM1
-66722-44-9,binding and inhibition,ADRB1
-13523-86-9,binding and inhibition,HTR1B
-13523-86-9,binding and inhibition,HTR1A
-Orphenadrine,binding and inhibition,HRH1
-52-53-9,binding and inhibition,DRD2
-Sufentanil,binding and activation,OPRM1
-Alfuzosin,binding and inhibition,ADRA1A
-(±)-Promethazine,binding and inhibition,CHRM1
-(±)-Promethazine,binding and inhibition,DRD2
-(±)-Promethazine,binding and inhibition,CHRM5
-(±)-Promethazine,binding and inhibition,CHRM4
-(±)-Promethazine,binding and inhibition,CHRM3
-(±)-Promethazine,binding and inhibition,HRH1
-(±)-Promethazine,binding and inhibition,HRH4
-(±)-Promethazine,binding and inhibition,ADRA1A
-Haloperidol,binding and inhibition,DRD2
-Haloperidol,binding and inhibition,HTR1B
-Haloperidol,binding and inhibition,HRH1
-Haloperidol,binding and inhibition,ADRA2C
-Haloperidol,binding and inhibition,HTR7
-Haloperidol,binding and inhibition,ADRA2A
-Haloperidol,binding and activation,DRD5
-Haloperidol,binding and inhibition,ADRA1B
-Haloperidol,binding and inhibition,CHRM5
-Haloperidol,binding and inhibition,ADRA1A
-Haloperidol,binding and inhibition,HTR2B
-Haloperidol,binding and inhibition,HTR1A
-Haloperidol,binding and inhibition,DRD3
-oxybutynin,binding and inhibition,CHRM1
-57-42-1,binding and activation,OPRD1
-57-42-1,binding and activation,OPRM1
-Citalopram,binding and inhibition,HTR2C
-Labetalol,binding and inhibition,ADRB1
-Labetalol,binding and inhibition,ADRA2C
-Labetalol,binding and inhibition,ADRB3
-Labetalol,binding and inhibition,ADRA2A
-Labetalol,binding and inhibition,ADRA1D
-Labetalol,binding and inhibition,ADRA1B
-Labetalol,binding and inhibition,ADRA1A
-L-Hyoscyamine,binding and inhibition,CHRM1
-L-Hyoscyamine,binding and inhibition,CHRM5
-L-Hyoscyamine,binding and inhibition,CHRM4
-L-Hyoscyamine,binding and inhibition,CHRM3
-Zafirlukast,binding and inhibition,CYSLTR1
-58-38-8,binding and inhibition,DRD2
-58-38-8,binding and inhibition,HRH1
-58-38-8,binding and inhibition,HTR2C
-58-38-8,binding and inhibition,DRD3
-1134-47-0,binding and activation,GABBR2
-Theophylline,binding and inhibition,ADORA2B
-Methylphenidate,binding and inhibition,ADRA2C
-5591-45-7,binding and inhibition,DRD2
-5591-45-7,binding and inhibition,HRH1
-19216-56-9,binding and inhibition,ADRA2C
-19216-56-9,binding and inhibition,ADRA2A
-19216-56-9,binding and inhibition,ADRA1D
-19216-56-9,binding and inhibition,ADRA1B
-19216-56-9,binding and inhibition,ADRA1A
-Desipramine,binding and inhibition,CHRM1
-Desipramine,binding and inhibition,CHRM5
-Desipramine,binding and inhibition,CHRM4
-Desipramine,binding and inhibition,CHRM3
-Desipramine,binding and activation,ADRB1
-Desipramine,binding and inhibition,HRH1
-Perphenazine,binding and inhibition,DRD2
-Perphenazine,binding and inhibition,HTR1A
-Perphenazine,binding and inhibition,HRH1
-Perphenazine,binding and inhibition,ADRA2C
-Perphenazine,binding and inhibition,ADRA2A
-Perphenazine,binding and inhibition,ADRA1A
-Perphenazine,binding and inhibition,HTR2C
-Perphenazine,binding and inhibition,DRD3
-Salmeterol,binding and activation,ADRB1
-Salmeterol,binding and activation,ADRB3
+158747-02-5,binding and activation,5-hydroxytryptamine receptor 1B
+Calcium(II) ion,binding and activation,Adenylate cyclase type 2
+Calcium(II) ion,binding and activation,Adenylate cyclase type 1
+Calcium(II) ion,binding and inhibition,Retinal guanylyl cyclase 2
+Calcium(II) ion,binding and inhibition,S-formylglutathione hydrolase
+Calcium(II) ion,binding and inhibition,Retinal guanylyl cyclase 1
+Calcium(II) ion,binding and inhibition,N-acylneuraminate-9-phosphatase
+Calcium(II) ion,binding and activation,Inositol-trisphosphate 3-kinase A
+Calcium(II) ion,binding and activation,Adenylate cyclase type 9
+Calcium(II) ion,binding and activation,Adenylate cyclase type 8
+Calcium(II) ion,binding and activation,Adenylate cyclase type 5
+Calcium(II) ion,binding and activation,Adenylate cyclase type 6
+Calcium(II) ion,binding and activation,Adenylate cyclase type 4
+Calcium(II) ion,binding and inhibition,CDP-diacylglycerol--inositol 3-phosphatidyltransferase
+Calcium(II) ion,binding and activation,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-2"
+Calcium(II) ion,binding and activation,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase delta-1"
+Azelastine,binding and inhibition,Histamine H1 receptor
+Loxapine,binding and inhibition,Muscarinic acetylcholine receptor M1
+Loxapine,binding and inhibition,Histamine H2 receptor
+Loxapine,binding and inhibition,D(2) dopamine receptor
+Loxapine,binding and inhibition,Muscarinic acetylcholine receptor M4
+Loxapine,binding and inhibition,Muscarinic acetylcholine receptor M3
+Loxapine,binding and inhibition,5-hydroxytryptamine receptor 1B
+Loxapine,binding and inhibition,Histamine H1 receptor
+Loxapine,binding and inhibition,Alpha-2C adrenergic receptor
+Loxapine,binding and inhibition,5-hydroxytryptamine receptor 7
+Loxapine,binding and inhibition,Alpha-2A adrenergic receptor
+Loxapine,binding and inhibition,D(1B) dopamine receptor
+Loxapine,binding and inhibition,Alpha-1B adrenergic receptor
+Loxapine,binding and inhibition,Muscarinic acetylcholine receptor M5
+Loxapine,binding and inhibition,Alpha-1A adrenergic receptor
+Loxapine,binding and inhibition,D(3) dopamine receptor
+Metoprolol,binding and activation,Adenosine receptor A2b
+Metoprolol,binding and inhibition,Adenosine receptor A2b
+Metoprolol,binding and activation,5-hydroxytryptamine receptor 1E
+Metoprolol,binding and activation,5-hydroxytryptamine receptor 1B
+Metoprolol,binding and activation,5-hydroxytryptamine receptor 1A
+Metoprolol,binding and inhibition,Beta-1 adrenergic receptor
+Metoprolol,binding and inhibition,Alpha-2C adrenergic receptor
+Metoprolol,binding and activation,Neuromedin-B receptor
+Metoprolol,binding and activation,5-hydroxytryptamine receptor 5A
+Metoprolol,binding and activation,5-hydroxytryptamine receptor 6
+Metoprolol,binding and activation,5-hydroxytryptamine receptor 7
+Metoprolol,binding and activation,Gastrin-releasing peptide receptor
+Metoprolol,binding and activation,Somatostatin receptor type 2
+Metoprolol,binding and inhibition,Alpha-2A adrenergic receptor
+Metoprolol,binding and activation,5-hydroxytryptamine receptor 1F
+Metoprolol,binding and activation,5-hydroxytryptamine receptor 2B
+Metoprolol,binding and inhibition,5-hydroxytryptamine receptor 2B
+Metoprolol,binding and activation,Prostacyclin receptor
+Metoprolol,binding and activation,5-hydroxytryptamine receptor 2C
+Metoprolol,binding and activation,Histamine H3 receptor
+Brimonidine,binding and activation,Alpha-2C adrenergic receptor
+Brimonidine,binding and activation,Alpha-2A adrenergic receptor
+Carvedilol,binding and inhibition,Beta-1 adrenergic receptor
+Carvedilol,binding and inhibition,Beta-3 adrenergic receptor
+Carvedilol,binding and inhibition,Alpha-1A adrenergic receptor
+indometacin,binding and inhibition,Prostaglandin E2 receptor EP2 subtype
+indometacin,binding and activation,Prostaglandin D2 receptor 2
+50-48-6,binding and inhibition,Muscarinic acetylcholine receptor M1
+50-48-6,binding and inhibition,Muscarinic acetylcholine receptor M5
+50-48-6,binding and inhibition,Muscarinic acetylcholine receptor M4
+50-48-6,binding and inhibition,Muscarinic acetylcholine receptor M3
+50-48-6,binding and inhibition,Histamine H1 receptor
+50-48-6,binding and inhibition,5-hydroxytryptamine receptor 6
+50-48-6,binding and inhibition,Histamine H4 receptor
+50-48-6,binding and inhibition,5-hydroxytryptamine receptor 1A
+DL-Atenolol,binding and inhibition,Beta-1 adrenergic receptor
+Formoterol,binding and activation,Beta-1 adrenergic receptor
+Formoterol,binding and activation,Beta-3 adrenergic receptor
+Trimipramine,binding and inhibition,Histamine H1 receptor
+Pyrimethamine,binding and inhibition,Muscarinic acetylcholine receptor M1
+50-53-3,binding and inhibition,Muscarinic acetylcholine receptor M1
+50-53-3,binding and inhibition,Histamine H2 receptor
+50-53-3,binding and inhibition,D(2) dopamine receptor
+50-53-3,binding and inhibition,Muscarinic acetylcholine receptor M4
+50-53-3,binding and inhibition,Muscarinic acetylcholine receptor M3
+50-53-3,binding and inhibition,Histamine H1 receptor
+50-53-3,binding and inhibition,Alpha-2C adrenergic receptor
+50-53-3,binding and inhibition,Alpha-2A adrenergic receptor
+50-53-3,binding and inhibition,Histamine H4 receptor
+50-53-3,binding and activation,D(1B) dopamine receptor
+50-53-3,binding and inhibition,Alpha-1B adrenergic receptor
+50-53-3,binding and inhibition,Muscarinic acetylcholine receptor M5
+50-53-3,binding and inhibition,Alpha-1A adrenergic receptor
+50-53-3,binding and inhibition,5-hydroxytryptamine receptor 1E
+50-53-3,binding and inhibition,5-hydroxytryptamine receptor 1A
+50-53-3,binding and inhibition,5-hydroxytryptamine receptor 2C
+50-53-3,binding and inhibition,D(3) dopamine receptor
+364-62-5,binding and inhibition,D(2) dopamine receptor
+364-62-5,binding and inhibition,D(3) dopamine receptor
+Amoxapine,binding and inhibition,D(2) dopamine receptor
+Amoxapine,binding and inhibition,5-hydroxytryptamine receptor 6
+Amoxapine,binding and inhibition,D(3) dopamine receptor
+"2-{4-[(2-Butyl-1-benzofuran-3-yl)carbonyl]-2,6-diiodophenoxy}-N,N-diethylethanaminium",binding and inhibition,Beta-1 adrenergic receptor
+Dobutamine,binding and activation,Beta-1 adrenergic receptor
+tolcapone,binding and inhibition,Catechol O-methyltransferase
+Desloratadine,binding and inhibition,Histamine H1 receptor
+Carbachol,binding and activation,Muscarinic acetylcholine receptor M4
+Carbachol,binding and activation,Muscarinic acetylcholine receptor M3
+Carbachol,binding and activation,Muscarinic acetylcholine receptor M5
+Carbachol,binding and activation,Muscarinic acetylcholine receptor M1
+Bethanechol,binding and activation,Muscarinic acetylcholine receptor M1
+Bethanechol,binding and activation,Muscarinic acetylcholine receptor M4
+Bethanechol,binding and activation,Muscarinic acetylcholine receptor M3
+Nicotinate,binding and activation,Hydroxycarboxylic acid receptor 2
+chlorphenamine,binding and inhibition,Histamine H1 receptor
+91374-21-9,binding and activation,D(2) dopamine receptor
+91374-21-9,binding and inhibition,D(2) dopamine receptor
+91374-21-9,binding and inhibition,5-hydroxytryptamine receptor 1A
+91374-21-9,binding and inhibition,D(3) dopamine receptor
+Rofecoxib,binding and inhibition,Prostaglandin E2 receptor EP2 subtype
+Doxazosin,binding and inhibition,Alpha-1D adrenergic receptor
+Doxazosin,binding and inhibition,Alpha-1B adrenergic receptor
+Doxazosin,binding and inhibition,Alpha-1A adrenergic receptor
+303-49-1,binding and inhibition,D(2) dopamine receptor
+303-49-1,binding and inhibition,Alpha-2A adrenergic receptor
+303-49-1,binding and inhibition,Alpha-1A adrenergic receptor
+303-49-1,binding and inhibition,5-hydroxytryptamine receptor 2C
+303-49-1,binding and inhibition,D(3) dopamine receptor
+121679-13-8,binding and activation,5-hydroxytryptamine receptor 1B
+121679-13-8,binding and activation,5-hydroxytryptamine receptor 1A
+"2-{1-[2-(2,3-Dihydro-1-benzofuran-5-yl)ethyl]pyrrolidin-3-yl}-2,2-diphenylacetamide",binding and inhibition,Muscarinic acetylcholine receptor M1
+"2-{1-[2-(2,3-Dihydro-1-benzofuran-5-yl)ethyl]pyrrolidin-3-yl}-2,2-diphenylacetamide",binding and inhibition,Muscarinic acetylcholine receptor M5
+"2-{1-[2-(2,3-Dihydro-1-benzofuran-5-yl)ethyl]pyrrolidin-3-yl}-2,2-diphenylacetamide",binding and inhibition,Muscarinic acetylcholine receptor M4
+"2-{1-[2-(2,3-Dihydro-1-benzofuran-5-yl)ethyl]pyrrolidin-3-yl}-2,2-diphenylacetamide",binding and inhibition,Muscarinic acetylcholine receptor M3
+(±)-Rotigotine,binding and activation,D(2) dopamine receptor
+Dicyclomine,binding and inhibition,Muscarinic acetylcholine receptor M1
+"5′-Benzyl-12′-hydroxy-2′-methyl-3′,6′,18-trioxo-9,10-dihydroergotaman",binding and activation,5-hydroxytryptamine receptor 1E
+"5′-Benzyl-12′-hydroxy-2′-methyl-3′,6′,18-trioxo-9,10-dihydroergotaman",binding and activation,5-hydroxytryptamine receptor 1B
+"5′-Benzyl-12′-hydroxy-2′-methyl-3′,6′,18-trioxo-9,10-dihydroergotaman",binding and inhibition,5-hydroxytryptamine receptor 7
+"5′-Benzyl-12′-hydroxy-2′-methyl-3′,6′,18-trioxo-9,10-dihydroergotaman",binding and activation,5-hydroxytryptamine receptor 1F
+71195-58-9,binding and activation,Mu-type opioid receptor
+85650-52-8,binding and inhibition,Histamine H1 receptor
+85650-52-8,binding and inhibition,5-hydroxytryptamine receptor 7
+85650-52-8,binding and inhibition,Alpha-2A adrenergic receptor
+85650-52-8,binding and inhibition,Alpha-2C adrenergic receptor
+85650-52-8,binding and inhibition,5-hydroxytryptamine receptor 2C
+Terazosin,binding and inhibition,Alpha-1D adrenergic receptor
+Terazosin,binding and inhibition,Alpha-1B adrenergic receptor
+Terazosin,binding and inhibition,Alpha-1A adrenergic receptor
+Trazodone,binding and inhibition,Histamine H1 receptor
+Trazodone,binding and inhibition,Alpha-2A adrenergic receptor
+Trazodone,binding and inhibition,Alpha-2C adrenergic receptor
+Trazodone,binding and inhibition,Alpha-1A adrenergic receptor
+Trazodone,binding and inhibition,5-hydroxytryptamine receptor 2B
+Trazodone,binding and inhibition,5-hydroxytryptamine receptor 1A
+Trazodone,binding and inhibition,5-hydroxytryptamine receptor 2C
+Sumatriptan,binding and activation,5-hydroxytryptamine receptor 1E
+Sumatriptan,binding and activation,5-hydroxytryptamine receptor 1B
+Sumatriptan,binding and activation,5-hydroxytryptamine receptor 1A
+Sumatriptan,binding and activation,5-hydroxytryptamine receptor 5A
+Sumatriptan,binding and inhibition,5-hydroxytryptamine receptor 6
+Sumatriptan,binding and inhibition,5-hydroxytryptamine receptor 7
+Sumatriptan,binding and activation,5-hydroxytryptamine receptor 1F
+Pilocarpine,binding and activation,Muscarinic acetylcholine receptor M1
+83799-24-0,binding and inhibition,Histamine H1 receptor
+Fentanyl,binding and activation,Delta-type opioid receptor
+Fentanyl,binding and activation,Mu-type opioid receptor
+111974-69-7,binding and inhibition,D(2) dopamine receptor
+111974-69-7,binding and activation,5-hydroxytryptamine receptor 1E
+111974-69-7,binding and inhibition,Histamine H1 receptor
+111974-69-7,binding and activation,5-hydroxytryptamine receptor 1F
+111974-69-7,binding and inhibition,5-hydroxytryptamine receptor 2B
+111974-69-7,binding and activation,5-hydroxytryptamine receptor 1A
+111974-69-7,binding and inhibition,5-hydroxytryptamine receptor 2C
+(-)-Scopolamine,binding and inhibition,Muscarinic acetylcholine receptor M1
+(-)-Scopolamine,binding and inhibition,Muscarinic acetylcholine receptor M4
+(-)-Scopolamine,binding and inhibition,Muscarinic acetylcholine receptor M3
+Fluphenazine,binding and inhibition,Histamine H2 receptor
+Fluphenazine,binding and inhibition,D(2) dopamine receptor
+Fluphenazine,binding and inhibition,5-hydroxytryptamine receptor 1E
+Fluphenazine,binding and inhibition,5-hydroxytryptamine receptor 1B
+Fluphenazine,binding and inhibition,5-hydroxytryptamine receptor 1A
+Fluphenazine,binding and inhibition,Histamine H1 receptor
+Fluphenazine,binding and inhibition,Alpha-2C adrenergic receptor
+Fluphenazine,binding and inhibition,Alpha-2A adrenergic receptor
+Fluphenazine,binding and activation,D(1B) dopamine receptor
+Fluphenazine,binding and inhibition,Alpha-1B adrenergic receptor
+Fluphenazine,binding and inhibition,Alpha-1A adrenergic receptor
+Fluphenazine,binding and inhibition,5-hydroxytryptamine receptor 2C
+Fluphenazine,binding and inhibition,D(3) dopamine receptor
+"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and activation,5-hydroxytryptamine receptor 1A
+"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and inhibition,Muscarinic acetylcholine receptor M1
+"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and inhibition,Histamine H2 receptor
+"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and inhibition,Muscarinic acetylcholine receptor M4
+"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and inhibition,D(2) dopamine receptor
+"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and inhibition,Muscarinic acetylcholine receptor M3
+"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and activation,5-hydroxytryptamine receptor 1E
+"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and activation,5-hydroxytryptamine receptor 1B
+"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and inhibition,Histamine H1 receptor
+"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and inhibition,Alpha-2C adrenergic receptor
+"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and inhibition,5-hydroxytryptamine receptor 7
+"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and inhibition,Alpha-2A adrenergic receptor
+"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and inhibition,D(1B) dopamine receptor
+"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and inhibition,Alpha-1B adrenergic receptor
+"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and inhibition,Muscarinic acetylcholine receptor M5
+"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and inhibition,Alpha-1A adrenergic receptor
+"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and activation,5-hydroxytryptamine receptor 1F
+"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and inhibition,5-hydroxytryptamine receptor 2B
+"2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine",binding and inhibition,D(3) dopamine receptor
+144034-80-0,binding and activation,5-hydroxytryptamine receptor 1E
+144034-80-0,binding and activation,5-hydroxytryptamine receptor 1B
+144034-80-0,binding and activation,5-hydroxytryptamine receptor 1A
+144034-80-0,binding and activation,5-hydroxytryptamine receptor 1F
+34580-13-7,binding and inhibition,Histamine H1 receptor
+Droperidol,binding and inhibition,D(2) dopamine receptor
+b-Propranolol,binding and inhibition,5-hydroxytryptamine receptor 1B
+b-Propranolol,binding and inhibition,5-hydroxytryptamine receptor 1A
+b-Propranolol,binding and inhibition,Beta-1 adrenergic receptor
+b-Propranolol,binding and inhibition,Beta-3 adrenergic receptor
+b-Propranolol,binding and inhibition,5-hydroxytryptamine receptor 5A
+144598-75-4,binding and inhibition,5-hydroxytryptamine receptor 1E
+144598-75-4,binding and inhibition,5-hydroxytryptamine receptor 1B
+144598-75-4,binding and inhibition,5-hydroxytryptamine receptor 1A
+144598-75-4,binding and inhibition,Histamine H1 receptor
+Cimetidine,binding and inhibition,Histamine H2 receptor
+"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and inhibition,Muscarinic acetylcholine receptor M1
+"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and inhibition,Histamine H2 receptor
+"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and inhibition,Muscarinic acetylcholine receptor M4
+"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and inhibition,D(2) dopamine receptor
+"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and inhibition,Muscarinic acetylcholine receptor M3
+"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and activation,5-hydroxytryptamine receptor 1E
+"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and activation,5-hydroxytryptamine receptor 1B
+"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and inhibition,Histamine H1 receptor
+"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and inhibition,5-hydroxytryptamine receptor 5A
+"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and inhibition,Alpha-2A adrenergic receptor
+"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and inhibition,Histamine H4 receptor
+"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and inhibition,Alpha-2C adrenergic receptor
+"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and activation,D(1B) dopamine receptor
+"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and inhibition,Alpha-1D adrenergic receptor
+"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and inhibition,Alpha-1B adrenergic receptor
+"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and inhibition,Muscarinic acetylcholine receptor M5
+"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and inhibition,Alpha-1A adrenergic receptor
+"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and activation,5-hydroxytryptamine receptor 1F
+"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and inhibition,5-hydroxytryptamine receptor 2B
+"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and activation,5-hydroxytryptamine receptor 1A
+"8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine",binding and inhibition,D(3) dopamine receptor
+79794-75-5,binding and inhibition,Histamine H1 receptor
+Glycopyrrolate,binding and inhibition,Muscarinic acetylcholine receptor M1
+66722-44-9,binding and inhibition,Beta-1 adrenergic receptor
+13523-86-9,binding and inhibition,5-hydroxytryptamine receptor 1B
+13523-86-9,binding and inhibition,5-hydroxytryptamine receptor 1A
+Orphenadrine,binding and inhibition,Histamine H1 receptor
+52-53-9,binding and inhibition,D(2) dopamine receptor
+Sufentanil,binding and activation,Mu-type opioid receptor
+Alfuzosin,binding and inhibition,Alpha-1A adrenergic receptor
+(±)-Promethazine,binding and inhibition,Muscarinic acetylcholine receptor M1
+(±)-Promethazine,binding and inhibition,D(2) dopamine receptor
+(±)-Promethazine,binding and inhibition,Muscarinic acetylcholine receptor M5
+(±)-Promethazine,binding and inhibition,Muscarinic acetylcholine receptor M4
+(±)-Promethazine,binding and inhibition,Muscarinic acetylcholine receptor M3
+(±)-Promethazine,binding and inhibition,Histamine H1 receptor
+(±)-Promethazine,binding and inhibition,Histamine H4 receptor
+(±)-Promethazine,binding and inhibition,Alpha-1A adrenergic receptor
+Haloperidol,binding and inhibition,D(2) dopamine receptor
+Haloperidol,binding and inhibition,5-hydroxytryptamine receptor 1B
+Haloperidol,binding and inhibition,Histamine H1 receptor
+Haloperidol,binding and inhibition,Alpha-2C adrenergic receptor
+Haloperidol,binding and inhibition,5-hydroxytryptamine receptor 7
+Haloperidol,binding and inhibition,Alpha-2A adrenergic receptor
+Haloperidol,binding and activation,D(1B) dopamine receptor
+Haloperidol,binding and inhibition,Alpha-1B adrenergic receptor
+Haloperidol,binding and inhibition,Muscarinic acetylcholine receptor M5
+Haloperidol,binding and inhibition,Alpha-1A adrenergic receptor
+Haloperidol,binding and inhibition,5-hydroxytryptamine receptor 2B
+Haloperidol,binding and inhibition,5-hydroxytryptamine receptor 1A
+Haloperidol,binding and inhibition,D(3) dopamine receptor
+oxybutynin,binding and inhibition,Muscarinic acetylcholine receptor M1
+57-42-1,binding and activation,Delta-type opioid receptor
+57-42-1,binding and activation,Mu-type opioid receptor
+Citalopram,binding and inhibition,5-hydroxytryptamine receptor 2C
+Labetalol,binding and inhibition,Beta-1 adrenergic receptor
+Labetalol,binding and inhibition,Alpha-2C adrenergic receptor
+Labetalol,binding and inhibition,Beta-3 adrenergic receptor
+Labetalol,binding and inhibition,Alpha-2A adrenergic receptor
+Labetalol,binding and inhibition,Alpha-1D adrenergic receptor
+Labetalol,binding and inhibition,Alpha-1B adrenergic receptor
+Labetalol,binding and inhibition,Alpha-1A adrenergic receptor
+L-Hyoscyamine,binding and inhibition,Muscarinic acetylcholine receptor M1
+L-Hyoscyamine,binding and inhibition,Muscarinic acetylcholine receptor M5
+L-Hyoscyamine,binding and inhibition,Muscarinic acetylcholine receptor M4
+L-Hyoscyamine,binding and inhibition,Muscarinic acetylcholine receptor M3
+Zafirlukast,binding and inhibition,Cysteinyl leukotriene receptor 1
+58-38-8,binding and inhibition,D(2) dopamine receptor
+58-38-8,binding and inhibition,Histamine H1 receptor
+58-38-8,binding and inhibition,5-hydroxytryptamine receptor 2C
+58-38-8,binding and inhibition,D(3) dopamine receptor
+1134-47-0,binding and activation,Gamma-aminobutyric acid type B receptor subunit 2
+Theophylline,binding and inhibition,Adenosine receptor A2b
+Methylphenidate,binding and inhibition,Alpha-2C adrenergic receptor
+5591-45-7,binding and inhibition,D(2) dopamine receptor
+5591-45-7,binding and inhibition,Histamine H1 receptor
+19216-56-9,binding and inhibition,Alpha-2C adrenergic receptor
+19216-56-9,binding and inhibition,Alpha-2A adrenergic receptor
+19216-56-9,binding and inhibition,Alpha-1D adrenergic receptor
+19216-56-9,binding and inhibition,Alpha-1B adrenergic receptor
+19216-56-9,binding and inhibition,Alpha-1A adrenergic receptor
+Desipramine,binding and inhibition,Muscarinic acetylcholine receptor M1
+Desipramine,binding and inhibition,Muscarinic acetylcholine receptor M5
+Desipramine,binding and inhibition,Muscarinic acetylcholine receptor M4
+Desipramine,binding and inhibition,Muscarinic acetylcholine receptor M3
+Desipramine,binding and activation,Beta-1 adrenergic receptor
+Desipramine,binding and inhibition,Histamine H1 receptor
+Perphenazine,binding and inhibition,D(2) dopamine receptor
+Perphenazine,binding and inhibition,5-hydroxytryptamine receptor 1A
+Perphenazine,binding and inhibition,Histamine H1 receptor
+Perphenazine,binding and inhibition,Alpha-2C adrenergic receptor
+Perphenazine,binding and inhibition,Alpha-2A adrenergic receptor
+Perphenazine,binding and inhibition,Alpha-1A adrenergic receptor
+Perphenazine,binding and inhibition,5-hydroxytryptamine receptor 2C
+Perphenazine,binding and inhibition,D(3) dopamine receptor
+Salmeterol,binding and activation,Beta-1 adrenergic receptor
+Salmeterol,binding and activation,Beta-3 adrenergic receptor

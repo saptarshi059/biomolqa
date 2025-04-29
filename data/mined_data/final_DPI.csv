@@ -1,85 +1,85 @@
 drug_name,relationship,protein_name
-Azelastine,binding and inhibition,HRH1
-Loxapine,binding and inhibition,CHRM1
-Loxapine,binding and inhibition,HRH2
-Loxapine,binding and inhibition,CHRM4
-Loxapine,binding and inhibition,CHRM3
-Loxapine,binding and inhibition,HRH1
-Loxapine,binding and inhibition,ADRA2C
-Loxapine,binding and inhibition,ADRA2A
-Loxapine,binding and inhibition,ADRA1B
-Loxapine,binding and inhibition,CHRM5
-Loxapine,binding and inhibition,ADRA1A
-Metoprolol,binding and inhibition,ADRB1
-Metoprolol,binding and inhibition,ADRA2C
-Metoprolol,binding and activation,GRPR
-Metoprolol,binding and inhibition,ADRA2A
-Metoprolol,binding and activation,PTGIR
-Metoprolol,binding and activation,HRH3
-Brimonidine,binding and activation,ADRA2C
-Brimonidine,binding and activation,ADRA2A
-Carvedilol,binding and inhibition,ADRB1
-Carvedilol,binding and inhibition,ADRB3
-Carvedilol,binding and inhibition,ADRA1A
-Formoterol,binding and activation,ADRB1
-Formoterol,binding and activation,ADRB3
-Trimipramine,binding and inhibition,HRH1
-Pyrimethamine,binding and inhibition,CHRM1
-Dobutamine,binding and activation,ADRB1
-Desloratadine,binding and inhibition,HRH1
-Carbachol,binding and activation,CHRM4
-Carbachol,binding and activation,CHRM3
-Carbachol,binding and activation,CHRM5
-Carbachol,binding and activation,CHRM1
-Bethanechol,binding and activation,CHRM1
-Bethanechol,binding and activation,CHRM4
-Bethanechol,binding and activation,CHRM3
-chlorphenamine,binding and inhibition,HRH1
-Doxazosin,binding and inhibition,ADRA1D
-Doxazosin,binding and inhibition,ADRA1B
-Doxazosin,binding and inhibition,ADRA1A
-Terazosin,binding and inhibition,ADRA1D
-Terazosin,binding and inhibition,ADRA1B
-Terazosin,binding and inhibition,ADRA1A
-Trazodone,binding and inhibition,HRH1
-Trazodone,binding and inhibition,ADRA2A
-Trazodone,binding and inhibition,ADRA2C
-Trazodone,binding and inhibition,ADRA1A
-Pilocarpine,binding and activation,CHRM1
-Fluphenazine,binding and inhibition,HRH2
-Fluphenazine,binding and inhibition,HRH1
-Fluphenazine,binding and inhibition,ADRA2C
-Fluphenazine,binding and inhibition,ADRA2A
-Fluphenazine,binding and inhibition,ADRA1B
-Fluphenazine,binding and inhibition,ADRA1A
-Cimetidine,binding and inhibition,HRH2
-Orphenadrine,binding and inhibition,HRH1
-Alfuzosin,binding and inhibition,ADRA1A
-Haloperidol,binding and inhibition,HRH1
-Haloperidol,binding and inhibition,ADRA2C
-Haloperidol,binding and inhibition,ADRA2A
-Haloperidol,binding and inhibition,ADRA1B
-Haloperidol,binding and inhibition,CHRM5
-Haloperidol,binding and inhibition,ADRA1A
-oxybutynin,binding and inhibition,CHRM1
-Labetalol,binding and inhibition,ADRB1
-Labetalol,binding and inhibition,ADRA2C
-Labetalol,binding and inhibition,ADRB3
-Labetalol,binding and inhibition,ADRA2A
-Labetalol,binding and inhibition,ADRA1D
-Labetalol,binding and inhibition,ADRA1B
-Labetalol,binding and inhibition,ADRA1A
-Zafirlukast,binding and inhibition,CYSLTR1
-Methylphenidate,binding and inhibition,ADRA2C
-Desipramine,binding and inhibition,CHRM1
-Desipramine,binding and inhibition,CHRM5
-Desipramine,binding and inhibition,CHRM4
-Desipramine,binding and inhibition,CHRM3
-Desipramine,binding and activation,ADRB1
-Desipramine,binding and inhibition,HRH1
-Perphenazine,binding and inhibition,HRH1
-Perphenazine,binding and inhibition,ADRA2C
-Perphenazine,binding and inhibition,ADRA2A
-Perphenazine,binding and inhibition,ADRA1A
-Salmeterol,binding and activation,ADRB1
-Salmeterol,binding and activation,ADRB3
+Azelastine,binding and inhibition,Histamine H1 receptor
+Loxapine,binding and inhibition,Muscarinic acetylcholine receptor M1
+Loxapine,binding and inhibition,Histamine H2 receptor
+Loxapine,binding and inhibition,Muscarinic acetylcholine receptor M4
+Loxapine,binding and inhibition,Muscarinic acetylcholine receptor M3
+Loxapine,binding and inhibition,Histamine H1 receptor
+Loxapine,binding and inhibition,Alpha-2C adrenergic receptor
+Loxapine,binding and inhibition,Alpha-2A adrenergic receptor
+Loxapine,binding and inhibition,Alpha-1B adrenergic receptor
+Loxapine,binding and inhibition,Muscarinic acetylcholine receptor M5
+Loxapine,binding and inhibition,Alpha-1A adrenergic receptor
+Metoprolol,binding and inhibition,Beta-1 adrenergic receptor
+Metoprolol,binding and inhibition,Alpha-2C adrenergic receptor
+Metoprolol,binding and activation,Gastrin-releasing peptide receptor
+Metoprolol,binding and inhibition,Alpha-2A adrenergic receptor
+Metoprolol,binding and activation,Prostacyclin receptor
+Metoprolol,binding and activation,Histamine H3 receptor
+Brimonidine,binding and activation,Alpha-2C adrenergic receptor
+Brimonidine,binding and activation,Alpha-2A adrenergic receptor
+Carvedilol,binding and inhibition,Beta-1 adrenergic receptor
+Carvedilol,binding and inhibition,Beta-3 adrenergic receptor
+Carvedilol,binding and inhibition,Alpha-1A adrenergic receptor
+Formoterol,binding and activation,Beta-1 adrenergic receptor
+Formoterol,binding and activation,Beta-3 adrenergic receptor
+Trimipramine,binding and inhibition,Histamine H1 receptor
+Pyrimethamine,binding and inhibition,Muscarinic acetylcholine receptor M1
+Dobutamine,binding and activation,Beta-1 adrenergic receptor
+Desloratadine,binding and inhibition,Histamine H1 receptor
+Carbachol,binding and activation,Muscarinic acetylcholine receptor M4
+Carbachol,binding and activation,Muscarinic acetylcholine receptor M3
+Carbachol,binding and activation,Muscarinic acetylcholine receptor M5
+Carbachol,binding and activation,Muscarinic acetylcholine receptor M1
+Bethanechol,binding and activation,Muscarinic acetylcholine receptor M1
+Bethanechol,binding and activation,Muscarinic acetylcholine receptor M4
+Bethanechol,binding and activation,Muscarinic acetylcholine receptor M3
+chlorphenamine,binding and inhibition,Histamine H1 receptor
+Doxazosin,binding and inhibition,Alpha-1D adrenergic receptor
+Doxazosin,binding and inhibition,Alpha-1B adrenergic receptor
+Doxazosin,binding and inhibition,Alpha-1A adrenergic receptor
+Terazosin,binding and inhibition,Alpha-1D adrenergic receptor
+Terazosin,binding and inhibition,Alpha-1B adrenergic receptor
+Terazosin,binding and inhibition,Alpha-1A adrenergic receptor
+Trazodone,binding and inhibition,Histamine H1 receptor
+Trazodone,binding and inhibition,Alpha-2A adrenergic receptor
+Trazodone,binding and inhibition,Alpha-2C adrenergic receptor
+Trazodone,binding and inhibition,Alpha-1A adrenergic receptor
+Pilocarpine,binding and activation,Muscarinic acetylcholine receptor M1
+Fluphenazine,binding and inhibition,Histamine H2 receptor
+Fluphenazine,binding and inhibition,Histamine H1 receptor
+Fluphenazine,binding and inhibition,Alpha-2C adrenergic receptor
+Fluphenazine,binding and inhibition,Alpha-2A adrenergic receptor
+Fluphenazine,binding and inhibition,Alpha-1B adrenergic receptor
+Fluphenazine,binding and inhibition,Alpha-1A adrenergic receptor
+Cimetidine,binding and inhibition,Histamine H2 receptor
+Orphenadrine,binding and inhibition,Histamine H1 receptor
+Alfuzosin,binding and inhibition,Alpha-1A adrenergic receptor
+Haloperidol,binding and inhibition,Histamine H1 receptor
+Haloperidol,binding and inhibition,Alpha-2C adrenergic receptor
+Haloperidol,binding and inhibition,Alpha-2A adrenergic receptor
+Haloperidol,binding and inhibition,Alpha-1B adrenergic receptor
+Haloperidol,binding and inhibition,Muscarinic acetylcholine receptor M5
+Haloperidol,binding and inhibition,Alpha-1A adrenergic receptor
+oxybutynin,binding and inhibition,Muscarinic acetylcholine receptor M1
+Labetalol,binding and inhibition,Beta-1 adrenergic receptor
+Labetalol,binding and inhibition,Alpha-2C adrenergic receptor
+Labetalol,binding and inhibition,Beta-3 adrenergic receptor
+Labetalol,binding and inhibition,Alpha-2A adrenergic receptor
+Labetalol,binding and inhibition,Alpha-1D adrenergic receptor
+Labetalol,binding and inhibition,Alpha-1B adrenergic receptor
+Labetalol,binding and inhibition,Alpha-1A adrenergic receptor
+Zafirlukast,binding and inhibition,Cysteinyl leukotriene receptor 1
+Methylphenidate,binding and inhibition,Alpha-2C adrenergic receptor
+Desipramine,binding and inhibition,Muscarinic acetylcholine receptor M1
+Desipramine,binding and inhibition,Muscarinic acetylcholine receptor M5
+Desipramine,binding and inhibition,Muscarinic acetylcholine receptor M4
+Desipramine,binding and inhibition,Muscarinic acetylcholine receptor M3
+Desipramine,binding and activation,Beta-1 adrenergic receptor
+Desipramine,binding and inhibition,Histamine H1 receptor
+Perphenazine,binding and inhibition,Histamine H1 receptor
+Perphenazine,binding and inhibition,Alpha-2C adrenergic receptor
+Perphenazine,binding and inhibition,Alpha-2A adrenergic receptor
+Perphenazine,binding and inhibition,Alpha-1A adrenergic receptor
+Salmeterol,binding and activation,Beta-1 adrenergic receptor
+Salmeterol,binding and activation,Beta-3 adrenergic receptor

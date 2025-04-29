@@ -1,3 +1,0 @@
-Complement C1q subcomponent subunit A is a protein that in humans is encoded by the C1QA gene.
-This gene encodes a major constituent of the human complement system subcomponent C1q. 
-C1q associates with C1r and C1s in order to yield the first component of the serum complement system. Deficiency of C1q has been associated with lupus erythematosus and glomerulonephritis. C1q is composed of 18 polypeptide chains: six A-chains, six B-chains, and six C-chains. Each chain contains a collagen-like region located near the N terminus and a C-terminal globular region. The A-, B-, and C-chains are arranged in the order A-C-B on chromosome 1. This gene encodes the A-chain polypeptide of human complement subcomponent C1q.

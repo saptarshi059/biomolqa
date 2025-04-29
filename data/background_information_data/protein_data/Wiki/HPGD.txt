@@ -1,2 +1,0 @@
-Hydroxyprostaglandin dehydrogenase 15-(NAD) (the HUGO-approved official symbol = HPGD; HGNC ID, HGNC:5154), also called 15-hydroxyprostaglandin dehydrogenase [NAD+], is an enzyme that in humans is encoded by the HPGD gene.
-In melanocytic cells HPGD gene expression may be regulated by MITF.
