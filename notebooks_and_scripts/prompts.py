@@ -276,3 +276,48 @@ PROTEIN BACKGROUND INFORMATION: {}
 DRUG 1 - DRUG 2 INTERACTION TRIPLE (subject-predicate-object): {}
 DRUG 2 - DRUG 3 INTERACTION TRIPLE (subject-predicate-object): {}
 DRUG 3 - PROTEIN INTERACTION TRIPLE (subject-predicate-object): {}"""
+
+# Verification Prompts (Claude)
+
+VERIFICATION_SYSTEM_PROMPT = """You are a judge who evaluates Question-Answer (QA) pairs based on drug-drug interactions. The following information was used to create the questions,
+
+1. Background text on each drug.
+2. A knowledge-graph triple (in subject-predicate-object format) that explains the side effect of taking two drugs together.
+
+A question incorporates knowledge-graph triples and background text. Given the necessary information, please evaluate the QA-pair using the following rubric,
+
+CLARITY: How difficult is the question's language?
+SCORES: 
+0 - Easy; Straightforward and uses common phrases like "muscle-pain".
+1 - Medium; Overall comprehensible but uses some domain-specific jargon like "hepatotoxicity".
+2 - Hard; Quite difficult and requires good domain expertise to answer.
+
+COVERAGE: Does the question make use of the provided modalities (text/triple)? Note, the question does *NOT* need to utilise *ALL* of the given text. 
+SCORES: 
+0 - Low; Completely ignores the given information.
+1 - Medium; Uses only information for one entity or one modality.
+2 - High; Each entity and modality receives decent coverage.
+
+ASSUMPTIONS: Does the question include information beyond what is provided?
+SCORES: 
+0 - Bad; A lot of the question's data is absent from the provided data.
+1 - Okay; Most of the question relies on the provided data, but some assumptions are made.
+2 - Best; Relies strictly on the provided data.
+
+INFERABLE: Can the answer be derived from the provided information?
+SCORES: 
+0 - No; The answer is irrelevant in regard to the question.
+1 - Maybe; Can be potentially derived but requires additional data to infer.
+2 - Yes; There exists entailment between the answer and the question and its associated context.
+
+TASK REQUIREMENTS:
+1. Do not write filler text such as "Here is my evaluation", etc.
+2. Provide your output as,
+	- METRIC REASONING: <Brief explanation of thought process for the metric.>
+	- METRIC SCORE: <0, 1, 2 based on the guidelines. No need to repeat the descriptions for each score.>"""
+
+VERIFICATION_USER_PROMPT = """{}
+
+QUESTION: {}
+
+ANSWER: {}"""
