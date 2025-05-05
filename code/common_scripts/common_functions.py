@@ -69,7 +69,10 @@ def create_formatted_samples_for_eval(df, output_path, model_type):
             predictions_for_squad.append({'prediction_text': pred, 'id': row.id})
             references_for_squad.append({'answers': {'answer_start': [0], 'text': [gold]}, 'id': row.id})
         elif model_type == "Anthropic":
-            pred = unicodedata.normalize('NFKD', re.search("(ANSWER:)(.*)", row.result["message"]["content"][0]["text"]).group(2).strip())
+            if re.search("(ANSWER:)(.*)", row.result["message"]["content"][0]["text"]):
+                pred = unicodedata.normalize('NFKD', re.search("(ANSWER:)(.*)", row.result["message"]["content"][0]["text"]).group(2).strip())
+            else:
+                pred = "UNKNOWN" # Only 1 answer sample does not have an answer for upper-bound
             predictions_for_squad.append({'prediction_text': pred, 'id': row.Entities})
             references_for_squad.append({'answers': {'answer_start': [0], 'text': [gold]}, 'id': row.Entities})
 
