@@ -1,0 +1,2 @@
+DRUG NAME: 8-chloro-11-(4-methylpiperazin-1-yl)-10H-dibenzo[b,e][1,4]diazepine
+DRUG SMILES: CN1CCN(CC1)C2=C3C=CC=CC3=NC4=C(N2)C=C(C=C4)Cl

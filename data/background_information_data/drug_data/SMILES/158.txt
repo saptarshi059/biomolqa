@@ -1,0 +1,2 @@
+DRUG NAME: Dexpramipexole
+DRUG SMILES: CCCNC1CCC2=C(C1)SC(=N2)N

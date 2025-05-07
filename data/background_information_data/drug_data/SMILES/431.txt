@@ -1,0 +1,2 @@
+DRUG NAME: 7-[3-(Aminomethyl)-4-(methoxyimino)-1-pyrrolidinyl]-1-cyclopropyl-6-fluoro-4-oxo-1,4-dihydro-1,8-naphthyridine-3-carboxylic acid
+DRUG SMILES: CON=C1CN(CC1CN)C2=C(C=C3C(=O)C(=CN(C3=N2)C4CC4)C(=O)O)F

@@ -1,0 +1,2 @@
+DRUG NAME: Lamotrigine
+DRUG SMILES: C1=CC(=C(C(=C1)Cl)Cl)C2=C(N=C(N=N2)N)N

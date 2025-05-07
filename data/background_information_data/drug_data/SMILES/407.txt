@@ -1,0 +1,2 @@
+DRUG NAME: gadoversetamide
+DRUG SMILES: COCCNC(=O)CN(CCN(CCN(CC(=O)NCCOC)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-].[Gd+3]

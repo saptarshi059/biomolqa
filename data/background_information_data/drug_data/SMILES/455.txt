@@ -1,0 +1,2 @@
+DRUG NAME: Azelaic acid
+DRUG SMILES: C(CCCC(=O)O)CCCC(=O)O

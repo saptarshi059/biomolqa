@@ -1,0 +1,2 @@
+DRUG NAME: 1-Pentofuranosyl-1H-1,2,4-triazole-3-carboxamide
+DRUG SMILES: C1=NC(=NN1C2C(C(C(O2)CO)O)O)C(=O)N

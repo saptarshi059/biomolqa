@@ -1,0 +1,2 @@
+DRUG NAME: N-[3-[(1R)-1-[(2R)-6-hydroxy-4-oxo-2-(2-phenylethyl)-2-propyl-3H-pyran-5-yl]propyl]phenyl]-5-(trifluoromethyl)pyridine-2-sulfonamide
+DRUG SMILES: CCCC1(CC(=O)C(=C(O1)O)C(CC)C2=CC(=CC=C2)NS(=O)(=O)C3=NC=C(C=C3)C(F)(F)F)CCC4=CC=CC=C4

@@ -1,0 +1,2 @@
+DRUG NAME: Sodium chloride
+DRUG SMILES: [Na+].[Cl-]

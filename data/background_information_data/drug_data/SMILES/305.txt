@@ -1,0 +1,2 @@
+DRUG NAME: 17-(Cyclopropylmethyl)-18-(2-hydroxy-3,3-dimethyl-2-butanyl)-6-methoxy-18,19-dihydro-4,5-epoxy-6,14-ethenomorphinan-3-ol
+DRUG SMILES: CC(C)(C)C(C)(C1CC23CCC1(C4C25CCN(C3CC6=C5C(=C(C=C6)O)O4)CC7CC7)OC)O

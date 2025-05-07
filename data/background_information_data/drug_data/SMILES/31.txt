@@ -1,0 +1,2 @@
+DRUG NAME: Metronidazole
+DRUG SMILES: CC1=NC=C(N1CCO)[N+](=O)[O-]

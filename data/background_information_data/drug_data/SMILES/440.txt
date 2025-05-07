@@ -1,0 +1,2 @@
+DRUG NAME: 3-[(Carbamoyloxy)methyl]-7-methoxy-8-oxo-7-[(2-thienylacetyl)amino]-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylate
+DRUG SMILES: COC1(C2N(C1=O)C(=C(CS2)COC(=O)N)C(=O)[O-])NC(=O)CC3=CC=CS3

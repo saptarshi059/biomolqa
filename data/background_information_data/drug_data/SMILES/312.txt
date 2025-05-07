@@ -1,0 +1,2 @@
+DRUG NAME: 2-{4-[(2-Butyl-1-benzofuran-3-yl)carbonyl]-2,6-diiodophenoxy}-N,N-diethylethanaminium
+DRUG SMILES: CCCCC1=C(C2=CC=CC=C2O1)C(=O)C3=CC(=C(C(=C3)I)OCC[NH+](CC)CC)I

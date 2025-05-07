@@ -1,0 +1,2 @@
+DRUG NAME: melphalan
+DRUG SMILES: C1=CC(=CC=C1CC(C(=O)O)N)N(CCCl)CCCl

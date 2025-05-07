@@ -1,0 +1,2 @@
+DRUG NAME: Isoniazid
+DRUG SMILES: C1=CN=CC=C1C(=O)NN

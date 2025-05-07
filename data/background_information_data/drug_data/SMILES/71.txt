@@ -1,0 +1,2 @@
+DRUG NAME: meprobamate
+DRUG SMILES: CCCC(C)(COC(=O)N)COC(=O)N

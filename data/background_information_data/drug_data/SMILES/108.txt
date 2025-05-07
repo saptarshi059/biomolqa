@@ -1,0 +1,2 @@
+DRUG NAME: 7-[3-(4-Fluorophenyl)-1-isopropyl-1H-indol-2-yl]-3,5-dihydroxy-6-heptenoic acid
+DRUG SMILES: CC(C)N1C2=CC=CC=C2C(=C1C=CC(CC(CC(=O)O)O)O)C3=CC=C(C=C3)F

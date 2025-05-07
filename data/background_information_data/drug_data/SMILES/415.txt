@@ -1,0 +1,2 @@
+DRUG NAME: 14808-79-8
+DRUG SMILES: [O-]S(=O)(=O)[O-]

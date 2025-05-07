@@ -1,0 +1,2 @@
+DRUG NAME: (+)-tamsulosin
+DRUG SMILES: CCOC1=CC=CC=C1OCCNC(C)CC2=CC(=C(C=C2)OC)S(=O)(=O)N

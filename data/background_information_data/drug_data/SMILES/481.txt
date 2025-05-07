@@ -1,0 +1,2 @@
+DRUG NAME: 13-methyl-6,7,8,9,11,12,14,15,16,17-decahydrocyclopenta[a]phenanthrene-3,17-diol
+DRUG SMILES: CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O

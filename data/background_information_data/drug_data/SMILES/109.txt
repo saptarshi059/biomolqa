@@ -1,0 +1,2 @@
+DRUG NAME: 5-Methoxy-1-[4-(trifluoromethyl)phenyl]-1-pentanone O-(2-aminoethyl)oxime
+DRUG SMILES: COCCCCC(=NOCCN)C1=CC=C(C=C1)C(F)(F)F

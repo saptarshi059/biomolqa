@@ -1,0 +1,2 @@
+DRUG NAME: Methyl (4aS,4bR,6aS,7R,9aS,10R)-4a,6a-dimethyl-2,5′-dioxo-2,4,4′,4a,5′,5a,6,6a,8,9,9a,9b,10,11-tetradecahydro-3H,3′H-spiro[cyclopenta[7,8]phenanthro[4b,5-b]oxirene-7,2′-furan]-10-carboxylate
+DRUG SMILES: CC12CCC(=O)C=C1CC(C3C24C(O4)CC5(C3CCC56CCC(=O)O6)C)C(=O)OC

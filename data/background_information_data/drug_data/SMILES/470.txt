@@ -1,0 +1,2 @@
+DRUG NAME: (±)-Metamfetamine
+DRUG SMILES: CC(CC1=CC=CC=C1)NC

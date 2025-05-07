@@ -1,0 +1,2 @@
+DRUG NAME: hydralazine
+DRUG SMILES: C1=CC=C2C(=C1)C=NN=C2NN

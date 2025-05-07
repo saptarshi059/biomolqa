@@ -1,0 +1,2 @@
+DRUG NAME: ((S)-3-Methyl-1-((R)-3-phenyl-2-(pyrazine-2-carboxamido)propanamido)butyl)boronic acid
+DRUG SMILES: B(C(CC(C)C)NC(=O)C(CC1=CC=CC=C1)NC(=O)C2=NC=CN=C2)(O)O

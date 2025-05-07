@@ -1,0 +1,2 @@
+DRUG NAME: (5E)-5-[(3aS,4R,5R,6aS)-5-Hydroxy-4-[(1E,3S)-3-hydroxy-4-methyl-1-octen-6-yn-1-yl]hexahydro-2(1H)-pentalenylidene]pentanoic acid
+DRUG SMILES: CC#CCC(C)C(C=CC1C(CC2C1CC(=CCCCC(=O)O)C2)O)O

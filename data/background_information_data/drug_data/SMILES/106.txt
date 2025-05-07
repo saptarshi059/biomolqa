@@ -1,0 +1,2 @@
+DRUG NAME: 1,4-dihydropyrazolo[4,3-d]pyrimidin-7-one
+DRUG SMILES: C1=NNC2=C1NC=NC2=O

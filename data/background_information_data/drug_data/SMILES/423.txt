@@ -1,0 +1,2 @@
+DRUG NAME: 4-Amino-N-{5-amino-2-[(3-amino-3-deoxyhexopyranosyl)oxy]-4-[(6-amino-6-deoxyhexopyranosyl)oxy]-3-hydroxycyclohexyl}-2-hydroxybutanamide
+DRUG SMILES: C1C(C(C(C(C1NC(=O)C(CCN)O)OC2C(C(C(C(O2)CO)O)N)O)O)OC3C(C(C(C(O3)CN)O)O)O)N

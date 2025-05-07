@@ -1,0 +1,2 @@
+DRUG NAME: alendronic acid
+DRUG SMILES: C(CC(O)(P(=O)(O)O)P(=O)(O)O)CN

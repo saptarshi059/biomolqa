@@ -1,0 +1,2 @@
+DRUG NAME: 3-[Hydroxy(2-pyridinylamino)methylene]-2-methyl-2,3-dihydro-4H-1,2-benzothiazin-4-one 1,1-dioxide
+DRUG SMILES: CN1C(=C(NC2=CC=CC=N2)O)C(=O)C3=CC=CC=C3S1(=O)=O

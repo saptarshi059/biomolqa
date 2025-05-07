@@ -1,0 +1,2 @@
+DRUG NAME: {5-Fluoro-2-methyl-1-[4-(methylsulfinyl)benzylidene]-1H-inden-3-yl}acetic acid
+DRUG SMILES: CC1=C(C2=C(C1=CC3=CC=C(C=C3)S(=O)C)C=CC(=C2)F)CC(=O)O

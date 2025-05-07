@@ -1,0 +1,2 @@
+DRUG NAME: (17R)-13-Ethyl-17-ethynyl-17-hydroxy-11-methylene-1,2,6,7,8,9,10,11,12,13,14,15,16,17-tetradecahydro-3H-cyclopenta[a]phenanthren-3-one
+DRUG SMILES: CCC12CC(=C)C3C(C1CCC2(C#C)O)CCC4=CC(=O)CCC34

@@ -1,0 +1,2 @@
+DRUG NAME: (8ξ,10ξ,13ξ,14ξ)-21-Chloro-9-fluoro-11,17-dihydroxy-16-methylpregna-1,4-diene-3,20-dione
+DRUG SMILES: CC1CC2C3CCC4=CC(=O)C=CC4(C3(C(CC2(C1(C(=O)CCl)O)C)O)F)C

@@ -1,0 +1,2 @@
+DRUG NAME: 1-(3-Hexyl-4-oxo-2-oxetanyl)-2-tridecanyl N-formylleucinate
+DRUG SMILES: CCCCCCCCCCCC(CC1C(C(=O)O1)CCCCCC)OC(=O)C(CC(C)C)NC=O

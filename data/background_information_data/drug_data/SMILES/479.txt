@@ -1,0 +1,2 @@
+DRUG NAME: DL-N-Acetylcysteine
+DRUG SMILES: CC(=O)NC(CS)C(=O)O

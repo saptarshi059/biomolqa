@@ -1,0 +1,2 @@
+DRUG NAME: 4,11-diethyl-4-hydroxy-3,14-dioxo-3,4,12,14-tetrahydro-1H-pyrano[3',4':6,7]indolizino[1,2-b]quinolin-9-yl 1,4'-bipiperidine-1'-carboxylate
+DRUG SMILES: CCC1=C2CN3C(=CC4=C(C3=O)COC(=O)C4(CC)O)C2=NC5=C1C=C(C=C5)OC(=O)N6CCC(CC6)N7CCCCC7

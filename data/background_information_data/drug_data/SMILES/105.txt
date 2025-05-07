@@ -1,0 +1,2 @@
+DRUG NAME: 2-{1-[2-(2,3-Dihydro-1-benzofuran-5-yl)ethyl]pyrrolidin-3-yl}-2,2-diphenylacetamide
+DRUG SMILES: C1CN(CC1C(C2=CC=CC=C2)(C3=CC=CC=C3)C(=O)N)CCC4=CC5=C(C=C4)OCC5

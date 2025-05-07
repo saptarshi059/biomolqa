@@ -1,0 +1,2 @@
+DRUG NAME: 1-Methyl-N-(9-methyl-9-azabicyclo[3.3.1]non-3-yl)-1H-indazole-3-carboxamide
+DRUG SMILES: CN1C2CCCC1CC(C2)NC(=O)C3=NN(C4=CC=CC=C43)C

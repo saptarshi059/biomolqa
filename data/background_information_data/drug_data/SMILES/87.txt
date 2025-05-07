@@ -1,0 +1,2 @@
+DRUG NAME: N,6,6-Trimethyl-N-(1-naphthylmethyl)-2-hepten-4-yn-1-amine
+DRUG SMILES: CC(C)(C)C#CC=CCN(C)CC1=CC=CC2=CC=CC=C21

@@ -1,0 +1,2 @@
+DRUG NAME: 4-Acetoxy-1,7,10-trihydroxy-13-{[2-hydroxy-3-({[(2-methyl-2-propanyl)oxy]carbonyl}amino)-3-phenylpropanoyl]oxy}-9-oxo-5,20-epoxytax-11-en-2-yl benzoate
+DRUG SMILES: CC1=C2C(C(=O)C3(C(CC4C(C3C(C(C2(C)C)(CC1OC(=O)C(C(C5=CC=CC=C5)NC(=O)OC(C)(C)C)O)O)OC(=O)C6=CC=CC=C6)(CO4)OC(=O)C)O)C)O

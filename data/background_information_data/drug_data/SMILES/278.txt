@@ -1,0 +1,2 @@
+DRUG NAME: 7-Nitro-5-phenyl-3H-1,4-benzodiazepin-2-ol
+DRUG SMILES: C1C(=O)NC2=C(C=C(C=C2)[N+](=O)[O-])C(=N1)C3=CC=CC=C3

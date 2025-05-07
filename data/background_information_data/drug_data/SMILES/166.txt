@@ -1,0 +1,2 @@
+DRUG NAME: (3E)-6-oxo-3-[[4-(pyridin-2-ylsulfamoyl)phenyl]hydrazinylidene]cyclohexa-1,4-diene-1-carboxylic acid
+DRUG SMILES: C1=CC=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)NN=C3C=CC(=O)C(=C3)C(=O)O

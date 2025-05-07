@@ -1,0 +1,2 @@
+DRUG NAME: Glycopyrrolate
+DRUG SMILES: C[N+]1(CCC(C1)OC(=O)C(C2CCCC2)(C3=CC=CC=C3)O)C

@@ -1,0 +1,2 @@
+DRUG NAME: 5-Aminosalicylic acid
+DRUG SMILES: C1=CC(=C(C=C1N)C(=O)O)O

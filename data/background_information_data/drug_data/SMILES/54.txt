@@ -1,0 +1,2 @@
+DRUG NAME: 1,4:3,6-Dianhydro-2,5-di-O-nitrohexitol
+DRUG SMILES: C1C(C2C(O1)C(CO2)O[N+](=O)[O-])O[N+](=O)[O-]

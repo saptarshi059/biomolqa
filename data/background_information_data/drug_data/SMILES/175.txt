@@ -1,0 +1,2 @@
+DRUG NAME: 9-{[4-(3,4-dihydroxy-5-{[3-(3-hydroxybutan-2-yl)oxiran-2-yl]methyl}oxan-2-yl)-3-methylbut-2-enoyl]oxy}nonanoic acid
+DRUG SMILES: CC(C1C(O1)CC2COC(C(C2O)O)CC(=CC(=O)OCCCCCCCCC(=O)O)C)C(C)O

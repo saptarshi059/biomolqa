@@ -1,0 +1,2 @@
+DRUG NAME: 17-(Cyclobutylmethyl)morphinan-3,14-diol
+DRUG SMILES: C1CCC2(C3CC4=C(C2(C1)CCN3CC5CCC5)C=C(C=C4)O)O

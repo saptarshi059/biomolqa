@@ -1,0 +1,2 @@
+DRUG NAME: Methyl 5-{2-chloro-1-[(1-methyl-4-propylprolyl)amino]propyl}-1-thiopentopyranoside
+DRUG SMILES: CCCC1CC(N(C1)C)C(=O)NC(C2C(C(C(C(O2)SC)O)O)O)C(C)Cl

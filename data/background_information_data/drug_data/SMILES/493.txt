@@ -1,0 +1,2 @@
+DRUG NAME: 11,15-Dihydroxy-9-oxoprosta-5,13-dien-1-oic acid
+DRUG SMILES: CCCCCC(C=CC1C(CC(=O)C1CC=CCCCC(=O)O)O)O

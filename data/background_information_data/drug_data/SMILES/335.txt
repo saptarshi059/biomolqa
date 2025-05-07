@@ -1,0 +1,2 @@
+DRUG NAME: 26,27-Cyclo-9,10-secocholesta-5,7,10,22-tetraene-1,3,24-triol
+DRUG SMILES: CC(C=CC(C1CC1)O)C2CCC3C2(CCCC3=CC=C4CC(CC(C4=C)O)O)C

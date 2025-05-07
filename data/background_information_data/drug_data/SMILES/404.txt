@@ -1,0 +1,2 @@
+DRUG NAME: 2-(4-hydroxy-6-methoxy-7-methyl-3-oxo-1H-isobenzofuran-5-yl)acetic acid
+DRUG SMILES: CC1=C2COC(=O)C2=C(C(=C1OC)CC(=O)O)O

@@ -1,0 +1,2 @@
+DRUG NAME: 4,6-diamino-3-[(6-amino-6-deoxyhexopyranosyl)oxy]-2-hydroxycyclohexyl 3-amino-3-deoxyhexopyranoside
+DRUG SMILES: C1C(C(C(C(C1N)OC2C(C(C(C(O2)CN)O)O)O)O)OC3C(C(C(C(O3)CO)O)N)O)N

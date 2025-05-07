@@ -1,0 +1,2 @@
+DRUG NAME: Balsalazide
+DRUG SMILES: C1=CC(=CC=C1C(=O)NCCC(=O)O)NN=C2C=CC(=O)C(=C2)C(=O)O

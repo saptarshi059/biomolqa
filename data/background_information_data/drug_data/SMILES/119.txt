@@ -1,0 +1,2 @@
+DRUG NAME: N~2~-(1-Carboxy-3-phenylpropyl)lysylproline
+DRUG SMILES: C1CC(N(C1)C(=O)C(CCCCN)NC(CCC2=CC=CC=C2)C(=O)O)C(=O)O

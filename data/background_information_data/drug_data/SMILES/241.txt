@@ -1,0 +1,2 @@
+DRUG NAME: 2-{2-[(3R)-3-{3-[(E)-2-(7-Chloro-2-quinolinyl)vinyl]phenyl}-3-sulfanylpropyl]phenyl}-2-propanol
+DRUG SMILES: CC(C)(C1=CC=CC=C1CCC(C2=CC=CC(=C2)C=CC3=NC4=C(C=CC(=C4)Cl)C=C3)S)O

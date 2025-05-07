@@ -1,0 +1,2 @@
+DRUG NAME: Etiracetam
+DRUG SMILES: CCC(C(=O)N)N1CCCC1=O

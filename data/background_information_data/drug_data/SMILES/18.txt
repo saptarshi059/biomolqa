@@ -1,0 +1,2 @@
+DRUG NAME: 7-{[(2-Amino-1,3-thiazol-4-yl)(methoxyimino)acetyl]amino}-3-{[(2-methyl-6-oxido-5-oxo-2,5-dihydro-1,2,4-triazin-3-yl)sulfanyl]methyl}-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylate
+DRUG SMILES: CN1C(=NC(=O)C(=N1)[O-])SCC2=C(N3C(C(C3=O)NC(=O)C(=NOC)C4=CSC(=N4)N)SC2)C(=O)[O-]

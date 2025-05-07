@@ -1,0 +1,2 @@
+DRUG NAME: D-(−)-α-Amino-p-hydroxybenzyl penicillin trihydrate
+DRUG SMILES: CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=C(C=C3)O)N)C(=O)O)C

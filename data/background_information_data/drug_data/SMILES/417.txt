@@ -1,0 +1,2 @@
+DRUG NAME: chlorphenamine
+DRUG SMILES: CN(C)CCC(C1=CC=C(C=C1)Cl)C2=CC=CC=N2

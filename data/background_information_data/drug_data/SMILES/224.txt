@@ -1,0 +1,2 @@
+DRUG NAME: Gabapentin
+DRUG SMILES: C1CCC(CC1)(CC(=O)O)CN

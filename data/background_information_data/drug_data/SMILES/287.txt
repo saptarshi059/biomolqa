@@ -1,0 +1,2 @@
+DRUG NAME: sodium;hydrogen carbonate
+DRUG SMILES: C(=O)(O)[O-].[Na+]

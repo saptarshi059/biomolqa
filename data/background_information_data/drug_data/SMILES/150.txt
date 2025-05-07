@@ -1,0 +1,2 @@
+DRUG NAME: 7-[2-Hydroxy(di-2-thienyl)acetoxy]-9,9-dimethyl-3-oxa-9-azoniatricyclo[3.3.1.0~2,4~]nonane
+DRUG SMILES: C[N+]1(C2CC(CC1C3C2O3)OC(=O)C(C4=CC=CS4)(C5=CC=CS5)O)C

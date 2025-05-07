@@ -1,0 +1,2 @@
+DRUG NAME: Tolbutamide
+DRUG SMILES: CCCCNC(=O)NS(=O)(=O)C1=CC=C(C=C1)C

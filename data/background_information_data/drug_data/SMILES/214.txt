@@ -1,0 +1,2 @@
+DRUG NAME: 4-[(3Z,5E)-3,5-bis(6-oxocyclohexa-2,4-dien-1-ylidene)-1,2,4-triazolidin-1-yl]benzoic acid
+DRUG SMILES: C1=CC(=C2NC(=C3C=CC=CC3=O)N(N2)C4=CC=C(C=C4)C(=O)O)C(=O)C=C1

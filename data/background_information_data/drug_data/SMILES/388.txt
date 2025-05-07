@@ -1,0 +1,2 @@
+DRUG NAME: Acamprosate
+DRUG SMILES: CC(=O)NCCCS(=O)(=O)O

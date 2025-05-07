@@ -1,0 +1,2 @@
+DRUG NAME: 4,6-dideoxy-4-{[(1S,4R,5S,6S)-4,5,6-trihydroxy-3-(hydroxymethyl)cyclohex-2-en-1-yl]amino}-α-D-glucopyranosyl-(1->4)-α-D-glucopyranosyl-(1->4)-D-glucopyranose
+DRUG SMILES: CC1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O)O)O)CO)CO)O)O)NC4C=C(C(C(C4O)O)O)CO
