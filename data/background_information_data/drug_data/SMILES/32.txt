@@ -1,0 +1,2 @@
+DRUG NAME: Furosemide
+DRUG SMILES: C1=COC(=C1)CNC2=CC(=C(C=C2C(=O)O)S(=O)(=O)N)Cl

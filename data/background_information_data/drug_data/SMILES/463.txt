@@ -1,0 +1,2 @@
+DRUG NAME: 6-Allyl-N-[3-(dimethylamino)propyl]-N-(ethylcarbamoyl)ergoline-8-carboxamide
+DRUG SMILES: CCNC(=O)N(CCCN(C)C)C(=O)C1CC2C(CC3=CNC4=CC=CC2=C34)N(C1)CC=C

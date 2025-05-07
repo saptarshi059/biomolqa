@@ -1,0 +1,2 @@
+DRUG NAME: mercaptopurine
+DRUG SMILES: C1=NC2=C(N1)C(=S)N=CN2

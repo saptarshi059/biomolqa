@@ -1,0 +1,2 @@
+DRUG NAME: 7-[(Aminophenylacetyl)amino]-3-methyl-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic Acid
+DRUG SMILES: CC1=C(N2C(C(C2=O)NC(=O)C(C3=CC=CC=C3)N)SC1)C(=O)O

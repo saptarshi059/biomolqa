@@ -1,0 +1,2 @@
+DRUG NAME: Risedronic acid
+DRUG SMILES: C1=CC(=CN=C1)CC(O)(P(=O)(O)O)P(=O)(O)O

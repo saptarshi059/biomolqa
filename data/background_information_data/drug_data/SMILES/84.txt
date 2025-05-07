@@ -1,0 +1,2 @@
+DRUG NAME: 3,3-dimethyl-6-{[(5-methyl-3-phenyl-1,2-oxazol-4-yl)carbonyl]amino}-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylate
+DRUG SMILES: CC1=C(C(=NO1)C2=CC=CC=C2)C(=O)NC3C4N(C3=O)C(C(S4)(C)C)C(=O)[O-]

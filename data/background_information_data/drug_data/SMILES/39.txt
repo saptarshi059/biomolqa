@@ -1,0 +1,2 @@
+DRUG NAME: 2-Fluoro-9-pentofuranosyl-9H-purin-6-amine
+DRUG SMILES: C1=NC2=C(N=C(N=C2N1C3C(C(C(O3)CO)O)O)F)N

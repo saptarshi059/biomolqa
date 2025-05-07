@@ -1,0 +1,2 @@
+DRUG NAME: 2-(chloromethyl)oxirane;prop-2-en-1-amine;N-prop-2-enyldecan-1-amine;trimethyl-[6-(prop-2-enylamino)hexyl]azanium;chloride;hydrochloride
+DRUG SMILES: CCCCCCCCCCNCC=C.C[N+](C)(C)CCCCCCNCC=C.C=CCN.C1C(O1)CCl.Cl.[Cl-]

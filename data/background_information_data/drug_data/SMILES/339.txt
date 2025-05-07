@@ -1,0 +1,2 @@
+DRUG NAME: {2-[(2,6-Dichlorophenyl)amino]phenyl}acetate
+DRUG SMILES: C1=CC=C(C(=C1)CC(=O)[O-])NC2=C(C=CC=C2Cl)Cl

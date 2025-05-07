@@ -1,0 +1,2 @@
+DRUG NAME: 1-{2-[(1-Ethoxy-1-oxo-4-phenyl-2-butanyl)amino]propanoyl}octahydrocyclopenta[b]pyrrole-2-carboxylic acid
+DRUG SMILES: CCOC(=O)C(CCC1=CC=CC=C1)NC(C)C(=O)N2C3CCCC3CC2C(=O)O

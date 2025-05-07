@@ -1,0 +1,2 @@
+DRUG NAME: folinic acid
+DRUG SMILES: C1C(N(C2=C(N1)NC(=NC2=O)N)C=O)CNC3=CC=C(C=C3)C(=O)NC(CCC(=O)O)C(=O)O

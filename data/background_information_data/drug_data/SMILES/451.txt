@@ -1,0 +1,2 @@
+DRUG NAME: Amifostine
+DRUG SMILES: C(CN)CNCCSP(=O)(O)O

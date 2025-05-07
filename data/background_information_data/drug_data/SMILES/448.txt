@@ -1,0 +1,2 @@
+DRUG NAME: 5′-Benzyl-12′-hydroxy-2′-methyl-3′,6′,18-trioxo-9,10-dihydroergotaman
+DRUG SMILES: CC1(C(=O)N2C(C(=O)N3CCCC3C2(O1)O)CC4=CC=CC=C4)NC(=O)C5CC6C(CC7=CNC8=CC=CC6=C78)N(C5)C

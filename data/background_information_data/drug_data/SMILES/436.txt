@@ -1,0 +1,2 @@
+DRUG NAME: 1-[2-Hydroxy-4-(2-hydroxy-indan-1-ylcarbamoyl)-5-phenyl-pentyl]-4-pyridin-3-ylmethyl-piperazine-2-carboxylic acid tert-butylamide
+DRUG SMILES: CC(C)(C)NC(=O)C1CN(CCN1CC(CC(CC2=CC=CC=C2)C(=O)NC3C(CC4=CC=CC=C34)O)O)CC5=CN=CC=C5

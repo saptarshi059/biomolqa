@@ -1,0 +1,2 @@
+DRUG NAME: 9-cis retinol
+DRUG SMILES: CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CCO)C)C

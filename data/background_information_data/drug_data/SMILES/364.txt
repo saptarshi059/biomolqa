@@ -1,0 +1,2 @@
+DRUG NAME: (±)-Albuterol
+DRUG SMILES: CC(C)(C)NCC(C1=CC(=C(C=C1)O)CO)O

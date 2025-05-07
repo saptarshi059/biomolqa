@@ -1,0 +1,2 @@
+DRUG NAME: Calcium chloride hexahydrate
+DRUG SMILES: O.O.O.O.O.O.[Cl-].[Cl-].[Ca+2]

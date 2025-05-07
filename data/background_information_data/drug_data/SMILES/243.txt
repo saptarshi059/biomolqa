@@ -1,0 +1,2 @@
+DRUG NAME: Alternative Stereochemistry Form of Aprepitant CSID133235
+DRUG SMILES: CC(C1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F)OC2C(N(CCO2)CC3=NC(=O)NN3)C4=CC=C(C=C4)F

@@ -1,0 +1,2 @@
+DRUG NAME: 3-(1,3-benzodioxol-5-yloxymethyl)-4-(4-fluorophenyl)piperidine
+DRUG SMILES: C1CNCC(C1C2=CC=C(C=C2)F)COC3=CC4=C(C=C3)OCO4

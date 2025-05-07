@@ -1,0 +1,2 @@
+DRUG NAME: N-[(5aR,6aS,7S,9Z,10aS)-9-[Amino(hydroxy)methylene]-4,7-bis(dimethylamino)-1,10a,12-trihydroxy-8,10,11-trioxo-5,5a,6,6a,7,8,9,10,10a,11-decahydrotetracen-2-yl]-N~2~-tert-butylglycinamide
+DRUG SMILES: CC(C)(C)NCC(=O)NC1=CC(=C2CC3CC4C(C(=O)C(=C(N)O)C(=O)C4(C(=O)C3=C(C2=C1O)O)O)N(C)C)N(C)C

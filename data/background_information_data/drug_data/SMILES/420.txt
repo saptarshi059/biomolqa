@@ -1,0 +1,2 @@
+DRUG NAME: 2-Mercaptoethanesulfonic acid
+DRUG SMILES: C(CS(=O)(=O)O)S

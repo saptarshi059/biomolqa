@@ -1,0 +1,2 @@
+DRUG NAME: Torasemide
+DRUG SMILES: CC1=CC(=CC=C1)NC2=C(C=NC=C2)S(=O)(=O)NC(=O)NC(C)C

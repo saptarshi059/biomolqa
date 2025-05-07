@@ -1,0 +1,3 @@
+DRUG NAME: 2-[(4aR,4bS,5S,6aS,6bS,9aR,10aS,10bS)-8-Cyclohexyl-5-hydroxy-4a,6a-dimethyl-2-oxo-2,4a,4b,5,6,6a,9a,10,10a,10b,11,12-dodecahydro-6bH-naphtho[2′,1′:4,5]indeno[1,2-d][1,3]dioxol-6b-yl]-2-oxoethyl 2-meth
+ylpropanoate
+DRUG SMILES: CC(C)C(=O)OCC(=O)C12C(CC3C1(CC(C4C3CCC5=CC(=O)C=CC45C)O)C)OC(O2)C6CCCCC6

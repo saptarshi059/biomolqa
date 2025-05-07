@@ -1,0 +1,2 @@
+DRUG NAME: Disopyramide
+DRUG SMILES: CC(C)N(CCC(C1=CC=CC=C1)(C2=CC=CC=N2)C(=O)N)C(C)C

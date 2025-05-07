@@ -1,0 +1,2 @@
+DRUG NAME: N-Cyclobutylmethyl-14-hydroxydihydronormorphine
+DRUG SMILES: C1CC(C1)CN2CCC34C5C(CCC3(C2CC6=C4C(=C(C=C6)O)O5)O)O

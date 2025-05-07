@@ -1,0 +1,2 @@
+DRUG NAME: 3-{[2,6-Dideoxyhexopyranosyl-(1->4)-2,6-dideoxyhexopyranosyl-(1->4)-2,6-dideoxyhexopyranosyl]oxy}-12,14-dihydroxycard-20(22)-enolide
+DRUG SMILES: CC1C(C(CC(O1)OC2C(OC(CC2O)OC3C(OC(CC3O)OC4CCC5(C(C4)CCC6C5CC(C7(C6(CCC7C8=CC(=O)OC8)O)C)O)C)C)C)O)O

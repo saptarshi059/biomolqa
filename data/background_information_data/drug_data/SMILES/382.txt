@@ -1,0 +1,2 @@
+DRUG NAME: 7-[4-(4-Fluorophenyl)-2,6-diisopropyl-5-(methoxymethyl)-3-pyridinyl]-3,5-dihydroxy-6-heptenoic acid
+DRUG SMILES: CC(C)C1=C(C(=C(C(=N1)C(C)C)COC)C2=CC=C(C=C2)F)C=CC(CC(CC(=O)O)O)O

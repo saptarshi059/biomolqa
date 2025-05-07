@@ -1,0 +1,2 @@
+DRUG NAME: DL-Thyroxine
+DRUG SMILES: C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N

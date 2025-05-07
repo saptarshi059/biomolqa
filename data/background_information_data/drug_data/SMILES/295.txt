@@ -1,0 +1,2 @@
+DRUG NAME: (±)-Clopidogrel
+DRUG SMILES: COC(=O)C(C1=CC=CC=C1Cl)N2CCC3=C(C2)C=CS3

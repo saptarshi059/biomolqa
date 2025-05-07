@@ -1,0 +1,2 @@
+DRUG NAME: Ketoprofen
+DRUG SMILES: CC(C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O

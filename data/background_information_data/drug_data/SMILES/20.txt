@@ -1,0 +1,2 @@
+DRUG NAME: 1-(3-Azido-2,3-dideoxypentofuranosyl)-5-methylpyrimidine-2,4(1H,3H)-dione
+DRUG SMILES: CC1=CN(C(=O)NC1=O)C2CC(C(O2)CO)N=[N+]=[N-]

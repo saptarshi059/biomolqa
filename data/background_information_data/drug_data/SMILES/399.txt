@@ -1,0 +1,2 @@
+DRUG NAME: Chloromethyl (8ξ,9ξ,11β,14ξ,17α)-17-[(ethoxycarbonyl)oxy]-11-hydroxy-3-oxoandrosta-1,4-diene-17-carboxylate
+DRUG SMILES: CCOC(=O)OC1(CCC2C1(CC(C3C2CCC4=CC(=O)C=CC34C)O)C)C(=O)OCCl

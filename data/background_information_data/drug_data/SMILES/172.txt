@@ -1,0 +1,2 @@
+DRUG NAME: 2-Methyl-4-(4-methyl-1-piperazinyl)-5H-thieno[2,3-b][1,5]benzodiazepine
+DRUG SMILES: CC1=CC2=C(NC3=CC=CC=C3N=C2S1)N4CCN(CC4)C

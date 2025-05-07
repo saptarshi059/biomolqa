@@ -1,0 +1,2 @@
+DRUG NAME: Morphinan-3,6.alpha.-diol, 7,8-didehydro-4,5.alpha.-epoxy-17-methyl-
+DRUG SMILES: CN1CCC23C4C1CC5=C2C(=C(C=C5)O)OC3C(C=C4)O

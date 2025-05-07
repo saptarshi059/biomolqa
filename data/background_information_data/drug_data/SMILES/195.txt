@@ -1,0 +1,2 @@
+DRUG NAME: S-(10,13-Dimethyl-3,5′-dioxo-1,2,3,4′,5′,6,7,8,9,10,11,12,13,14,15,16-hexadecahydro-3′H-spiro[cyclopenta[a]phenanthrene-17,2′-furan]-7-yl) ethanethioate
+DRUG SMILES: CC(=O)SC1CC2=CC(=O)CCC2(C3C1C4CCC5(C4(CC3)C)CCC(=O)O5)C

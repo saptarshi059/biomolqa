@@ -1,0 +1,2 @@
+DRUG NAME: Carbachol
+DRUG SMILES: C[N+](C)(C)CCOC(=O)N

@@ -1,0 +1,2 @@
+DRUG NAME: 2-hydroxy-3-(3-oxo-1-phenylbutyl)chromen-4-one
+DRUG SMILES: CC(=O)CC(C1=CC=CC=C1)C2=C(OC3=CC=CC=C3C2=O)O

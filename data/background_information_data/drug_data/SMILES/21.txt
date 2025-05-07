@@ -1,0 +1,2 @@
+DRUG NAME: 4,6-Diamino-3-({3-amino-6-[1-(methylamino)ethyl]tetrahydro-2H-pyran-2-yl}oxy)-2-hydroxycyclohexyl 3-deoxy-4-C-methyl-3-(methylamino)pentopyranoside
+DRUG SMILES: CC(C1CCC(C(O1)OC2C(CC(C(C2O)OC3C(C(C(CO3)(C)O)NC)O)N)N)N)NC

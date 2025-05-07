@@ -1,0 +1,2 @@
+DRUG NAME: tolcapone
+DRUG SMILES: CC1=CC=C(C=C1)C(=O)C2=CC(=C(C(=C2)O)O)[N+](=O)[O-]

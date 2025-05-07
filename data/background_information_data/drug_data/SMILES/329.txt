@@ -1,0 +1,2 @@
+DRUG NAME: 3-oxooctahydro-2H-2,6-methanoquinolizin-8-yl 1H-indole-3-carboxylate
+DRUG SMILES: C1C2CC3CC(CC1N3CC2=O)OC(=O)C4=CNC5=CC=CC=C54

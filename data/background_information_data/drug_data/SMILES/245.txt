@@ -1,0 +1,2 @@
+DRUG NAME: Misoprostol, 1% in cellulose
+DRUG SMILES: CCCCC(C)(CC=CC1C(CC(=O)C1CCCCCCC(=O)OC)O)O

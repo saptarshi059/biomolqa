@@ -1,0 +1,2 @@
+DRUG NAME: 3'-Epi Gemcitabine (Gemcitabine Impurity)
+DRUG SMILES: C1=CN(C(=O)N=C1N)C2C(C(C(O2)CO)O)(F)F

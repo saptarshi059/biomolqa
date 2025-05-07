@@ -1,0 +1,2 @@
+DRUG NAME: N-{[(1S,3S)-3-Isopropylcyclohexyl]carbonyl}-D-phenylalanine
+DRUG SMILES: CC(C)C1CCCC(C1)C(=O)NC(CC2=CC=CC=C2)C(=O)O

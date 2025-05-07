@@ -1,0 +1,2 @@
+DRUG NAME: 2-Chloro-9-(2-deoxypentofuranosyl)-9H-purin-6-amine
+DRUG SMILES: C1C(C(OC1N2C=NC3=C(N=C(N=C32)Cl)N)CO)O

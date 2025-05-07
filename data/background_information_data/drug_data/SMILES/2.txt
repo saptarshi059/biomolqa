@@ -1,0 +1,2 @@
+DRUG NAME: Potassium chloride
+DRUG SMILES: [Cl-].[K+]

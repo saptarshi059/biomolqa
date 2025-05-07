@@ -1,0 +1,2 @@
+DRUG NAME: 7-{[(2-Amino-1,3-thiazol-4-yl)(methoxyimino)acetyl]amino}-3-(methoxymethyl)-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid
+DRUG SMILES: COCC1=C(N2C(C(C2=O)NC(=O)C(=NOC)C3=CSC(=N3)N)SC1)C(=O)O

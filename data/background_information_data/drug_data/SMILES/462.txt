@@ -1,0 +1,2 @@
+DRUG NAME: Chlorambucil
+DRUG SMILES: C1=CC(=CC=C1CCCC(=O)O)N(CCCl)CCCl

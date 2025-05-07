@@ -1,0 +1,2 @@
+DRUG NAME: Hexitol
+DRUG SMILES: C(C(C(C(C(CO)O)O)O)O)O

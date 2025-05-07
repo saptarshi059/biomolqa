@@ -1,0 +1,2 @@
+DRUG NAME: Calcium(II) ion
+DRUG SMILES: [Ca+2]

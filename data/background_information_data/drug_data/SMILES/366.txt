@@ -1,0 +1,2 @@
+DRUG NAME: 1-({[5-(4-Nitrophenyl)-2-furyl]methylene}amino)-4-oxo-4,5-dihydro-1H-imidazol-2-olate
+DRUG SMILES: C1C(=NC(=O)N1N=CC2=CC=C(O2)C3=CC=C(C=C3)[N+](=O)[O-])[O-]

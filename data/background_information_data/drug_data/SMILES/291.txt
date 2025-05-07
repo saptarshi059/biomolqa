@@ -1,0 +1,2 @@
+DRUG NAME: 2,2′-[4-({5-Deoxy-2-O-[2-deoxy-2-(methylamino)hexopyranosyl]-3-C-formylpentofuranosyl}oxy)-2,5,6-trihydroxy-1,3-cyclohexanediyl]diguanidine
+DRUG SMILES: CC1C(C(C(O1)OC2C(C(C(C(C2O)O)N=C(N)N)O)N=C(N)N)OC3C(C(C(C(O3)CO)O)O)NC)(C=O)O

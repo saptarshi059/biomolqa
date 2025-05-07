@@ -1,0 +1,2 @@
+DRUG NAME: N-(1-ethoxy-1-oxo-4-phenylbutan-2-yl)alanylproline
+DRUG SMILES: CCOC(=O)C(CCC1=CC=CC=C1)NC(C)C(=O)N2CCCC2C(=O)O

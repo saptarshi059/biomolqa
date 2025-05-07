@@ -1,0 +1,2 @@
+DRUG NAME: Ethyl 4-acetamido-5-amino-3-(3-pentanyloxy)-1-cyclohexene-1-carboxylate
+DRUG SMILES: CCC(CC)OC1C=C(CC(C1NC(=O)C)N)C(=O)OCC

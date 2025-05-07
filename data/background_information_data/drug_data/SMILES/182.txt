@@ -1,0 +1,2 @@
+DRUG NAME: 2-[(1R,4S,10S,13S,19S)-19-[4-(diaminomethylideneamino)butyl]-10-(1H-indol-3-ylmethyl)-3,9,12,15,18,21,27-heptaoxo-24,25-dithia-2,8,11,14,17,20-hexazatricyclo[18.6.1.04,8]heptacosan-13-yl]acetic acid
+DRUG SMILES: C1CC2C(=O)NC3CSSCCC(=O)N(C3=O)C(C(=O)NCC(=O)NC(C(=O)NC(C(=O)N2C1)CC4=CNC5=CC=CC=C54)CC(=O)O)CCCCN=C(N)N

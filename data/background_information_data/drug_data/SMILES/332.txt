@@ -1,0 +1,2 @@
+DRUG NAME: 2-Cyano-3-(3,4-dihydroxy-5-nitrophenyl)-N,N-diethylacrylamide
+DRUG SMILES: CCN(CC)C(=O)C(=CC1=CC(=C(C(=C1)O)O)[N+](=O)[O-])C#N

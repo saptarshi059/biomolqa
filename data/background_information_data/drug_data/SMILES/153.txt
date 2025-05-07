@@ -1,0 +1,2 @@
+DRUG NAME: Lithium Aluminium Hydride
+DRUG SMILES: [Li+].[AlH4-]

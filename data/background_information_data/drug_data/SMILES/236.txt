@@ -1,0 +1,2 @@
+DRUG NAME: Isosorbide 5-nitrate
+DRUG SMILES: C1C(C2C(O1)C(CO2)O[N+](=O)[O-])O
