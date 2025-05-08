@@ -52,7 +52,7 @@ edge_attr = torch.tensor(edge_types, dtype=torch.long)  # [num_edges]
 
 # --- Optional: node features (dummy features for now) ---
 num_nodes = len(entity2id)
-x = torch.eye(num_nodes)  # Identity as node features [num_nodes, num_nodes]
+x = nn.Embedding(num_nodes, num_nodes)  # Identity as node features [num_nodes, num_nodes]
 
 # --- Create PyG Data object ---
 graph = Data(x=x, edge_index=edge_index, edge_attr=edge_attr)
@@ -189,7 +189,7 @@ with torch.no_grad():
     query_emb = query_encoder(["What did BERT eat?"])  # [1, D]
     all_triple_embeds = triple_encoder(all_head_ids, all_rel_ids, all_tail_ids, node_embeddings)  # [N_triples, D]
 
-cos = nn.CosineSimilarity()
-sims = cos(query_emb, all_triple_embeds.unsqueeze(0))  # [1, N_triples]
-topk = torch.topk(sims, k=5)
-print("Top-k triples:", [(H[i], R[i], T[i]) for i in topk.indices.tolist()])
+    cos = nn.CosineSimilarity()
+    sims = cos(query_emb, all_triple_embeds.unsqueeze(0))  # [1, N_triples]
+    topk = torch.topk(sims, k=5)
+    print("Top-k triples:", [(H[i], R[i], T[i]) for i in topk.indices.tolist()])
