@@ -100,7 +100,7 @@ class QueryEncoder(nn.Module):
         out = self.bert(**encoded.to(device))
         return out.last_hidden_state[:, 0, :]  # [CLS] token
 
-class MyGraphDataset(Dataset):
+class TrainGraphDataset(Dataset):
     def __init__(self, df):
         self.questions = df.Question.tolist()
         self.gold_triples = df.Gold_Triples.tolist()
@@ -116,6 +116,19 @@ class MyGraphDataset(Dataset):
           if negative_triple != positive_triple:
             return question_emb, positive_triple, negative_triple
 
+class TestGraphDataset(Dataset):
+    def __init__(self, df):
+        self.questions = df.Question.tolist()
+        self.gold_triples = df.Gold_Triples.tolist()
+
+    def __len__(self):
+        return len(self.questions)
+
+    def __getitem__(self, idx):
+        question_emb = query_encoder(self.questions[idx])
+        positive_triple = self.gold_triples[idx].tolist()
+
+
 def custom_collate_fn(batch):
     queries, positive_triple, negative_triple = zip(*batch)
     queries = torch.stack(queries)
@@ -127,16 +140,25 @@ def create_triple_embeddings(triple_list, node_embeddings):
     embs.append(triple_encoder(entity2id[triple[0]], relation2id[triple[1]], entity2id[triple[2]], node_embeddings))
   return torch.stack(embs).reshape(len(triple_list), 1, query_encoder.bert.config.hidden_size)
 
-
 def hard_hits(preds, gold):
   s = set()
   s.add(tuple(gold))
   return int(set(s).issubset(set(preds)))
 
 def soft_hits(preds, gold):
-  s = set()
-  s.add(tuple(gold))
-  return len(set(s).intersection(set(preds)))
+    return int(any(item in preds for item in gold))
+
+def recall(gold_list, retrieved_list):
+    s = set()
+    for x in gold_list:
+        s.add(tuple(x))
+    return len(set(s).intersection(set(retrieved_list))) / len(s) if s else 0
+
+def mrr_calc(gold_list, retrieved_list):
+    for idx, item in enumerate(retrieved_list):
+        if item in gold_list:
+            return 1/(idx+1)
+    return 0
 
 
 def test_samples():
@@ -152,7 +174,17 @@ def test_samples():
     R = df["relationship"].tolist()
     T = df["entity_2"].tolist()
 
-    hits_k = []
+    hard_hits_5 = []
+    soft_hits_5 = []
+    
+    hard_hits_10 = []
+    soft_hits_10 = []
+    
+    hard_hits_15 = []
+    soft_hits_15 = []
+    
+    recall_5 = []
+    mrr = []
 
     for batch in tqdm(test_dataloader):
         with torch.no_grad():
@@ -168,28 +200,65 @@ def test_samples():
             
             sims = torch.matmul(query_emb, all_triple_embeds.T)
             
-            topk = torch.topk(sims, k=5)
-            topk_indices = topk.indices.tolist()  # [5]
-
+            top5 = torch.topk(sims, k=5)
+            top5_indices = top5.indices.tolist()
             predictions = []
-            for idx, index_list in enumerate(topk_indices):
+            for idx, index_list in enumerate(top5_indices):
               for index in index_list:
                 predictions.append((H[index], R[index], T[index]))
-              hits_k.append(soft_hits(predictions, batch[1][idx]))
+              hard_hits_5.append(hard_hits(predictions, batch[1][idx]))
+              soft_hits_5.append(soft_hits(predictions, batch[1][idx]))
+              recall_5.append(recall(batch[1][idx], predictions))
+              mrr.append(mrr_calc(batch[1][idx], predictions))
 
-    print(f"hits: {sum(hits_k)/len(hits_k)}")
+            top10 = torch.topk(sims, k=10)
+            top10_indices = top10.indices.tolist()
+            for idx, index_list in enumerate(top10_indices):
+              for index in index_list:
+                predictions.append((H[index], R[index], T[index]))
+              hard_hits_10.append(hard_hits(predictions, batch[1][idx]))
+              soft_hits_10.append(soft_hits(predictions, batch[1][idx]))
+
+            top15 = torch.topk(sims, k=15)
+            top15_indices = top15.indices.tolist()
+            for idx, index_list in enumerate(top15_indices):
+              for index in index_list:
+                predictions.append((H[index], R[index], T[index]))
+              hard_hits_15.append(hard_hits(predictions, batch[1][idx]))
+              soft_hits_15.append(soft_hits(predictions, batch[1][idx]))
 
 
+    print(f"Hard hits@5: {sum(hard_hits_5)/len(hard_hits_5):.2f}")
+    print(f"Soft hits@5: {sum(soft_hits_5)/len(soft_hits_5):.2f}")
+    
+    print(f"Hard hits@10: {sum(hard_hits_10)/len(hard_hits_10):.2f}")
+    print(f"Soft hits@10: {sum(soft_hits_10)/len(soft_hits_10):.2f}")
+    
+    print(f"Hard hits@15: {sum(hard_hits_15)/len(hard_hits_15):.2f}")
+    print(f"Soft hits@15: {sum(soft_hits_15)/len(soft_hits_15):.2f}")
+    
+    print(f"recall@5: {sum(recall_5)/len(recall_5):.2f}")
+    print(f"mrr: {sum(mrr)/len(mrr):.2f}")
+    
 query_encoder = QueryEncoder()
-gcn = GCN(in_channels=graph.x.size(1), hidden_channels=64, out_channels=128, vector_emb_dim=query_encoder.bert.config.hidden_size)
+gcn = GCN(in_channels=graph.x.size(1), hidden_channels=128, out_channels=256, vector_emb_dim=query_encoder.bert.config.hidden_size)
 triple_encoder = TripleEmbedder(node_embed_dim=query_encoder.bert.config.hidden_size, num_rels=graph.num_edges)
 
+def seed_worker(worker_id):
+    worker_seed = torch.initial_seed() % 2**32
+    numpy.random.seed(worker_seed)
+    random.seed(worker_seed)
+
+torch.manual_seed(0)
+g = torch.Generator()
+g.manual_seed(0)
+
 train_df = pd.read_parquet("../../data/mined_data/train_gold.parquet")
-train_dataset = MyGraphDataset(train_df)
-train_dataloader = DataLoader(train_dataset, batch_size=64, shuffle=True, collate_fn=custom_collate_fn)
+train_dataset = TrainGraphDataset(train_df)
+train_dataloader = DataLoader(train_dataset, batch_size=64, shuffle=True, collate_fn=custom_collate_fn, worker_init_fn=seed_worker, generator=g)
 
 test_df = pd.read_parquet("../../data/mined_data/test_gold.parquet")
-test_dataset = MyGraphDataset(test_df)
+test_dataset = TestGraphDataset(test_df)
 test_dataloader = DataLoader(test_dataset, batch_size=32, shuffle=False, collate_fn=custom_collate_fn)
 
 optimizer = torch.optim.AdamW(
