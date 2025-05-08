@@ -151,7 +151,7 @@ gcn.train()
 query_encoder.train()
 triple_encoder.train()
 
-for epoch in tqdm(range(1)):
+"""for epoch in tqdm(range(1)):
     loss_val = 0
     for batch in tqdm(train_dataloader):
       optimizer.zero_grad()
@@ -170,7 +170,7 @@ for epoch in tqdm(range(1)):
 
     epoch_loss = loss_val / len(train_dataloader)
     print(f"Epoch {epoch}, Loss: {epoch_loss:.4f}")
-
+"""
 
 all_head_ids = torch.tensor([entity2id[h] for h in df["entity_1"]], dtype=torch.long)
 all_rel_ids = torch.tensor([relation2id[r] for r in df["relationship"]], dtype=torch.long)
@@ -192,4 +192,5 @@ with torch.no_grad():
     cos = nn.CosineSimilarity()
     sims = cos(query_emb, all_triple_embeds.unsqueeze(0))  # [1, N_triples]
     topk = torch.topk(sims, k=5)
-    print("Top-k triples:", [(H[i], R[i], T[i]) for i in topk.indices.tolist()])
+    topk_indices = topk.indices.squeeze().tolist()
+    print("Top-k triples:", [(H[i], R[i], T[i]) for i in topk_indices])
