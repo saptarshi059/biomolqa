@@ -147,11 +147,11 @@ optimizer = torch.optim.AdamW(
 
 triplet_loss = nn.TripletMarginLoss()
 
-for epoch in tqdm(range(10)):
-    gcn.train()
-    query_encoder.train()
-    triple_encoder.train()
+gcn.train()
+query_encoder.train()
+triple_encoder.train()
 
+for epoch in tqdm(range(10)):
     loss_val = 0
     for batch in tqdm(train_dataloader):
       optimizer.zero_grad()
@@ -170,3 +170,15 @@ for epoch in tqdm(range(10)):
 
     epoch_loss = loss_val / len(train_dataloader)
     print(f"Epoch {epoch}, Loss: {epoch_loss:.4f}")
+
+
+gcn.eval(); query_encoder.eval(); triple_encoder.eval()
+
+node_embeddings = gcn(graph)
+query_emb = query_encoder(["What did BERT eat?"])  # [1, D]
+
+all_triple_embeds = triple_encoder(all_head_ids, all_rel_ids, all_tail_ids, node_embeddings)  # [N_triples, D]
+
+sims = F.cosine_similarity(query_emb, all_triple_embeds.unsqueeze(0))  # [1, N_triples]
+topk = torch.topk(sims, k=5)
+print("Top-k triples:", [(H[i], R[i], T[i]) for i in topk.indices.tolist()])
