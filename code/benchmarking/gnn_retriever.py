@@ -14,7 +14,7 @@ from tqdm import tqdm
 import argparse
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--learning_rate", default=0.001)
+parser.add_argument("--learning_rate", default=0.001,type=float)
 parser.add_argument("--graph_type", default="GCNConv")
 parser.add_argument("--epochs", default=5)
 parser.add_argument("--heads",default=1,type=int)
