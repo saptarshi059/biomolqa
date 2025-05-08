@@ -9,12 +9,17 @@ Original file is located at
 # Create Graph First
 """
 
-!pip install torch_geometric
-
 import pandas as pd
 import torch
 from torch_geometric.data import Data
 from collections import defaultdict
+import torch
+import torch.nn as nn
+from torch_geometric.nn import GCNConv, to_hetero
+from transformers import AutoModel, AutoTokenizer
+from torch.utils.data import Dataset, DataLoader
+import random
+from tqdm import tqdm
 
 # --- Load CSV ---
 df = pd.read_csv(".../../data/mined_data/full_graph.csv")  # entity_1, relationship, entity_2, label (optional)
@@ -53,14 +58,6 @@ x = torch.eye(num_nodes)  # Identity as node features [num_nodes, num_nodes]
 graph = Data(x=x, edge_index=edge_index, edge_attr=edge_attr)
 
 """# GNN Train"""
-
-import torch
-import torch.nn as nn
-from torch_geometric.nn import GCNConv, to_hetero
-from transformers import AutoModel, AutoTokenizer
-from torch.utils.data import Dataset, DataLoader
-import random
-from tqdm import tqdm
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
