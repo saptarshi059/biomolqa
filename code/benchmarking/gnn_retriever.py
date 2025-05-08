@@ -62,11 +62,11 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 class GCN(nn.Module):
     def __init__(self, in_channels, hidden_channels, out_channels, vector_emb_dim, graph_type):
         super().__init__()
-        if graph_type == "GCNConv":
+        if graph_type == "Conv":
             print("Building GCNConv model")
             self.conv1 = GCNConv(in_channels, hidden_channels)
             self.conv2 = GCNConv(hidden_channels, out_channels)
-        elif graph_type == "SAGEConv":
+        elif graph_type == "SAGE":
             print("Building SAGEConv model")
             self.conv1 = SAGEConv(in_channels, hidden_channels)
             self.conv2 = SAGEConv(hidden_channels, out_channels)
