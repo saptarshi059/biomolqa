@@ -148,19 +148,25 @@ def create_triple_embeddings(triple_list, node_embeddings):
 
 def hard_hits(preds, gold):
   s = set()
-  s.add(tuple(gold))
+  for x in gold:
+    s.add(tuple(x.tolist()))
   return int(set(s).issubset(set(preds)))
 
 def soft_hits(preds, gold):
-    return int(any(item in preds for item in gold))
+    gold = [tuple(x.tolist()) for x in gold]
+    for item in preds:
+      if item in gold:
+        return 1
+    return 0
 
 def recall(gold_list, retrieved_list):
     s = set()
     for x in gold_list:
-        s.add(tuple(x))
+        s.add(tuple(x.tolist()))
     return len(set(s).intersection(set(retrieved_list))) / len(s) if s else 0
 
 def mrr_calc(gold_list, retrieved_list):
+    gold_list = [tuple(x.tolist()) for x in gold_list]
     for idx, item in enumerate(retrieved_list):
         if item in gold_list:
             return 1/(idx+1)
