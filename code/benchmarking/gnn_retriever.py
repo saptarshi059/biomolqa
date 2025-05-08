@@ -275,7 +275,7 @@ test_dataloader = DataLoader(test_dataset, batch_size=32, shuffle=False, collate
 optimizer = torch.optim.AdamW(
     list(gcn.parameters()) +
     list(query_encoder.parameters()) +
-    list(triple_encoder.parameters()))
+    list(triple_encoder.parameters()), lr=0.1)
 
 triplet_loss = nn.TripletMarginLoss()
 
