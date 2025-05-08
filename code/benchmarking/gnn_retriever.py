@@ -64,8 +64,16 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 class GCN(nn.Module):
     def __init__(self, in_channels, hidden_channels, out_channels, vector_emb_dim, graph_type):
         super().__init__()
-        self.conv1 = GCNConv(in_channels, hidden_channels)
-        self.conv2 = GCNConv(hidden_channels, out_channels)
+        if graph_type == "GCNConv":
+            self.conv1 = GCNConv(in_channels, hidden_channels)
+            self.conv2 = GCNConv(hidden_channels, out_channels)
+        elif graph_type == "SAGEConv":
+            self.conv1 = SAGEConv(in_channels, hidden_channels)
+            self.conv2 = SAGEConv(hidden_channels, out_channels)
+        else:
+            self.conv1 = GATConv(in_channels, hidden_channels, heads=1)
+            self.conv2 = GATConv(hidden_channels * heads, out_channels, heads=1)
+       
         self.linear = nn.Linear(out_channels, vector_emb_dim)
         self.relu = nn.ReLU()
         self.to(device)
@@ -172,7 +180,6 @@ def mrr_calc(gold_list, retrieved_list):
             return 1/(idx+1)
     return 0
 
-
 def test_samples():
     gcn.eval()
     query_encoder.eval()
@@ -252,7 +259,7 @@ def test_samples():
     print(f"mrr: {sum(mrr)/len(mrr):.2f}")
     
 query_encoder = QueryEncoder()
-gcn = GCN(in_channels=graph.x.size(1), hidden_channels=64, out_channels=128, vector_emb_dim=query_encoder.bert.config.hidden_size)
+gcn = GCN(in_channels=graph.x.size(1), hidden_channels=64, out_channels=128, vector_emb_dim=query_encoder.bert.config.hidden_size, graph_type="GCNConv")
 triple_encoder = TripleEmbedder(node_embed_dim=query_encoder.bert.config.hidden_size, num_rels=graph.num_edges)
 
 def seed_worker(worker_id):
