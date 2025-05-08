@@ -128,6 +128,17 @@ def create_triple_embeddings(triple_list, node_embeddings):
   return torch.stack(embs).reshape(len(triple_list), 1, query_encoder.bert.config.hidden_size)
 
 
+def hard_hits(preds, gold):
+  s = set()
+  s.add(tuple(gold))
+  return int(set(s).issubset(set(preds)))
+
+def soft_hits(preds, gold):
+  s = set()
+  s.add(tuple(gold))
+  return len(set(s).intersection(set(preds)))
+
+
 def test_samples():
     gcn.eval()
     query_encoder.eval()
