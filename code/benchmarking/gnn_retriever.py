@@ -17,7 +17,7 @@ from torch_geometric.data import Data
 from collections import defaultdict
 
 # --- Load CSV ---
-df = pd.read_csv("full_graph.csv")  # entity_1, relationship, entity_2, label (optional)
+df = pd.read_csv(".../../data/mined_data/full_graph.csv")  # entity_1, relationship, entity_2, label (optional)
 
 # --- Create ID mappings ---
 entity2id = defaultdict(lambda: len(entity2id))
@@ -134,8 +134,8 @@ query_encoder = QueryEncoder()
 gcn = GCN(in_channels=graph.x.size(1), hidden_channels=64, out_channels=128, vector_emb_dim=query_encoder.bert.config.hidden_size)
 triple_encoder = TripleEmbedder(node_embed_dim=query_encoder.bert.config.hidden_size, num_rels=graph.num_edges)
 
-train_df = pd.read_parquet("/content/train_gold.parquet")
-test_df = pd.read_parquet("/content/test_gold.parquet")
+train_df = pd.read_parquet(".../../data/mined_data/train_gold.parquet")
+test_df = pd.read_parquet(".../../data/mined_data/test_gold.parquet")
 
 train_dataset = MyGraphDataset(train_df)
 test_dataset = MyGraphDataset(test_df)
