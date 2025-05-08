@@ -127,6 +127,48 @@ def create_triple_embeddings(triple_list, node_embeddings):
     embs.append(triple_encoder(entity2id[triple[0]], relation2id[triple[1]], entity2id[triple[2]], node_embeddings))
   return torch.stack(embs).reshape(len(triple_list), 1, query_encoder.bert.config.hidden_size)
 
+
+def test_samples():
+    gcn.eval()
+    query_encoder.eval()
+    triple_encoder.eval()
+
+    all_head_ids = torch.tensor([entity2id[h] for h in df["entity_1"]], dtype=torch.long)
+    all_rel_ids = torch.tensor([relation2id[r] for r in df["relationship"]], dtype=torch.long)
+    all_tail_ids = torch.tensor([entity2id[t] for t in df["entity_2"]], dtype=torch.long)
+
+    H = df["entity_1"].tolist()
+    R = df["relationship"].tolist()
+    T = df["entity_2"].tolist()
+
+    hits_k = []
+
+    for batch in tqdm(test_dataloader):
+        with torch.no_grad():
+            node_embeddings = gcn(graph)  # [num_nodes, D]
+            query_emb = batch[0].squeeze(1)  # [B, D]
+
+            all_triple_embeds = triple_encoder(
+                all_head_ids, all_rel_ids, all_tail_ids, node_embeddings
+            )  # [N_triples, D]
+
+            query_emb = nn.functional.normalize(query_emb, dim=-1)
+            all_triple_embeds = nn.functional.normalize(all_triple_embeds, dim=-1)
+            
+            sims = torch.matmul(query_emb, all_triple_embeds.T)
+            
+            topk = torch.topk(sims, k=5)
+            topk_indices = topk.indices.tolist()  # [5]
+
+            predictions = []
+            for idx, index_list in enumerate(topk_indices):
+              for index in index_list:
+                predictions.append((H[index], R[index], T[index]))
+              hits_k.append(soft_hits(predictions, batch[1][idx]))
+
+    print(f"hits: {sum(hits_k)/len(hits_k)}")
+
+
 query_encoder = QueryEncoder()
 gcn = GCN(in_channels=graph.x.size(1), hidden_channels=64, out_channels=128, vector_emb_dim=query_encoder.bert.config.hidden_size)
 triple_encoder = TripleEmbedder(node_embed_dim=query_encoder.bert.config.hidden_size, num_rels=graph.num_edges)
@@ -170,42 +212,9 @@ for epoch in tqdm(range(10)):
     epoch_loss = loss_val / len(train_dataloader)
     print(f"Epoch {epoch}, Loss: {epoch_loss:.4f}")
 
+    test_samples()
+
 """print("Saving model...")
 torch.save(gcn.state_dict(), "gcn.pt")
 torch.save(query_encoder.state_dict(), "query_encoder.pt")
 torch.save(triple_encoder.state_dict(), "triple_encoder.pt")"""
-
-all_head_ids = torch.tensor([entity2id[h] for h in df["entity_1"]], dtype=torch.long)
-all_rel_ids = torch.tensor([relation2id[r] for r in df["relationship"]], dtype=torch.long)
-all_tail_ids = torch.tensor([entity2id[t] for t in df["entity_2"]], dtype=torch.long)
-
-H = df["entity_1"].tolist()
-R = df["relationship"].tolist()
-T = df["entity_2"].tolist()
-
-hits_k = []
-
-for batch in tqdm(test_dataloader):
-    with torch.no_grad():
-        node_embeddings = gcn(graph)  # [num_nodes, D]
-        query_emb = batch[0].squeeze(1)  # [B, D]
-
-        all_triple_embeds = triple_encoder(
-            all_head_ids, all_rel_ids, all_tail_ids, node_embeddings
-        )  # [N_triples, D]
-
-        query_emb = nn.functional.normalize(query_emb, dim=-1)
-        all_triple_embeds = nn.functional.normalize(all_triple_embeds, dim=-1)
-        
-        sims = torch.matmul(query_emb, all_triple_embeds.T)
-        
-        topk = torch.topk(sims, k=5)
-        topk_indices = topk.indices.tolist()  # [5]
-
-        predictions = []
-        for idx, index_list in enumerate(topk_indices):
-          for index in index_list:
-            predictions.append((H[index], R[index], T[index]))
-          hits_k.append(soft_hits(predictions, batch[1][idx]))
-
-print(f"hits: {sum(hits_k)/len(hits_k)}")
