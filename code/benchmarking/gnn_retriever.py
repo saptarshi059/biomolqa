@@ -17,7 +17,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument("--learning_rate", default=0.001)
 parser.add_argument("--graph_type", default="GCNConv")
 parser.add_argument("--epochs", default=5)
-parser.add_argument("--heads",default=1)
+parser.add_argument("--heads",default=1,type=int)
 parser.add_argument("--query_embedding_model", default='sentence-transformers/all-MiniLM-L6-v2')
 args = parser.parse_args()
 
