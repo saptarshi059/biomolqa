@@ -52,7 +52,7 @@ edge_attr = torch.tensor(edge_types, dtype=torch.long)  # [num_edges]
 
 # --- Optional: node features (dummy features for now) ---
 num_nodes = len(entity2id)
-x = nn.Embedding(num_nodes, num_nodes)  # Identity as node features [num_nodes, num_nodes]
+x = nn.eye(num_nodes, num_nodes)  # Identity as node features [num_nodes, num_nodes]
 
 # --- Create PyG Data object ---
 graph = Data(x=x, edge_index=edge_index, edge_attr=edge_attr)
