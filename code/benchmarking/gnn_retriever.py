@@ -18,6 +18,7 @@ parser.add_argument("--learning_rate", default=0.001)
 parser.add_argument("--graph_type", default="GCNConv")
 parser.add_argument("--epochs", default=5)
 parser.add_argument("--heads",default=1)
+parser.add_argument("--query_embedding_model", default='sentence-transformers/all-MiniLM-L6-v2')
 args = parser.parse_args()
 
 df = pd.read_csv("../../data/mined_data/full_graph.csv")
@@ -96,13 +97,13 @@ class TripleEmbedder(nn.Module):
         return triple_embed  # [batch, D]
 
 class QueryEncoder(nn.Module):
-    def __init__(self, model_name='sentence-transformers/all-MiniLM-L6-v2'):
+    def __init__(self, model_name=args.query_embedding_model):
         super().__init__()
         self.bert = AutoModel.from_pretrained(model_name).to(device)
         self.tokenizer = AutoTokenizer.from_pretrained(model_name)
 
     def forward(self, query_texts):
-        encoded = self.tokenizer(query_texts, return_tensors="pt", padding=True, truncation=True)
+        encoded = self.tokenizer(query_texts, return_tensors="pt", padding="longest")
         out = self.bert(**encoded.to(device))
         return out.last_hidden_state[:, 0, :]  # [CLS] token
 
