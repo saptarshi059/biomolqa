@@ -15,7 +15,7 @@ from torch_geometric.data import Data
 from collections import defaultdict
 import torch
 import torch.nn as nn
-from torch_geometric.nn import GCNConv, to_hetero
+from torch_geometric.nn import GCNConv, SAGEConv, GATConv
 from transformers import AutoModel, AutoTokenizer
 from torch.utils.data import Dataset, DataLoader
 import random
@@ -62,7 +62,7 @@ graph = Data(x=x, edge_index=edge_index, edge_attr=edge_attr)
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 class GCN(nn.Module):
-    def __init__(self, in_channels, hidden_channels, out_channels, vector_emb_dim):
+    def __init__(self, in_channels, hidden_channels, out_channels, vector_emb_dim, graph_type):
         super().__init__()
         self.conv1 = GCNConv(in_channels, hidden_channels)
         self.conv2 = GCNConv(hidden_channels, out_channels)
@@ -275,7 +275,7 @@ test_dataloader = DataLoader(test_dataset, batch_size=32, shuffle=False, collate
 optimizer = torch.optim.AdamW(
     list(gcn.parameters()) +
     list(query_encoder.parameters()) +
-    list(triple_encoder.parameters()), lr=0.1)
+    list(triple_encoder.parameters()), lr=1e-6)
 
 triplet_loss = nn.TripletMarginLoss()
 
