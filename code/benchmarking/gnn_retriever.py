@@ -129,10 +129,15 @@ class TestGraphDataset(Dataset):
         positive_triple = self.gold_triples[idx].tolist()
 
 
-def custom_collate_fn(batch):
+def custom_collate_fn_train(batch):
     queries, positive_triple, negative_triple = zip(*batch)
     queries = torch.stack(queries)
     return queries, positive_triple, negative_triple
+
+def custom_collate_fn_test(batch):
+    queries, positive_triple = zip(*batch)
+    queries = torch.stack(queries)
+    return queries, positive_triple
 
 def create_triple_embeddings(triple_list, node_embeddings):
   embs = []
@@ -227,7 +232,6 @@ def test_samples():
               hard_hits_15.append(hard_hits(predictions, batch[1][idx]))
               soft_hits_15.append(soft_hits(predictions, batch[1][idx]))
 
-
     print(f"Hard hits@5: {sum(hard_hits_5)/len(hard_hits_5):.2f}")
     print(f"Soft hits@5: {sum(soft_hits_5)/len(soft_hits_5):.2f}")
     
@@ -255,11 +259,11 @@ g.manual_seed(0)
 
 train_df = pd.read_parquet("../../data/mined_data/train_gold.parquet")
 train_dataset = TrainGraphDataset(train_df)
-train_dataloader = DataLoader(train_dataset, batch_size=64, shuffle=True, collate_fn=custom_collate_fn, worker_init_fn=seed_worker, generator=g)
+train_dataloader = DataLoader(train_dataset, batch_size=64, shuffle=True, collate_fn=custom_collate_fn_train, worker_init_fn=seed_worker, generator=g)
 
 test_df = pd.read_parquet("../../data/mined_data/test_gold.parquet")
 test_dataset = TestGraphDataset(test_df)
-test_dataloader = DataLoader(test_dataset, batch_size=32, shuffle=False, collate_fn=custom_collate_fn)
+test_dataloader = DataLoader(test_dataset, batch_size=32, shuffle=False, collate_fn=custom_collate_fn_test)
 
 optimizer = torch.optim.AdamW(
     list(gcn.parameters()) +
