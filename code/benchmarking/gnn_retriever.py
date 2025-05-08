@@ -11,6 +11,13 @@ from transformers import AutoModel, AutoTokenizer
 from torch.utils.data import Dataset, DataLoader
 import random
 from tqdm import tqdm
+import argparse
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--learning_rate", default=0.001)
+parser.add_argument("--graph_type", default="GCNConv")
+parser.add_argument("--epochs", default=5)
+args = parser.parse_args()
 
 df = pd.read_csv("../../data/mined_data/full_graph.csv")
 
@@ -256,7 +263,7 @@ g = torch.Generator()
 g.manual_seed(0)
 
 query_encoder = QueryEncoder()
-gcn = GCN(in_channels=graph.x.size(1), hidden_channels=64, out_channels=128, vector_emb_dim=query_encoder.bert.config.hidden_size, graph_type="SAGEConv")
+gcn = GCN(in_channels=graph.x.size(1), hidden_channels=64, out_channels=128, vector_emb_dim=query_encoder.bert.config.hidden_size, graph_type=args.graph_type)
 triple_encoder = TripleEmbedder(node_embed_dim=query_encoder.bert.config.hidden_size, num_rels=graph.num_edges)
 
 train_df = pd.read_parquet("../../data/mined_data/train_gold.parquet")
@@ -270,7 +277,7 @@ test_dataloader = DataLoader(test_dataset, batch_size=32, shuffle=False, collate
 optimizer = torch.optim.AdamW(
     list(gcn.parameters()) +
     list(query_encoder.parameters()) +
-    list(triple_encoder.parameters()), lr=1e-6)
+    list(triple_encoder.parameters()), lr=args.learning_rate)
 
 triplet_loss = nn.TripletMarginLoss()
 
@@ -278,7 +285,7 @@ gcn.train()
 query_encoder.train()
 triple_encoder.train()
 
-for epoch in tqdm(range(10)):
+for epoch in tqdm(range(args.epochs)):
     loss_val = 0
     for batch in tqdm(train_dataloader):
       optimizer.zero_grad()
