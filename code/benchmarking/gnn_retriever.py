@@ -74,7 +74,7 @@ class GCN(nn.Module):
             print("Building SAGEConv model")
             heads = args.heads
             self.conv1 = GATConv(in_channels, hidden_channels, heads=heads)
-            self.conv2 = GATConv(hidden_channels * heads, out_channels, heads=heads)
+            self.conv2 = GATConv(hidden_channels * heads, out_channels, heads=1)
        
         self.linear = nn.Linear(out_channels, vector_emb_dim)
         self.relu = nn.ReLU()
