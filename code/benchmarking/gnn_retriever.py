@@ -151,7 +151,7 @@ gcn.train()
 query_encoder.train()
 triple_encoder.train()
 
-for epoch in tqdm(range(10)):
+for epoch in tqdm(range(1)):
     loss_val = 0
     for batch in tqdm(train_dataloader):
       optimizer.zero_grad()
@@ -172,13 +172,24 @@ for epoch in tqdm(range(10)):
     print(f"Epoch {epoch}, Loss: {epoch_loss:.4f}")
 
 
-gcn.eval(); query_encoder.eval(); triple_encoder.eval()
+all_head_ids = torch.tensor([entity2id[h] for h in df["entity_1"]], dtype=torch.long)
+all_rel_ids = torch.tensor([relation2id[r] for r in df["relationship"]], dtype=torch.long)
+all_tail_ids = torch.tensor([entity2id[t] for t in df["entity_2"]], dtype=torch.long)
 
-node_embeddings = gcn(graph)
-query_emb = query_encoder(["What did BERT eat?"])  # [1, D]
+H = df["entity_1"].tolist()
+R = df["relationship"].tolist()
+T = df["entity_2"].tolist()
 
-all_triple_embeds = triple_encoder(all_head_ids, all_rel_ids, all_tail_ids, node_embeddings)  # [N_triples, D]
+gcn.eval()
+query_encoder.eval()
+triple_encoder.eval()
 
-sims = F.cosine_similarity(query_emb, all_triple_embeds.unsqueeze(0))  # [1, N_triples]
+with torch.no_grad():
+    node_embeddings = gcn(graph)
+    query_emb = query_encoder(["What did BERT eat?"])  # [1, D]
+    all_triple_embeds = triple_encoder(all_head_ids, all_rel_ids, all_tail_ids, node_embeddings)  # [N_triples, D]
+
+cos = nn.CosineSimilarity()
+sims = cos(query_emb, all_triple_embeds.unsqueeze(0))  # [1, N_triples]
 topk = torch.topk(sims, k=5)
 print("Top-k triples:", [(H[i], R[i], T[i]) for i in topk.indices.tolist()])
