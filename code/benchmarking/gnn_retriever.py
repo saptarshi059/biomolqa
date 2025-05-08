@@ -132,12 +132,11 @@ gcn = GCN(in_channels=graph.x.size(1), hidden_channels=64, out_channels=128, vec
 triple_encoder = TripleEmbedder(node_embed_dim=query_encoder.bert.config.hidden_size, num_rels=graph.num_edges)
 
 train_df = pd.read_parquet("../../data/mined_data/train_gold.parquet")
-test_df = pd.read_parquet("../../data/mined_data/test_gold.parquet")
-
 train_dataset = MyGraphDataset(train_df)
-test_dataset = MyGraphDataset(test_df)
-
 train_dataloader = DataLoader(train_dataset, batch_size=64, shuffle=True, collate_fn=custom_collate_fn)
+
+test_df = pd.read_parquet("../../data/mined_data/test_gold.parquet")
+test_dataset = MyGraphDataset(test_df)
 test_dataloader = DataLoader(test_dataset, batch_size=32, shuffle=False, collate_fn=custom_collate_fn)
 
 optimizer = torch.optim.AdamW(
@@ -151,7 +150,7 @@ gcn.train()
 query_encoder.train()
 triple_encoder.train()
 
-"""for epoch in tqdm(range(1)):
+for epoch in tqdm(range(10)):
     loss_val = 0
     for batch in tqdm(train_dataloader):
       optimizer.zero_grad()
@@ -170,7 +169,11 @@ triple_encoder.train()
 
     epoch_loss = loss_val / len(train_dataloader)
     print(f"Epoch {epoch}, Loss: {epoch_loss:.4f}")
-"""
+
+"""print("Saving model...")
+torch.save(gcn.state_dict(), "gcn.pt")
+torch.save(query_encoder.state_dict(), "query_encoder.pt")
+torch.save(triple_encoder.state_dict(), "triple_encoder.pt")"""
 
 all_head_ids = torch.tensor([entity2id[h] for h in df["entity_1"]], dtype=torch.long)
 all_rel_ids = torch.tensor([relation2id[r] for r in df["relationship"]], dtype=torch.long)
@@ -180,17 +183,29 @@ H = df["entity_1"].tolist()
 R = df["relationship"].tolist()
 T = df["entity_2"].tolist()
 
-gcn.eval()
-query_encoder.eval()
-triple_encoder.eval()
+hits_k = []
 
-with torch.no_grad():
-    node_embeddings = gcn(graph)
-    query_emb = query_encoder(["What did BERT eat?"])  # [1, D]
-    all_triple_embeds = triple_encoder(all_head_ids, all_rel_ids, all_tail_ids, node_embeddings)  # [N_triples, D]
+for batch in tqdm(test_dataloader):
+    with torch.no_grad():
+        node_embeddings = gcn(graph)  # [num_nodes, D]
+        query_emb = batch[0].squeeze(1)  # [B, D]
 
-    cos = nn.CosineSimilarity()
-    sims = cos(query_emb, all_triple_embeds.unsqueeze(0))  # [1, N_triples]
-    topk = torch.topk(sims, k=5)
-    topk_indices = topk.indices.squeeze().tolist()
-    print("Top-k triples:", [(H[i], R[i], T[i]) for i in topk_indices])
+        all_triple_embeds = triple_encoder(
+            all_head_ids, all_rel_ids, all_tail_ids, node_embeddings
+        )  # [N_triples, D]
+
+        query_emb = nn.functional.normalize(query_emb, dim=-1)
+        all_triple_embeds = nn.functional.normalize(all_triple_embeds, dim=-1)
+        
+        sims = torch.matmul(query_emb, all_triple_embeds.T)
+        
+        topk = torch.topk(sims, k=5)
+        topk_indices = topk.indices.tolist()  # [5]
+
+        predictions = []
+        for idx, index_list in enumerate(topk_indices):
+          for index in index_list:
+            predictions.append((H[index], R[index], T[index]))
+          hits_k.append(soft_hits(predictions, batch[1][idx]))
+
+print(f"hits: {sum(hits_k)/len(hits_k)}")
