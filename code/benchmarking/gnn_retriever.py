@@ -259,7 +259,7 @@ def test_samples():
     print(f"mrr: {sum(mrr)/len(mrr):.2f}")
     
 query_encoder = QueryEncoder()
-gcn = GCN(in_channels=graph.x.size(1), hidden_channels=64, out_channels=128, vector_emb_dim=query_encoder.bert.config.hidden_size, graph_type="GCNConv")
+gcn = GCN(in_channels=graph.x.size(1), hidden_channels=64, out_channels=128, vector_emb_dim=query_encoder.bert.config.hidden_size, graph_type="SAGEConv")
 triple_encoder = TripleEmbedder(node_embed_dim=query_encoder.bert.config.hidden_size, num_rels=graph.num_edges)
 
 def seed_worker(worker_id):
@@ -282,7 +282,7 @@ test_dataloader = DataLoader(test_dataset, batch_size=32, shuffle=False, collate
 optimizer = torch.optim.AdamW(
     list(gcn.parameters()) +
     list(query_encoder.parameters()) +
-    list(triple_encoder.parameters()), lr=1e-6)
+    list(triple_encoder.parameters()))
 
 triplet_loss = nn.TripletMarginLoss()
 
