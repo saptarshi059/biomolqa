@@ -126,7 +126,8 @@ class TestGraphDataset(Dataset):
 
     def __getitem__(self, idx):
         question_emb = query_encoder(self.questions[idx])
-        positive_triple = self.gold_triples[idx].tolist()
+        positive_triples = self.gold_triples[idx].tolist()
+        return question_emb, positive_triples
 
 
 def custom_collate_fn_train(batch):
