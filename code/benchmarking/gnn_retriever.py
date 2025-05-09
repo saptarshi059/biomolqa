@@ -16,8 +16,10 @@ import argparse
 parser = argparse.ArgumentParser()
 parser.add_argument("--learning_rate", default=1e-4,type=float)
 parser.add_argument("--graph_type", default="GCNConv")
+parser.add_argument("--batch_size", default=32)
 parser.add_argument("--epochs", default=5)
 parser.add_argument("--heads",default=1,type=int)
+parser.add_argument("--run_number", default=1, type=int)
 parser.add_argument("--query_embedding_model", default='sentence-transformers/all-MiniLM-L6-v2')
 args = parser.parse_args()
 
@@ -56,7 +58,6 @@ x = embedding.weight  # Shape: [num_nodes, embedding_dim]
 
 # --- Create the PyTorch Geometric Data object ---
 graph = Data(x=x, edge_index=edge_index, edge_attr=edge_attr)
-
 
 """# GNN Train"""
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -276,11 +277,11 @@ triple_encoder = TripleEmbedder(node_embed_dim=query_encoder.bert.config.hidden_
 
 train_df = pd.read_parquet("../../data/mined_data/train_gold.parquet")
 train_dataset = TrainGraphDataset(train_df)
-train_dataloader = DataLoader(train_dataset, batch_size=64, shuffle=True, collate_fn=custom_collate_fn_train, worker_init_fn=seed_worker, generator=g)
+train_dataloader = DataLoader(train_dataset, batch_size=args.batch_size, shuffle=True, collate_fn=custom_collate_fn_train, worker_init_fn=seed_worker, generator=g)
 
 test_df = pd.read_parquet("../../data/mined_data/test_gold.parquet")
 test_dataset = TestGraphDataset(test_df)
-test_dataloader = DataLoader(test_dataset, batch_size=32, shuffle=False, collate_fn=custom_collate_fn_test)
+test_dataloader = DataLoader(test_dataset, batch_size=args.batch_size, shuffle=False, collate_fn=custom_collate_fn_test)
 
 optimizer = torch.optim.AdamW(
     list(gcn.parameters()) +
@@ -314,3 +315,8 @@ for epoch in tqdm(range(args.epochs)):
     print(f"Epoch {epoch}, Loss: {epoch_loss:.4f}")
 
     test_samples()
+
+print("Saving models...")
+torch.save(gcn, f"saved_models/{args.graph_type}/run_number_{args.run_number}/gcn.pt")
+torch.save(gcn, f"saved_models/{args.graph_type}/run_number_{args.run_number}/query_encoder.pt")
+torch.save(gcn, f"saved_models/{args.graph_type}/run_number_{args.run_number}/triple_encoder.pt")
