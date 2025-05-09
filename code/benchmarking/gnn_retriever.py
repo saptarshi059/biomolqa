@@ -15,12 +15,12 @@ import argparse
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--learning_rate", default=1e-4,type=float)
-parser.add_argument("--graph_type", default="GCNConv")
+parser.add_argument("--graph_type", default="GCNConv", type=str)
 parser.add_argument("--batch_size", default=32, type=int)
-parser.add_argument("--epochs", default=5)
+parser.add_argument("--epochs", default=5, type=int)
 parser.add_argument("--heads",default=1,type=int)
 parser.add_argument("--run_number", default=1, type=int)
-parser.add_argument("--query_embedding_model", default='sentence-transformers/all-MiniLM-L6-v2')
+parser.add_argument("--query_embedding_model", default='sentence-transformers/all-MiniLM-L6-v2', type=str)
 args = parser.parse_args()
 
 df = pd.read_csv("../../data/mined_data/full_graph.csv")
