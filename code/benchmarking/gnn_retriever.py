@@ -16,7 +16,7 @@ import argparse
 parser = argparse.ArgumentParser()
 parser.add_argument("--learning_rate", default=1e-4,type=float)
 parser.add_argument("--graph_type", default="GCNConv", type=str)
-parser.add_argument("--batch_size", default=32, type=int)
+parser.add_argument("--batch_size", default=64, type=int)
 parser.add_argument("--epochs", default=5, type=int)
 parser.add_argument("--heads",default=1,type=int)
 parser.add_argument("--run_number", default=1, type=int)
@@ -317,6 +317,9 @@ for epoch in tqdm(range(args.epochs)):
     test_samples()
 
 print("Saving models...")
-torch.save(gcn, f"saved_models/{args.graph_type}/run_number_{args.run_number}/gcn.pt")
-torch.save(gcn, f"saved_models/{args.graph_type}/run_number_{args.run_number}/query_encoder.pt")
-torch.save(gcn, f"saved_models/{args.graph_type}/run_number_{args.run_number}/triple_encoder.pt")
+savepath = Path(f"saved_models/{args.graph_type}/run_number_{args.run_number}/")
+savepath.mkdir(parents=True, exist_ok=True)
+
+torch.save(gcn, savepath / "gcn.pt")
+torch.save(query_encoder, savepath / "query_encoder.pt")
+torch.save(triple_encoder, savepath / "triple_encoder.pt")
