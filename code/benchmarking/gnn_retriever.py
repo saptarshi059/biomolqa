@@ -16,7 +16,7 @@ import argparse
 parser = argparse.ArgumentParser()
 parser.add_argument("--learning_rate", default=1e-4,type=float)
 parser.add_argument("--graph_type", default="GCNConv")
-parser.add_argument("--batch_size", default=32)
+parser.add_argument("--batch_size", default=32, type=int)
 parser.add_argument("--epochs", default=5)
 parser.add_argument("--heads",default=1,type=int)
 parser.add_argument("--run_number", default=1, type=int)
