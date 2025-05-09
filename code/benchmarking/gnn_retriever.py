@@ -23,38 +23,40 @@ args = parser.parse_args()
 
 df = pd.read_csv("../../data/mined_data/full_graph.csv")
 
-# --- Create ID mappings ---
+# --- Create mapping from entities and relations to IDs ---
 entity2id = defaultdict(lambda: len(entity2id))
 relation2id = defaultdict(lambda: len(relation2id))
 
 edges = []
 edge_types = []
 
+# --- Process each row in the dataframe to build edge list ---
 for row in df.itertuples():
     h = entity2id[row.entity_1]
     t = entity2id[row.entity_2]
     r = relation2id[row.relationship]
 
-    # Add edge (unidirectional or bidirectional)
     edges.append((h, t))
     edge_types.append(r)
 
-    if hasattr(row, "relationship") and row.label == 0:  # undirected
+    # Optional: make the edge bidirectional if label == 0
+    if row.label == 0:
         edges.append((t, h))
         edge_types.append(r)
 
-# --- Build edge_index ---
-edge_index = torch.tensor(edges, dtype=torch.long).t().contiguous()  # [2, num_edges]
+# --- Convert to PyTorch tensors ---
+edge_index = torch.tensor(edges, dtype=torch.long).t().contiguous()  # Shape: [2, num_edges]
+edge_attr = torch.tensor(edge_types, dtype=torch.long)              # Shape: [num_edges]
 
-# --- Optional: encode relation type as edge_attr ---
-edge_attr = torch.tensor(edge_types, dtype=torch.long)  # [num_edges]
-
-# --- Optional: node features (dummy features for now) ---
+# --- Node features: learnable embeddings ---
 num_nodes = len(entity2id)
-x = torch.eye(num_nodes)  # Identity as node features [num_nodes, num_nodes]
+embedding_dim = 64  # You can change this to any embedding dimension you prefer
+embedding = nn.Embedding(num_nodes, embedding_dim)
+x = embedding.weight  # Shape: [num_nodes, embedding_dim]
 
-# --- Create PyG Data object ---
+# --- Create the PyTorch Geometric Data object ---
 graph = Data(x=x, edge_index=edge_index, edge_attr=edge_attr)
+
 
 """# GNN Train"""
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
