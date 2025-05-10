@@ -312,7 +312,7 @@ class LinkPredictor(nn.Module):
         score = torch.sum(h * r * t, dim=1)  # DistMult-style scoring
         return score
 
-predictor = LinkPredictor(embed_dim=embedding_dim).to(device)
+predictor = LinkPredictor(embed_dim=embedding_dim, num_rels=len(relation2id)).to(device)
 loss_fn = nn.BCEWithLogitsLoss()
 
 print("Link Prediction Training")
