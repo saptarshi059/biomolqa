@@ -55,7 +55,7 @@ edge_attr = torch.tensor(edge_types, dtype=torch.long)              # Shape: [nu
 
 # --- Node features: learnable embeddings ---
 num_nodes = len(entity2id)
-embedding_dim = 128  # You can change this to any embedding dimension you prefer
+embedding_dim = 32  # You can change this to any embedding dimension you prefer
 embedding = nn.Embedding(num_nodes, embedding_dim)
 x = embedding.weight  # Shape: [num_nodes, embedding_dim]
 
@@ -84,15 +84,16 @@ class GCN(nn.Module):
        
         self.linear = nn.Linear(out_channels, vector_emb_dim)
         self.relu = nn.ReLU()
+        self.tanh = nn.Tanh()
         self.to(device)
 
     def forward(self, graph):
         x, edge_index = graph.x.to(device), graph.edge_index.to(device)
         x = self.conv1(x, edge_index)
-        x = self.relu(x)
+        x = self.tanh(x)
         x = self.conv2(x, edge_index)
         x = self.linear(x)
-        x = self.relu(x)
+        x = self.tanh(x)
         return x  # Node embeddings: [num_nodes, D]
 
 class TripleEmbedder(nn.Module):
