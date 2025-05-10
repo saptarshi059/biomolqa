@@ -6,7 +6,7 @@ from torch_geometric.data import Data
 from collections import defaultdict
 import torch
 import torch.nn as nn
-from torch_geometric.nn import GCNConv, SAGEConv, GATConv
+from torch_geometric.nn import GCNConv, SAGEConv, GATConv, GraphConv
 from transformers import AutoModel, AutoTokenizer
 from torch.utils.data import Dataset, DataLoader
 import random
@@ -70,8 +70,8 @@ class GCN(nn.Module):
         super().__init__()
         if graph_type == "GCN":
             print("Building GCNConv model")
-            self.conv1 = GCNConv(in_channels, hidden_channels)
-            self.conv2 = GCNConv(hidden_channels, out_channels)
+            self.conv1 = GraphConv(in_channels, hidden_channels)
+            self.conv2 = GraphConv(hidden_channels, out_channels)
         elif graph_type == "SAGE":
             print("Building SAGEConv model")
             self.conv1 = SAGEConv(in_channels, hidden_channels)
