@@ -55,7 +55,7 @@ edge_attr = torch.tensor(edge_types, dtype=torch.long)              # Shape: [nu
 
 # --- Node features: learnable embeddings ---
 num_nodes = len(entity2id)
-embedding_dim = 16  # You can change this to any embedding dimension you prefer
+embedding_dim = 128  # You can change this to any embedding dimension you prefer
 embedding = nn.Embedding(num_nodes, embedding_dim)
 x = embedding.weight  # Shape: [num_nodes, embedding_dim]
 
@@ -282,7 +282,7 @@ g = torch.Generator()
 g.manual_seed(0)
 
 query_encoder = QueryEncoder()
-gcn = GCN(in_channels=graph.x.size(1), hidden_channels=16, out_channels=16, vector_emb_dim=query_encoder.bert.config.hidden_size, graph_type=args.graph_type)
+gcn = GCN(in_channels=graph.x.size(1), hidden_channels=32, out_channels=32, vector_emb_dim=query_encoder.bert.config.hidden_size, graph_type=args.graph_type)
 triple_encoder = TripleEmbedder(node_embed_dim=query_encoder.bert.config.hidden_size, num_rels=graph.num_edges)
 
 train_df = pd.read_parquet("../../data/mined_data/train_gold.parquet")
