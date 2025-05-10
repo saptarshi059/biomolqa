@@ -237,7 +237,7 @@ g.manual_seed(0)
 
 df = pd.read_csv("../../data/mined_data/full_graph.csv")
 
-graph = torch.load("saved_models/graph_data.pt")
+graph = torch.load("saved_models/graph_data.pt", weights_only=False)
 
 with Path("saved_models/entity2id.pkl").open("rb") as file:
     entity2id = pickle.load(file)
@@ -248,7 +248,7 @@ with Path("saved_models/relation2id.pkl").open("rb") as file:
 with Path("saved_models/node_embeddings.pkl").open("rb") as file:
     node_embeddings = pickle.load(file)
 
-gcn = torch.load("saved_models/graph_trained.pt")
+gcn = torch.load("saved_models/graph_trained.pt", weights_only=False)
 
 if hasattr(gcn, 'embedding') and isinstance(gcn.embedding, torch.nn.Module):
     with torch.no_grad():
