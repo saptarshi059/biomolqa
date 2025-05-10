@@ -14,6 +14,17 @@ from pathlib import Path
 import random
 import numpy
 
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--learning_rate", default=1e-4,type=float)
+parser.add_argument("--graph_type", default="GCN", type=str)
+parser.add_argument("--batch_size", default=64, type=int)
+parser.add_argument("--epochs", default=10, type=int)
+parser.add_argument("--heads",default=1,type=int)
+parser.add_argument("--run_number", default=1, type=int)
+parser.add_argument("--query_embedding_model", default='sentence-transformers/all-MiniLM-L12-v2', type=str)
+args = parser.parse_args()
+
 class GCN(nn.Module):
     def __init__(self, in_channels, hidden_channels, out_channels, vector_emb_dim, graph_type):
         super().__init__()
@@ -82,14 +93,5 @@ class ValidationGraphDataset(Dataset):
         positive_triples = self.gold_triples[idx].tolist()
         return question_emb, positive_triples
 
-parser = argparse.ArgumentParser()
-parser.add_argument("--learning_rate", default=1e-4,type=float)
-parser.add_argument("--graph_type", default="GCN", type=str)
-parser.add_argument("--batch_size", default=64, type=int)
-parser.add_argument("--epochs", default=10, type=int)
-parser.add_argument("--heads",default=1,type=int)
-parser.add_argument("--run_number", default=1, type=int)
-parser.add_argument("--query_embedding_model", default='sentence-transformers/all-MiniLM-L12-v2', type=str)
-args = parser.parse_args()
 
 model = torch.load("saved_models/GCN/run_number_1/gcn.pt", weights_only=False)
