@@ -6,6 +6,8 @@ from torch_geometric.nn import GCNConv, SAGEConv
 from torch_geometric.data import Data
 from sklearn.model_selection import train_test_split
 from torch.optim import Adam
+import pickle
+from pathlib import Path
 
 # Set random seed for reproducibility
 torch.manual_seed(42)
@@ -54,6 +56,14 @@ def load_triples_and_create_graph(triples_file):
     # Create PyTorch Geometric Data object
     data = Data(x=x, edge_index=edge_index, edge_type=edge_type)
     
+    torch.save("saved_models/graph_data.pt")
+    
+    with Path("saved_models/entity2id.pkl").open("wb") as file:
+        pickle.dump(entity_to_idx, file)
+
+    with Path("saved_models/relation2id.pkl").open("wb") as file:
+        pickle.dump(relation_to_idx, file)
+
     return data, entity_to_idx, relation_to_idx
 
 # Self-Supervised GNN Model with link prediction objective
@@ -243,5 +253,8 @@ def main(triples_file='graph_triples.txt', epochs=200):
 # Example usage
 if __name__ == "__main__":
     model, embeddings = main('../../data/mined_data/full_graph.csv')
+    
     torch.save(model, "saved_models/graph_trained.pt")
-    torch.save(embeddings, "saved_models/node_embeddings.pt")
+    
+    with Path("saved_models/node_embeddings.pkl").open("wb") as file:
+        pickle.dump(embeddings, file)
