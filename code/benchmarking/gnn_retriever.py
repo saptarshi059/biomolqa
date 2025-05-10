@@ -68,17 +68,17 @@ class GCN(nn.Module):
         super().__init__()
         if graph_type == "GCN":
             print("Building GCNConv model")
-            self.conv1 = GCNConv(in_channels, hidden_channels)
-            self.conv2 = GCNConv(hidden_channels, out_channels)
+            self.conv1 = GCNConv(in_channels, out_channels)
+            #self.conv2 = GCNConv(hidden_channels, out_channels)
         elif graph_type == "SAGE":
             print("Building SAGEConv model")
-            self.conv1 = SAGEConv(in_channels, hidden_channels)
-            self.conv2 = SAGEConv(hidden_channels, out_channels)
+            self.conv1 = SAGEConv(in_channels, out_channels)
+            #self.conv2 = SAGEConv(hidden_channels, out_channels)
         else:
             print("Building GATConv model")
             heads = args.heads
-            self.conv1 = GATConv(in_channels, hidden_channels, heads=heads)
-            self.conv2 = GATConv(hidden_channels * heads, out_channels, heads=1)
+            self.conv1 = GATConv(in_channels, out_channels, heads=heads)
+            #self.conv2 = GATConv(hidden_channels * heads, out_channels, heads=1)
        
         self.linear = nn.Linear(out_channels, vector_emb_dim)
         self.relu = nn.ReLU()
@@ -88,7 +88,9 @@ class GCN(nn.Module):
         x, edge_index = graph.x.to(device), graph.edge_index.to(device)
         x = self.conv1(x, edge_index)
         x = self.relu(x)
-        x = self.relu(self.linear(self.conv2(x, edge_index)))
+        #x = self.conv2(x, edge_index)
+        x = self.linear(x)
+        x = self.relu(x)
         return x  # Node embeddings: [num_nodes, D]
 
 class TripleEmbedder(nn.Module):
@@ -130,7 +132,7 @@ class TrainGraphDataset(Dataset):
           if negative_triple != positive_triple:
             return question_emb, positive_triple, negative_triple
 
-class TestGraphDataset(Dataset):
+class ValidationGraphDataset(Dataset):
     def __init__(self, df):
         self.questions = df.Question.tolist()
         self.gold_triples = df.Gold_Triples.tolist()
@@ -148,7 +150,7 @@ def custom_collate_fn_train(batch):
     queries = torch.stack(queries)
     return queries, positive_triple, negative_triple
 
-def custom_collate_fn_test(batch):
+def custom_collate_fn_validation(batch):
     queries, positive_triple = zip(*batch)
     queries = torch.stack(queries)
     return queries, positive_triple
@@ -210,7 +212,7 @@ def test_samples():
     recall_5 = []
     mrr = []
 
-    for batch in tqdm(test_dataloader):
+    for batch in tqdm(validation_dataloader):
         with torch.no_grad():
             node_embeddings = gcn(graph)  # [num_nodes, D]
             query_emb = batch[0].squeeze(1)  # [B, D]
@@ -280,9 +282,9 @@ train_df = pd.read_parquet("../../data/mined_data/train_gold.parquet")
 train_dataset = TrainGraphDataset(train_df)
 train_dataloader = DataLoader(train_dataset, batch_size=args.batch_size, shuffle=True, collate_fn=custom_collate_fn_train, worker_init_fn=seed_worker, generator=g)
 
-test_df = pd.read_parquet("../../data/mined_data/test_gold.parquet")
-test_dataset = TestGraphDataset(test_df)
-test_dataloader = DataLoader(test_dataset, batch_size=args.batch_size, shuffle=False, collate_fn=custom_collate_fn_test)
+validation_df = pd.read_parquet("../../data/mined_data/validation_gold.parquet")
+validation_dataset = ValidationGraphDataset(validation_df)
+validation_dataloader = DataLoader(validation_dataset, batch_size=args.batch_size, shuffle=False, collate_fn=custom_collate_fn_validation)
 
 optimizer = torch.optim.AdamW(
     list(gcn.parameters()) +
