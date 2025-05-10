@@ -23,7 +23,7 @@ parser.add_argument("--batch_size", default=64, type=int)
 parser.add_argument("--epochs", default=10, type=int)
 parser.add_argument("--heads",default=1,type=int)
 parser.add_argument("--run_number", default=1, type=int)
-parser.add_argument("--query_embedding_model", default='sentence-transformers/all-MiniLM-L12-v2', type=str)
+parser.add_argument("--query_embedding_model", default='sentence-transformers/all-MiniLM-L6-v2', type=str)
 args = parser.parse_args()
 
 df = pd.read_csv("../../data/mined_data/full_graph.csv")
@@ -147,6 +147,20 @@ class ValidationGraphDataset(Dataset):
         positive_triples = self.gold_triples[idx].tolist()
         return question_emb, positive_triples
 
+class TestGraphDataset(Dataset):
+    def __init__(self, df):
+        self.questions = df.Question.tolist()
+        self.gold_triples = df.Gold_Triples.tolist()
+
+    def __len__(self):
+        return len(self.questions)
+
+    def __getitem__(self, idx):
+        question_emb = query_encoder(self.questions[idx])
+        positive_triples = self.gold_triples[idx].tolist()
+        return question_emb, positive_triples, self.questions[idx]
+
+
 def custom_collate_fn_train(batch):
     queries, positive_triple, negative_triple = zip(*batch)
     queries = torch.stack(queries)
@@ -156,6 +170,11 @@ def custom_collate_fn_validation(batch):
     queries, positive_triple = zip(*batch)
     queries = torch.stack(queries)
     return queries, positive_triple
+
+def custom_collate_fn_test(batch):
+    query_embs, positive_triple, queries = zip(*batch)
+    query_embs = torch.stack(query_embs)
+    return query_embs, positive_triple, queries
 
 def create_triple_embeddings(triple_list, node_embeddings):
   embs = []
@@ -192,7 +211,7 @@ def mrr_calc(preds, gold):
             return 1/(idx+1)
     return 0
 
-def test_samples():
+def validation_samples():
     gcn.eval()
     query_encoder.eval()
     triple_encoder.eval()
@@ -268,6 +287,100 @@ def test_samples():
     print(f"recall@5: {sum(recall_5)/len(recall_5):.2f}")
     print(f"mrr: {sum(mrr)/len(mrr):.2f}")
     
+
+def test_samples(savepath):
+    gcn.eval()
+    query_encoder.eval()
+    triple_encoder.eval()
+
+    H = df["entity_1"].tolist()
+    R = df["relationship"].tolist()
+    T = df["entity_2"].tolist()
+
+    hard_hits_5 = []
+    soft_hits_5 = []
+    
+    hard_hits_10 = []
+    soft_hits_10 = []
+    
+    hard_hits_15 = []
+    soft_hits_15 = []
+    
+    recall_5 = []
+    mrr = []
+
+    question_top_5_pred = []
+    question_top_10_pred = []
+    question_top_15_pred = []
+
+    for batch in tqdm(test_dataloader):
+        with torch.no_grad():
+            node_embeddings = gcn(graph)  # [num_nodes, D]
+            query_emb = batch[0].squeeze(1)  # [B, D]
+
+            all_triple_embeds = triple_encoder(
+                all_head_ids, all_rel_ids, all_tail_ids, node_embeddings
+            )  # [N_triples, D]
+
+            query_emb = nn.functional.normalize(query_emb, dim=-1)
+            all_triple_embeds = nn.functional.normalize(all_triple_embeds, dim=-1)
+            
+            sims = torch.matmul(query_emb, all_triple_embeds.T)
+            
+            top5 = torch.topk(sims, k=5)
+            top5_indices = top5.indices.tolist()
+            for idx, index_list in enumerate(top5_indices):
+              predictions = [] 
+              for index in index_list:
+                predictions.append((H[index], R[index], T[index]))
+              question_top_5_pred.append((batch[2][idx], predictions))
+              hard_hits_5.append(hard_hits(predictions, batch[1][idx]))
+              soft_hits_5.append(soft_hits(predictions, batch[1][idx]))
+              recall_5.append(recall(predictions, batch[1][idx]))
+              mrr.append(mrr_calc(predictions, batch[1][idx]))
+
+            top10 = torch.topk(sims, k=10)
+            top10_indices = top10.indices.tolist()
+            for idx, index_list in enumerate(top10_indices):
+              predictions = []
+              for index in index_list:
+                predictions.append((H[index], R[index], T[index]))
+              question_top_10_pred.append((batch[2][idx], predictions))
+              hard_hits_10.append(hard_hits(predictions, batch[1][idx]))
+              soft_hits_10.append(soft_hits(predictions, batch[1][idx]))
+
+            top15 = torch.topk(sims, k=15)
+            top15_indices = top15.indices.tolist()
+            for idx, index_list in enumerate(top15_indices):
+              predictions = []
+              for index in index_list:
+                predictions.append((H[index], R[index], T[index]))
+              question_top_15_pred.append((batch[2][idx], predictions))
+              hard_hits_15.append(hard_hits(predictions, batch[1][idx]))
+              soft_hits_15.append(soft_hits(predictions, batch[1][idx]))
+
+    print(f"Hard hits@5: {sum(hard_hits_5)/len(hard_hits_5):.2f}")
+    print(f"Soft hits@5: {sum(soft_hits_5)/len(soft_hits_5):.2f}")
+    
+    print(f"Hard hits@10: {sum(hard_hits_10)/len(hard_hits_10):.2f}")
+    print(f"Soft hits@10: {sum(soft_hits_10)/len(soft_hits_10):.2f}")
+    
+    print(f"Hard hits@15: {sum(hard_hits_15)/len(hard_hits_15):.2f}")
+    print(f"Soft hits@15: {sum(soft_hits_15)/len(soft_hits_15):.2f}")
+    
+    print(f"recall@5: {sum(recall_5)/len(recall_5):.2f}")
+    print(f"mrr: {sum(mrr)/len(mrr):.2f}")
+
+    with Path(savepath / "top_5_preds.pkl").open("wb") as file:
+        pickle.dump(question_top_5_pred, file)
+
+    with Path(savepath / "top_10_preds.pkl").open("wb") as file:
+        pickle.dump(question_top_10_pred, file)
+
+    with Path(savepath / "top_15_preds.pkl").open("wb") as file:
+        pickle.dump(question_top_15_pred, file)
+
+
 def seed_worker(worker_id):
     worker_seed = torch.initial_seed() % 2**32
     numpy.random.seed(worker_seed)
@@ -288,6 +401,10 @@ train_dataloader = DataLoader(train_dataset, batch_size=args.batch_size, shuffle
 validation_df = pd.read_parquet("../../data/mined_data/validation_gold.parquet")
 validation_dataset = ValidationGraphDataset(validation_df)
 validation_dataloader = DataLoader(validation_dataset, batch_size=args.batch_size, shuffle=False, collate_fn=custom_collate_fn_validation)
+
+test_df = pd.read_parquet("../../data/mined_data/test_gold.parquet")
+test_dataset = TestGraphDataset(test_df)
+test_dataloader = DataLoader(test_dataset, batch_size=args.batch_size, shuffle=False, collate_fn=custom_collate_fn_validation)
 
 all_head_ids = torch.tensor([entity2id[h] for h in df["entity_1"]], dtype=torch.long)
 all_rel_ids = torch.tensor([relation2id[r] for r in df["relationship"]], dtype=torch.long)
@@ -320,7 +437,7 @@ for epoch in tqdm(range(args.epochs)):
     epoch_loss = loss_val / len(train_dataloader)
     print(f"Epoch {epoch}, Loss: {epoch_loss:.4f}")
 
-    test_samples()
+    validation_samples()
 
 print("Saving models...")
 savepath = Path(f"saved_models/{args.graph_type}/run_number_{args.run_number}/")
@@ -329,3 +446,6 @@ savepath.mkdir(parents=True, exist_ok=True)
 torch.save(gcn, savepath / "gcn.pt")
 torch.save(query_encoder, savepath / "query_encoder.pt")
 torch.save(triple_encoder, savepath / "triple_encoder.pt")
+
+print("running on test")
+test_samples(savepath)
