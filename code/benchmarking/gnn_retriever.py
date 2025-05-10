@@ -47,7 +47,7 @@ for row in df.itertuples():
     # Optional: make the edge bidirectional if label == 0
     if row.label == 0:
         edges.append((t, h))
-        edge_types.append(r)
+        edge_types.append(r + len(relation2id))
 
 # --- Convert to PyTorch tensors ---
 edge_index = torch.tensor(edges, dtype=torch.long).t().contiguous()  # Shape: [2, num_edges]
