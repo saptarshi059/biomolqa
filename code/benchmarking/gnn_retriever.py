@@ -404,7 +404,7 @@ validation_dataloader = DataLoader(validation_dataset, batch_size=args.batch_siz
 
 test_df = pd.read_parquet("../../data/mined_data/test_gold.parquet")
 test_dataset = TestGraphDataset(test_df)
-test_dataloader = DataLoader(test_dataset, batch_size=args.batch_size, shuffle=False, collate_fn=custom_collate_fn_validation)
+test_dataloader = DataLoader(test_dataset, batch_size=args.batch_size, shuffle=False, collate_fn=custom_collate_fn_test)
 
 all_head_ids = torch.tensor([entity2id[h] for h in df["entity_1"]], dtype=torch.long)
 all_rel_ids = torch.tensor([relation2id[r] for r in df["relationship"]], dtype=torch.long)
