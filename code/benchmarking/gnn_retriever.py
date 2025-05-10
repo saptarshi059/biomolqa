@@ -300,14 +300,15 @@ optimizer = torch.optim.AdamW(
 
 triplet_loss = nn.TripletMarginLoss()
 
-gcn.train()
-query_encoder.train()
-triple_encoder.train()
-
 for epoch in tqdm(range(args.epochs)):
+    gcn.train()
+    query_encoder.train()
+    triple_encoder.train()
+
     loss_val = 0
-    optimizer.zero_grad()
     for batch in tqdm(train_dataloader):
+      optimizer.zero_grad()
+    
       node_embeddings = gcn(graph)
       query_embeddings = batch[0]  # [B, D]
 
