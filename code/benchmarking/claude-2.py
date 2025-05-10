@@ -62,7 +62,7 @@ class TripleEmbedder(nn.Module):
 
     def forward(self, head_ids, rel_ids, tail_ids, node_embeddings):
         h = node_embeddings[head_ids]
-        r = self.rel_embed(torch.tensor(rel_ids)).to(device)
+        r = self.rel_embed(torch.tensor(rel_ids))
         t = node_embeddings[tail_ids]
         triple_embed = h + r + t  # Simple additive scoring
         return triple_embed  # [batch, D]
