@@ -35,6 +35,7 @@ class SelfSupervisedGNN(torch.nn.Module):
         super().__init__()
         self.conv1 = GCNConv(in_channels, hidden_channels)
         self.conv2 = GCNConv(hidden_channels, out_channels)
+        self.linear = nn.Linear(out_channels, 384)
     
     def encode(self, x, edge_index):
         # Get node embeddings
@@ -42,6 +43,7 @@ class SelfSupervisedGNN(torch.nn.Module):
         x = F.relu(x)
         x = F.dropout(x, p=0.2, training=self.training)
         x = self.conv2(x, edge_index)
+        x = F.relu(self.linear(x))
         return x
     
     def decode(self, z, edge_index):
