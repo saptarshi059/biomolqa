@@ -289,7 +289,7 @@ for epoch in tqdm(range(args.epochs)):
     for batch in tqdm(train_dataloader):
       optimizer.zero_grad()
     
-      node_embeddings = gcn(graph)
+      node_embeddings = gcn.encode(graph)
       query_embeddings = batch[0]  # [B, D]
 
       positive_triple_embeddings = create_triple_embeddings(batch[1], node_embeddings)
