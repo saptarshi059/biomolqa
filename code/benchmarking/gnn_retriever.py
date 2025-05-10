@@ -16,7 +16,7 @@ from pathlib import Path
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--learning_rate", default=1e-4,type=float)
-parser.add_argument("--graph_type", default="GCNConv", type=str)
+parser.add_argument("--graph_type", default="GCN", type=str)
 parser.add_argument("--batch_size", default=64, type=int)
 parser.add_argument("--epochs", default=10, type=int)
 parser.add_argument("--heads",default=1,type=int)
@@ -286,9 +286,11 @@ validation_df = pd.read_parquet("../../data/mined_data/validation_gold.parquet")
 validation_dataset = ValidationGraphDataset(validation_df)
 validation_dataloader = DataLoader(validation_dataset, batch_size=args.batch_size, shuffle=False, collate_fn=custom_collate_fn_validation)
 
+#list(query_encoder.parameters()) +
+
 optimizer = torch.optim.AdamW(
     list(gcn.parameters()) +
-    list(query_encoder.parameters()) +
+    
     list(triple_encoder.parameters()), lr=args.learning_rate)
 
 triplet_loss = nn.TripletMarginLoss()
