@@ -340,7 +340,7 @@ for epoch in tqdm(range(args.epochs)):
 
     for _ in range(args.batch_size):
         # Sample a batch of positive triples
-        batch = random.sample(pos_triples, args.batch_size)
+        batch = random.sample(positive_triples, args.batch_size)
         head_ids = torch.tensor([h for h, _, _ in batch], dtype=torch.long).to(device)
         rel_ids = torch.tensor([r for _, r, _ in batch], dtype=torch.long).to(device)
         tail_ids = torch.tensor([t for _, _, t in batch], dtype=torch.long).to(device)
