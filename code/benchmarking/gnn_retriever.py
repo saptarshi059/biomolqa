@@ -306,9 +306,8 @@ triple_encoder.train()
 
 for epoch in tqdm(range(args.epochs)):
     loss_val = 0
+    optimizer.zero_grad()
     for batch in tqdm(train_dataloader):
-      optimizer.zero_grad()
-
       node_embeddings = gcn(graph)
       query_embeddings = batch[0]  # [B, D]
 
@@ -319,7 +318,7 @@ for epoch in tqdm(range(args.epochs)):
       loss_val += loss.item()
 
       loss.backward()
-    optimizer.step()
+      optimizer.step()
 
     epoch_loss = loss_val / len(train_dataloader)
     print(f"Epoch {epoch}, Loss: {epoch_loss:.4f}")
