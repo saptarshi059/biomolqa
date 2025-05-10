@@ -330,7 +330,7 @@ def get_corrupt_tail_ids(head_ids, rel_ids, tail_ids, num_entities, existing_tri
 
 optimizer = torch.optim.AdamW(list(gcn.parameters()) + list(predictor.parameters()))
 
-for epoch in range(epochs):
+for epoch in tqdm(range(args.epochs)):
     gcn.train()
     predictor.train()
     epoch_loss = 0.0
