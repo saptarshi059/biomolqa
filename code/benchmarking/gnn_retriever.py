@@ -60,7 +60,7 @@ embedding = nn.Embedding(num_nodes, embedding_dim)
 x = embedding.weight  # Shape: [num_nodes, embedding_dim]
 
 # --- Create the PyTorch Geometric Data object ---
-graph = Data(x=x, edge_index=edge_index, edge_attr=edge_attr)
+graph = Data(x=x, edge_index=edge_index, edge_attr=edge_attr, num_nodes=num_nodes)
 
 """# GNN Train"""
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
