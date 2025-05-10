@@ -292,13 +292,6 @@ validation_df = pd.read_parquet("../../data/mined_data/validation_gold.parquet")
 validation_dataset = ValidationGraphDataset(validation_df)
 validation_dataloader = DataLoader(validation_dataset, batch_size=args.batch_size, shuffle=False, collate_fn=custom_collate_fn_validation)
 
-optimizer = torch.optim.AdamW(
-    list(gcn.parameters()) +
-    list(query_encoder.parameters()) +
-    list(triple_encoder.parameters()), lr=args.learning_rate)
-
-triplet_loss = nn.TripletMarginLoss()
-
 all_head_ids = torch.tensor([entity2id[h] for h in df["entity_1"]], dtype=torch.long)
 all_rel_ids = torch.tensor([relation2id[r] for r in df["relationship"]], dtype=torch.long)
 all_tail_ids = torch.tensor([entity2id[t] for t in df["entity_2"]], dtype=torch.long)
@@ -349,7 +342,7 @@ for epoch in tqdm(range(args.epochs)):
         node_embeddings = gcn(graph)
 
         # Corrupt tail nodes to create negative samples
-        neg_tail_ids = get_corrupt_tail_ids(head_ids, rel_ids, tail_ids, len(entity2id), set(pos_triples))
+        neg_tail_ids = get_corrupt_tail_ids(head_ids, rel_ids, tail_ids, len(entity2id), set(positive_triples))
 
         # Score positive and negative triples
         pos_scores = predictor(head_ids, rel_ids, tail_ids, node_embeddings)
@@ -368,7 +361,11 @@ for epoch in tqdm(range(args.epochs)):
     print(f"Epoch {epoch}, Loss: {epoch_loss / num_batches:.4f}")
 
 
-
+optimizer = torch.optim.AdamW(
+    list(gcn.parameters()) +
+    list(query_encoder.parameters()) +
+    list(triple_encoder.parameters()), lr=args.learning_rate)
+triplet_loss = nn.TripletMarginLoss()
 print("Triple Retrieval Training")
 for epoch in tqdm(range(args.epochs)):
     gcn.train()
