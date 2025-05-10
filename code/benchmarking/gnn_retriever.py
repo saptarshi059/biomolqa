@@ -358,7 +358,7 @@ for epoch in tqdm(range(args.epochs)):
 
         epoch_loss += loss.item()
     
-    print(f"Epoch {epoch}, Loss: {epoch_loss / num_batches:.4f}")
+    print(f"Epoch {epoch}, Loss: {epoch_loss / args.batch_size:.4f}")
 
 
 optimizer = torch.optim.AdamW(
