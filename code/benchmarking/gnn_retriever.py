@@ -34,12 +34,15 @@ relation2id = defaultdict(lambda: len(relation2id))
 
 edges = []
 edge_types = []
+pos_triples = []
 
 # --- Process each row in the dataframe to build edge list ---
 for row in df.itertuples():
     h = entity2id[row.entity_1]
     t = entity2id[row.entity_2]
     r = relation2id[row.relationship]
+
+    positive_triples.append((h,r,t))
 
     edges.append((h, t))
     edge_types.append(r)
