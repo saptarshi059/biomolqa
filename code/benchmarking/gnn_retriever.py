@@ -13,6 +13,8 @@ import random
 from tqdm import tqdm
 import argparse
 from pathlib import Path
+import random
+import numpy
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--learning_rate", default=1e-4,type=float)
@@ -69,16 +71,16 @@ class GCN(nn.Module):
         if graph_type == "GCN":
             print("Building GCNConv model")
             self.conv1 = GCNConv(in_channels, out_channels)
-            #self.conv2 = GCNConv(hidden_channels, out_channels)
+            self.conv2 = GCNConv(hidden_channels, out_channels)
         elif graph_type == "SAGE":
             print("Building SAGEConv model")
             self.conv1 = SAGEConv(in_channels, out_channels)
-            #self.conv2 = SAGEConv(hidden_channels, out_channels)
+            self.conv2 = SAGEConv(hidden_channels, out_channels)
         else:
             print("Building GATConv model")
             heads = args.heads
             self.conv1 = GATConv(in_channels, out_channels, heads=heads)
-            #self.conv2 = GATConv(hidden_channels * heads, out_channels, heads=1)
+            self.conv2 = GATConv(hidden_channels * heads, out_channels, heads=1)
        
         self.linear = nn.Linear(out_channels, vector_emb_dim)
         self.relu = nn.ReLU()
@@ -88,7 +90,7 @@ class GCN(nn.Module):
         x, edge_index = graph.x.to(device), graph.edge_index.to(device)
         x = self.conv1(x, edge_index)
         x = self.relu(x)
-        #x = self.conv2(x, edge_index)
+        x = self.conv2(x, edge_index)
         x = self.linear(x)
         x = self.relu(x)
         return x  # Node embeddings: [num_nodes, D]
@@ -162,28 +164,31 @@ def create_triple_embeddings(triple_list, node_embeddings):
   return torch.stack(embs).reshape(len(triple_list), 1, query_encoder.bert.config.hidden_size)
 
 def hard_hits(preds, gold):
-  s = set()
+  hits = 1
   for x in gold:
-    s.add(tuple(x.tolist()))
-  return int(set(s).issubset(set(preds)))
+    if not tuple(x.tolist()) in preds:
+      return 0
+  return hits
 
 def soft_hits(preds, gold):
+  hits = 0
+  for x in gold:
+    if tuple(x.tolist()) in preds:
+      return 1
+  return hits
+
+def recall(preds, gold):
     gold = [tuple(x.tolist()) for x in gold]
-    for item in preds:
-      if item in gold:
-        return 1
-    return 0
+    matches = 0
+    for x in preds:
+      if x in gold:
+        matches+=1
+    return matches/len(preds)
 
-def recall(gold_list, retrieved_list):
-    s = set()
-    for x in gold_list:
-        s.add(tuple(x.tolist()))
-    return len(set(s).intersection(set(retrieved_list))) / len(s) if s else 0
-
-def mrr_calc(gold_list, retrieved_list):
-    gold_list = [tuple(x.tolist()) for x in gold_list]
-    for idx, item in enumerate(retrieved_list):
-        if item in gold_list:
+def mrr_calc(preds, gold):
+    gold = [tuple(x.tolist()) for x in gold]
+    for idx, item in enumerate(preds):
+        if item in gold:
             return 1/(idx+1)
     return 0
 
@@ -228,18 +233,19 @@ def test_samples():
             
             top5 = torch.topk(sims, k=5)
             top5_indices = top5.indices.tolist()
-            predictions = []
             for idx, index_list in enumerate(top5_indices):
+              predictions = [] 
               for index in index_list:
                 predictions.append((H[index], R[index], T[index]))
               hard_hits_5.append(hard_hits(predictions, batch[1][idx]))
               soft_hits_5.append(soft_hits(predictions, batch[1][idx]))
-              recall_5.append(recall(batch[1][idx], predictions))
-              mrr.append(mrr_calc(batch[1][idx], predictions))
+              recall_5.append(recall(predictions, batch[1][idx]))
+              mrr.append(mrr_calc(predictions, batch[1][idx]))
 
             top10 = torch.topk(sims, k=10)
             top10_indices = top10.indices.tolist()
             for idx, index_list in enumerate(top10_indices):
+              predictions = []
               for index in index_list:
                 predictions.append((H[index], R[index], T[index]))
               hard_hits_10.append(hard_hits(predictions, batch[1][idx]))
@@ -248,6 +254,7 @@ def test_samples():
             top15 = torch.topk(sims, k=15)
             top15_indices = top15.indices.tolist()
             for idx, index_list in enumerate(top15_indices):
+              predictions = []
               for index in index_list:
                 predictions.append((H[index], R[index], T[index]))
               hard_hits_15.append(hard_hits(predictions, batch[1][idx]))
@@ -286,11 +293,9 @@ validation_df = pd.read_parquet("../../data/mined_data/validation_gold.parquet")
 validation_dataset = ValidationGraphDataset(validation_df)
 validation_dataloader = DataLoader(validation_dataset, batch_size=args.batch_size, shuffle=False, collate_fn=custom_collate_fn_validation)
 
-#list(query_encoder.parameters()) +
-
 optimizer = torch.optim.AdamW(
     list(gcn.parameters()) +
-    
+    list(query_encoder.parameters()) +
     list(triple_encoder.parameters()), lr=args.learning_rate)
 
 triplet_loss = nn.TripletMarginLoss()
