@@ -23,7 +23,7 @@ parser.add_argument("--batch_size", default=64, type=int)
 parser.add_argument("--epochs", default=10, type=int)
 parser.add_argument("--heads",default=1,type=int)
 parser.add_argument("--run_number", default=1, type=int)
-parser.add_argument("--query_embedding_model", default='sentence-transformers/all-MiniLM-L6-v2', type=str)
+parser.add_argument("--query_embedding_model", default='sentence-transformers/all-MiniLM-L12-v2', type=str)
 args = parser.parse_args()
 
 df = pd.read_csv("../../data/mined_data/full_graph.csv")
@@ -71,13 +71,11 @@ class GCN(nn.Module):
         if graph_type == "GCN":
             print("Building GCNConv model")
             self.conv1 = GCNConv(in_channels, hidden_channels)
-            self.conv2 = GCNConv(hidden_channels, hidden_channels)
-            self.conv3 = GCNConv(hidden_channels, out_channels)
+            self.conv2 = GCNConv(hidden_channels, out_channels)
         elif graph_type == "SAGE":
             print("Building SAGEConv model")
             self.conv1 = SAGEConv(in_channels, hidden_channels)
-            self.conv2 = GCNConv(hidden_channels, hidden_channels)
-            self.conv3 = GCNConv(hidden_channels, out_channels)
+            self.conv2 = SAGEConv(hidden_channels, out_channels)
         else:
             print("Building GATConv model")
             heads = args.heads
@@ -93,8 +91,6 @@ class GCN(nn.Module):
         x = self.conv1(x, edge_index)
         x = self.relu(x)
         x = self.conv2(x, edge_index)
-        x = self.relu(x)
-        x = self.conv3(x, edge_index)
         x = self.linear(x)
         x = self.relu(x)
         return x  # Node embeddings: [num_nodes, D]
@@ -323,7 +319,7 @@ for epoch in tqdm(range(args.epochs)):
       loss_val += loss.item()
 
       loss.backward()
-      optimizer.step()
+    optimizer.step()
 
     epoch_loss = loss_val / len(train_dataloader)
     print(f"Epoch {epoch}, Loss: {epoch_loss:.4f}")
