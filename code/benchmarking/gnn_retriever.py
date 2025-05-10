@@ -349,7 +349,7 @@ for epoch in tqdm(range(args.epochs)):
         node_embeddings = gcn(graph)
 
         # Corrupt tail nodes to create negative samples
-        neg_tail_ids = get_corrupt_tail_ids(head_ids, rel_ids, tail_ids, num_entities, set(pos_triples))
+        neg_tail_ids = get_corrupt_tail_ids(head_ids, rel_ids, tail_ids, len(entity2id), set(pos_triples))
 
         # Score positive and negative triples
         pos_scores = predictor(head_ids, rel_ids, tail_ids, node_embeddings)
