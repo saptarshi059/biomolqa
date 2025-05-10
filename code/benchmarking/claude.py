@@ -56,7 +56,7 @@ def load_triples_and_create_graph(triples_file):
     # Create PyTorch Geometric Data object
     data = Data(x=x, edge_index=edge_index, edge_type=edge_type)
     
-    torch.save("saved_models/graph_data.pt")
+    torch.save(data, "saved_models/graph_data.pt")
     
     with Path("saved_models/entity2id.pkl").open("wb") as file:
         pickle.dump(entity_to_idx, file)
