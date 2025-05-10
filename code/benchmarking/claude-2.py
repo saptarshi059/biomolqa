@@ -175,7 +175,7 @@ def test_samples():
 
     for batch in tqdm(validation_dataloader):
         with torch.no_grad():
-            node_embeddings = gcn(graph)  # [num_nodes, D]
+            node_embeddings = gcn.encode(graph.x, graph.edge_index)  # [num_nodes, D]
             query_emb = batch[0].squeeze(1)  # [B, D]
 
             all_triple_embeds = triple_encoder(
