@@ -71,11 +71,13 @@ class GCN(nn.Module):
         if graph_type == "GCN":
             print("Building GCNConv model")
             self.conv1 = GCNConv(in_channels, hidden_channels)
-            self.conv2 = GCNConv(hidden_channels, out_channels)
+            self.conv2 = GCNConv(hidden_channels, hidden_channels)
+            self.conv3 = GCNConv(hidden_channels, out_channels)
         elif graph_type == "SAGE":
             print("Building SAGEConv model")
             self.conv1 = SAGEConv(in_channels, hidden_channels)
-            self.conv2 = SAGEConv(hidden_channels, out_channels)
+            self.conv2 = GCNConv(hidden_channels, hidden_channels)
+            self.conv3 = GCNConv(hidden_channels, out_channels)
         else:
             print("Building GATConv model")
             heads = args.heads
@@ -91,6 +93,8 @@ class GCN(nn.Module):
         x = self.conv1(x, edge_index)
         x = self.relu(x)
         x = self.conv2(x, edge_index)
+        x = self.relu(x)
+        x = self.conv3(x, edge_index)
         x = self.linear(x)
         x = self.relu(x)
         return x  # Node embeddings: [num_nodes, D]
