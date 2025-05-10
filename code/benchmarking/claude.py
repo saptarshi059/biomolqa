@@ -242,6 +242,6 @@ def main(triples_file='graph_triples.txt', epochs=200):
 
 # Example usage
 if __name__ == "__main__":
-    model, embeddings = main('../../data/mined_data/full_graph.csv', epochs=100)
-    torch.save("saved_models/graph_trained.pt", model)
-    torch.save("saved_models/node_embeddings.pt", embeddings)
+    model, embeddings = main('../../data/mined_data/full_graph.csv')
+    torch.save(model, "saved_models/graph_trained.pt")
+    torch.save(embeddings, "saved_models/node_embeddings.pt")
