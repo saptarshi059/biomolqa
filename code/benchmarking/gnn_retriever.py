@@ -197,10 +197,6 @@ def test_samples():
     query_encoder.eval()
     triple_encoder.eval()
 
-    all_head_ids = torch.tensor([entity2id[h] for h in df["entity_1"]], dtype=torch.long)
-    all_rel_ids = torch.tensor([relation2id[r] for r in df["relationship"]], dtype=torch.long)
-    all_tail_ids = torch.tensor([entity2id[t] for t in df["entity_2"]], dtype=torch.long)
-
     H = df["entity_1"].tolist()
     R = df["relationship"].tolist()
     T = df["entity_2"].tolist()
@@ -300,6 +296,77 @@ optimizer = torch.optim.AdamW(
 
 triplet_loss = nn.TripletMarginLoss()
 
+all_head_ids = torch.tensor([entity2id[h] for h in df["entity_1"]], dtype=torch.long)
+all_rel_ids = torch.tensor([relation2id[r] for r in df["relationship"]], dtype=torch.long)
+all_tail_ids = torch.tensor([entity2id[t] for t in df["entity_2"]], dtype=torch.long)
+
+class LinkPredictor(nn.Module):
+    def __init__(self, embed_dim, num_rels):
+        super().__init__()
+        self.rel_embed = nn.Embedding(num_rels, embed_dim)
+
+    def forward(self, head, rel, tail, node_embeddings):
+        h = node_embeddings[head]
+        r = self.rel_embed(rel)
+        t = node_embeddings[tail]
+        score = torch.sum(h * r * t, dim=1)  # DistMult-style scoring
+        return score
+
+predictor = LinkPredictor(embed_dim=embedding_dim).to(device)
+loss_fn = nn.BCEWithLogitsLoss()
+
+print("Link Prediction Training")
+from torch.nn import functional as F
+
+def get_corrupt_tail_ids(head_ids, rel_ids, tail_ids, num_entities, existing_triples, corruption_ratio=1.0):
+    corrupt_tail_ids = []
+    for h, r, t in zip(head_ids.tolist(), rel_ids.tolist(), tail_ids.tolist()):
+        while True:
+            corrupt_t = random.randint(0, num_entities - 1)
+            if (h, r, corrupt_t) not in existing_triples:
+                corrupt_tail_ids.append(corrupt_t)
+                break
+    return torch.tensor(corrupt_tail_ids, dtype=torch.long, device=head_ids.device)
+
+optimizer = torch.optim.AdamW(list(gcn.parameters()) + list(predictor.parameters()))
+
+for epoch in range(epochs):
+    gcn.train()
+    predictor.train()
+    epoch_loss = 0.0
+
+    for _ in range(num_batches):
+        # Sample a batch of positive triples
+        batch = random.sample(pos_triples, batch_size)
+        head_ids = torch.tensor([h for h, _, _ in batch], dtype=torch.long).to(device)
+        rel_ids = torch.tensor([r for _, r, _ in batch], dtype=torch.long).to(device)
+        tail_ids = torch.tensor([t for _, _, t in batch], dtype=torch.long).to(device)
+
+        # Get node embeddings from GCN
+        node_embeddings = gcn(graph)
+
+        # Corrupt tail nodes to create negative samples
+        neg_tail_ids = get_corrupt_tail_ids(head_ids, rel_ids, tail_ids, num_entities, set(pos_triples))
+
+        # Score positive and negative triples
+        pos_scores = predictor(head_ids, rel_ids, tail_ids, node_embeddings)
+        neg_scores = predictor(head_ids, rel_ids, neg_tail_ids, node_embeddings)
+
+        # Margin-based ranking loss
+        target = torch.ones_like(pos_scores)
+        loss = F.margin_ranking_loss(pos_scores, neg_scores, target, margin=1.0)
+
+        optimizer.zero_grad()
+        loss.backward()
+        optimizer.step()
+
+        epoch_loss += loss.item()
+    
+    print(f"Epoch {epoch}, Loss: {epoch_loss / num_batches:.4f}")
+
+
+
+print("Triple Retrieval Training")
 for epoch in tqdm(range(args.epochs)):
     gcn.train()
     query_encoder.train()
