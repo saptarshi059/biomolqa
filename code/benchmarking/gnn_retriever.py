@@ -85,15 +85,16 @@ class GCN(nn.Module):
         self.linear = nn.Linear(out_channels, vector_emb_dim)
         self.relu = nn.ReLU()
         self.tanh = nn.Tanh()
+        self.sigmoid = nn.Sigmoid()
         self.to(device)
 
     def forward(self, graph):
         x, edge_index = graph.x.to(device), graph.edge_index.to(device)
         x = self.conv1(x, edge_index)
-        x = self.tanh(x)
+        x = self.sigmoid(x)
         x = self.conv2(x, edge_index)
         x = self.linear(x)
-        x = self.tanh(x)
+        x = self.sigmoid(x)
         return x  # Node embeddings: [num_nodes, D]
 
 class TripleEmbedder(nn.Module):
