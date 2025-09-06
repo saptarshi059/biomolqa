@@ -1,0 +1,242 @@
+\relax 
+\providecommand\hyper@newdestlabel[2]{}
+\providecommand\HyField@AuxAddToFields[1]{}
+\providecommand\HyField@AuxAddToCoFields[2]{}
+\citation{zhao2023survey}
+\citation{srivastava2023beyond}
+\citation{zhang2024benchmarking}
+\citation{singhal2025toward}
+\citation{mendel2025laypeople,yun2025online}
+\citation{10.1145/3703155}
+\citation{cheng2024dated}
+\citation{yang-etal-2023-empower,gu2025effectiveness}
+\citation{lewis2020retrieval}
+\citation{fan2024survey,gao2023retrieval}
+\citation{FlashRAG}
+\citation{trivedi-etal-2023-interleaving}
+\citation{edge2024local}
+\citation{shalev2025imagerag}
+\citation{abootorabi2025ask}
+\citation{FlashRAG,abootorabi2025ask}
+\citation{alsaad2024multimodal}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{1}{section.1}\protected@file@percent }
+\newlabel{sec:introduction}{{1}{1}{Introduction}{section.1}{}}
+\citation{halli2019polypharmacy,masnoon2017polypharmacy}
+\citation{vicidomini2023protein,proteinatlasHumanProteome}
+\citation{li2023evaluating}
+\citation{guo2023can}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Example from \texttt  {BioMol-MQA}. Colors highlight elements from each information source (\textcolor {blue}{Blue = Graph}, \textcolor {magenta}{pink}|\textcolor {orange}{orange} = Text) that a model must connect to answer questions. In this example, a model needs to first identify the correct NSAID (Oxaprozin), determine its outgoing edges in the graph that have a gastric inflammation label, and figure out which drug on the other end is used to manage nociceptive pain. More examples are in App. \ref {sec:q_example}.}}{2}{figure.caption.2}\protected@file@percent }
+\providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}
+\newlabel{fig:question_example}{{1}{2}{Example from \texttt {BioMol-MQA}. Colors highlight elements from each information source (\textcolor {blue}{Blue = Graph}, \textcolor {magenta}{pink}|\textcolor {orange}{orange} = Text) that a model must connect to answer questions. In this example, a model needs to first identify the correct NSAID (Oxaprozin), determine its outgoing edges in the graph that have a gastric inflammation label, and figure out which drug on the other end is used to manage nociceptive pain. More examples are in App. \ref {sec:q_example}}{figure.caption.2}{}}
+\citation{FlashRAG,abootorabi2025ask}
+\citation{lozano2023clinfo}
+\citation{enwiki:1289629349}
+\citation{wang2023retrievalbased}
+\citation{wang2024biobridge}
+\citation{friel2024ragbench}
+\citation{liu2024chatqa}
+\citation{yang2024crag}
+\citation{wu2024stark}
+\citation{lu-etal-2024-moleculeqa}
+\citation{luo2024biomedgpt}
+\citation{weininger1988smiles,10.1145/3715318}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Related Work}{3}{section.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {3}Dataset Construction}{3}{section.3}\protected@file@percent }
+\newlabel{sec:dataset_construction}{{3}{3}{Dataset Construction}{section.3}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Our dataset development pipeline.}}{3}{figure.caption.3}\protected@file@percent }
+\newlabel{fig:complete_pipeline}{{2}{3}{Our dataset development pipeline}{figure.caption.3}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Base Data Acquisition (Stage I)}{3}{subsection.3.1}\protected@file@percent }
+\newlabel{sec:base_data_acquisition}{{3.1}{3}{Base Data Acquisition (Stage I)}{subsection.3.1}{}}
+\citation{zitnik2018modeling}
+\citation{nihHomeGene}
+\citation{kim2025pubchem}
+\citation{szklarczyk2023string}
+\citation{kuhn2007stitch}
+\citation{enwiki:1289629349}
+\citation{asbmbDrugsFail}
+\citation{2020Line}
+\citation{lin2019bigsmiles}
+\citation{kim2025pubchem}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.1.1}Graph Modality}{4}{subsubsection.3.1.1}\protected@file@percent }
+\newlabel{sec:Graph_Modality}{{3.1.1}{4}{Graph Modality}{subsubsection.3.1.1}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Graph Statistics}}{4}{table.caption.4}\protected@file@percent }
+\newlabel{tab:graph_stats}{{1}{4}{Graph Statistics}{table.caption.4}{}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.1.2}Background Information (Text Modality)}{4}{subsubsection.3.1.2}\protected@file@percent }
+\newlabel{sec:Background_Info}{{3.1.2}{4}{Background Information (Text Modality)}{subsubsection.3.1.2}{}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.1.3}SMILES (Molecular Structure Modality)}{4}{subsubsection.3.1.3}\protected@file@percent }
+\newlabel{sec:SMILES_mol_modality}{{3.1.3}{4}{SMILES (Molecular Structure Modality)}{subsubsection.3.1.3}{}}
+\citation{liu2024lost}
+\citation{hassanipour2024ability}
+\citation{hurst2024gpt}
+\citation{johnson-etal-2024-wikimedia}
+\citation{doi:10.1177/002194366900600202}
+\citation{guo2023can,hatakeyama2023prompt}
+\citation{guo2023can}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Text Post-Processing (Stage II)}{5}{subsection.3.2}\protected@file@percent }
+\newlabel{sec:complexification}{{3.2}{5}{Text Post-Processing (Stage II)}{subsection.3.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Simple phrases as \textit  {liver problems} are replaced by technical jargon as \textit  {hepatotoxicity}.}}{5}{figure.3}\protected@file@percent }
+\newlabel{fig:complexification}{{3}{5}{Simple phrases as \textit {liver problems} are replaced by technical jargon as \textit {hepatotoxicity}}{figure.3}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces Outcome of text before and after post-processing (PP). Each number represents the average over the documents.}}{5}{table.2}\protected@file@percent }
+\newlabel{tab:complexification}{{2}{5}{Outcome of text before and after post-processing (PP). Each number represents the average over the documents}{table.2}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Molecular Interaction Extraction (Stage III)}{5}{subsection.3.3}\protected@file@percent }
+\newlabel{sec:mol_int_ext}{{3.3}{5}{Molecular Interaction Extraction (Stage III)}{subsection.3.3}{}}
+\citation{abdullin-etal-2023-synthetic,wu-etal-2024-synthetic,hemati-beigy-2024-consistency,liu2024synthetic}
+\citation{openaiIntroducingGPT41}
+\citation{balepur-etal-2025-reverse}
+\citation{abbasiantaeb2021text,biancofiore2024interactive}
+\@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces Question distribution in the dataset.}}{6}{table.caption.6}\protected@file@percent }
+\newlabel{tab:ques_dist}{{3}{6}{Question distribution in the dataset}{table.caption.6}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4}Question Generation (Stage IV)}{6}{subsection.3.4}\protected@file@percent }
+\newlabel{sec:q_gen}{{3.4}{6}{Question Generation (Stage IV)}{subsection.3.4}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces The final knowledge-graph depicting each modality, edge direction and augmented edges (molecular interactions). Entities in \textcolor {blue}{blue} are drugs, and those in \textcolor {green}{green} are proteins. Dashed edges indicate molecular interactions, and solid edges are DDI/DPI, depending on the type of entities. L = \textit  {Labetalol}, M = \textit  {Metoprolol}, $\beta _1$ = \textit  {Beta-1 adrenergic receptor}, $H_3$ = \textit  {Histamine H3 receptor}, P = \textit  {Pirbuterol}, C = \textit  {Carvedilol}}}{6}{figure.caption.5}\protected@file@percent }
+\newlabel{fig:final_graph}{{4}{6}{The final knowledge-graph depicting each modality, edge direction and augmented edges (molecular interactions). Entities in \textcolor {blue}{blue} are drugs, and those in \textcolor {green}{green} are proteins. Dashed edges indicate molecular interactions, and solid edges are DDI/DPI, depending on the type of entities. L = \textit {Labetalol}, M = \textit {Metoprolol}, $\beta _1$ = \textit {Beta-1 adrenergic receptor}, $H_3$ = \textit {Histamine H3 receptor}, P = \textit {Pirbuterol}, C = \textit {Carvedilol}}{figure.caption.5}{}}
+\citation{gu2024survey,li2024generation,li2024llms}
+\citation{achiam2023gpt,hurst2024gpt}
+\citation{anthropicClaudeSystem}
+\citation{gu2024survey,li2024generation,li2024llms}
+\citation{NEURIPS2024_7f1f0218}
+\citation{koo-etal-2024-benchmarking}
+\citation{jullien-etal-2024-semeval}
+\citation{guan2024towards}
+\@writefile{lot}{\contentsline {table}{\numberline {4}{\ignorespaces Statistics for questions.}}{7}{table.caption.7}\protected@file@percent }
+\newlabel{tab:q_stats}{{4}{7}{Statistics for questions}{table.caption.7}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.5}Question Verification (Stage V)}{7}{subsection.3.5}\protected@file@percent }
+\newlabel{sec:q_ver}{{3.5}{7}{Question Verification (Stage V)}{subsection.3.5}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {5}{\ignorespaces Human vs. Automatic Question Eval.}}{7}{table.caption.8}\protected@file@percent }
+\newlabel{tab:eval}{{5}{7}{Human vs. Automatic Question Eval}{table.caption.8}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Experiments}{7}{section.4}\protected@file@percent }
+\newlabel{sec:exp}{{4}{7}{Experiments}{section.4}{}}
+\citation{openaiOpenAIO4mini}
+\citation{wang2025txgemma}
+\citation{guo2025deepseek}
+\citation{llamaLlamaModel}
+\citation{qwen3}
+\citation{jiang2023mistral7b}
+\citation{wang-etal-2024-large-language-models-fair,yugeswardeenoo-etal-2024-question}
+\citation{togetherTogetherAcceleration}
+\citation{bert-score}
+\citation{schutze2008introduction}
+\citation{jin2023medcpt}
+\citation{karpukhin-etal-2020-dense}
+\citation{mollm}
+\citation{openaiOpenAIPlatform}
+\citation{luo-etal-2023-study}
+\citation{luo-etal-2023-study}
+\citation{devlin-etal-2019-bert}
+\citation{mollm}
+\citation{karpukhin-etal-2020-dense}
+\citation{openaiOpenAIPlatform}
+\citation{neo4jNeo4jGraph}
+\citation{huggingfaceSentencetransformersallMiniLML6v2Hugging}
+\@writefile{lot}{\contentsline {table}{\numberline {6}{\ignorespaces Reasoning benchmark scores (without RAG). \textbf  {Bold} represents the best performing model in each category for the corresponding test. Each tuple is (lexical EM, lexical F1, BERTScore F1)}}{8}{table.caption.9}\protected@file@percent }
+\newlabel{tab:reasoning_bechmark}{{6}{8}{Reasoning benchmark scores (without RAG). \textbf {Bold} represents the best performing model in each category for the corresponding test. Each tuple is (lexical EM, lexical F1, BERTScore F1)}{table.caption.9}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}LLM Reasoning Capability and Quality of \texttt  {BioMol-MQA}}{8}{subsection.4.1}\protected@file@percent }
+\newlabel{sec:llm_reasoning}{{4.1}{8}{LLM Reasoning Capability and Quality of \texttt {BioMol-MQA}}{subsection.4.1}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Performance of Retriever and Multimodal RAG}{8}{subsection.4.2}\protected@file@percent }
+\newlabel{sec:retrieval_tests}{{4.2}{8}{Performance of Retriever and Multimodal RAG}{subsection.4.2}{}}
+\citation{chen-etal-2022-salient,sciavolino-etal-2021-simple}
+\citation{ji2021survey}
+\citation{lopez2024biochemistry}
+\citation{10.24963/ijcai.2024/917}
+\citation{mitra2024agentinstruct}
+\bibstyle{plainnat}
+\bibdata{references}
+\@writefile{lot}{\contentsline {table}{\numberline {7}{\ignorespaces Retriever performances. The first 5 rows are text-only retrievers. SMILES information is encoded as text and falls under text-only retrieval. *Neo4j was run on the subset of triples used for question generation due to poor performance on the entire graph. Hits are provided as hard/soft.}}{9}{table.caption.10}\protected@file@percent }
+\newlabel{tab:retriever_performance}{{7}{9}{Retriever performances. The first 5 rows are text-only retrievers. SMILES information is encoded as text and falls under text-only retrieval. *Neo4j was run on the subset of triples used for question generation due to poor performance on the entire graph. Hits are provided as hard/soft}{table.caption.10}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Impact of RAG on o4-mini and DeepSeek R1 (DS). For comparison, their zero-shot and upper bound (with the Gold background data) performances are provided.}}{9}{figure.caption.11}\protected@file@percent }
+\newlabel{fig:rag}{{5}{9}{Impact of RAG on o4-mini and DeepSeek R1 (DS). For comparison, their zero-shot and upper bound (with the Gold background data) performances are provided}{figure.caption.11}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {5}Conclusion and Future Work}{9}{section.5}\protected@file@percent }
+\bibcite{abbasiantaeb2021text}{{1}{2021}{{Abbasiantaeb and Momtazi}}{{}}}
+\bibcite{abdullin-etal-2023-synthetic}{{2}{2023}{{Abdullin et~al.}}{{Abdullin, Molla, Ofoghi, Yearwood, and Li}}}
+\bibcite{abootorabi2025ask}{{3}{2025}{{Abootorabi et~al.}}{{Abootorabi, Zobeiri, Dehghani, Mohammadkhani, Mohammadi, Ghahroodi, Baghshah, and Asgari}}}
+\bibcite{achiam2023gpt}{{4}{2023}{{Achiam et~al.}}{{Achiam, Adler, Agarwal, Ahmad, Akkaya, Aleman, Almeida, Altenschmidt, Altman, Anadkat, et~al.}}}
+\bibcite{togetherTogetherAcceleration}{{5}{2025}{{AI}}{{}}}
+\bibcite{alsaad2024multimodal}{{6}{2024}{{AlSaad et~al.}}{{AlSaad, Abd-Alrazaq, Boughorbel, Ahmed, Renault, Damseh, and Sheikh}}}
+\bibcite{anthropicClaudeSystem}{{7}{2025}{{Anthropic}}{{}}}
+\bibcite{proteinatlasHumanProteome}{{8}{2025}{{Atlas}}{{}}}
+\bibcite{balepur-etal-2025-reverse}{{9}{2025}{{Balepur et~al.}}{{Balepur, Gu, Ravichander, Feng, Boyd-Graber, and Rudinger}}}
+\bibcite{biancofiore2024interactive}{{10}{2024}{{Biancofiore et~al.}}{{Biancofiore, Deldjoo, Noia, Di~Sciascio, and Narducci}}}
+\bibcite{chen-etal-2022-salient}{{11}{2022}{{Chen et~al.}}{{Chen, Lakhotia, Oguz, Gupta, Lewis, Peshterliev, Mehdad, Gupta, and Yih}}}
+\bibcite{cheng2024dated}{{12}{2024}{{Cheng et~al.}}{{Cheng, Marone, Weller, Lawrie, Khashabi, and Durme}}}
+\bibcite{devlin-etal-2019-bert}{{13}{2019}{{Devlin et~al.}}{{Devlin, Chang, Lee, and Toutanova}}}
+\bibcite{edge2024local}{{14}{2024}{{Edge et~al.}}{{Edge, Trinh, Cheng, Bradley, Chao, Mody, Truitt, Metropolitansky, Ness, and Larson}}}
+\bibcite{fan2024survey}{{15}{2024}{{Fan et~al.}}{{Fan, Ding, Ning, Wang, Li, Yin, Chua, and Li}}}
+\bibcite{friel2024ragbench}{{16}{2024}{{Friel et~al.}}{{Friel, Belyi, and Sanyal}}}
+\bibcite{gao2023retrieval}{{17}{2023}{{Gao et~al.}}{{Gao, Xiong, Gao, Jia, Pan, Bi, Dai, Sun, Wang, and Wang}}}
+\bibcite{gu2024survey}{{18}{2024}{{Gu et~al.}}{{Gu, Jiang, Shi, Tan, Zhai, Xu, Li, Shen, Ma, Liu, et~al.}}}
+\bibcite{gu2025effectiveness}{{19}{2025}{{Gu et~al.}}{{Gu, Chen, Lin, Hu, Zhang, Wan, Wei, Xu, and Wang}}}
+\bibcite{guan2024towards}{{20}{2024}{{Guan et~al.}}{{Guan, He, Zheng, Chen, Zhang, and Yu}}}
+\bibcite{doi:10.1177/002194366900600202}{{21}{1969}{{Gunning}}{{}}}
+\bibcite{guo2025deepseek}{{22}{2025}{{Guo et~al.}}{{Guo, Yang, Zhang, Song, Zhang, Xu, Zhu, Ma, Wang, Bi, et~al.}}}
+\bibcite{guo2023can}{{23}{2023}{{Guo et~al.}}{{Guo, Nan, Liang, Guo, Chawla, Wiest, Zhang, et~al.}}}
+\bibcite{halli2019polypharmacy}{{24}{2019}{{Halli-Tierney et~al.}}{{Halli-Tierney, Scarbrough, and Carroll}}}
+\bibcite{hassanipour2024ability}{{25}{2024}{{Hassanipour et~al.}}{{Hassanipour, Nayak, Bozorgi, Keivanlou, Dave, Alotaibi, Joukar, Mellatdoust, Bakhshi, Kuriyakose, et~al.}}}
+\bibcite{hatakeyama2023prompt}{{26}{2023}{{Hatakeyama-Sato et~al.}}{{Hatakeyama-Sato, Yamane, Igarashi, Nabae, and Hayakawa}}}
+\bibcite{hemati-beigy-2024-consistency}{{27}{2024}{{Hematian~Hemati and Beigy}}{{}}}
+\bibcite{10.1145/3703155}{{28}{2025}{{Huang et~al.}}{{Huang, Yu, Ma, Zhong, Feng, Wang, Chen, Peng, Feng, Qin, and Liu}}}
+\bibcite{hurst2024gpt}{{29}{2024}{{Hurst et~al.}}{{Hurst, Lerer, Goucher, Perelman, Ramesh, Clark, Ostrow, Welihinda, Hayes, Radford, et~al.}}}
+\bibcite{ji2021survey}{{30}{2021}{{Ji et~al.}}{{Ji, Pan, Cambria, Marttinen, and Yu}}}
+\bibcite{jiang2023mistral7b}{{31}{2023}{{Jiang et~al.}}{{Jiang, Sablayrolles, Mensch, Bamford, Chaplot, de~las Casas, Bressand, Lengyel, Lample, Saulnier, Lavaud, Lachaux, Stock, Scao, Lavril, Wang, Lacroix, and Sayed}}}
+\bibcite{FlashRAG}{{32}{2024}{{Jin et~al.}}{{Jin, Zhu, Yang, Zhang, and Dou}}}
+\bibcite{jin2023medcpt}{{33}{2023}{{Jin et~al.}}{{Jin, Kim, Chen, Comeau, Yeganova, Wilbur, and Lu}}}
+\bibcite{johnson-etal-2024-wikimedia}{{34}{2024}{{Johnson et~al.}}{{Johnson, Kaffee, and Redi}}}
+\bibcite{jullien-etal-2024-semeval}{{35}{2024}{{Jullien et~al.}}{{Jullien, Valentino, and Freitas}}}
+\bibcite{karpukhin-etal-2020-dense}{{36}{2020}{{Karpukhin et~al.}}{{Karpukhin, Oguz, Min, Lewis, Wu, Edunov, Chen, and Yih}}}
+\bibcite{kim2025pubchem}{{37}{2025}{{Kim et~al.}}{{Kim, Chen, Cheng, Gindulyte, He, He, Li, Shoemaker, Thiessen, Yu, et~al.}}}
+\bibcite{koo-etal-2024-benchmarking}{{38}{2024}{{Koo et~al.}}{{Koo, Lee, Raheja, Park, Kim, and Kang}}}
+\bibcite{kuhn2007stitch}{{39}{2007}{{Kuhn et~al.}}{{Kuhn, von Mering, Campillos, Jensen, and Bork}}}
+\bibcite{lewis2020retrieval}{{40}{2020}{{Lewis et~al.}}{{Lewis, Perez, Piktus, Petroni, Karpukhin, Goyal, K{\"u}ttler, Lewis, Yih, Rockt{\"a}schel, et~al.}}}
+\bibcite{li2024generation}{{41}{2024{}}{{Li et~al.}}{{Li, Jiang, Huang, Beigi, Zhao, Tan, Bhattacharjee, Jiang, Chen, Wu, et~al.}}}
+\bibcite{li2024llms}{{42}{2024{}}{{Li et~al.}}{{Li, Dong, Chen, Su, Zhou, Ai, Ye, and Liu}}}
+\bibcite{li2023evaluating}{{43}{2023}{{Li et~al.}}{{Li, Shomer, Mao, Zeng, Ma, Shah, Tang, and Yin}}}
+\bibcite{lin2019bigsmiles}{{44}{2019}{{Lin et~al.}}{{Lin, Coley, Mochigase, Beech, Wang, Wang, Woods, Craig, Johnson, Kalow, et~al.}}}
+\bibcite{liu2024synthetic}{{45}{2024{}}{{Liu et~al.}}{{Liu, Wang, and Baraniuk}}}
+\bibcite{liu2024lost}{{46}{2024{}}{{Liu et~al.}}{{Liu, Lin, Hewitt, Paranjape, Bevilacqua, Petroni, and Liang}}}
+\bibcite{liu2024chatqa}{{47}{2024{}}{{Liu et~al.}}{{Liu, Ping, Roy, Xu, Lee, Shoeybi, and Catanzaro}}}
+\bibcite{lopez2024biochemistry}{{48}{2024}{{Lopez and Mohiuddin}}{{}}}
+\bibcite{lozano2023clinfo}{{49}{2023}{{Lozano et~al.}}{{Lozano, Fleming, Chiang, and Shah}}}
+\bibcite{lu-etal-2024-moleculeqa}{{50}{2024}{{Lu et~al.}}{{Lu, Cao, Liu, Bai, Chen, Yao, Zheng, and Li}}}
+\bibcite{luo-etal-2023-study}{{51}{2023}{{Luo et~al.}}{{Luo, Jain, Gupta, Einolghozati, Oguz, Chatterjee, Chen, Baral, and Heidari}}}
+\bibcite{luo2024biomedgpt}{{52}{2024}{{Luo et~al.}}{{Luo, Zhang, Fan, Yang, Hong, Wu, Qiao, and Nie}}}
+\bibcite{masnoon2017polypharmacy}{{53}{2017}{{Masnoon et~al.}}{{Masnoon, Shakib, Kalisch-Ellett, and Caughey}}}
+\bibcite{mendel2025laypeople}{{54}{2025}{{Mendel et~al.}}{{Mendel, Singh, Mann, Wiesenfeld, and Nov}}}
+\bibcite{llamaLlamaModel}{{55}{2024}{{Meta}}{{}}}
+\bibcite{mitra2024agentinstruct}{{56}{2024}{{Mitra et~al.}}{{Mitra, Del~Corro, Zheng, Mahajan, Rouhana, Codas, Lu, Chen, Vrousgos, Rosset, et~al.}}}
+\bibcite{neo4jNeo4jGraph}{{57}{2025}{{Neo4j}}{{}}}
+\bibcite{nihHomeGene}{{58}{2025}{{of~Medicine}}{{}}}
+\bibcite{openaiOpenAIPlatform}{{59}{2024}{{OpenAI}}{{}}}
+\bibcite{openaiIntroducingGPT41}{{60}{2025{}}{{OpenAI}}{{}}}
+\bibcite{openaiOpenAIO4mini}{{61}{2025{}}{{OpenAI}}{{}}}
+\bibcite{NEURIPS2024_7f1f0218}{{62}{2024}{{Panickssery et~al.}}{{Panickssery, Bowman, and Feng}}}
+\bibcite{2020Line}{{63}{2020}{{project}}{{}}}
+\bibcite{schutze2008introduction}{{64}{2008}{{Sch{\"u}tze et~al.}}{{Sch{\"u}tze, Manning, and Raghavan}}}
+\bibcite{sciavolino-etal-2021-simple}{{65}{2021}{{Sciavolino et~al.}}{{Sciavolino, Zhong, Lee, and Chen}}}
+\bibcite{huggingfaceSentencetransformersallMiniLML6v2Hugging}{{66}{2021}{{sentence transformers}}{{}}}
+\bibcite{shalev2025imagerag}{{67}{2025}{{Shalev-Arkushin et~al.}}{{Shalev-Arkushin, Gal, Bermano, and Fried}}}
+\bibcite{singhal2025toward}{{68}{2025}{{Singhal et~al.}}{{Singhal, Tu, Gottweis, Sayres, Wulczyn, Amin, Hou, Clark, Pfohl, Cole-Lewis, et~al.}}}
+\bibcite{srivastava2023beyond}{{69}{2023}{{Srivastava et~al.}}{{Srivastava, Rastogi, Rao, Shoeb, Abid, Fisch, Brown, Santoro, Gupta, Garriga-Alonso, et~al.}}}
+\bibcite{asbmbDrugsFail}{{70}{2022}{{Sun}}{{}}}
+\bibcite{szklarczyk2023string}{{71}{2023}{{Szklarczyk et~al.}}{{Szklarczyk, Kirsch, Koutrouli, Nastou, Mehryary, Hachilif, Gable, Fang, Doncheva, Pyysalo, et~al.}}}
+\bibcite{mollm}{{72}{2024}{{Tang et~al.}}{{Tang, Tran, Tan, and Gerstein}}}
+\bibcite{qwen3}{{73}{2025}{{Team}}{{}}}
+\bibcite{trivedi-etal-2023-interleaving}{{74}{2023}{{Trivedi et~al.}}{{Trivedi, Balasubramanian, Khot, and Sabharwal}}}
+\bibcite{vicidomini2023protein}{{75}{2023}{{Vicidomini and Roviello}}{{}}}
+\bibcite{wang2025txgemma}{{76}{2025}{{Wang et~al.}}{{Wang, Schmidgall, Jaeger, Zhang, Pilgrim, Matias, Barral, Fleet, and Azizi}}}
+\bibcite{wang-etal-2024-large-language-models-fair}{{77}{2024{}}{{Wang et~al.}}{{Wang, Li, Chen, Cai, Zhu, Lin, Cao, Kong, Liu, Liu, and Sui}}}
+\bibcite{10.24963/ijcai.2024/917}{{78}{2024{}}{{Wang et~al.}}{{Wang, Salmani, Omidi, Ren, Rezagholizadeh, and Eshaghi}}}
+\bibcite{wang2023retrievalbased}{{79}{2023}{{Wang et~al.}}{{Wang, Nie, Qiao, Xiao, Baraniuk, and Anandkumar}}}
+\bibcite{wang2024biobridge}{{80}{2024{}}{{Wang et~al.}}{{Wang, Wang, Srinivasan, Ioannidis, Rangwala, and ANUBHAI}}}
+\bibcite{weininger1988smiles}{{81}{1988}{{Weininger}}{{}}}
+\bibcite{enwiki:1289629349}{{82}{2025}{{Wikipedia contributors}}{{}}}
+\bibcite{wu-etal-2024-synthetic}{{83}{2024{}}{{Wu et~al.}}{{Wu, Jayanthi, Viswanathan, Rosenberg, Pakazad, Wu, and Neubig}}}
+\bibcite{wu2024stark}{{84}{2024{}}{{Wu et~al.}}{{Wu, Zhao, Yasunaga, Huang, Cao, Huang, Ioannidis, Subbian, Zou, and Leskovec}}}
+\bibcite{yang-etal-2023-empower}{{85}{2023}{{Yang et~al.}}{{Yang, Zhao, Wang, Wang, Qiao, Zhang, Garg, Lin, Rajmohan, and Zhang}}}
+\bibcite{yang2024crag}{{86}{2024}{{Yang et~al.}}{{Yang, Sun, Xin, Sun, Bhalla, Chen, Choudhary, Gui, Jiang, Jiang, et~al.}}}
+\bibcite{yugeswardeenoo-etal-2024-question}{{87}{2024}{{Yugeswardeenoo et~al.}}{{Yugeswardeenoo, Zhu, and O{'}Brien}}}
+\bibcite{yun2025online}{{88}{2025}{{Yun and Bickmore}}{{}}}
+\bibcite{10.1145/3715318}{{89}{2025}{{Zhang et~al.}}{{Zhang, Ding, Lv, Wang, Yin, Zhang, Yu, Wang, Li, Xiang, Zhuang, Wang, Qin, Zhang, Zhang, Cui, Xu, Chen, Fan, Xing, and Chen}}}
+\bibcite{bert-score}{{90}{2020}{{Zhang* et~al.}}{{Zhang*, Kishore*, Wu*, Weinberger, and Artzi}}}
+\bibcite{zhang2024benchmarking}{{91}{2024}{{Zhang et~al.}}{{Zhang, Ladhak, Durmus, Liang, McKeown, and Hashimoto}}}
+\bibcite{zhao2023survey}{{92}{2023}{{Zhao et~al.}}{{Zhao, Zhou, Li, Tang, Wang, Hou, Min, Zhang, Zhang, Dong, et~al.}}}
+\bibcite{zitnik2018modeling}{{93}{2018}{{Zitnik et~al.}}{{Zitnik, Agrawal, and Leskovec}}}
+\gdef \@abspage@last{24}
