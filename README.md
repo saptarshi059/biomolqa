@@ -42,7 +42,6 @@ Question_Background: |
     DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Famotidine-
                                                              right heart failure-
                                                              Metolazone
-    
 Question: Which medication, either a histamine H2 receptor antagonist that decreases 
   stomach acid production or a thiazide-like diuretic primarily used for congestive 
   heart failure and hypertension, is specifically associated with the management of 
