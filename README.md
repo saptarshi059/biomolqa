@@ -16,18 +16,16 @@ The following instance is a sample from the _training_ split of our dataset.
 Entities: Famotidine-Metolazone
 Question_Background: |
     DRUG 1 NAME: Famotidine
-    DRUG 1 BACKGROUND INFORMATION: Famotidine, sold under the brand name Pepcid 
-  among others, is a histamine H2 receptor antagonist medication that decreases 
-  stomach acid production. It is used to treat peptic ulcer disease, 
-  gastroesophageal reflux disease, and Zollinger–Ellison syndrome. It is taken 
-  by mouth or by injection into a vein. It begins working within an hour. 
-  Common side effects include headache, abdominal pain, diarrhea or 
-  constipation, and dizziness. Serious side effects may include pneumonia and 
-  seizures. Use in pregnancy appears safe but has not been well studied, 
-  while use during breastfeeding is not recommended. Famotidine was patented 
-  in 1979 and came into medical use in 1985. It is available as a generic 
-  medication. In 2022, it was the 49th most commonly prescribed medication in 
-  the United States, with more than 13 million prescriptions.
+    DRUG 1 BACKGROUND INFORMATION: Famotidine, sold under the brand name Pepcid among others, 
+  is a histamine H2 receptor antagonist medication that decreases stomach acid production. 
+  It is used to treat peptic ulcer disease, gastroesophageal reflux disease, and 
+  Zollinger–Ellison syndrome. It is taken by mouth or by injection into a vein. It begins 
+  working within an hour. Common side effects include headache, abdominal pain, diarrhea or 
+  constipation, and dizziness. Serious side effects may include pneumonia and seizures. Use 
+  in pregnancy appears safe but has not been well studied, while use during breastfeeding is 
+  not recommended. Famotidine was patented in 1979 and came into medical use in 1985. It is 
+  available as a generic medication. In 2022, it was the 49th most commonly prescribed 
+  medication in the United States, with more than 13 million prescriptions.
     
     DRUG 2 NAME: Metolazone
     DRUG 2 BACKGROUND INFORMATION: Metolazone is a thiazide-like diuretic 
@@ -41,7 +39,9 @@ Question_Background: |
   lead to dehydration and electrolyte abnormalities. It was patented in 1966 
   and approved for medical use in 1974.
     
-    DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Famotidine-right heart failure-Metolazone
+    DRUG-DRUG INTERACTION TRIPLE (subject-predicate-object): Famotidine-
+                                                             right heart failure-
+                                                             Metolazone
     
 Question: Which medication, either a histamine H2 receptor antagonist that decreases 
   stomach acid production or a thiazide-like diuretic primarily used for congestive 
